@@ -183,16 +183,5 @@ if(isset($_POST['submit'])) {
 	</div>
 
 	<?php include('includes/foot.php'); ?>
-	<script type="text/javascript">
-	$(window).load(function(){
-		$('#main-slider').flexslider({
-			animation: "slide",
-			controlsContainer: '.flex-container',
-			start: function(slider){
-				$('body').removeClass('loading');
-			}
-		});
-	});
-	</script>
 </body>
 </html>
