@@ -121,6 +121,7 @@
 				<a class="twitter" href="https://twitter.com/creativecohort">Twitter</a><br>
 				<a class="instagram" href="https://instagram.com/kylejohnston/">Instagram</a><br>
 				<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a><br>
+				<a class="github" href="https://github.com/kylejohnston">GitHub</a><br>
 				<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a><br>
 				<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a><br>
 				<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a><br>
