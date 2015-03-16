@@ -195,15 +195,6 @@ header h1 {
 	height: 0;
 	overflow: hidden;
 }
-.video-container iframe,
-.video-container object,
-.video-container embed {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
 .sample {
 	margin-bottom: 2em;
 	padding-bottom: 2em;
@@ -306,17 +297,20 @@ header h1 {
 	margin: 0 auto;
 	padding-top: 2em; /* Vertically center images part 1: add padding above and below text. */
 	padding-bottom: 2em; /* Vertically center images part 1: add padding above and below text. */
-	background-color: rgba(255,255,255,.8);
+	background-color: rgba(255,255,255,0.95);
 	text-align: center;
 	border-bottom: 1px solid #efefef;
 }
 .featurette h2,
-.featurette h3,
-.featurette p {
-	margin: 1em auto;
-	/*width: 60%;*/
+.featurette h3 {
+	margin: .3em auto;
 	text-align:left;
 }
+.featurette p {
+	margin: 0 auto 1em auto;
+	text-align:left;
+}
+
 .featurette h3 { margin: 1em auto; }
 .featurette-alt {
 	border-width: 1px 0;
@@ -466,10 +460,6 @@ p.flex-caption {
 		margin-top: 0;
 		margin-bottom: 0;
 	}
-	.featurette {
-		padding-top: 0;
-		padding-bottom: 1em;
-	}
 	.carousel { margin-bottom: 0; }
 	.carousel .item { margin-bottom: 1em; }
 	.carousel img {
@@ -486,7 +476,7 @@ p.flex-caption {
 	.featurette h2,
 	.featurette h3,
 	.featurette p {
-		margin: 1em auto;
+		margin: 0 auto;
 		width: 80%;
 		text-align:left;
 	}
@@ -510,6 +500,9 @@ p.flex-caption {
   .flex-direction-nav .flex-next { right: 0;opacity: 1;}
 	.overflow { overflow: visible; height: auto; }
 	.overflow img { margin: -55px auto 0 auto; }
+	.video-container {
+		margin-bottom: 1em;
+	}
 }
 @media (max-width: 767px) {
 	.introduction {
@@ -526,6 +519,10 @@ p.flex-caption {
 		margin: -20px -20px 1em;
 		padding: 2em 20px 1em;
 		width: auto;
+	}
+	.featurette {
+		padding-top: 1em;
+		padding-bottom: 1em;
 	}
 	.marketing,
 	.carousel {
@@ -553,9 +550,12 @@ p.flex-caption {
 	.carousel-caption { margin-top: 10px; }
 	.carousel-caption h1 { margin: 1em 0 0 0; font-size: 1.25rem;}
 	.featurette h2,
-	.featurette h3,
+	.featurette h3 {
+		margin: .5em 0;
+		width: 100%;
+	}
 	.featurette p {
-		margin: 1em 0;
+		margin: 0 0 1em 0;
 		width: 100%;
 	}
 	.marketing .span4 + .span4 { margin-top: 40px; }
