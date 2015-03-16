@@ -45,7 +45,8 @@
 						</div>
 					</div>
 					<div class="span6">
-						<div id="main-slider" class="flexslider">
+						<div class="inner">
+							<div id="main-slider" class="flexslider">
 							<ul class="slides">
 								<li style="text-align:center;">
 									<p class="flex-caption">Homepage &amp; Site Navigation</p>
@@ -56,7 +57,7 @@
 									<img src="img/samples/garmin-mobile/product-page-and-cart.jpg" alt="Garmin.com Mobile Product Page and Shopping Cart">
 							</ul>
 						</div>
-						
+						</div>
 					</div>
 				</div>
 			</div>

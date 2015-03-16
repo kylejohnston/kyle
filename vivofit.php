@@ -43,7 +43,9 @@
 						</div>
 					</div>
 					<div class="span6">
-						<img src="img/samples/vivofit/product-wordmark.png" width="400" alt="Garmin vivofit product wordmark">
+						<div class="inner">
+							<img src="img/samples/vivofit/product-wordmark.png" width="400" alt="Garmin vivofit product wordmark">
+						</div>
 					</div>
 				</div>
 			</div>
@@ -72,7 +74,9 @@
 						</div>
 					</div>
 					<div class="span8">
-						<img class="" src="img/samples/vivofit/merchandising-elements.jpg" alt="Garmin vivofit merchandising elements">
+						<div class="inner">
+							<img class="" src="img/samples/vivofit/merchandising-elements.jpg" alt="Garmin vivofit merchandising elements">
+						</div>
 					</div>
 				</div>
 			</div>
@@ -81,7 +85,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="span8">
-						<img class="" src="img/samples/vivofit/landing-page.jpg" alt="Garmin vivofit landing page">
+						<div class="inner">
+							<img class="" src="img/samples/vivofit/landing-page.jpg" alt="Garmin vivofit landing page">
+						</div>
 					</div>
 					<div class="span3 offset1">
 						<div class="inner">
@@ -101,8 +107,10 @@
 						</div>
 					</div>
 					<div class="span6">
-						<div class="video-container">
-							<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XHGq3ZJPnFc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						<div class="inner">
+							<div class="video-container">
+								<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XHGq3ZJPnFc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -112,7 +120,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="span8">
-						<img class="" src="img/samples/vivofit/print-ads.jpg" alt="Garmin vivofit print ads">
+						<div class="inner">
+							<img class="" src="img/samples/vivofit/print-ads.jpg" alt="Garmin vivofit print ads">
+						</div>
 					</div>
 					<div class="span3 offset1">
 						<div class="inner">
@@ -133,7 +143,9 @@
 						</div>
 					</div>
 					<div class="span8">
-						<img class="" src="img/samples/vivofit/web-banners.jpg" alt="Garmin vivofit web and social banner ads">
+						<div class="inner">
+							<img class="" src="img/samples/vivofit/web-banners.jpg" alt="Garmin vivofit web and social banner ads">
+						</div>
 					</div>
 				</div>
 			</div>
