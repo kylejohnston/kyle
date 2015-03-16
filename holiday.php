@@ -54,7 +54,7 @@
 				<div class="row">
 					<div class="span12">
 						<div class="inner">
-							<h2>Broadcast advertising - 2011</h2>
+							<h2>Broadcast Advertising - 2011</h2>
 						</div>
 					</div>
 				</div>
@@ -90,7 +90,7 @@
 					</div>
 					<div class="span6">
 						<div class="inner">
-							<h2>Broadcast advertising</h2>
+							<h2>Broadcast Advertising</h2>
 							<p>2012 – &ldquo;The Joy of Giving&rdquo;</p>
 						</div>
 					</div>
@@ -116,7 +116,7 @@
 					</div>
 					<div class="span6 offset1">
 						<div class="inner">
-							<h2>Merchandising catalog pages</h2>
+							<h2>Merchandising Catalog Pages</h2>
 							<p>2011, 2012, 2014</p>
 						</div>
 					</div>

@@ -85,7 +85,8 @@
 					</div>
 					<div class="span3 offset1">
 						<div class="inner">
-							<h2>Garmin.com - Landing Page</h2>
+							<h2>Garmin.com</h2>
+							<p>Landing Page</p>
 						</div>
 					</div>
 				</div>
@@ -107,7 +108,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="featurette featurette-alt">
+		<div class="featurette">
 			<div class="container">
 				<div class="row">
 					<div class="span8">
@@ -115,8 +116,8 @@
 					</div>
 					<div class="span3 offset1">
 						<div class="inner">
-							<h2>Product launch advertising</h2>
-							<p>Print Ads</p>
+							<h2>Print Ads</h2>
+							<p>Product launch advertising</p>
 						</div>
 					</div>
 				</div>
@@ -127,8 +128,8 @@
 				<div class="row">
 					<div class="span3 offset1">
 						<div class="inner">
-							<h2>Product launch advertising</h2>
-							<p>Digital / social banners</p>
+							<h2>Digital / Social Banners</h2>
+							<p>Product launch advertising</p>
 						</div>
 					</div>
 					<div class="span8">
@@ -142,7 +143,7 @@
 				<div class="row">
 					<div class="span12">
 						<div class="inner">
-							<h2>Q3/Q4 broadcast advertising</h2>
+							<h2>Q3/Q4 Broadcast Advertising</h2>
 						</div>
 					</div>
 				</div>

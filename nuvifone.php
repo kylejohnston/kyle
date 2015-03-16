@@ -38,9 +38,8 @@
 				<div class="row">
 					<div class="span5">
 						<div class="inner">
-							<h2>Brand development<br>&amp; product wordmark</h2>
-							<p>Co-branded logo developed for the partership</p>
-							<p>Product wordmark</p>
+							<h2>Brand Development</h2>
+							<p>Co-branded logo developed for the Garmin-Asus partnership and the n&uuml;vifone product wordmark</p>
 						</div>
 					</div>
 					<div class="span7">
@@ -56,7 +55,7 @@
 				<div class="row">
 					<div class="span12">
 						<div class="inner">
-							<h2>Launch campaign - Broadcast Advertising</h2>
+							<h2>Launch Campaign - Broadcast Advertising</h2>
 						</div>
 					</div>
 				</div>
@@ -89,7 +88,7 @@
 					<div class="span3">
 						<div class="inner">
 							<h2>Launch Campaign</h2>
-							<p>Print Ads</p>
+							<p>Print ads</p>
 						</div>
 					</div>
 				</div>
