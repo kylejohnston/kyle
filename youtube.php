@@ -12,7 +12,8 @@
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
-		 header h1 span a:visited 
+		 header h1 span a:visited,
+		 .featurette h2 
 		 									{ color: #c62028; }
 		.intro { background-color: #c62028; }
 	</style>

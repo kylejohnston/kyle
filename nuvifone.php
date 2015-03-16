@@ -12,7 +12,8 @@
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
-		 header h1 span a:visited 
+		 header h1 span a:visited,
+		 .featurette h2 
 		 									{ color: #e17237; }
 		.intro { background-color: #e17237; }
 	</style>
@@ -83,7 +84,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="span9">
-						<img src="img/samples/nuvifone/print-ads.jpg" alt="Garmin nuvifone print ads">
+						<div class="inner">
+							<img src="img/samples/nuvifone/print-ads.jpg" alt="Garmin nuvifone print ads">
+						</div>
 					</div>
 					<div class="span3">
 						<div class="inner">
@@ -103,7 +106,9 @@
 						</div>
 					</div>
 					<div class="span7">
-						<img src="img/samples/nuvifone/brochure.jpg" alt="Garmin nuvifone product brochure">
+						<div class="inner">
+							<img src="img/samples/nuvifone/brochure.jpg" alt="Garmin nuvifone product brochure">
+						</div>
 					</div>
 				</div>
 			</div>
