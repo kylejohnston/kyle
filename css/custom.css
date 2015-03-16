@@ -548,7 +548,7 @@ p.flex-caption {
 		width: 100%;
 	}
 	.carousel-caption { margin-top: 10px; }
-	.carousel-caption h1 { margin: 1em 0 0 0; font-size: 1.25rem;}
+	.carousel-caption h1 { margin: 1em 0 0 0; font-size: 1.25rem; }
 	.featurette h2,
 	.featurette h3 {
 		margin: 0 0 .2em 0;
