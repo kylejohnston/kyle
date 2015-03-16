@@ -303,7 +303,6 @@ header h1 {
 
 /* Featurettes */
 .featurette {
-	/* overflow: hidden; */
 	margin: 0 auto;
 	padding-top: 2em; /* Vertically center images part 1: add padding above and below text. */
 	padding-bottom: 2em; /* Vertically center images part 1: add padding above and below text. */
@@ -462,6 +461,10 @@ p.flex-caption {
 	.item {
 		margin-bottom: 1.5em;
 		padding-bottom: .1em;
+	}
+	.items {
+		margin-top: 0;
+		margin-bottom: 0;
 	}
 	.carousel { margin-bottom: 0; }
 	.carousel .item { margin-bottom: 1em; }
