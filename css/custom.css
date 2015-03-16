@@ -174,11 +174,9 @@ header h1 {
 .item {
 	border-radius: 5px;
 	background: #ffffff;
-	border: 1px solid #EFEFEF;
 }
 .item img {
 	min-width: 100%;
-	border-bottom: 1px solid #EFEFEF;
 }
 .video-container iframe,
 .video-container object,
