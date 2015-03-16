@@ -551,12 +551,16 @@ p.flex-caption {
 	.carousel-caption h1 { margin: 1em 0 0 0; font-size: 1.25rem;}
 	.featurette h2,
 	.featurette h3 {
-		margin: .5em 0;
+		margin: 0 0 .2em 0;
 		width: 100%;
 	}
 	.featurette p {
 		margin: 0 0 1em 0;
 		width: 100%;
+	}
+	.featurette .inner img,
+	.featurette .inner .video-container {
+		margin: 1em 0;
 	}
 	.marketing .span4 + .span4 { margin-top: 40px; }
 	footer .inner { width: 280px; }
