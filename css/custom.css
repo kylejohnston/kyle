@@ -466,6 +466,10 @@ p.flex-caption {
 		margin-top: 0;
 		margin-bottom: 0;
 	}
+	.featurette {
+		padding-top: 0;
+		padding-bottom: 1em;
+	}
 	.carousel { margin-bottom: 0; }
 	.carousel .item { margin-bottom: 1em; }
 	.carousel img {
