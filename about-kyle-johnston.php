@@ -14,8 +14,8 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited 
-		 									{ color: #f69432; }
-		.intro { background-color: #f69432; }
+		 									{ color: #e14526; }
+		.intro { background-color: #e14526; }
 	</style>
 </head>
 
