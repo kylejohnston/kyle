@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Portfolio: Garmin.com Mobile Site | Kyle W. Johnston</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Kyle Johnston Work Sample: Logo design, business card design and website design for Creative Outfitters">
+	<meta name="description" content="Kyle Johnston Work Sample: Design & development of Garmin.com Shopping UX for smartphones">
 	<meta name="keywords" content="portfolio, kyle johnston, logo design, business card design, website design">
 	<meta name="author" content="Kyle Johnston">
 	<?php include('includes/head.php'); ?>
