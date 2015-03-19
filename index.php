@@ -64,11 +64,11 @@
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="nuvifone"><img src="img/samples/nuvifone/thumbnail_alt.2x.jpg" width="300" height="150" alt="Garmin n&uuml;vifone Campaign"></a>
+				<a href="idea-bucket"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="300" height="150" alt="Idea Bucket Website"></a>
 				<div class="inner">
-					<h2><a href="nuvifone">n&uuml;vifone</a></h2>
-					<p>Brand development &amp; launch materials</p>
-					<p>&#43; <a href="nuvifone">Call up the work samples&hellip;</a></p>
+					<h2><a href="idea-bucket">Idea Bucket Website</a></h2>
+					<p>Design &amp; development of an internal idea-sharing website</p>
+					<p>&#43; <a href="idea-bucket">Explore the work samples&hellip;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
@@ -83,6 +83,14 @@
 	</div><!-- Row 1 -->
 	<div class="container items">
 		<div class="row">
+			<div class="span4 item">
+				<a href="nuvifone"><img src="img/samples/nuvifone/thumbnail_alt.2x.jpg" width="300" height="150" alt="Garmin n&uuml;vifone Campaign"></a>
+				<div class="inner">
+					<h2><a href="nuvifone">n&uuml;vifone</a></h2>
+					<p>Brand development &amp; launch materials</p>
+					<p>&#43; <a href="nuvifone">Call up the work samples&hellip;</a></p>
+				</div>
+			</div>
 			<div class="span4 item">
 				<a href="flow14"><img src="img/samples/flow14/thumbnail.2x.png" width="300" height="150" alt="flow14 - Freelance Projects"></a>
 				<div class="inner">
