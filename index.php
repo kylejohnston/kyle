@@ -68,7 +68,7 @@
 				<div class="inner">
 					<h2><a href="idea-bucket">Idea Bucket Website</a></h2>
 					<p>Design &amp; development of an internal idea-sharing website</p>
-					<p>&#43; <a href="idea-bucket">Explore the work samples&hellip;</a></p>
+					<p>&#43; <a href="idea-bucket">Explore the work&hellip;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
