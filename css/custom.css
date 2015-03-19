@@ -11,12 +11,7 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	line-height: 1.5;
 }
-/*.intro {
-	background: transparent url('//www.kylewjohnston.com/img/geo-pattern-blur-10p.png') left top repeat;
-}
-.dark {
-	background: transparent url('//www.kylewjohnston.com/img/geo-pattern-blur-10p.png') left top repeat;
-}*/
+
 .yolo { background-color: yellow; }
 
 h1 {
@@ -95,11 +90,6 @@ label {
     src: url("//www.kylewjohnston.com/fonts/CooperHewitt-Medium.eot?#iefix") format("embedded-opentype"), url("//www.kylewjohnston.com/fonts/CooperHewitt-Medium.woff") format("woff"), url("//www.kylewjohnston.com/fonts/CooperHewitt-Medium.svg#webfont") format("svg")
 }
 
-/*@font-face {
-    font-family: 'CooperHewittDisplay';
-    src: url("//www.kylewjohnston.com/fonts/CooperHewitt-Display.eot");
-    src: url("//www.kylewjohnston.com/fonts/CooperHewitt-Display.eot?#iefix") format("embedded-opentype"), url("//www.kylewjohnston.com/fonts/CooperHewitt-Display.woff") format("woff"), url("//www.kylewjohnston.com/fonts/CooperHewitt-Display.svg#webfont") format("svg")
-}*/
 .bold-border, #border-top, #border-right, #border-bottom, #border-left {
 	background-color: rgba(14,0,14,.6);
 	position: fixed; z-index: 998;
@@ -122,6 +112,8 @@ label {
 #border-bottom {
 	bottom: 0; left: 0;
 }
+
+.img-border { border: 1px solid rgba(0,0,0,.07); border-radius: 3px; }
 
 /* HEADER STYLES
 ------------------------------------------ */
