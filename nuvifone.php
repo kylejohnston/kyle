@@ -45,7 +45,7 @@
 					</div>
 					<div class="span7">
 						<div class="inner">
-							<img  src="img/samples/nuvifone/logo-and-wordmark.png" alt="Garmin-Asus logo and nuvifone wordmark">
+							<img src="img/samples/nuvifone/logo-and-wordmark.png" alt="Garmin-Asus logo and nuvifone wordmark">
 						</div>
 					</div>
 				</div>
