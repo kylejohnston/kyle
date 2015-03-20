@@ -95,6 +95,7 @@
 				<a href="flow14"><img src="img/samples/flow14/thumbnail.2x.png" width="300" height="150" alt="flow14 - Freelance Projects"></a>
 				<div class="inner">
 					<h2><a href="flow14">flow14 - Freelance Projects</a></h2>
+					<p>Logo design, website design, and more</p>
 					<p>&#43; <a href="flow14">Lots to see here&hellip;</a></p>
 				</div>
 			</div>
@@ -102,6 +103,7 @@
 				<a href="iphone-365-project"><img src="img/samples/iphone-365/thumb.2x.jpg" alt="iPhone 365 Project"></a>
 				<div class="inner">
 					<h2><a href="iphone-365-project">Personal Work: 365 Project</a></h2>
+					<p>A photo a day. Every day. Since 2009.
 					<p>&#43; <a href="iphone-365-project">Watch the Videos&hellip;</a></p>
 				</div>
 			</div>

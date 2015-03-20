@@ -64,6 +64,14 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span3 item">
+				<a href="http://www.flow14.com/websites"><img src="img/samples/flow14/websites-thumbnail.2x.jpg" width="300" height="150" alt="Responsive Website Designs" target="_blank"></a>
+				<div class="inner">
+					<h2><a href="http://www.flow14.com/websites" target="_blank">Responsive Websites</a></h2>
+					<p>+ <a href="http://www.flow14.com/websites" target="_blank">View additional samples…</a><br>
+					Client type: Various</p>
+				</div>
+			</div>
+			<div class="span3 item">
 				<a href="http://www.flow14.com/kansas-dems"><img src="img/samples/flow14/kansas-dems-thumb.2x.png" alt="Kansas Dems" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/kansas-dems" target="_blank">Kansas Dems</a></h2>
@@ -87,6 +95,10 @@
 					Client type: Non-profit</p>
 				</div>
 			</div>
+		</div>
+	</div><!-- Row 2 -->
+	<div class="container items">
+		<div class="row">
 			<div class="span3 item">
 				<a href="http://www.flow14.com/jocart"><img src="img/samples/flow14/jocart-thumb.2x.png" width="300" height="150" alt="JoCART - Johnson County Animal Response Team" target="_blank"></a>
 				<div class="inner">
@@ -95,11 +107,7 @@
 					Client type: Non-profit</p>
 				</div>
 			</div>
-		</div>
-	</div><!-- Row 2 -->
-	<div class="container items">
-		<div class="row">
-			<div class="span4 item">
+			<div class="span3 item">
 				<a href="http://www.flow14.com/96kx"><img src="img/samples/flow14/96kx-thumb.png" width="300" height="150" alt="96KX" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/96kx" target="_blank">96KX</a></h2>
@@ -107,7 +115,7 @@
 					Client type: Small business</p>
 				</div>
 			</div>
-			<div class="span4 item">
+			<div class="span3 item">
 				<a href="http://www.flow14.com/ibgreek"><img src="img/samples/flow14/ibgreek-thumb.png" width="300" height="150" alt="IBGreek" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/ibgreek" target="_blank">IBGreek</a></h2>
@@ -115,7 +123,7 @@
 					Client type: Small business</p>
 				</div>
 			</div>
-			<div class="span4 item">
+			<div class="span3 item">
 				<a href="http://www.flow14.com/harmony-hearing-aids"><img src="img/samples/flow14/harmony-thumb.2x.png" width="300" height="150" alt="Harmony Hearing Aids" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/harmony-hearing-aids" target="_blank">Harmony Hearing Aids</a></h2>
