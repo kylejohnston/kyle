@@ -5,10 +5,14 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !(.*)/$
 RewriteRule ^(.*)$ /$1/ [R=301,L]
 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)/$ /$1.php [L]
 
 RewriteCond %{HTTP_HOST} !^www.kylewjohnston.com$ [NC]
 RewriteRule ^(.*)$ http://www.kylewjohnston.com/$1 [L,R=301]
+
+ErrorDocument 404 /404
 
 <IfModule mod_deflate.c>
 
