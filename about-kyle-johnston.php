@@ -38,16 +38,16 @@
 			<div class="span6">
 				<h2>Experience Summary</h2>
 				<ul>
-					<li>Eighteen years of graphic design & marketing communications experience</li>
-					<li>Fifteen years of web & interactive design experience</li>
-					<li>Thirteen years of management & leadership experience</li>
+					<li>Eighteen years of graphic design &amp; marketing communications experience</li>
+					<li>Fifteen years of web &amp; interactive design experience</li>
+					<li>Thirteen years of management &amp; leadership experience</li>
 					<li>Outstanding interpersonal and communication skills</li>
 					<li>Extensive experience with creative and strategic planning</li>
 					<li>Excellent collaboration and problem-solving abilities</li>
 					<li><a href="//kylewjohnston.com/files/kyle-w-johnston-resume.pdf">Download my resume</a> and learn more about my career.</li>
 				</ul>
 				<p>In my time at Garmin, I had a front row seat in its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand, evolving beyond its GPS heritage while maintaining its true North. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, made up of art directors, writers, UX specialists, motion designers and videographers.</p>
-				<p>My time at Garmin also gave me the opportunity to collaborate with other notable brands, including Red Bull, Burton, AT&T, Asus, and others.</p>
+				<p>My time at Garmin also gave me the opportunity to collaborate with other notable brands, including Red Bull, Burton, AT&amp;T, Asus, and others.</p>
 			</div>
 			<div class="span3">
 				<h2>Key Skills</h2>
