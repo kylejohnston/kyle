@@ -1,22 +1,25 @@
 RewriteEngine on
 RewriteBase /
 
+# Force www
+RewriteCond %{HTTP_HOST} !^www.kylewjohnston.com$ [NC]
+RewriteRule ^(.*)$ http://www.kylewjohnston.com/$1 [L,R=301]
+
+# Remove extension; add trailing slash
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !(.*)/$
 RewriteRule ^(.*)$ /$1/ [R=301,L]
 
+# Add trailing slash to URLs
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)/$ /$1.php [L]
 
-RewriteCond %{HTTP_HOST} !^www.kylewjohnston.com$ [NC]
-RewriteRule ^(.*)$ http://www.kylewjohnston.com/$1 [L,R=301]
-
+# Oops
 ErrorDocument 404 /404
 
 <IfModule mod_deflate.c>
-
-  # Force deflate for mangled headers developer.yahoo.com/blogs/ydn/posts/2010/12/pushing-beyond-gzipping/
+  # Force deflate for mangled headers
   <IfModule mod_setenvif.c>
     <IfModule mod_headers.c>
       SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
@@ -46,5 +49,4 @@ ErrorDocument 404 /404
                                   text/x-component \
                                   text/xml
   </IfModule>
-
 </IfModule>
