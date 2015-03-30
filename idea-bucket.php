@@ -55,7 +55,7 @@
 					</div>
 					<div class="span7">
 						<div class="inner">
-							<img src="img/samples/idea-bucket/homepage.jpg" alt="Idea Bucket Homepage" class="img-border">
+							<img src="../img/samples/idea-bucket/homepage.jpg" alt="Idea Bucket Homepage" class="img-border">
 						</div>
 					</div>
 				</div>
@@ -66,7 +66,7 @@
 				<div class="row clear">
 					<div class="span5">
 						<div class="inner">
-							<img src="img/samples/idea-bucket/idea-detail.jpg" alt="Idea Bucket - Idea Detail Page" class="img-border">
+							<img src="../img/samples/idea-bucket/idea-detail.jpg" alt="Idea Bucket - Idea Detail Page" class="img-border">
 						</div>
 					</div>
 					<div class="span7">

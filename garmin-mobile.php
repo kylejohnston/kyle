@@ -51,11 +51,11 @@
 							<ul class="slides">
 								<li style="text-align:center;">
 									<p class="flex-caption">Homepage &amp; Site Navigation</p>
-									<img  src="img/samples/garmin-mobile/homepage-and-navigation.jpg" alt="Garmin.com Mobile Homepage and Navigation">
+									<img  src="../img/samples/garmin-mobile/homepage-and-navigation.jpg" alt="Garmin.com Mobile Homepage and Navigation">
 								</li>
 								<li style="text-align:center;">
 									<p class="flex-caption">Product Page &amp; Shopping Cart</p>
-									<img src="img/samples/garmin-mobile/product-page-and-cart.jpg" alt="Garmin.com Mobile Product Page and Shopping Cart">
+									<img src="../img/samples/garmin-mobile/product-page-and-cart.jpg" alt="Garmin.com Mobile Product Page and Shopping Cart">
 							</ul>
 						</div>
 						</div>

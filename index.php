@@ -36,19 +36,19 @@
 		<h1>Portfolio</h1>
 		<div class="row">
 			<div class="span6 item">
-				<a href="youtube"><img src="img/samples/youtube/thumbnail.2x.jpg" width="300" height="150" alt="Garmin YouTube Pre-Roll Ads"></a>
+				<a href="youtube/"><img src="img/samples/youtube/thumbnail.2x.jpg" width="300" height="150" alt="Garmin YouTube Pre-Roll Ads"></a>
 				<div class="inner">
-					<h2><a href="youtube">YouTube Pre-Roll</a></h2>
+					<h2><a href="youtube/">YouTube Pre-Roll</a></h2>
 					<p>Pre-roll ads for the launch of Garmin's YouTube channel.<br><strong>Winner:</strong> Gold ADDY Award</p>
-					<p>&#43; <a href="youtube">Roll the video&hellip;</a></p>
+					<p>&#43; <a href="youtube/">Roll the video&hellip;</a></p>
 				</div>
 			</div>
 			<div class="span6 item">
-				<a href="vivofit"><img src="img/samples/vivofit/thumbnail.2x.jpg" width="370" height="185" alt="vivofit campaign"></a>
+				<a href="vivofit/"><img src="img/samples/vivofit/thumbnail.2x.jpg" width="370" height="185" alt="vivofit campaign"></a>
 				<div class="inner">
-					<h2><a href="vivofit">v&iacute;vofit</a></h2>
+					<h2><a href="vivofit/">v&iacute;vofit</a></h2>
 					<p>Product launch campaign and broadcast advertising for Garmin's top-selling activity tracker</p>
-					<p>&#43; <a href="vivofit">Step this way to view the work&hellip;</a></p>
+					<p>&#43; <a href="vivofit/">Step this way to view the work&hellip;</a></p>
 				</div>
 			</div>
 		</div>
@@ -57,27 +57,27 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item">
-				<a href="holiday"><img src="img/samples/holiday/thumbnail.2x.jpg" width="370" height="185" alt="Give-a-Garmin Holiday Campaigns"></a>
+				<a href="holiday/"><img src="img/samples/holiday/thumbnail.2x.jpg" width="370" height="185" alt="Give-a-Garmin Holiday Campaigns"></a>
 				<div class="inner">
-					<h2><a href="holiday">Holiday Campaigns</a></h2>
+					<h2><a href="holiday/">Holiday Campaigns</a></h2>
 					<p>&#x266B; Give-a, Give-a, Give-a, Give-a-Garmin &#x266B;</p>
-					<p>&#43; <a href="holiday">View the work of Christmas past&hellip;</a></p>
+					<p>&#43; <a href="holiday/">View the work of Christmas past&hellip;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="idea-bucket"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="300" height="150" alt="Idea Bucket Website"></a>
+				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="300" height="150" alt="Idea Bucket Website"></a>
 				<div class="inner">
-					<h2><a href="idea-bucket">Idea Bucket Website</a></h2>
+					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
 					<p>Design &amp; development of an internal idea-sharing website</p>
-					<p>&#43; <a href="idea-bucket">Explore the work&hellip;</a></p>
+					<p>&#43; <a href="idea-bucket/">Explore the work&hellip;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="garmin-mobile"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
+				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
-					<h2><a href="garmin-mobile">Garmin.com Mobile Website</a></h2>
+					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
 					<p>Design &amp; development of Garmin.com for mobile</p>
-					<p>&#43; <a href="garmin-mobile">You won&rsquo;t believe the results&hellip;</a></p>
+					<p>&#43; <a href="garmin-mobile/">You won&rsquo;t believe the results&hellip;</a></p>
 				</div>
 			</div>
 		</div>
@@ -85,27 +85,27 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item">
-				<a href="nuvifone"><img src="img/samples/nuvifone/thumbnail_alt.2x.jpg" width="300" height="150" alt="Garmin n&uuml;vifone Campaign"></a>
+				<a href="nuvifone/"><img src="img/samples/nuvifone/thumbnail_alt.2x.jpg" width="300" height="150" alt="Garmin n&uuml;vifone Campaign"></a>
 				<div class="inner">
-					<h2><a href="nuvifone">n&uuml;vifone</a></h2>
+					<h2><a href="nuvifone/">n&uuml;vifone</a></h2>
 					<p>Brand development &amp; launch materials</p>
-					<p>&#43; <a href="nuvifone">Call up the work samples&hellip;</a></p>
+					<p>&#43; <a href="nuvifone/">Call up the work samples&hellip;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="flow14"><img src="img/samples/flow14/thumbnail.2x.png" width="300" height="150" alt="flow14 - Freelance Projects"></a>
+				<a href="flow14/"><img src="img/samples/flow14/thumbnail.2x.png" width="300" height="150" alt="flow14 - Freelance Projects"></a>
 				<div class="inner">
-					<h2><a href="flow14">flow14 - Freelance Projects</a></h2>
+					<h2><a href="flow14/">flow14 - Freelance Projects</a></h2>
 					<p>Logo design, website design, and more</p>
-					<p>&#43; <a href="flow14">Lots to see here&hellip;</a></p>
+					<p>&#43; <a href="flow14/">Lots to see here&hellip;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="iphone-365-project"><img src="img/samples/iphone-365/thumb.2x.jpg" alt="iPhone 365 Project"></a>
+				<a href="iphone-365-project/"><img src="img/samples/iphone-365/thumb.2x.jpg" alt="iPhone 365 Project"></a>
 				<div class="inner">
-					<h2><a href="iphone-365-project">Personal Work: 365 Project</a></h2>
+					<h2><a href="iphone-365-project/">Personal Work: 365 Project</a></h2>
 					<p>A photo a day. Every day. Since 2009.
-					<p>&#43; <a href="iphone-365-project">Watch the Videos&hellip;</a></p>
+					<p>&#43; <a href="iphone-365-project/">Watch the Videos&hellip;</a></p>
 				</div>
 			</div>
 		</div>

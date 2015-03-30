@@ -45,7 +45,7 @@
 					</div>
 					<div class="span7">
 						<div class="inner">
-							<img src="img/samples/nuvifone/logo-and-wordmark.png" alt="Garmin-Asus logo and nuvifone wordmark">
+							<img src="../img/samples/nuvifone/logo-and-wordmark.png" alt="Garmin-Asus logo and nuvifone wordmark">
 						</div>
 					</div>
 				</div>
@@ -85,7 +85,7 @@
 				<div class="row">
 					<div class="span9">
 						<div class="inner">
-							<img src="img/samples/nuvifone/print-ads.jpg" alt="Garmin nuvifone print ads">
+							<img src="../img/samples/nuvifone/print-ads.jpg" alt="Garmin nuvifone print ads">
 						</div>
 					</div>
 					<div class="span3">
@@ -107,7 +107,7 @@
 					</div>
 					<div class="span7">
 						<div class="inner">
-							<img src="img/samples/nuvifone/brochure.jpg" alt="Garmin nuvifone product brochure">
+							<img src="../img/samples/nuvifone/brochure.jpg" alt="Garmin nuvifone product brochure">
 						</div>
 					</div>
 				</div>

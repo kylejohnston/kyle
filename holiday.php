@@ -46,7 +46,7 @@
 					</div>
 					<div class="span8">
 						<div class="inner">
-							<img  src="img/samples/holiday/holiday-themes.png" alt="Garmin Holiday Campaign Themes">
+							<img src="../img/samples/holiday/holiday-themes.png" alt="Garmin Holiday Campaign Themes">
 						</div>
 					</div>
 				</div>
@@ -108,12 +108,12 @@
 							<div id="main-slider" class="flexslider">
 							<ul class="slides">
 								<li>
-									<img src="img/samples/holiday/catalog-page-2011.jpg" alt="Garmin.com 2011 Holiday Merchandising Catalog">
+									<img src="../img/samples/holiday/catalog-page-2011.jpg" alt="Garmin.com 2011 Holiday Merchandising Catalog">
 								</li>
 								<li style="text-align:center;">
-									<img src="img/samples/holiday/catalog-page-2012.jpg" alt="Garmin.com 2012 Holiday Merchandising Catalog">
+									<img src="../img/samples/holiday/catalog-page-2012.jpg" alt="Garmin.com 2012 Holiday Merchandising Catalog">
 								<li>
-									<img src="img/samples/holiday/catalog-page-2014.jpg" alt="Garmin.com 2014 Holiday Merchandising Catalog">
+									<img src="../img/samples/holiday/catalog-page-2014.jpg" alt="Garmin.com 2014 Holiday Merchandising Catalog">
 								</li>
 							</ul>
 						</div>
@@ -139,7 +139,7 @@
 					</div>
 					<div class="span9">
 						<div class="inner">
-							<img class="" src="img/samples/holiday/digital-ads.jpg" alt="Garmin.com Holiday Web Banners">
+							<img src="../img/samples/holiday/digital-ads.jpg" alt="Garmin.com Holiday Web Banners">
 						</div>
 					</div>
 				</div>

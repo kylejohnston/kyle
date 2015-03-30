@@ -45,7 +45,7 @@
 					</div>
 					<div class="span6">
 						<div class="inner">
-							<img src="img/samples/vivofit/product-wordmark.png" width="400" alt="Garmin vivofit product wordmark">
+							<img src="../img/samples/vivofit/product-wordmark.png" width="400" alt="Garmin vivofit product wordmark">
 						</div>
 					</div>
 				</div>
@@ -55,7 +55,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="span5 offset1">
-						<img class="" src="img/samples/vivofit/packaging.jpg" alt="Garmin vivofit packaging">
+						<img src="../img/samples/vivofit/packaging.jpg" alt="Garmin vivofit packaging">
 					</div>
 					<div class="span5 offset1">
 						<div class="inner">
@@ -76,7 +76,7 @@
 					</div>
 					<div class="span8">
 						<div class="inner">
-							<img class="" src="img/samples/vivofit/merchandising-elements.jpg" alt="Garmin vivofit merchandising elements">
+							<img src="../img/samples/vivofit/merchandising-elements.jpg" alt="Garmin vivofit merchandising elements">
 						</div>
 					</div>
 				</div>
@@ -87,7 +87,7 @@
 				<div class="row">
 					<div class="span8">
 						<div class="inner">
-							<img class="" src="img/samples/vivofit/landing-page.jpg" alt="Garmin vivofit landing page">
+							<img src="../img/samples/vivofit/landing-page.jpg" alt="Garmin vivofit landing page">
 						</div>
 					</div>
 					<div class="span3 offset1">
@@ -122,7 +122,7 @@
 				<div class="row">
 					<div class="span8">
 						<div class="inner">
-							<img class="" src="img/samples/vivofit/print-ads.jpg" alt="Garmin vivofit print ads">
+							<img src="../img/samples/vivofit/print-ads.jpg" alt="Garmin vivofit print ads">
 						</div>
 					</div>
 					<div class="span3 offset1">
@@ -145,7 +145,7 @@
 					</div>
 					<div class="span8">
 						<div class="inner">
-							<img class="" src="img/samples/vivofit/web-banners.jpg" alt="Garmin vivofit web and social banner ads">
+							<img src="../img/samples/vivofit/web-banners.jpg" alt="Garmin vivofit web and social banner ads">
 						</div>
 					</div>
 				</div>

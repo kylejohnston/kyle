@@ -28,7 +28,7 @@
 			<div class="row">
 				<div class="introduction">
 					<h1>A little about me...</h1>
-					<p style="text-align:left;"><img style="float:right; margin:0 0 0 1em; border-radius:5px; opacity:.8;" src="img/kyle-w-johnston-headshot.png" alt="Kyle W. Johnston, Creative Director">Most recently, I was the Creative Director at Garmin International, where I cultivated and led a talented team of seasoned creative professionals (50 and counting) who produced a dizzying array of top-quality communications materials; everything from global ad campaigns and company branding to Garmin.com and much, much more.</p>
+					<p style="text-align:left;"><img style="float:right; margin:0 0 0 1em; border-radius:5px; opacity:.8;" src="../img/kyle-w-johnston-headshot.png" alt="Kyle W. Johnston, Creative Director">Most recently, I was the Creative Director at Garmin International, where I cultivated and led a talented team of seasoned creative professionals (50 and counting) who produced a dizzying array of top-quality communications materials; everything from global ad campaigns and company branding to Garmin.com and much, much more.</p>
 				</div>
 			</div>
 		</div>
