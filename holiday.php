@@ -67,14 +67,14 @@
 					<div class="span6">
 						<div class="inner">
 							<div class="video-container">
-								<iframe src="http://player.vimeo.com/video/41527930?byline=0&amp;portrait=0&amp;color=a4c7fd" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+								<iframe src="http://player.vimeo.com/video/41527930?byline=0&amp;portrait=0&amp;color=a4c7fd" width="600" height="450" allowFullScreen></iframe>
 							</div>
 						</div>
 					</div>
 					<div class="span6">
 						<div class="inner">
 							<div class="video-container">
-								<iframe src="http://player.vimeo.com/video/41527673?byline=0&amp;portrait=0&amp;color=a4c7fd" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+								<iframe src="http://player.vimeo.com/video/41527673?byline=0&amp;portrait=0&amp;color=a4c7fd" width="600" height="450" frameborder="0" allowFullScreen></iframe>
 							</div>
 						</div>
 					</div>
@@ -87,7 +87,7 @@
 					<div class="span6">
 						<div class="inner">
 							<div class="video-container">
-								<iframe src="http://player.vimeo.com/video/53188940?byline=0&amp;portrait=0&amp;color=8d9997" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+								<iframe src="http://player.vimeo.com/video/53188940?byline=0&amp;portrait=0&amp;color=8d9997" width="600" height="450" frameborder="0" allowFullScreen></iframe>
 							</div>
 						</div>
 					</div>

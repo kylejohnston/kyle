@@ -43,7 +43,7 @@
 						<div class="inner">
 							<h2>Hamster / Roll</h2>
 							<div class="video-container">
-								<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vLBDMNgfxdI" frameborder="0" allowfullscreen></iframe>
+								<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vLBDMNgfxdI" allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>
@@ -51,7 +51,7 @@
 						<div class="inner">
 							<h2>Fish Sticks / Catfish</h2>
 							<div class="video-container">
-								<iframe width="560" height="315" src="https://www.youtube.com/embed/LCdtvHGYuWE" frameborder="0" allowfullscreen></iframe>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/LCdtvHGYuWE" allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>
@@ -65,7 +65,7 @@
 						<div class="inner">
 							<h2>Scooter / Ride</h2>
 							<div class="video-container">
-								<iframe width="560" height="315" src="https://www.youtube.com/embed/B8ibHt8ak_s" frameborder="0" allowfullscreen></iframe>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/B8ibHt8ak_s" allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>
@@ -73,7 +73,7 @@
 						<div class="inner">
 							<h2>Trike / Trike</h2>
 							<div class="video-container">
-								<iframe width="560" height="315" src="https://www.youtube.com/embed/06NNYC-hwXs" frameborder="0" allowfullscreen></iframe>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/06NNYC-hwXs" allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>

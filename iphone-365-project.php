@@ -44,7 +44,7 @@
 					</div>
 					<div class="span7 video">
 						<div class="inner">
-							<iframe src="http://player.vimeo.com/video/115783465?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+							<iframe src="http://player.vimeo.com/video/115783465?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="span7 video">
 						<div class="inner">
-							<iframe src="http://player.vimeo.com/video/83177011?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+							<iframe src="http://player.vimeo.com/video/83177011?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
 						</div>
 					</div>
 					<div class="span5">
@@ -82,13 +82,13 @@
 					<div class="span6 video">
 						<div class="inner" style="text-align: center;">
 							<h2>2012 <span class="caption">(Leap Year)</span></h2>
-							<iframe src="http://player.vimeo.com/video/56615870?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+							<iframe src="http://player.vimeo.com/video/56615870?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
 						</div>
 					</div>
 					<div class="span6 video">
 						<div class="inner">
 							<h2>2011</h2>
-							<iframe src="http://player.vimeo.com/video/34446500?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+							<iframe src="http://player.vimeo.com/video/34446500?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -102,13 +102,13 @@
 					<div class="span6 video">
 						<div class="inner">
 							<h2>2010</h2>
-							<iframe src="http://player.vimeo.com/video/18376909?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+							<iframe src="http://player.vimeo.com/video/18376909?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
 						</div>
 					</div>
 					<div class="span6 video">
 						<div class="inner">
 							<h2>2009</h2>
-							<iframe src="http://player.vimeo.com/video/8490705?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+							<iframe src="http://player.vimeo.com/video/8490705?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
 						</div>
 					</div>
 				</div>

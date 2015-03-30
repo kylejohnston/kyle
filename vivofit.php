@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Portfolio: v&iacute;vofit branding, packaging, merchandising, &amp; advertising | Kyle W. Johnston</title>
-	<title>Work Sample: vívofit | Kyle Johnston</title>
+	<title>Work Sample: vivofit | Kyle Johnston</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Product launch campaign and TV spots created for the Garmin vivofit activity tracker"> 
 	<meta name="keywords" content="portfolio, kyle johnston, advertising, campaign, vivofit, garmin, activity tracker">
@@ -27,7 +27,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="introduction">
-					<h1>vívofit</h1>
+					<h1>v&iacute;vofit</h1>
 					<p>In 2013, Garmin launched the v&iacute;vofit activity tracker. For the initial product launch at CES, we created a launch video, product landing page, in-store merchandising displays and print and digital advertising. In Autumn 2014, we created two broadcast spots to raise awareness and sales of the v&iacute;vofit leading into the holiday season.</p>
 					<p><strong>My role:</strong> Creative Director</p>
 				</div>
@@ -110,7 +110,7 @@
 					<div class="span6">
 						<div class="inner">
 							<div class="video-container">
-								<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XHGq3ZJPnFc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+								<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XHGq3ZJPnFc?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>

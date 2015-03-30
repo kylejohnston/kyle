@@ -88,7 +88,7 @@
 					
 					<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
 						<div class="stage clear">
-							<label for="name">Your Name: <em>*</em></label>
+							<label for="contactname">Your Name: <em>*</em></label>
 							<input type="text" name="contactname" id="contactname" value="" class="text required" role="input" aria-required="true" />
 						</div>
 						
