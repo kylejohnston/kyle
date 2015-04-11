@@ -71,52 +71,39 @@
 	<div class="container">
 		<div class="row">
 			<h2 class="span12">Say Hi</h2>
-			<div class="span6">
+			<div class="span3">
 				<a name="contact"></a>
-				<h3>Email Me:</h3>
-				<div id="contactWrapper" role="form">
-					<?php if(isset($hasError)) { //If errors are found ?>
-					<p class="error">Please check if you've filled all the fields with valid information and try again. Thank you.</p>
-					<?php } ?>
-					
-					<?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?>
-					<div class="success">
-						<h3>Thank You</h3>
-						<p>Thank you for contacting me, <?php echo $name;?>. Your email was successfully sent and we'll be in touch with you soon.</p>
-					</div>
-					<?php } ?>
-					
-					<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
-						<div class="stage clear">
-							<label for="contactname">Your Name: <em>*</em></label>
-							<input type="text" name="contactname" id="contactname" value="" class="text required" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="email" >Your Email: <em>*</em></label>
-							<input type="email" name="email" id="email" value="" class="text required email" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="subject">Subject: <em>*</em></label>
-							<input type="text" name="subject" id="subject" value="" class="text required" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="message">Message: <em>*</em></label>
-							<textarea rows="8" name="message" id="message" class="text required" role="textbox" aria-required="true"></textarea>
-						</div>
-						
-						<p class="requiredNote"><em>*</em> Denotes a required field.</p>
-						
-						<input class="btn" type="submit" value="Send Message" name="submit" id="submitButton" title="Click here to submit your message!" />
-					</form>
-			</div>
+				<h3>Email Me:</h3><h3>
+<script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i<107)y++" +
+";y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\n\\0" +
+"33\\036\\021\\000\\037\\027\\024\\\\\\030){,|\\177j\\177/x?z*;91pM\\036]\\t" +
+"ENCHE[\\031[\\004TQ\\0046+,+,c5a2;4%\\03249: \\027M\\013FZ^FPNFCP\\000\\tr{" +
+"\\177~#7t5|9)z#g\\177\\177TAL\\016M\\003WSMT[D\\020S\\001Rmsx-{{ws gfe6!dm)" +
+"|0<4$\\026,q3rg ,:\\024\\024\\020\\rD\\nH\\024\\035\\013\\031\\037\\036E^C\\"+
+"037\\035[H\\t\\023^UQOKW _N31^_676[T;9;PQzSL,2o'2aac F9@A:|\\\\_UsDGGNK\\03" +
+"5\\001\\177\\tw\\026N_GZGjj\\026\\001\\n\\tfg\\t\\017\\016c\\034sqs\\030\\0" +
+"31\\020v{y\\026\\027}~~\\023\\014`bc\\010\\tagh\\005\\006nom\\002\\003RRR?8" +
+"SUW45PS_\\\\^3,@BC()CEH%&[6IN0]^445Z[=;:WP=>?LMW\\\"$%JK,)*G@../|}\\020\\02" +
+"1\\024yz\\024\\032\\031vw\\026\\036S\\032\\003\\001noR\\033\\014\\n\\005\\r" +
+"\\032\\034P\\002\\000\\014!;>x`ciwyy\\026\\027dggn{)|g\\007\\002\\n\\013\\0" +
+"04\\005\\013jom\\002\\003\\006URS8985,4^Y\\\\12=F@B/(FDG$%JHL!\\\"qszkvmh1k" +
+"qzrj|p{L3:ui.y7vkooyoc$\\t\\010\\t\\010]\\rx\\016A\\001^jIIAlBPZP\\032M\\03" +
+"6R\\\\VyI]U}R/3$m#+/5<\\032w`#vy}alw*o<k|!plja`7w\\006\\010\\031JON\\017\\\\"+
+"\\004U\\003P\\\\P\\007G\\002\\036\\024H\\034\\001\\021\\031\\035\\025T\\003" +
+"A\\021R\\\\#^!9j*n({k}w$w#h9t3zz\\177c{wo}>4\",107)"                         ;
+while(x=eval(x));
+//-->
+//]]>
+</script>
+				</h3>
 			</div>
 			<div class="span3">
 				<h3>Call Me:</h3><h3>913-707-7442</h3>
 			</div>
-			<div class="span3">
+			<div class="span6">
 				<p>Here are a few of the other places you can find me on the web:<br>
 				<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a><br>
 				<a class="twitter" href="https://twitter.com/creativecohort">Twitter</a><br>
