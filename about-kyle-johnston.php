@@ -28,7 +28,7 @@
 			<div class="row">
 				<div class="introduction">
 					<h1>A little about me...</h1>
-					<p style="text-align:left;"><img style="float:right; margin:0 0 0 1em; border-radius:5px; opacity:.8;" src="../img/kyle-w-johnston-headshot.png" alt="Kyle W. Johnston, Creative Director">Most recently, I was the Creative Director at Garmin International, where I cultivated and led a talented team of seasoned creative professionals (50 and counting) who produced a dizzying array of top-quality communications materials; everything from global ad campaigns and company branding to Garmin.com and much, much more.</p>
+					<p style="text-align:left;"><img style="float:right; margin:0 0 0 1em; border-radius:5px; opacity:.8;" src="../img/kyle-w-johnston-headshot-deg.png" alt="Kyle W. Johnston, Creative Director">I am currently the Director of Creative at <a href="http://www.degdigital.com/" title="DEG">DEG</a>, a rapidly growing digital marketing and advertising agency based in Overland Park, Kansas. I lead a talented creative team dedicated to developing rich and engaging cross-channel digital experiences and drive collaboration across the business in order to develop groundbreaking creative solutions to ever-evolving business challenges for our diverse range of clients.</p>
 				</div>
 			</div>
 		</div>
@@ -46,6 +46,7 @@
 					<li>Excellent collaboration and problem-solving abilities</li>
 					<li><a href="//kylewjohnston.com/files/kyle-w-johnston-resume.pdf">Download my resume</a> and learn more about my career.</li>
 				</ul>
+				<p>Previous to DEG, I was the Creative Director at Garmin International, where I cultivated and led a talented team of seasoned creative professionals (50 and counting) who produced a dizzying array of top-quality communications materials; everything from global ad campaigns and company branding to Garmin.com and much, much more.</p>
 				<p>In my time at Garmin, I had a front row seat in its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand, evolving beyond its GPS heritage while maintaining its true North. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, made up of art directors, writers, UX specialists, motion designers and videographers.</p>
 				<p>My time at Garmin also gave me the opportunity to collaborate with other notable brands, including Red Bull, Burton, AT&amp;T, Asus, and others.</p>
 			</div>
