@@ -58,6 +58,8 @@
 					<li>Print design</li>
 					<li>User interface design</li>
 				</ul>
+				<h2>Speaking</h2>
+				<p><strong><a href="http://www.slideshare.net/flow14/herding-cats-53255448">Herding Cats</a></strong><br>Federal Reserve Bank - Web Developers, Editors &amp; Designers Conference<br>September 2015</p>
 			</div>
 			<div class="span3">
 				<h2>Organizations</h2>
