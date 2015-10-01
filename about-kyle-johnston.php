@@ -51,6 +51,7 @@
 				<p>Previous to DEG, I was the Creative Director at Garmin International. In my time at Garmin, I had a front row seat in its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand, evolving beyond its GPS heritage while maintaining its true North. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, made up of art directors, writers, UX specialists, motion designers and videographers.</p>
 				<p>My time at Garmin also gave me the opportunity to collaborate with other notable brands, including Red Bull, Burton, AT&amp;T, Asus, and others.</p>
 			</div>
+<<<<<<< HEAD
 			<div
 class="span3">                 <h2>Key Skills</h2>                 <ul>
 <li>Art &amp; creative direction</li>                     <li>Web &amp; UX
@@ -75,6 +76,37 @@ class="span6">                 <a name="contact"></a> <h3>Email Me:</h3> <div
 id="contactWrapper" role="form"> <?php if(isset($hasError)) { //If errors are
 found ?>                     <p class="error">Please check if you've filled
 all the fields with valid information and try again. Thank you.</p> <?php } ?>
+=======
+			<div class="span3">
+				<h2>Key Skills</h2>
+				<ul>
+					<li>Art &amp; creative direction</li>
+					<li>Web &amp; UX design, including front-end design and development of mobile, responsive, and desktop websites</li>
+					<li>Branding &amp; visual identity</li>
+					<li>Print design</li>
+					<li>User interface design</li>
+				</ul>
+			</div>
+			<div class="span3">
+				<h2>Organizations</h2>
+				<p><strong>AAF-KC</strong><br>2014&#8212;Present<br>Board of Directors<br>Corporate Membership Chair</p>
+				<p><strong>AIGA KC</strong><br>2011&#8212;2013<br>Web Communications Chair</p>
+				<p><strong>Johnson County Community College</strong><br>2010&#8212;Present<br>Dean&rsquo;s Advisory Board</p>
+				<p><strong>Johnson County Community College</strong><br>2006&#8212;Present<br>Interactive Media Advisory Board</p>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<h2 class="span12">Say Hi</h2>
+			<div class="span6">
+				<a name="contact"></a>
+				<h3>Email Me:</h3>
+				<div id="contactWrapper" role="form">
+					<?php if(isset($hasError)) { //If errors are found ?>
+					<p class="error">Please check if you've filled all the fields with valid information and try again. Thank you.</p>
+					<?php } ?>
+>>>>>>> parent of 1bb509e... Added Speaking section
 					
 					<?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?>
 					<div class="success">
