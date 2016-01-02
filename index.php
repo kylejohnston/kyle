@@ -101,7 +101,7 @@
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="iphone-365-project/"><img src="img/samples/iphone-365/thumb.2x.jpg" alt="iPhone 365 Project"></a>
+				<a href="iphone-365-project/"><img src="img/samples/iphone-365/thumb-2015.2x.jpg" alt="iPhone 365 Project"></a>
 				<div class="inner">
 					<h2><a href="iphone-365-project/">Personal Work: 365 Project</a></h2>
 					<p>A photo a day. Every day. Since 2009.
