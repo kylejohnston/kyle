@@ -20,7 +20,7 @@
 				<div class="introduction">
 					<h1>iPhone 365 Project</h1>
 					<p><strong>The Story.</strong> Since 2009, I’ve participated in <a href="http://www.flickr.com/groups/iphone365/">iPhone 365</a>, a project created by a couple of friends who challenged themselves to take a photo a day, every day. At the end of each year, I’ve compiled my photos into a short video, set to the song I listened to the most during the year.</p>
-					<p><strong>Stats.</strong>1,953 photos since 2009. Year-by-year: 2009: 212 photos, 2010: 280 photos, 2011: 365 photos, 2012: 366 photos (leap year), 2013: 365 photos, 2014: 365 photos, 2015: 365 photos</p>
+					<p><strong>Stats.</strong>2,318 photos since 2009. Year-by-year: 2009: 212 photos, 2010: 280 photos, 2011: 365 photos, 2012: 366 photos (leap year), 2013: 365 photos, 2014: 365 photos, 2015: 365 photos</p>
 				</div>
 			</div>
 		</div>
