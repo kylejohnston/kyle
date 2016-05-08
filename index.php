@@ -40,7 +40,7 @@
 				<div class="inner">
 					<h2><a href="youtube/">YouTube Pre-Roll</a></h2>
 					<p>Pre-roll ads for the launch of Garmin's YouTube channel.<br><strong>Winner:</strong> Gold ADDY Award</p>
-					<p>&#43; <a href="youtube/">Roll the video &#187;</a></p>
+					<p><a href="youtube/">Roll the video &#187;</a></p>
 				</div>
 			</div>
 			<div class="span6 item">
@@ -48,7 +48,7 @@
 				<div class="inner">
 					<h2><a href="vivofit/">v&iacute;vofit</a></h2>
 					<p>Product launch campaign and broadcast advertising for Garmin's top-selling activity tracker</p>
-					<p>&#43; <a href="vivofit/">Step this way to view the work &#187;</a></p>
+					<p><a href="vivofit/">Step this way to view the work &#187;</a></p>
 				</div>
 			</div>
 		</div>
@@ -61,7 +61,7 @@
 				<div class="inner">
 					<h2><a href="holiday/">Holiday Campaigns</a></h2>
 					<p>&#x266B; Give-a, Give-a, Give-a, Give-a-Garmin &#x266B;</p>
-					<p>&#43; <a href="holiday/">View the work of Christmas past &#187;</a></p>
+					<p><a href="holiday/">View the work of Christmas past &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
@@ -69,7 +69,7 @@
 				<div class="inner">
 					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
 					<p>Design &amp; development of an internal idea-sharing website</p>
-					<p>&#43; <a href="idea-bucket/">Explore the work &#187;</a></p>
+					<p><a href="idea-bucket/">Explore the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
@@ -77,7 +77,7 @@
 				<div class="inner">
 					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
 					<p>Design &amp; development of Garmin.com for mobile</p>
-					<p>&#43; <a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
+					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
 			</div>
 		</div>
@@ -89,7 +89,7 @@
 				<div class="inner">
 					<h2><a href="nuvifone/">n&uuml;vifone</a></h2>
 					<p>Brand development &amp; launch materials</p>
-					<p>&#43; <a href="nuvifone/">Call up the work samples &#187;</a></p>
+					<p><a href="nuvifone/">Call up the work samples &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
@@ -97,7 +97,7 @@
 				<div class="inner">
 					<h2><a href="flow14/">flow14 - Freelance Projects</a></h2>
 					<p>Logo design, website design, and more</p>
-					<p>&#43; <a href="flow14/">Lots to see here &#187;</a></p>
+					<p><a href="flow14/">Lots to see here &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
@@ -105,7 +105,7 @@
 				<div class="inner">
 					<h2><a href="iphone-365-project/">Personal Work: 365 Project</a></h2>
 					<p>A photo a day. Every day. Since 2009.
-					<p>&#43; <a href="iphone-365-project/">Watch the Videos &#187;</a></p>
+					<p><a href="iphone-365-project/">Watch the Videos &#187;</a></p>
 				</div>
 			</div>
 		</div>
