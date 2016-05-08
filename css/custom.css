@@ -169,6 +169,7 @@ header h1 {
 	background: #ffffff;
 }
 .item img {
+	margin-bottom: .5em;
 	min-width: 100%;
 }
 .video-container iframe,
