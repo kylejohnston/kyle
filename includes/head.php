@@ -1,6 +1,6 @@
 	<!-- Le styles -->
 	<link href="//www.kylewjohnston.com/css/bootstrap.min.css" rel="stylesheet">
-	<link href="//www.kylewjohnston.com/css/custom.css" rel="stylesheet">
+	<link href="//www.kylewjohnston.com/css/custom.css?20160805_1001" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400' rel='stylesheet' type='text/css'>
 
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
