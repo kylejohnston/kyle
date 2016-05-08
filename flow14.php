@@ -39,7 +39,7 @@
 				<a href="http://www.flow14.com/creative-outfitters" target="_blank"><img src="../img/samples/flow14/creative-outiftters-thumb.png" width="300" height="150" alt="Creative Outfitters" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/creative-outfitters" target="_blank">Creative Outfitters</a></h2>
-					<p>+ <a href="http://www.flow14.com/creative-outfitters" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/creative-outfitters" target="_blank">View additional samples &#187;</a><br>
 					Client type: Small business</p>
 				</div>
 			</div>
@@ -47,7 +47,7 @@
 				<a href="http://www.flow14.com/borrowersrep"><img src="../img/samples/flow14/borrowersrep-thumb.2x.png" width="300" height="150" alt="BorrowersRep.com" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/borrowersrep" target="_blank">BorrowersRep.com</a></h2>
-					<p>+ <a href="http://www.flow14.com/borrowersrep" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/borrowersrep" target="_blank">View additional samples &#187;</a><br>
 					Client type: Small business</p>
 				</div>
 			</div>
@@ -55,7 +55,7 @@
 				<a href="http://www.flow14.com/lisa-for-kansas-senate"><img src="../img/samples/flow14/lisa-for-kansas-senate-thumb.2x.png" alt="Lisa for Kansas Senate" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/lisa-for-kansas-senate" target="_blank">Lisa for Kansas Senate</a></h2>
-					<p>+ <a href="http://www.flow14.com/lisa-for-kansas-senate" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/lisa-for-kansas-senate" target="_blank">View additional samples &#187;</a><br>
 					Client type: Political</p>
 				</div>
 			</div>
@@ -67,7 +67,7 @@
 				<a href="http://www.flow14.com/websites"><img src="../img/samples/flow14/websites-thumbnail.2x.jpg" width="300" height="150" alt="Responsive Website Designs" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/websites" target="_blank">Responsive Websites</a></h2>
-					<p>+ <a href="http://www.flow14.com/websites" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/websites" target="_blank">View additional samples &#187;</a><br>
 					Client type: Various</p>
 				</div>
 			</div>
@@ -75,7 +75,7 @@
 				<a href="http://www.flow14.com/kansas-dems"><img src="../img/samples/flow14/kansas-dems-thumb.2x.png" alt="Kansas Dems" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/kansas-dems" target="_blank">Kansas Dems</a></h2>
-					<p>+ <a href="http://www.flow14.com/kansas-dems" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/kansas-dems" target="_blank">View additional samples &#187;</a><br>
 					Client type: Political</p>
 				</div>
 			</div>
@@ -83,7 +83,7 @@
 				<a href="http://www.flow14.com/lisa-for-kansas"><img src="../img/samples/flow14/lisa-for-kansas-thumb.2x.png" alt="Lisa for U.S. Senate" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/lisa-for-kansas" target="_blank">Lisa for U.S. Senate</a></h2>
-					<p>+ <a href="http://www.flow14.com/lisa-for-kansas" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/lisa-for-kansas" target="_blank">View additional samples &#187;</a><br>
 					Client type: Political</p>
 				</div>
 			</div>
@@ -91,7 +91,7 @@
 				<a href="http://www.flow14.com/animal-haven"><img src="../img/samples/flow14/animalhavenkc-thumb.png" width="300" height="150" alt="Animal Haven" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/animal-haven" target="_blank">Animal Haven</a></h2>
-					<p>+ <a href="http://www.flow14.com/animal-haven" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/animal-haven" target="_blank">View additional samples &#187;</a><br>
 					Client type: Non-profit</p>
 				</div>
 			</div>
@@ -103,7 +103,7 @@
 				<a href="http://www.flow14.com/jocart"><img src="../img/samples/flow14/jocart-thumb.2x.png" width="300" height="150" alt="JoCART - Johnson County Animal Response Team" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/jocart" target="_blank">JoCART</a></h2>
-					<p>+ <a href="http://www.flow14.com/jocart" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/jocart" target="_blank">View additional samples &#187;</a><br>
 					Client type: Non-profit</p>
 				</div>
 			</div>
@@ -111,7 +111,7 @@
 				<a href="http://www.flow14.com/96kx"><img src="../img/samples/flow14/96kx-thumb.png" width="300" height="150" alt="96KX" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/96kx" target="_blank">96KX</a></h2>
-					<p>+ <a href="http://www.flow14.com/96kx" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/96kx" target="_blank">View additional samples &#187;</a><br>
 					Client type: Small business</p>
 				</div>
 			</div>
@@ -119,7 +119,7 @@
 				<a href="http://www.flow14.com/ibgreek"><img src="../img/samples/flow14/ibgreek-thumb.png" width="300" height="150" alt="IBGreek" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/ibgreek" target="_blank">IBGreek</a></h2>
-					<p>+ <a href="http://www.flow14.com/ibgreek" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/ibgreek" target="_blank">View additional samples &#187;</a><br>
 					Client type: Small business</p>
 				</div>
 			</div>
@@ -127,7 +127,7 @@
 				<a href="http://www.flow14.com/harmony-hearing-aids"><img src="../img/samples/flow14/harmony-thumb.2x.png" width="300" height="150" alt="Harmony Hearing Aids" target="_blank"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/harmony-hearing-aids" target="_blank">Harmony Hearing Aids</a></h2>
-					<p>+ <a href="http://www.flow14.com/harmony-hearing-aids" target="_blank">View additional samples…</a><br>
+					<p><a href="http://www.flow14.com/harmony-hearing-aids" target="_blank">View additional samples &#187;</a><br>
 					Client type: Small business</p>
 				</div>
 			</div>
