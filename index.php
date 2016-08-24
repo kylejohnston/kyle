@@ -88,7 +88,7 @@
 				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
 					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
-					<p>Design &amp; development of Garmin.com for mobile</p>
+					<p>Design &amp; development of a mobile-optimized Garmin.com</p>
 					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
 			</div>
