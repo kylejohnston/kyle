@@ -20,15 +20,39 @@
 				<div class="introduction">
 					<h1>iPhone 365 Project</h1>
 					<p><strong>The Story.</strong> Since 2009, I’ve participated in <a href="http://www.flickr.com/groups/iphone365/">iPhone 365</a>, a project created by a couple of friends who challenged themselves to take a photo a day, every day. At the end of each year, I’ve compiled my photos into a short video, set to the song I listened to the most during the year.</p>
-					<p><strong>Stats.</strong>2,318 photos since 2009. Year-by-year: 2009: 212 photos, 2010: 280 photos, 2011: 365 photos, 2012: 366 photos (leap year), 2013: 365 photos, 2014: 365 photos, 2015: 365 photos</p>
+					<p><strong>Stats.</strong>2,684 photos since 2009. Year-by-year: 2009: 212 photos, 2010: 280 photos, 2011: 365 photos, 2012: 366 photos (leap year), 2013: 365 photos, 2014: 365 photos, 2015: 365 photos, 2016: 365 photos</p>
 				</div>
 			</div>
 		</div>
 	</div>
 
 	<div class="container marketing">
-		<!-- 2015 -->
+		<!-- 2016 -->
 		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span5">
+						<div class="inner">
+							<h2>2016</h2>
+							<p><strong>Production notes:</strong><br>
+							<strong>Cameras:</strong> iPhone 6s, Panasonic Lumix GX8<br>
+							<strong>Apps - Shooting:</strong> Camera (default), <a href="https://itunes.apple.com/us/app/id357404131">SlowShutter</a> (long exposures)<br>
+							<strong>Apps - Editing:</strong> VSCOcam, SKRWT, Blender, Motion Stills, Prisma, Snapseed, Splice, Spark, Bent, Lens Distortions<br>
+							<strong>365 Video:</strong> Downloaded photos from my <a href="https://www.flickr.com/photos/flow14/albums/72157663020001122">365 Flickr album</a> then compiled and edited the video with Adobe Premiere.<br>
+							<strong>Music:</strong> <em>The Rest Is Noise</em> by Jamie XX</p>
+						</div>
+					</div>
+					<div class="span7 video">
+						<div class="inner">
+							<iframe width="600" height="338" src="https://www.youtube.com/embed/GB4q3pn4D1Y?rel=0" frameborder="0" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- 2015 -->
+		<div class=" featurette featurette-alt">
 			<div class="container">
 				<div class="row">
 					<div class="span5">
@@ -52,7 +76,7 @@
 		</div>
 
 		<!-- 2014 -->
-		<div class="featurette featurette-alt">
+		<div class="featurette">
 			<div class="container">
 				<div class="row">
 					<div class="span5">
@@ -76,7 +100,7 @@
 		</div>
 
 		<!-- 2013 -->
-		<div class="featurette">
+		<div class="featurette featurette-alt">
 			<div class="container">
 				<div class="row">
 					<div class="span7 video">
@@ -100,7 +124,7 @@
 		</div>
 
 		<!-- 2012 and 2011 -->
-		<div class="featurette featurette-alt">
+		<div class="featurette">
 			<div class="container">
 				<div class="row">
 					<div class="span6 video">
@@ -120,7 +144,7 @@
 		</div>
 
 		<!-- 2010 and 2009 -->
-		<div class="featurette">
+		<div class="featurette featurette-alt">
 			<div class="container">
 				<div class="row">
 					<div class="span6 video">
