@@ -3,10 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Portfolio: Lee Product Videos | Kyle W. Johnston</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Videos created for Lee to promote new men's and women's product lines">
-	<meta name="keywords" content="kyle johnston, portfolio, lee, jeans">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Videos created for Lee to promote new men's and women's product lines" />
+	<meta name="keywords" content="kyle johnston, portfolio, lee, jeans" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/lee-jeans" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

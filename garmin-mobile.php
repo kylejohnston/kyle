@@ -3,10 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Portfolio: Garmin.com Mobile Site | Kyle W. Johnston</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Kyle Johnston Work Sample: Design & development of Garmin.com Shopping UX for smartphones">
-	<meta name="keywords" content="portfolio, kyle johnston, logo design, business card design, website design">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Kyle Johnston Work Sample: Design & development of Garmin.com Shopping UX for smartphones" />
+	<meta name="keywords" content="portfolio, kyle johnston, logo design, business card design, website design" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/garmin-mobile" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

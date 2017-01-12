@@ -3,11 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Personal Project: iPhone 365 Project |  flow14</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="iPhone 365 Project: take a photo a day, every day.">
-	<meta name="keywords" content="iphone 365, 365 project, photography">
-	<meta name="author" content="Kyle Johnston">
-	<link rel="canonical" href="http://www.flow14.com/iphone-365-project">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="iPhone 365 Project: take a photo a day, every day." />
+	<meta name="keywords" content="iphone 365, 365 project, photography" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.flow14.com/iphone-365-project" />
 
 	<?php include('includes/head.php'); ?>
 </head>

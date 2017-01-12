@@ -3,10 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Portfolio: flow14 - Freelance Projects | Kyle W. Johnston</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Various projects created under flow14, my freelance design studio. Projects include logos, websites, collateral and more for non-profits, small businesses and political groups">
-	<meta name="keywords" content="portfolio, kyle johnston, freelance, web design, logo design, collateral design, small business, non-profit, politics">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Various projects created under flow14, my freelance design studio. Projects include logos, websites, collateral and more for non-profits, small businesses and political groups" />
+	<meta name="keywords" content="portfolio, kyle johnston, freelance, web design, logo design, collateral design, small business, non-profit, politics" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/flow14" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

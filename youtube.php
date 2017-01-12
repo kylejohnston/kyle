@@ -4,9 +4,10 @@
 	<meta charset="utf-8">
 	<title>Portfolio: YouTube Pre-Roll Ads | Kyle W. Johnston</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Pre-roll ads created to the promote the launch of Garmin's YouTube brand channel">
-	<meta name="keywords" content="kyle johnston, portfolio, garmin, youtube">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="description" content="Pre-roll ads created to the promote the launch of Garmin's YouTube brand channel" />
+	<meta name="keywords" content="kyle johnston, portfolio, garmin, youtube" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/youtube" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

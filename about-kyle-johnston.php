@@ -4,10 +4,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>About Kyle W. Johnston, a Creative Director &amp; Designer in Kansas City</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Most recently, I was the Creative Director at Garmin International, where I cultivated and led a talented team of seasoned creative professionals who produce a dizzying array of top-quality communications materials.">
-	<meta name="keywords" content="kyle johnston, creative director, designer, resume, contact, web designer, kansas city, garmin, flow14">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Most recently, I was the Creative Director at Garmin International, where I cultivated and led a talented team of seasoned creative professionals who produce a dizzying array of top-quality communications materials." />
+	<meta name="keywords" content="kyle johnston, creative director, designer, resume, contact, web designer, kansas city, garmin, flow14" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/about-kyle-johnston" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

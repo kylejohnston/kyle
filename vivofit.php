@@ -4,10 +4,11 @@
 	<meta charset="utf-8">
 	<title>Portfolio: v&iacute;vofit branding, packaging, merchandising, &amp; advertising | Kyle W. Johnston</title>
 	<title>Work Sample: vivofit | Kyle Johnston</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Product launch campaign and TV spots created for the Garmin vivofit activity tracker"> 
-	<meta name="keywords" content="portfolio, kyle johnston, advertising, campaign, vivofit, garmin, activity tracker">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Product launch campaign and TV spots created for the Garmin vivofit activity tracker" /> 
+	<meta name="keywords" content="portfolio, kyle johnston, advertising, campaign, vivofit, garmin, activity tracker" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/vivofit" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

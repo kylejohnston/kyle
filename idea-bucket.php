@@ -3,10 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Portfolio: Idea Bucket Website | Kyle W. Johnston</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Kyle Johnston Work Sample: Collaborative design and development of an internal idea-sharing website">
-	<meta name="keywords" content="portfolio, kyle johnston, website, design, development">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Kyle Johnston Work Sample: Collaborative design and development of an internal idea-sharing website" />
+	<meta name="keywords" content="portfolio, kyle johnston, website, design, development" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/idea-bucket" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

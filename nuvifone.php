@@ -3,10 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Portfolio: n&uuml;vifone branding &amp; advertising | Kyle W. Johnston</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Branding and advertising created for the launch of the Garmin nuvifone">
-	<meta name="keywords" content="logo design, business card design, website design">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="Branding and advertising created for the launch of the Garmin nuvifone" />
+	<meta name="keywords" content="logo design, business card design, website design" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/nuvifone" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

@@ -3,10 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Kyle W. Johnston, a Creative Director &amp; Designer based in Kansas City</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="The portfolio of Kyle W Johnston, a Creative Director & Designer based in Kansas City.">
-	<meta name="keywords" content="creative director, designer, advertising, web design, logo design, kansas city, garmin, flow14">
-	<meta name="author" content="Kyle Johnston">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="The portfolio of Kyle W Johnston, a Creative Director & Designer based in Kansas City." />
+	<meta name="keywords" content="creative director, designer, advertising, web design, logo design, kansas city, garmin, flow14" />
+	<meta name="author" content="Kyle Johnston" />
+	<link rel="canonical" href="http://www.kylewjohnston.com/" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
