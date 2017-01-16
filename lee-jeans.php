@@ -7,7 +7,8 @@
 	<meta name="description" content="Videos created for Lee to promote new men's and women's product lines" />
 	<meta name="keywords" content="kyle johnston, portfolio, lee, jeans" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/lee-jeans" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/lee-jeans" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

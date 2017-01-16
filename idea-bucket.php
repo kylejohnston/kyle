@@ -7,7 +7,8 @@
 	<meta name="description" content="Kyle Johnston Work Sample: Collaborative design and development of an internal idea-sharing website" />
 	<meta name="keywords" content="portfolio, kyle johnston, website, design, development" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/idea-bucket" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/idea-bucket" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

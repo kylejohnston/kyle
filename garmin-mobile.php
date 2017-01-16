@@ -7,7 +7,8 @@
 	<meta name="description" content="Kyle Johnston Work Sample: Design & development of Garmin.com Shopping UX for smartphones" />
 	<meta name="keywords" content="portfolio, kyle johnston, logo design, business card design, website design" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/garmin-mobile" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/garmin-mobile" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

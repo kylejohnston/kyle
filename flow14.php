@@ -7,7 +7,8 @@
 	<meta name="description" content="Various projects created under flow14, my freelance design studio. Projects include logos, websites, collateral and more for non-profits, small businesses and political groups" />
 	<meta name="keywords" content="portfolio, kyle johnston, freelance, web design, logo design, collateral design, small business, non-profit, politics" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/flow14" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/flow14" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

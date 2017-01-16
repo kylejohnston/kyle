@@ -7,7 +7,8 @@
 	<meta name="description" content="iPhone 365 Project: take a photo a day, every day." />
 	<meta name="keywords" content="iphone 365, 365 project, photography" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.flow14.com/iphone-365-project" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.flow14.com/iphone-365-project" rel="canonical" />
 
 	<?php include('includes/head.php'); ?>
 </head>

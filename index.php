@@ -7,7 +7,8 @@
 	<meta name="description" content="The portfolio of Kyle W Johnston, a Creative Director & Designer based in Kansas City." />
 	<meta name="keywords" content="creative director, designer, advertising, web design, logo design, kansas city, garmin, flow14" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

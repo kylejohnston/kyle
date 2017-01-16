@@ -7,7 +7,8 @@
 	<meta name="description" content="Give-a-Garmin Holiday ad campaigns through the years; spanning in-store merchandising, an online gift guide, email marketing, and broadcast and online advertising." />
 	<meta name="keywords" content="garmin, holiday, give a garmin, kyle johnston, portfolio, creative director, portfolio" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/holiday" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/holiday" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

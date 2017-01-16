@@ -7,7 +7,8 @@
 	<meta name="description" content="Branding and advertising created for the launch of the Garmin nuvifone" />
 	<meta name="keywords" content="logo design, business card design, website design" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/nuvifone" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/nuvifone" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

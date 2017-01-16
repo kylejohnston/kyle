@@ -8,7 +8,8 @@
 	<meta name="description" content="Product launch campaign and TV spots created for the Garmin vivofit activity tracker" /> 
 	<meta name="keywords" content="portfolio, kyle johnston, advertising, campaign, vivofit, garmin, activity tracker" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/vivofit" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/vivofit" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

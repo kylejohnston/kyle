@@ -5,10 +5,11 @@
 	<meta charset="utf-8">
 	<title>About Kyle W. Johnston, a Creative Director &amp; Designer in Kansas City</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="description" content="Most recently, I was the Creative Director at Garmin International, where I cultivated and led a talented team of seasoned creative professionals who produce a dizzying array of top-quality communications materials." />
-	<meta name="keywords" content="kyle johnston, creative director, designer, resume, contact, web designer, kansas city, garmin, flow14" />
+	<meta name="description" content="I am currently Director of Creative at Vista Outdoor, where I lead a talented team of creative professionals who collaborate with internal marketing and sales teams and partner with external agencies to deliver innovative marketing and advertising." />
+	<meta name="keywords" content="kyle johnston, creative director, designer, resume, contact, web designer, kansas city, garmin, flow14, vista outdoor, deg digital" />
 	<meta name="author" content="Kyle Johnston" />
-	<link rel="canonical" href="http://www.kylewjohnston.com/about-kyle-johnston" />
+	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="http://www.kylewjohnston.com/about-kyle-johnston" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 

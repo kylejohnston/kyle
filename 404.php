@@ -6,8 +6,6 @@
 	<title>About Kyle W. Johnston, a Creative Director &amp; Designer in Kansas City</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Oops. I couldn't find the page you were looking for.">
-	<meta name="keywords" content="kyle johnston, creative director, designer, resume, contact, web designer, kansas city, garmin, flow14">
-	<meta name="author" content="Kyle Johnston">
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
