@@ -30,7 +30,7 @@
 			<div class="row">
 				<div class="introduction">
 					<h1>A little about me...</h1>
-					<p style="text-align:left;"><img style="float:right; margin:0 0 0 1em; border-radius:5px; opacity:.8;" src="../img/kyle-w-johnston-headshot.png" alt="Kyle W. Johnston, Creative Director">I am currently the Director of Creative at DEG, a rapidly growing digital marketing and advertising agency based in Overland Park, Kansas. I lead a talented creative team dedicated to developing rich and engaging cross-channel digital experiences and drive collaboration across the business in order to develop groundbreaking creative solutions to ever-evolving business challenges for our diverse range of clients.</p>
+					<p style="text-align:left;"><img style="float:right; margin:0 0 0 1em; border-radius:5px; opacity:.8;" src="../img/kyle-w-johnston-headshot.png" alt="Kyle W. Johnston, Creative Director">I am currently the Director of Creative at Vista Outdoor, a leader in the outdoor sports and recreation markets. I lead a talented creative team and collaborate with external agencies to produce a range of engaging marketing and advertising for more than 40 brands.</p>
 				</div>
 			</div>
 		</div>
@@ -40,16 +40,16 @@
 			<div class="span6">
 				<h2>Experience Summary</h2>
 				<ul>
-					<li>Nineteen years of graphic design &amp; marketing communications experience</li>
-					<li>Sixteen years of web &amp; interactive design experience</li>
-					<li>Fourteen years of management &amp; leadership experience</li>
+					<li>Twenty years of graphic design &amp; marketing communications experience</li>
+					<li>Seventeen years of web &amp; interactive design experience</li>
+					<li>Fifteen years of management &amp; leadership experience</li>
 					<li>Outstanding interpersonal and communication skills</li>
 					<li>Extensive experience with creative and strategic planning</li>
 					<li>Excellent collaboration and problem-solving abilities</li>
 					<li><a href="//kylewjohnston.com/files/kyle-w-johnston-resume.pdf">Download my resume</a> and learn more about my career.</li>
 				</ul>
-				<p>Previous to DEG, I was the Creative Director at Garmin International. In my time at Garmin, I had a front row seat in its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand, evolving beyond its GPS heritage while maintaining its true North. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, made up of art directors, writers, UX specialists, motion designers and videographers.</p>
-				<p>My time at Garmin also gave me the opportunity to collaborate with other notable brands, including Red Bull, Burton, AT&amp;T, Asus, and others.</p>
+				<p>Previous to Vista Outdoor, I was the Creative Director at DEG, a rapidly growing digital marketing and advertising agency based in Kansas City, and Garmin International. In my time at Garmin, I had a front row seat to its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, comprised of art directors, copywriters, UX specialists, motion designers, photographers and videographers.</p>
+				<p>My time at Garmin also gave me the opportunity to collaborate with other leading brands, including Red Bull, Burton, AT&amp;T, Asus, and more.</p>
 			</div>
 			<div class="span3">
 				<h2>Key Skills</h2>
