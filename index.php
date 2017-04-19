@@ -106,11 +106,11 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item">
-				<a href="http://www.flow14/"><img src="img/samples/flow14/thumbnail.2x.png" width="300" height="150" alt="flow14 - Freelance Projects"></a>
+				<a href="http://www.flow14.com/"><img src="img/samples/flow14/thumbnail.2x.png" width="300" height="150" alt="flow14 - Freelance Projects"></a>
 				<div class="inner">
-					<h2><a href="http://www.flow14/">flow14 - Freelance Projects</a></h2>
+					<h2><a href="http://www.flow14.com/">flow14 - Freelance Projects</a></h2>
 					<p>Logo design, website design, and more</p>
-					<p><a href="http://www.flow14/">Lots to see here &#187;</a></p>
+					<p><a href="http://www.flow14.com/">Lots to see here &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
