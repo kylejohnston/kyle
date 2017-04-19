@@ -65,7 +65,10 @@
 			</div>
 			<div class="span3">
 				<h2>Organizations</h2>
-				<p><strong>AAF-KC</strong><br>2014&#8212;Present<br>Board of Directors<br>Corporate Membership Chair</p>
+				<p><strong>AAF-KC</strong><br>
+				2015&#8212;2016<br>Board of Directors<br>
+				Vice President, Membership<br>
+				2014&#8212;2015<br>Board of Directors<br>Corporate Membership Chair</p>
 				<p><strong>AIGA KC</strong><br>2011&#8212;2013<br>Web Communications Chair</p>
 				<p><strong>Johnson County Community College</strong><br>2010&#8212;Present<br>Dean&rsquo;s Advisory Board</p>
 				<p><strong>Johnson County Community College</strong><br>2006&#8212;Present<br>Interactive Media Advisory Board</p>
@@ -86,7 +89,7 @@
 					<?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?>
 					<div class="success">
 						<h3>Thank You</h3>
-						<p>Thank you for contacting me, <?php echo $name;?>. Your email was successfully sent and we'll be in touch with you soon.</p>
+						<p>Thank you for contacting me, <?php echo $name;?>. Your email was successfully sent and I'll be in touch with you soon.</p>
 					</div>
 					<?php } ?>
 					
