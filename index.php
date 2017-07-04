@@ -37,15 +37,15 @@
 		<h1>Portfolio</h1>
 		<div class="row">
 			<div class="span6 item">
-				<a href="lee-jeans/"><img src="img/samples/lee-jeans/thumbnail.2x.jpg" width="300" height="150" alt="Lee Product Videos"></a>
+				<a href="ferrellgas/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="370" height="185" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
-					<h2><a href="lee-jeans/">Lee Product Videos</a></h2>
-					<p>Product introduction videos for an iconic brand.</p>
-					<p><a href="lee-jeans/">See the moving work &#187;</a></p>
+					<h2><a href="youtube/">Ferrellgas Website Redesign</a></h2>
+					<p>Responsive redesign and rebrand</p>
+					<p><a href="youtube/">See the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="span6 item">
-				<a href="youtube/"><img src="img/samples/youtube/thumbnail.2x.jpg" width="300" height="150" alt="Garmin YouTube Pre-Roll Ads"></a>
+				<a href="youtube/"><img src="img/samples/youtube/thumbnail.2x.jpg" width="370" height="185" alt="Garmin YouTube Pre-Roll Ads"></a>
 				<div class="inner">
 					<h2><a href="youtube/">YouTube Pre-Roll</a></h2>
 					<p>Pre-roll ads for the launch of Garmin's YouTube channel.<br><strong>Winner:</strong> Gold ADDY Award</p>
@@ -57,19 +57,39 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span6 item">
-				<a href="vivofit/"><img src="img/samples/vivofit/thumbnail.2x.jpg" width="370" height="185" alt="vivofit campaign"></a>
+				<a href="lee-jeans/"><img src="img/samples/lee-jeans/thumbnail.2x.jpg" width="370" height="185" alt="Lee Product Videos"></a>
 				<div class="inner">
-					<h2><a href="vivofit/">v&iacute;vofit</a></h2>
-					<p>Product launch campaign and broadcast advertising for Garmin's top-selling activity tracker</p>
-					<p><a href="vivofit/">Step this way to view the work &#187;</a></p>
+					<h2><a href="lee-jeans/">Lee Product Videos</a></h2>
+					<p>Product introduction videos for an iconic brand.</p>
+					<p><a href="lee-jeans/">See the moving work &#187;</a></p>
 				</div>
 			</div>
 			<div class="span6 item">
-				<a href="holiday/"><img src="img/samples/holiday/thumbnail.2x.jpg" width="370" height="185" alt="Give-a-Garmin Holiday Campaigns"></a>
+				<a href="waddell/"><img src="img/samples/waddell/thumbnail.2x.jpg" width="370" height="185" alt="Waddell and Reed Website Redesign"></a>
 				<div class="inner">
-					<h2><a href="holiday/">Holiday Campaigns</a></h2>
-					<p>&#x266B; Give-a, Give-a, Give-a, Give-a-Garmin &#x266B;</p>
-					<p><a href="holiday/">View the work of Christmas past &#187;</a></p>
+					<h2><a href="lee-jeans/">Waddell &amp; Reed Website Redesign</a></h2>
+					<p>Responsive redesign of a complex web experience</p>
+					<p><a href="lee-jeans/">See the work &#187;</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container items">
+		<div class="row">
+			<div class="span6 item">
+				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" width="370" height="185" alt="Garmin.com Mobile Website"></a>
+				<div class="inner">
+					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
+					<p>Design &amp; development of a mobile-optimized Garmin.com</p>
+					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
+				</div>
+			</div>
+			<div class="span6 item">
+				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="370" height="185" alt="Idea Bucket Website"></a>
+				<div class="inner">
+					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
+					<p>Design &amp; development of an internal idea-sharing website</p>
+					<p><a href="idea-bucket/">Explore the work &#187;</a></p>
 				</div>
 			</div>
 		</div>
@@ -78,19 +98,19 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item">
-				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="300" height="150" alt="Idea Bucket Website"></a>
+				<a href="vivofit/"><img src="img/samples/vivofit/thumbnail.2x.jpg" width="300" height="150" alt="vivofit campaign"></a>
 				<div class="inner">
-					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
-					<p>Design &amp; development of an internal idea-sharing website</p>
-					<p><a href="idea-bucket/">Explore the work &#187;</a></p>
+					<h2><a href="vivofit/">v&iacute;vofit</a></h2>
+					<p>Product launch campaign and broadcast advertising for Garmin's top-selling activity tracker</p>
+					<p><a href="vivofit/">Step this way to view the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
-				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
+				<a href="holiday/"><img src="img/samples/holiday/thumbnail.2x.jpg" width="300" height="150" alt="Give-a-Garmin Holiday Campaigns"></a>
 				<div class="inner">
-					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
-					<p>Design &amp; development of a mobile-optimized Garmin.com</p>
-					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
+					<h2><a href="holiday/">Holiday Campaigns</a></h2>
+					<p>&#x266B; Give-a, Give-a, Give-a, Give-a-Garmin &#x266B;</p>
+					<p><a href="holiday/">View the work of Christmas past &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
