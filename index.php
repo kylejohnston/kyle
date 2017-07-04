@@ -39,9 +39,9 @@
 			<div class="span6 item">
 				<a href="ferrellgas/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="370" height="185" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
-					<h2><a href="youtube/">Ferrellgas Website Redesign</a></h2>
+					<h2><a href="ferrellgas/">Ferrellgas Website Redesign</a></h2>
 					<p>Responsive redesign and rebrand</p>
-					<p><a href="youtube/">See the work &#187;</a></p>
+					<p><a href="ferrellgas/">See the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="span6 item">
@@ -65,11 +65,11 @@
 				</div>
 			</div>
 			<div class="span6 item">
-				<a href="waddell/"><img src="img/samples/waddell/thumbnail.2x.jpg" width="370" height="185" alt="Waddell and Reed Website Redesign"></a>
+				<a href="waddell-reed/"><img src="img/samples/waddell/thumbnail.2x.jpg" width="370" height="185" alt="Waddell and Reed Website Redesign"></a>
 				<div class="inner">
-					<h2><a href="lee-jeans/">Waddell &amp; Reed Website Redesign</a></h2>
+					<h2><a href="waddell-reed/">Waddell &amp; Reed Website Redesign</a></h2>
 					<p>Responsive redesign of a complex web experience</p>
-					<p><a href="lee-jeans/">See the work &#187;</a></p>
+					<p><a href="waddell-reed/">See the work &#187;</a></p>
 				</div>
 			</div>
 		</div>
