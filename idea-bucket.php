@@ -15,8 +15,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2 
-		 									{ color: #70992e; }
+		 .featurette h2 { color: #70992e; }
 		.intro { background-color: #70992e; }
 	</style>
 </head>
@@ -57,7 +56,7 @@
 					</div>
 					<div class="span7">
 						<div class="inner">
-							<img src="../img/samples/idea-bucket/homepage.jpg" alt="Idea Bucket Homepage" class="img-border">
+							<img class="shadow" src="../img/samples/idea-bucket/homepage.jpg" alt="Idea Bucket Homepage" class="img-border">
 						</div>
 					</div>
 				</div>
@@ -68,7 +67,7 @@
 				<div class="row clear">
 					<div class="span5">
 						<div class="inner">
-							<img src="../img/samples/idea-bucket/idea-detail.jpg" alt="Idea Bucket - Idea Detail Page" class="img-border">
+							<img class="shadow" src="../img/samples/idea-bucket/idea-detail.jpg" alt="Idea Bucket - Idea Detail Page" class="img-border">
 						</div>
 					</div>
 					<div class="span7">
