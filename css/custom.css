@@ -198,6 +198,11 @@ header h1 {
 	display: block;
 	margin: 1em auto;
 }
+img.shadow {
+	-webkit-box-shadow: 0px 20px 60px #BBBBBB;
+	-moz-box-shadow: 0px 20px 60px #BBBBBB;
+	box-shadow: 0px 20px 60px #BBBBBB;
+}
 .caption {
 	margin-bottom: 1.5em;
 	text-align: center;
@@ -211,6 +216,7 @@ header h1 {
 	font-style: italic;
 	font-size: 16px;
 	font-size: 1rem;
+	text-align: center !important;
 }
 
 /* Carousel  */
