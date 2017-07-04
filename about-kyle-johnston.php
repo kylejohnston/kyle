@@ -31,9 +31,9 @@
 			<div class="span6">
 				<h2>Experience Summary</h2>
 				<ul>
-					<li>Twenty years of graphic design &amp; marketing communications experience</li>
-					<li>Seventeen years of web &amp; interactive design experience</li>
-					<li>Fifteen years of management &amp; leadership experience</li>
+					<li>Twenty years of graphic design and marketing communications experience</li>
+					<li>Seventeen years of web and interactive design experience</li>
+					<li>Fifteen years of management and leadership experience</li>
 					<li>Outstanding interpersonal and communication skills</li>
 					<li>Extensive experience with creative and strategic planning</li>
 					<li>Excellent collaboration and problem-solving abilities</li>
