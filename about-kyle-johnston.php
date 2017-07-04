@@ -16,8 +16,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited, 
-		 h1, h2 
-		 	 			  { color: #e14526; }
+		 h1, h2 { color: #e14526; }
 		.intro { background-color: #e14526; }
 	</style>
 </head>
@@ -26,14 +25,6 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>A little about me...</h1>
-					<p style="text-align:left;"><img style="float:right; margin:0 0 0 1em; border-radius:5px; opacity:.8;" src="../img/kyle-w-johnston-headshot.png" alt="Kyle W. Johnston, Creative Director">I am currently the Director of Creative at Vista Outdoor, a leader in the outdoor sports and recreation markets. I lead a talented creative team and collaborate with external agencies to produce a range of engaging marketing and advertising for more than 40 brands.</p>
-				</div>
-			</div>
-		</div>
 	</div>
 	<div class="container items" style="margin-top:2em;">
 		<div class="row">
@@ -48,7 +39,8 @@
 					<li>Excellent collaboration and problem-solving abilities</li>
 					<li><a href="//kylewjohnston.com/files/kyle-w-johnston-resume.pdf">Download my resume</a> and learn more about my career.</li>
 				</ul>
-				<p>Previous to Vista Outdoor, I was the Creative Director at DEG, a rapidly growing digital marketing and advertising agency based in Kansas City, and Garmin International. In my time at Garmin, I had a front row seat to its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, comprised of art directors, copywriters, UX specialists, motion designers, photographers and videographers.</p>
+				<p>Most recently, I served as the Director of Creative at Vista Outdoor, a leader in the outdoor sports and recreation markets. I led talented creative teams in three locations across the US, and collaborated with internal business partners and external agencies to produce a range of engaging marketing and advertising for 50 brands.</p>
+				<p>Prior to Vista Outdoor, I was the Creative Director at DEG, a rapidly growing digital marketing and advertising agency based in Kansas City, and Garmin International. In my time at Garmin, I had a front row seat to its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, comprised of art directors, copywriters, UX specialists, motion designers, photographers and videographers.</p>
 				<p>My time at Garmin also gave me the opportunity to collaborate with other leading brands, including Red Bull, Burton, AT&amp;T, Asus, and more.</p>
 			</div>
 			<div class="span3">
@@ -60,6 +52,10 @@
 					<li>Print design</li>
 					<li>User interface design</li>
 				</ul>
+				<hr>
+				<h2>Recent Writing</h2>
+				<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-deec90cfb4de">30 Days to App</a></strong></p>
+				<hr>
 				<h2>Speaking</h2>
 				<p><strong><a href="http://www.slideshare.net/flow14/herding-cats-53255448">Herding Cats</a></strong><br>Federal Reserve Bank - Web Developers, Editors &amp; Designers Conference<br>September 2015</p>
 			</div>
