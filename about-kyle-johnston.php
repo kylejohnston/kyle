@@ -32,7 +32,7 @@
 				<h2>Experience Summary</h2>
 				<ul>
 					<li>Twenty years of graphic design and marketing communications experience</li>
-					<li>Seventeen years of web and interactive design experience</li>
+					<li>Eighteen years of web and interactive design experience</li>
 					<li>Fifteen years of management and leadership experience</li>
 					<li>Outstanding interpersonal and communication skills</li>
 					<li>Extensive experience with creative and strategic planning</li>

@@ -9,7 +9,6 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/iphone-365-project" rel="canonical" />
-
 	<?php include('includes/head.php'); ?>
 </head>
 
@@ -43,9 +42,11 @@
 							<strong>Music:</strong> <em>The Rest Is Noise</em> by Jamie XX</p>
 						</div>
 					</div>
-					<div class="span7 video-container">
+					<div class="span7">
 						<div class="inner">
-							<iframe width="600" height="338" src="https://www.youtube.com/embed/GB4q3pn4D1Y?rel=0" frameborder="0" allowfullscreen></iframe>
+							<div class="video-container">
+								<iframe width="600" height="338" src="https://www.youtube.com/embed/GB4q3pn4D1Y?rel=0"  allowfullscreen></iframe>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -67,9 +68,11 @@
 							<strong>Music:</strong> <em>Home</em> by LCD Soundsystem, edited with <a href="http://audacityteam.org">Audacity</a></p>
 						</div>
 					</div>
-					<div class="span7 video-container">
+					<div class="span7">
 						<div class="inner">
-							<iframe width="600" height="450" src="https://www.youtube.com/embed/Q9bN0umbgK8?rel=0" frameborder="0" allowfullscreen></iframe>
+							<div class="video-container">
+								<iframe width="600" height="450" src="https://www.youtube.com/embed/Q9bN0umbgK8?rel=0"  allowfullscreen></iframe>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -91,9 +94,11 @@
 							<strong>Music:</strong> Set to <em>"Nous étions deux"</em> by La Femme</p>
 						</div>
 					</div>
-					<div class="span7 video-container">
+					<div class="span7">
 						<div class="inner">
-							<iframe src="http://player.vimeo.com/video/115783465?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							<div class="video-container">
+								<iframe src="http://player.vimeo.com/video/115783465?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -104,9 +109,11 @@
 		<div class="featurette featurette-alt">
 			<div class="container">
 				<div class="row">
-					<div class="span7 video-container">
+					<div class="span7">
 						<div class="inner">
-							<iframe src="http://player.vimeo.com/video/83177011?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							<div class="video-container">
+								<iframe src="http://player.vimeo.com/video/83177011?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							</div>
 						</div>
 					</div>
 					<div class="span5">
@@ -128,16 +135,20 @@
 		<div class="featurette">
 			<div class="container">
 				<div class="row">
-					<div class="span6 video-container">
+					<div class="span6">
 						<div class="inner" style="text-align: center;">
 							<h2>2012 <span class="caption">(Leap Year)</span></h2>
-							<iframe src="http://player.vimeo.com/video/56615870?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							<div class="video-container">
+								<iframe src="http://player.vimeo.com/video/56615870?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							</div>
 						</div>
 					</div>
-					<div class="span6 video-container">
+					<div class="span6">
 						<div class="inner">
 							<h2>2011</h2>
-							<iframe src="http://player.vimeo.com/video/34446500?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							<div class="video-container">
+								<iframe src="http://player.vimeo.com/video/34446500?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -148,32 +159,27 @@
 		<div class="featurette featurette-alt">
 			<div class="container">
 				<div class="row">
-					<div class="span6 video-container">
+					<div class="span6">
 						<div class="inner">
 							<h2>2010</h2>
-							<iframe src="http://player.vimeo.com/video/18376909?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							<div class="video-container">
+								<iframe src="http://player.vimeo.com/video/18376909?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							</div>
 						</div>
 					</div>
-					<div class="span6 video-container">
+					<div class="span6">
 						<div class="inner">
 							<h2>2009</h2>
-							<iframe src="http://player.vimeo.com/video/8490705?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							<div class="video-container">
+								<iframe src="http://player.vimeo.com/video/8490705?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" allowFullScreen></iframe>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-
 		<?php include('includes/footer.php'); ?>
 	</div>
 	<?php include('includes/foot.php'); ?>
-	<script src="js/jquery.fitvids.min.js"></script>
-	<script>
-		$(document).ready(function(){
-			// Target your .container, .wrapper, .post, etc.
-			$(".video-container").fitVids();
-		});
-	</script>
-
 </body>
 </html>
