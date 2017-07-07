@@ -57,6 +57,7 @@
 				<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-deec90cfb4de">30 Days to App</a></strong></p>
 				<hr>
 				<h2>Speaking</h2>
+				<p><strong>Freelance vs. Agency vs. Corporate</strong><br>Panel Moderator<br>AAF-KC Spark KC Career Conference<br>November 2015</p>
 				<p><strong><a href="http://www.slideshare.net/flow14/herding-cats-53255448">Herding Cats</a></strong><br>Federal Reserve Bank - Web Developers, Editors &amp; Designers Conference<br>September 2015</p>
 			</div>
 			<div class="span3">
