@@ -55,6 +55,7 @@
 				<hr>
 				<h2>Recent Writing</h2>
 				<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-deec90cfb4de">30 Days to App</a></strong></p>
+				<p><strong><a href="https://medium.com/@kylejohnston/thirty-days-to-app-week-2-4a91f3bac6ce">30 Days to App, Week 2</a></strong></p>
 				<hr>
 				<h2>Speaking</h2>
 				<p><strong>Freelance vs. Agency vs. Corporate</strong><br>Panel Moderator<br>AAF-KC Spark KC Career Conference<br>November 2015</p>
