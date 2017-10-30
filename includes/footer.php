@@ -16,6 +16,9 @@
 						</div>
 					</div>
 					<div class="span4">
+						<div class="inner">
+							<p>(do)</p>
+						</div>
 					</div>
 				</div>
 			</div>
