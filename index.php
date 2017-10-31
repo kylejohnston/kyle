@@ -45,30 +45,10 @@
 				</div>
 			</div>
 			<div class="span6 item">
-				<a href="youtube/"><img src="img/samples/youtube/thumbnail.2x.jpg" width="370" height="185" alt="Garmin YouTube Pre-Roll Ads"></a>
-				<div class="inner">
-					<h2><a href="youtube/">YouTube Pre-Roll</a></h2>
-					<p>Pre-roll ads for the launch of Garmin's YouTube channel.<br><strong>Winner:</strong> Gold ADDY Award</p>
-					<p><a href="youtube/">Roll the video &#187;</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="container items">
-		<div class="row">
-			<div class="span6 item">
-				<a href="lee-jeans/"><img src="img/samples/lee-jeans/thumbnail.2x.jpg" width="370" height="185" alt="Lee Product Videos"></a>
-				<div class="inner">
-					<h2><a href="lee-jeans/">Lee Product Videos</a></h2>
-					<p>Product introduction videos for an iconic brand.</p>
-					<p><a href="lee-jeans/">See the moving work &#187;</a></p>
-				</div>
-			</div>
-			<div class="span6 item">
 				<a href="waddell-reed/"><img src="img/samples/waddell/thumbnail.2x.jpg" width="370" height="185" alt="Waddell and Reed Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="waddell-reed/">Waddell &amp; Reed Website Redesign</a></h2>
-					<p>Responsive redesign of a complex web experience</p>
+					<p>Responsive redesign and simplification of a complex web experience</p>
 					<p><a href="waddell-reed/">See the work &#187;</a></p>
 				</div>
 			</div>
@@ -94,7 +74,26 @@
 			</div>
 		</div>
 	</div>
-
+	<div class="container items">
+		<div class="row">
+			<div class="span6 item">
+				<a href="lee-jeans/"><img src="img/samples/lee-jeans/thumbnail.2x.jpg" width="370" height="185" alt="Lee Product Videos"></a>
+				<div class="inner">
+					<h2><a href="lee-jeans/">Lee Product Videos</a></h2>
+					<p>Product introduction videos for an iconic brand.</p>
+					<p><a href="lee-jeans/">See the moving work &#187;</a></p>
+				</div>
+			</div>
+			<div class="span6 item">
+				<a href="youtube/"><img src="img/samples/youtube/thumbnail.2x.jpg" width="370" height="185" alt="Garmin YouTube Pre-Roll Ads"></a>
+				<div class="inner">
+					<h2><a href="youtube/">YouTube Pre-Roll</a></h2>
+					<p>Pre-roll ads for the launch of Garmin's YouTube channel.<br><strong>Winner:</strong> Gold ADDY Award</p>
+					<p><a href="youtube/">Roll the video &#187;</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item">
