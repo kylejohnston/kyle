@@ -1,4 +1,3 @@
-<?php include('includes/email.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,6 +17,7 @@
 		 header h1 span a:visited, 
 		 h1, h2 { color: #e14526; }
 		.intro { background-color: #e14526; }
+		section { margin: 1em 0; }
 	</style>
 </head>
 
@@ -26,11 +26,15 @@
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
 	</div>
-	<div class="container items" style="margin-top:2em;">
-		<div class="row">
-			<div class="span6">
-				<h2>Experience Summary</h2>
-				<ul>
+	<div class="container items" style="/*margin-top:2em;*/">
+		<!-- Section: About Me -->
+		<section class="row">
+			<!-- <div class="span2"></div> -->
+			<div class="span10">
+				<div class="about-me"><img src="../img/kyle-johnston.jpg" alt="Kyle Johnston"></div>
+				<h1>About Me</h1>
+				<p>I’m a passionate and unflappable creative leader and designer with twenty years of broad-ranging design experience including extensive experience in practicing and leading design, creative strategy, and operational leadership and development. I’ve utilized my background in communication design, user-centered design, and team leadership to successfully build, manage, and mentor diverse teams in both in-house and agency environments.</p>
+				<!-- <ul>
 					<li>Twenty years of graphic design and marketing communications experience</li>
 					<li>Eighteen years of web and interactive design experience</li>
 					<li>Fifteen years of management and leadership experience</li>
@@ -38,107 +42,92 @@
 					<li>Extensive experience with creative and strategic planning</li>
 					<li>Excellent collaboration and problem-solving abilities</li>
 					<li><a href="/files/kyle-johnston-creative-leader-designer-2017.pdf">Download my resume</a> and learn more about my career.</li>
-				</ul>
-				<p>Most recently, I served as the Director of Creative at Vista Outdoor, a leader in the outdoor sports and recreation markets. I led talented creative teams in three locations across the US, and collaborated with internal business partners and external agencies to produce a range of engaging marketing and advertising for 50 brands.</p>
+				</ul> -->
+				<p>Most recently, I served as the Director of Creative at Vista Outdoor, a leader in the outdoor sports and recreation markets. I led talented creative teams across multiple US offices, and collaborated with internal business partners and external agencies to produce a range of engaging cross-channel marketing and advertising for 50 brands.</p>
 				<p>Prior to Vista Outdoor, I was the Creative Director at DEG, a rapidly growing digital marketing and advertising agency based in Kansas City, and Garmin International. In my time at Garmin, I had a front row seat to its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, comprised of art directors, copywriters, UX specialists, motion designers, photographers and videographers.</p>
-				<p>My time at Garmin also gave me the opportunity to collaborate with other leading brands, including Red Bull, Burton, AT&amp;T, Asus, and more.</p>
-			</div>
-			<div class="span3">
+				<p><a href="/files/kyle-johnston-creative-leader-designer-2017.pdf">Download my complete resume</a> and learn more about my career.</p>
+			</div> <!-- /span8 -->
+			<div class="span2"></div>
+		</section>
+		<!-- /Section: About Me -->
+		<!-- Section: Key Skills -->
+		<section class="row">
+			<!-- <div class="span2"></div> -->
+			<div class="span10">
 				<h2>Key Skills</h2>
-				<ul>
-					<li>Art &amp; creative direction</li>
-					<li>Web &amp; UX design, including front-end design and development of mobile, responsive, and desktop websites</li>
-					<li>Branding &amp; visual identity</li>
-					<li>Print design</li>
-					<li>User interface design</li>
-				</ul>
-				<hr>
-				<h2>Recent Writing</h2>
-				<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-deec90cfb4de">30 Days to App</a></strong></p>
-				<p><strong><a href="https://medium.com/@kylejohnston/thirty-days-to-app-week-2-4a91f3bac6ce">30 Days to App, Week 2</a></strong></p>
-				<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-week-3-33f85306b800">30 Days to App, Week 3</a></strong></p>
-				<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-week-4-e7cda94089bd">30 Days to App, Week 4</a></strong></p>
-				<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-day-30-4501d84a5dbb">30 Days to App, Day 30</a></strong></p>
-				<hr>
-				<h2>Speaking</h2>
-				<p><strong>Freelance vs. Agency vs. Corporate</strong><br>Panel Moderator<br>AAF-KC Spark KC Career Conference<br>November 2015</p>
-				<p><strong><a href="http://www.slideshare.net/flow14/herding-cats-53255448">Herding Cats</a></strong><br>Federal Reserve Bank - Web Developers, Editors &amp; Designers Conference<br>September 2015</p>
-			</div>
-			<div class="span3">
-				<h2>Organizations</h2>
-				<p><strong>AAF-KC</strong><br>
-				2015&#8212;2016<br>Board of Directors<br>
-				Vice President, Membership<br>
-				2014&#8212;2015<br>Board of Directors<br>Corporate Membership Chair</p>
-				<p><strong>AIGA KC</strong><br>2011&#8212;2013<br>Web Communications Chair</p>
-				<p><strong>Johnson County Community College</strong><br>2010&#8212;Present<br>Dean&rsquo;s Advisory Board</p>
-				<p><strong>Johnson County Community College</strong><br>2006&#8212;Present<br>Interactive Media Advisory Board</p>
-			</div>
-		</div>
-	</div>
-	<div class="container">
-		<div class="row">
-			<h2 class="span12">Say Hi</h2>
-			<div class="span6">
-				<a name="contact"></a>
-				<h3>Email Me:</h3>
-				<div id="contactWrapper" role="form">
-					<?php if(isset($hasError)) { //If errors are found ?>
-					<p class="error">Please check if you've filled all the fields with valid information and try again. Thank you.</p>
-					<?php } ?>
-					
-					<?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?>
-					<div class="success">
-						<h3>Thank You</h3>
-						<p>Thank you for contacting me, <?php echo $name;?>. Your email was successfully sent and I'll be in touch with you soon.</p>
+				<div class="row">
+					<div class="span5">
+						<h3>8&mdash;15 years of experience</h3>
+						<ul>
+							<li>Creating responsive websites with HTML,  CSS and JavaScript</li>
+							<li>Web and UX team management, including design, research, frontend, and content roles</li>
+							<li>Educating clients on the benefits of  user-centered design and UX principles</li>
+							<li>Leading client concept pitch meetings, brainstorm sessions, and creative workshops</li>
+						</ul>
 					</div>
-					<?php } ?>
-					
-					<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
-						<div class="stage clear">
-							<label for="contactname">Your Name: <em>*</em></label>
-							<input type="text" name="contactname" id="contactname" value="" class="text required" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="email" >Your Email: <em>*</em></label>
-							<input type="email" name="email" id="email" value="" class="text required email" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="subject">Subject: <em>*</em></label>
-							<input type="text" name="subject" id="subject" value="" class="text required" role="input" aria-required="true" />
-						</div>
-						
-						<div class="stage clear">
-							<label for="message">Message: <em>*</em></label>
-							<textarea rows="8" name="message" id="message" class="text required" role="textbox" aria-required="true"></textarea>
-						</div>
-						
-						<p class="requiredNote"><em>*</em> Denotes a required field.</p>
-						
-						<input class="btn" type="submit" value="Send Message" name="submit" id="submitButton" title="Click here to submit your message!" />
-					</form>
-			</div>
-			</div>
-			<div class="span3">
-				<h3>Call Me:</h3><h3>913-707-7442</h3>
-			</div>
-			<div class="span3">
-				<p>Here are a few of the other places you can find me on the web:<br>
-				<a class="linkedin" href="http://www.linkedin.com/in/kylejohnston">LinkedIn</a><br>
-				<a class="twitter" href="https://twitter.com/creativecohort">Twitter</a><br>
-				<a class="instagram" href="https://instagram.com/kylejohnston/">Instagram</a><br>
-				<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a><br>
-				<a class="github" href="https://github.com/kylejohnston">GitHub</a><br>
-				<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a><br>
-				<a class="flickr" href="http://www.flickr.com/photos/flow14/">Flickr</a><br>
-				<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a><br>
-				<a class="vimeo" href="http://vimeo.com/flow14">Vimeo</a><br>
-				</p>
-			</div>
-		</div>
-
+					<div class="span5">
+						<h3>15&#43; years of experience</h3>
+						<ul>
+							<li>Creative team recruiting, hiring, management, and leadership in both in-house and agency environments</li>
+							<li>Team mentoring, coaching, and career path development</li>
+							<li>Branding and visual identity development</li>
+							<li>Adobe Creative Suite, including Photoshop, Illustrator, and InDesign</li>
+						</ul>
+					</div>
+				</div> <!-- /sub-row -->
+			<div class="span2"></div>
+		</section>
+		<!-- /Section: Key Skills -->
+		<!-- Section: Writing and Speaking -->
+		<section class="row">
+			<!-- <div class="span2"></div> -->
+			<div class="span10">
+				<h2>Speaking &amp; Writing</h2>
+				<div class="row">
+					<div class="span5">
+						<h3>Speaking</h3>
+						<p><strong>Freelance vs. Agency vs. Corporate</strong><br>Panel Moderator<br>AAF-KC Spark KC Career Conference<br>November 2015</p>
+						<p><strong><a href="http://www.slideshare.net/flow14/herding-cats-53255448">Herding Cats</a></strong><br>Federal Reserve Bank<br>Web Developers, Editors &amp; Designers Conference<br>September 2015</p>
+					</div>
+					<div class="span5">
+						<h3>Recent Writing</h3>
+						<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-day-30-4501d84a5dbb">30 Days to App, Day 30</a></strong></p>
+						<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-week-4-e7cda94089bd">30 Days to App, Week 4</a></strong></p>
+						<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-week-3-33f85306b800">30 Days to App, Week 3</a></strong></p>
+						<p><strong><a href="https://medium.com/@kylejohnston/thirty-days-to-app-week-2-4a91f3bac6ce">30 Days to App, Week 2</a></strong></p>
+						<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-deec90cfb4de">30 Days to App</a></strong></p>
+					</div>
+				</div>
+			<div class="span2"></div>
+		</section>
+		<!-- /Section: Writing and Speaking -->
+		<!-- Section: Orgs and Awards -->
+		<section class="row">
+			<!-- <div class="span2"></div> -->
+			<div class="span10">
+				<h2>Professional Organizations &amp; Awards</h2>
+				<div class="row">
+					<div class="span5">
+						<h3>Professional Organizations</h3>
+						<p><strong>AAF-KC Board of Directors</strong><br>
+							Vice President, Membership, 2015&#8212;2016<br>
+							Corporate Membership Chair, 2014&#8212;2015</p>
+						<p><strong>AIGA KC</strong><br>
+							Web Communications Chair, 2011&#8212;2013</p>
+						<p><strong>Johnson County Community College</strong><br>
+							Dean&rsquo;s Advisory Board, 2010&#8212;Present<br>
+							Interactive Media Advisory Board, 2006&#8212;Present</p>
+					</div>
+					<div class="span5">
+						<h3>Awards</h3>
+						<p>Gold American Advertising Award (Regional), 2015, Garmin YouTube video series</p>
+						<p>Gold American Advertising Award (Regional), 2009, Garmin Outdoor interactive microsite</p>
+						<p>National American Advertising Award Nomination, 2009, Garmin Outdoor interactive microsite</p>
+					</div>
+				</div>
+			<div class="span2"></div>
+		</section>
+		<!-- /Section: Orgs and Awards -->
 	</div>
 	<div class="container marketing">
 		<?php include('includes/footer.php'); ?>
