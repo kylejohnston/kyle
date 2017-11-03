@@ -34,15 +34,6 @@
 				<div class="about-me"><img src="../img/kyle-johnston.jpg" alt="Kyle Johnston"></div>
 				<h1>About Me</h1>
 				<p>I’m a passionate and unflappable creative leader and designer with twenty years of broad-ranging design experience including extensive experience in practicing and leading design, creative strategy, and operational leadership and development. I’ve utilized my background in communication design, user-centered design, and team leadership to successfully build, manage, and mentor diverse teams in both in-house and agency environments.</p>
-				<!-- <ul>
-					<li>Twenty years of graphic design and marketing communications experience</li>
-					<li>Eighteen years of web and interactive design experience</li>
-					<li>Fifteen years of management and leadership experience</li>
-					<li>Outstanding interpersonal and communication skills</li>
-					<li>Extensive experience with creative and strategic planning</li>
-					<li>Excellent collaboration and problem-solving abilities</li>
-					<li><a href="/files/kyle-johnston-creative-leader-designer-2017.pdf">Download my resume</a> and learn more about my career.</li>
-				</ul> -->
 				<p>Most recently, I served as the Director of Creative at Vista Outdoor, a leader in the outdoor sports and recreation markets. I led talented creative teams across multiple US offices, and collaborated with internal business partners and external agencies to produce a range of engaging cross-channel marketing and advertising for 50 brands.</p>
 				<p>Prior to Vista Outdoor, I was the Creative Director at DEG, a rapidly growing digital marketing and advertising agency based in Kansas City, and Garmin International. In my time at Garmin, I had a front row seat to its explosive growth – from a niche brand known for its early innovations in Marine, Aviation and Outdoor GPS electronics, to its current standing as a global brand. Similarly, the teams I led there grew – from a small, scrappy band of web designers to a team of over 50, comprised of art directors, copywriters, UX specialists, motion designers, photographers and videographers.</p>
 				<p><a href="/files/kyle-johnston-creative-leader-designer-2017.pdf">Download my complete resume</a> and learn more about my career.</p>
