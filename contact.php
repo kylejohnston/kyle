@@ -3,13 +3,13 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>About Kyle W. Johnston, a Creative Director &amp; Designer in Kansas City</title>
+	<title>Contact Kyle W. Johnston, a Creative Director &amp; Designer in Kansas City</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="description" content="I am currently Director of Creative at Vista Outdoor, where I lead a talented team of creative professionals who collaborate with internal marketing and sales teams and partner with external agencies to deliver innovative marketing and advertising." />
+	<meta name="description" content="I am a Creative Leader and Designer based in Kansas City." />
 	<meta name="keywords" content="kyle johnston, creative director, designer, resume, contact, web designer, kansas city, garmin, flow14, vista outdoor, deg digital" />
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.kylewjohnston.com/about-kyle-johnston" rel="canonical" />
+	<link href="http://www.kylewjohnston.com/contact" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
@@ -18,7 +18,6 @@
 		 header h1 span a:visited, 
 		 h1, h2 { color: #e14526; }
 		.intro { background-color: #e14526; }
-		section { margin: 1em 0; }
 	</style>
 </head>
 
