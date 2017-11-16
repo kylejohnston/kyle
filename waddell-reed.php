@@ -9,7 +9,7 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.kylewjohnston.com/waddell-reed" rel="canonical" />
-	<?php include('includes/head.php'); ?>
+	<?php include('//www.kylewjohnston.com/includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
@@ -27,9 +27,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="introduction">
-					<h1>Waddell &amp; Reed Website Redesign</h1>
-					<p>In 2016, I led the design team at DEG, to work with <a href="https://www.waddell.com">Waddell &amp; Reed</a> &#8212; an asset management and financial planning company &#8212; to overhaul their outdated, disorganized and difficult to manage web experience and replatform to Sitecore to allow for a personalized experience.</p>
-					<p><strong>My role:</strong> Creative Director</p>
+					<h1>Investing in Better UX</h1>
+					<p><strong>The Challenge:</strong> <a href="https://www.waddell.com">Waddell &amp; Reed</a> &#8212; an asset management and financial planning company &#8212; had an outdated, disorganized, and difficult to manage web experience that was confusing for both customers and employees.</p>
+					<p class="credit""><strong>My role:</strong> Creative Director &#64; DEG, 2016</p>
 				</div>
 			</div>
 		</div>
@@ -39,16 +39,47 @@
 			<div class="container">
 				<div class="row">
 					<div class="span5">
-						<div class="inner">
-							<p>Throughout the project, my design team collaborated closely with our colleagues in content strategy, UX, and front end development. We started by providing style tiles to the development team, who then used a development tool called Pattern Lab to quickly validate design decisions and provide internal and external stakeholders with prototypes that could be tested on different devices.</p>
-							<p>This highly collaborative process ensured all stakeholders had a clear understanding of how the desktop experience translated to mobile and helped avoid late-stage changes that could have derailed the aggressive timeline.</p>
+						<div class="inner">				
+							<h2>Where We Started</h2>
+							<p>Waddell &amp; Reed had more than 4 separate websites, all hard-coded, and none were mobile-optimized. We started by evaluating their external and internal audiences and matrix of sites and came away with three main objectives for the new web experience:
+							<ul>
+								<li>Increase positive brand recognition through improved website content and functionality</li>
+								<li>Allow for efficiency in updating website content</li>
+								<li>Improve marketing efforts using SEO, personalized content, and more</li>
+							</ul>
+							</p>
 						</div>
 					</div>
 					<div class="span7">
 						<div class="inner">
 							<div class="caption">
-								<img src="../img/samples/waddell/waddell-home-mockup.jpg" alt="Waddell & Reed Homepage">
-								<p>Homepage</p>
+								<img src="//www.kylewjohnston.com/img/samples/waddell/waddell-old-sites.920.png" alt="Waddell & Reed Homepage">
+								<p>The disarray of old websites</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span5">
+						<div class="inner">				
+							<h2>Sharing Progress</h2>
+							<p>As we progressed through the initial design phase of the project, we used <a href="http://styletil.es">style tiles</a> to quickly iterate ideas and gain client approvals. The UI team used our style tiles to populate a development tool called <a href="http://patternlab.io">Pattern Lab</a>. This helped us quickly validate design decisions and provided internal and external stakeholders with prototypes that could be tested on different devices.</p>
+							<p>This highly collaborative process ensured all stakeholders had a clear understanding of how the desktop experience translated to mobile and helped avoid late-stage changes that could have derailed the aggressive timeline.</p>
+							<div class="caption">
+								<img class="shadow" src="//www.kylewjohnston.com/img/samples/waddell/pattern-lab-atoms.920.jpg" alt="Waddell & Reed Homepage">
+								<p>Pattern Lab - atoms</p>
+							</div>
+						</div>
+					</div>
+					<div class="span7">
+						<div class="inner">
+							<div class="caption">
+								<img class="shadow" src="//www.kylewjohnston.com/img/samples/waddell/pattern-lab-fund-desktop_clip.920.jpg" alt="Waddell & Reed Homepage">
+								<p>Pattern Lab - fund page template</p>
 							</div>
 						</div>
 					</div>
@@ -58,19 +89,21 @@
 		<div class="featurette">
 			<div class="container">
 				<div class="row clear">
-					<div class="span7">
+					<div class="span6">
 						<div class="inner">
+							<h2>The Results</h2>
+							<p>Launched in September, 2016, Waddell &amp; Reed&rsquo;s redesigned website features strategically organized content within an engaging user experience and design. The investment in improving Waddell.com allowed Waddell &amp; Reed to focus on their most important investments: those of its clients.</p>
 							<div class="caption">
-								<p>Find an Advisor page</p>
-								<img class="shadow" src="../img/samples/waddell/waddell-find-advisor.jpg" alt="Waddell & Reed - Find an Advisor page">
+								<img class="shadow" src="//www.kylewjohnston.com/img/samples/waddell/waddell-homepage.920.jpg" alt="Waddell & Reed - The New Homepage">
+								<p>The new homepage</p>
 							</div>
 						</div>
 					</div>
-					<div class="span5">
+					<div class="span6">
 						<div class="inner">
 							<div class="caption">
-								<p>Find an Advisor page, mobile view</p>
-								<img class="shadow" src="../img/samples/waddell/waddell-find-advisor-mobile.jpg" alt="Waddell & Reed - Find an Advisor page">
+								<img class="shadow" src="//www.kylewjohnston.com/img/samples/waddell/waddell-find-advisor.jpg" alt="Waddell & Reed - Find an Advisor page">
+								<p>Find an Advisor page</p>
 							</div>
 						</div>
 					</div>
@@ -80,17 +113,6 @@
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
-	<?php include('includes/foot.php'); ?>
-	<script type="text/javascript">
-	$(window).load(function(){
-		$('#main-slider').flexslider({
-			animation: "slide",
-			controlsContainer: '.flex-container',
-			start: function(slider){
-				$('body').removeClass('loading');
-			}
-		});
-	});
-	</script>
+	<?php include('//www.kylewjohnston.com/includes/foot.php'); ?>
 </body>
 </html>

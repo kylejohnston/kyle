@@ -31,7 +31,7 @@
 		<section class="row">
 			<!-- <div class="span2"></div> -->
 			<div class="span10">
-				<div class="about-me"><img src="../img/kyle-johnston.jpg" alt="Kyle Johnston"></div>
+				<div class="about-me"><img src="//www.kylewjohnston.com/img/kyle-johnston.jpg" alt="Kyle Johnston"></div>
 				<h1>About Me</h1>
 				<p>I’m a passionate and unflappable creative leader and designer with twenty years of broad-ranging design experience including extensive experience in practicing and leading design, creative strategy, and operational leadership and development. I’ve utilized my background in communication design, user-centered design, and team leadership to successfully build, manage, and mentor diverse teams in both in-house and agency environments.</p>
 				<p>Most recently, I served as the Director of Creative at Vista Outdoor, a leader in the outdoor sports and recreation markets. I led talented creative teams across multiple US offices, and collaborated with internal business partners and external agencies to produce a range of engaging cross-channel marketing and advertising for 50 brands.</p>

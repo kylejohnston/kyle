@@ -60,7 +60,7 @@
 				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" width="370" height="185" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
 					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
-					<p>Design &amp; development of a mobile-optimized Garmin.com</p>
+					<p>Wireframing, design, &amp; development of a mobile-optimized Garmin.com</p>
 					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
 			</div>

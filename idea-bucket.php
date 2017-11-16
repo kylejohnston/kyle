@@ -9,7 +9,7 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.kylewjohnston.com/idea-bucket" rel="canonical" />
-	<?php include('includes/head.php'); ?>
+	<?php include('//www.kylewjohnston.com/includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
@@ -56,7 +56,7 @@
 					</div>
 					<div class="span7">
 						<div class="inner">
-							<img class="shadow" src="../img/samples/idea-bucket/homepage.jpg" alt="Idea Bucket Homepage" class="img-border">
+							<img class="shadow" src="//www.kylewjohnston.com/img/samples/idea-bucket/homepage.jpg" alt="Idea Bucket Homepage" class="img-border">
 						</div>
 					</div>
 				</div>
@@ -67,7 +67,7 @@
 				<div class="row clear">
 					<div class="span5">
 						<div class="inner">
-							<img class="shadow" src="../img/samples/idea-bucket/idea-detail.jpg" alt="Idea Bucket - Idea Detail Page" class="img-border">
+							<img class="shadow" src="//www.kylewjohnston.com/img/samples/idea-bucket/idea-detail.jpg" alt="Idea Bucket - Idea Detail Page" class="img-border">
 						</div>
 					</div>
 					<div class="span7">
@@ -84,6 +84,6 @@
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
-	<?php include('includes/foot.php'); ?>
+	<?php include('//www.kylewjohnston.com/includes/foot.php'); ?>
 </body>
 </html>

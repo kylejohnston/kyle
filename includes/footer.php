@@ -1,7 +1,7 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="span4">
+					<div class="span6">
 						<div class="inner">
 							<p>
 								<span class="me">Kyle W. Johnston &#8211; Creative Leader &amp; Designer</span><br>
@@ -15,7 +15,7 @@
 							<span>913 707-7442</span><br><a href="/contact/" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Email']);"><strong>Email</strong></a></p>
 						</div>
 					</div>
-					<div class="span4">
+					<div class="span2">
 						<div class="inner">
 							<p>(do)</p>
 						</div>

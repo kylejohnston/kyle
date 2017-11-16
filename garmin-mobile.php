@@ -9,14 +9,14 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.kylewjohnston.com/garmin-mobile" rel="canonical" />
-	<?php include('includes/head.php'); ?>
+	<?php include('//www.kylewjohnston.com/includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
 		 .featurette h2 
-		 									{ color: #137ec2; }
+		 { color: #137ec2; }
 		.intro { background-color: #137ec2; }
 	</style>
 </head>
@@ -50,15 +50,29 @@
 					<div class="span6">
 						<div class="inner">
 							<div id="main-slider" class="flexslider">
-							<ul class="slides">
-								<li style="text-align:center;">
-									<p class="flex-caption">Homepage &amp; Site Navigation</p>
-									<img  src="../img/samples/garmin-mobile/homepage-and-navigation.jpg" alt="Garmin.com Mobile Homepage and Navigation">
-								</li>
-								<li style="text-align:center;">
-									<p class="flex-caption">Product Page &amp; Shopping Cart</p>
-									<img src="../img/samples/garmin-mobile/product-page-and-cart.jpg" alt="Garmin.com Mobile Product Page and Shopping Cart">
-							</ul>
+								<ul class="slides">
+									<li style="text-align:center;">
+										<p class="flex-caption">Wireframes: Product Page and Cart</p>
+										<img  src="//www.kylewjohnston.com/img/samples/garmin-mobile/wireframes-product-checkout.jpg" alt="Garmin.com Mobile Wireframes">
+									</li>
+									<li style="text-align:center;">
+										<p class="flex-caption">Wireframes: Checkout Flow</p>
+										<img  src="//www.kylewjohnston.com/img/samples/garmin-mobile/wireframes-checkout-01.jpg" alt="Garmin.com Mobile Wireframes">
+									</li>
+									<li style="text-align:center;">
+										<p class="flex-caption">Wireframes &amp; Checkout Flow</p>
+										<img  src="//www.kylewjohnston.com/img/samples/garmin-mobile/wireframes-checkout-02.jpg" alt="Garmin.com Mobile Wireframes">
+									</li>
+									<li style="text-align:center;">
+										<p class="flex-caption">Homepage &amp; Site Navigation</p>
+										<img  src="//www.kylewjohnston.com/img/samples/garmin-mobile/homepage-and-navigation.jpg" alt="Garmin.com Mobile Homepage and Navigation">
+									</li>
+									<li style="text-align:center;">
+										<p class="flex-caption">Product Page &amp; Shopping Cart</p>
+										<img src="//www.kylewjohnston.com/img/samples/garmin-mobile/product-page-and-cart.jpg" alt="Garmin.com Mobile Product Page and Shopping Cart">
+									</li>
+								</ul>
+							</div>
 						</div>
 						</div>
 					</div>
@@ -68,7 +82,7 @@
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
-	<?php include('includes/foot.php'); ?>
+	<?php include('//www.kylewjohnston.com/includes/foot.php'); ?>
 	<script type="text/javascript">
 	$(window).load(function(){
 		$('#main-slider').flexslider({
