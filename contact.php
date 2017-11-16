@@ -1,4 +1,4 @@
-<?php include('includes/email.php'); ?>
+<?php include 'includes/processform.php';?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,44 +32,39 @@
 			<div class="span6">
 				<a name="contact"></a>
 				<h3>Email Me:</h3>
-				<div id="contactWrapper" role="form">
-					<?php if(isset($hasError)) { //If errors are found ?>
-					<p class="error">Please check if you've filled all the fields with valid information and try again. Thank you.</p>
-					<?php } ?>
-					
-					<?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?>
-					<div class="success">
-						<h3>Thank You</h3>
-						<p>Thank you for contacting me, <?php echo $name;?>. Your email was successfully sent and I'll be in touch with you soon.</p>
-					</div>
-					<?php } ?>
-					
-					<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
+				<div id="contactWrapper" class="contact-form-wrapper" role="form">
+					<!-- if the msg variable is set, then it is going to print out the message
+					from the process.php file to  the user -->
+					<?php if (isset($msg)) {echo '<div id="formmessage"><p>', $msg , '</p></div>';} ?>	
+					<!-- $_SERVER["PHP_SELF"] sends the submitted form data to the page itself, 
+					instead of jumping to a different page. This way, 
+					the user will get error messages on the same page as the form.
+					Also htmlspecialchars is used to prevents attackers from exploiting 
+					the code by injecting HTML or JavaScript code (Cross-site Scripting attacks) in forms    --> 			
+					<form id="contactform" class="pure-form pure-form-stacked" name="myform" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>"  method="post">
 						<div class="stage clear">
-							<label for="contactname">Your Name: <em>*</em></label>
-							<input type="text" name="contactname" id="contactname" value="" class="text required" role="input" aria-required="true" />
+							<label for="name">Your Name: <em>*</em></label>
+							<input class="text required" id="name" type="text" name="name" role="input" value="<?php if (isset($clientName)) {echo $clientName;} ?>"/>
+							<?php if(isset($err_name)) {echo $err_name;}?>
 						</div>
-						
 						<div class="stage clear">
-							<label for="email" >Your Email: <em>*</em></label>
-							<input type="email" name="email" id="email" value="" class="text required email" role="input" aria-required="true" />
+							<label for="email">Your Email: <em>*</em></label>
+							<input class="text required" id="email" type="email" name="email" role="input" value="<?php if (isset($clientEmail)) {echo $clientEmail;} ?>"/>
+							<?php if(isset($err_email)) {echo $err_email;}?>
 						</div>
-						
 						<div class="stage clear">
 							<label for="subject">Subject: <em>*</em></label>
-							<input type="text" name="subject" id="subject" value="" class="text required" role="input" aria-required="true" />
+							<input class="text required" id="subject" type="text" name="subject" role="input" value="<?php if (isset($clientSubject)) {echo $clientSubject;} ?>"/>
+							<?php if(isset($err_subject)) {echo $err_subject;}?>
 						</div>
-						
 						<div class="stage clear">
-							<label for="message">Message: <em>*</em></label>
-							<textarea rows="8" name="message" id="message" class="text required" role="textbox" aria-required="true"></textarea>
+							<label>Message: <em>*</em></label>
+							<textarea name="message" rows="8" class="text required role="textbox"><?php if (isset($clientMessage)) {echo $clientMessage;} ?></textarea><?php if(isset($err_message)) {echo $err_message;}?>
 						</div>
-						
 						<p class="requiredNote"><em>*</em> Denotes a required field.</p>
-						
-						<input class="btn" type="submit" value="Send Message" name="submit" id="submitButton" title="Click here to submit your message!" />
+						<input class="btn" type="submit" name="action" class="send-mail-button" value="Send Message">
 					</form>
-			</div>
+				</div> <!-- end contact-form-wrapper -->
 			</div>
 			<div class="span3">
 				<h3>Call Me:</h3><h3>913-707-7442</h3>
@@ -81,6 +76,7 @@
 				<a class="github" href="https://github.com/kylejohnston">GitHub</a><br>
 				<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a><br>
 				<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a><br>
+				<a class="unsplash" href="https://unsplash.com/@kylejohnston">Unsplash</a><br>
 				<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a><br>
 				</p>
 			</div>
