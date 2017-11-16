@@ -9,7 +9,7 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.kylewjohnston.com/garmin-mobile" rel="canonical" />
-	<?php include('//www.kylewjohnston.com/includes/head.php'); ?>
+	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
@@ -41,9 +41,9 @@
 				<div class="row">
 					<div class="span6">
 						<div class="inner">
-							<h2>Getting it done</h2>
+							<h2>Speed to Market</h2>
 							<p>After weighing the pros and cons of building the site in-house, we chose <a href="http://www.mobify.com">Mobify</a> as technical partner &#8211; giving us the greatest speed to market with minimal impact on our in-house resources, who were focused on a major upgrade and redesign of our e-commerce platform.</p>
-							<p>Within months of launching the mobile-optimized site, sales from smartphones jumped 60%.</p>
+							<p>The project was completed in approximately 14 weeks and within months of launching the mobile-optimized site, sales from smartphones jumped 60%.</p>
 							<p>Year-over-year, sales increased by 258% (2012&#8212;2013) and 115% (2013&#8212;2014), average order value increased by 141%, and conversion rates increased by 61%.</p>
 						</div>
 					</div>
@@ -82,7 +82,7 @@
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
-	<?php include('//www.kylewjohnston.com/includes/foot.php'); ?>
+	<?php include('includes/foot.php'); ?>
 	<script type="text/javascript">
 	$(window).load(function(){
 		$('#main-slider').flexslider({
