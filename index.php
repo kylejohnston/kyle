@@ -9,7 +9,9 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.kylewjohnston.com/" rel="canonical" />
+
 	<?php include('includes/head.php'); ?>
+
 	<style type="text/css">
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
@@ -21,7 +23,6 @@
 </head>
 <body>
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
-	<!--<div class="intro" style="background: transparent url(img/header-photo.jpg) left center; background-size: cover;">-->
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
 		<div class="container">
@@ -36,7 +37,7 @@
 	<div class="container items">
 		<h1>Portfolio</h1>
 		<div class="row">
-			<div class="span6 item">
+			<div class="span6 item" data-aos="fade-up">
 				<a href="ferrellgas/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="370" height="185" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="ferrellgas/">Ferrellgas Website Redesign</a></h2>
@@ -44,7 +45,7 @@
 					<p><a href="ferrellgas/">See the work &#187;</a></p>
 				</div>
 			</div>
-			<div class="span6 item">
+			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
 				<a href="waddell-reed/"><img src="img/samples/waddell/thumbnail.2x.jpg" width="370" height="185" alt="Waddell and Reed Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="waddell-reed/">Waddell &amp; Reed Website Redesign</a></h2>
@@ -56,7 +57,7 @@
 	</div>
 	<div class="container items">
 		<div class="row">
-			<div class="span6 item">
+			<div class="span6 item" data-aos="fade-up">
 				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" width="370" height="185" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
 					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
@@ -64,7 +65,7 @@
 					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
 			</div>
-			<div class="span6 item">
+			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
 				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="370" height="185" alt="Idea Bucket Website"></a>
 				<div class="inner">
 					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
@@ -76,7 +77,7 @@
 	</div>
 	<div class="container items">
 		<div class="row">
-			<div class="span6 item">
+			<div class="span6 item" data-aos="fade-up">
 				<a href="lee-jeans/"><img src="img/samples/lee-jeans/thumbnail.2x.jpg" width="370" height="185" alt="Lee Product Videos"></a>
 				<div class="inner">
 					<h2><a href="lee-jeans/">Lee Product Videos</a></h2>
@@ -84,7 +85,7 @@
 					<p><a href="lee-jeans/">See the moving work &#187;</a></p>
 				</div>
 			</div>
-			<div class="span6 item">
+			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
 				<a href="youtube/"><img src="img/samples/youtube/thumbnail.2x.jpg" width="370" height="185" alt="Garmin YouTube Pre-Roll Ads"></a>
 				<div class="inner">
 					<h2><a href="youtube/">YouTube Pre-Roll</a></h2>
@@ -96,7 +97,7 @@
 	</div>
 	<div class="container items">
 		<div class="row">
-			<div class="span4 item">
+			<div class="span4 item" data-aos="fade-up">
 				<a href="vivofit/"><img src="img/samples/vivofit/thumbnail.2x.jpg" width="300" height="150" alt="vivofit campaign"></a>
 				<div class="inner">
 					<h2><a href="vivofit/">v&iacute;vofit</a></h2>
@@ -104,7 +105,7 @@
 					<p><a href="vivofit/">Step this way to view the work &#187;</a></p>
 				</div>
 			</div>
-			<div class="span4 item">
+			<div class="span4 item" data-aos="fade-up" data-aos-delay="200">
 				<a href="holiday/"><img src="img/samples/holiday/thumbnail.2x.jpg" width="300" height="150" alt="Give-a-Garmin Holiday Campaigns"></a>
 				<div class="inner">
 					<h2><a href="holiday/">Holiday Campaigns</a></h2>
@@ -112,7 +113,7 @@
 					<p><a href="holiday/">View the work of Christmas past &#187;</a></p>
 				</div>
 			</div>
-			<div class="span4 item">
+			<div class="span4 item" data-aos="fade-up" data-aos-delay="400">
 				<a href="nuvifone/"><img src="img/samples/nuvifone/thumbnail_alt.2x.jpg" width="300" height="150" alt="Garmin n&uuml;vifone Campaign"></a>
 				<div class="inner">
 					<h2><a href="nuvifone/">n&uuml;vifone</a></h2>
@@ -124,7 +125,7 @@
 	</div><!-- Row 1 -->
 	<div class="container items">
 		<div class="row">
-			<div class="span4 item">
+			<div class="span4 item" data-aos="fade-up">
 				<a href="http://www.flow14.com/"><img src="img/samples/flow14/thumbnail.2x.png" width="300" height="150" alt="flow14 - Freelance Projects"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/">flow14 - Freelance Projects</a></h2>
@@ -132,7 +133,7 @@
 					<p><a href="http://www.flow14.com/">Lots to see here &#187;</a></p>
 				</div>
 			</div>
-			<div class="span4 item">
+			<div class="span4 item" data-aos="fade-up" data-aos-delay="200">
 				<a href="iphone-365-project/"><img src="img/samples/iphone-365/thumb-2016.2x.jpg" alt="iPhone 365 Project"></a>
 				<div class="inner">
 					<h2><a href="iphone-365-project/">Personal Work: 365 Project</a></h2>
@@ -146,6 +147,8 @@
 	<div class="container marketing">
 		<?php include('includes/footer.php'); ?>
 	</div>
+
 	<?php include('includes/foot.php'); ?>
+
 </body>
 </html>

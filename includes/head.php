@@ -2,6 +2,7 @@
 	<link href='//www.kylewjohnston.com/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
 	<link href='//www.kylewjohnston.com/css/custom.css?20171113_0001' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400' rel='stylesheet' type='text/css'>
+	<link href='//www.kylewjohnston.com/css/aos.css' rel='stylesheet' type='text/css'>
 
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
