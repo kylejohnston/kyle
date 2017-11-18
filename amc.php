@@ -137,7 +137,7 @@
 					<div class="span3"></div>
 					<div class="span6">
 						<div class="inner">
-							<h2>Winning the Business.</h2><p>In addition to the custom work described above, we hand-delivered custom-made meeting invitations to AMC executives, then literally rolled out a red carpet in our office, where we served popcorn and custom-made, movie-themed cookies. These thoughtful touches, combined with strong, data-driven creative work, led AMC to award their email marketing program to DEG in 2016, one of the largest such accounts in DEG&rsquo; history.</p>
+							<h2>Winning the Business.</h2><p>In addition to the custom work described above, we hand-delivered custom-made meeting invitations to AMC executives, then literally rolled out a red carpet in our office, where we served popcorn and custom-made, movie-themed cookies. These thoughtful touches, combined with strong, data-driven creative work, led AMC to award their email marketing program to DEG in 2016, one of the largest such accounts in DEG&rsquo;s history.</p>
 						</div>
 					</div>
 					<div class="span3"></div>
