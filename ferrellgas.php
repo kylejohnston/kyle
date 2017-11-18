@@ -39,21 +39,21 @@
 		<div class="featurette">
 			<div class="container nudge-bottom--lg">
 				<div class="row clear">
-					<div class="span5">
+					<div class="span5" data-aos="fade-right">
 						<div class="inner">
 							<h2>Website Redesign</h2>
-							<p>Equipped with insights from a design thinking workshop we facilitated along with brand guidelines we developed with assets provided by the Ferrellgas team, we set out to redesign the website.</p>
+							<p>Equipped with insights from our design thinking workshop along with brand guidelines we developed with assets provided by the Ferrellgas team, we set out to redesign the website.</p>
 							<p>Using a simple color palette along with custom photography and iconography, we brought the brand to life online, creating a consistent customer experience across all of Ferrellgas&rsquo; channels.</p>
 							<p>From the beginning of the project, my design team worked closely with the front end developers to develop a thoughtful experience for Ferrellgas customers:
 							<ul>
-								<li>With a significant number of Ferrellgas&rsquo; customers in rural areas, we wanted to ensure the website was fast, in addition to being easy to use. We agreed on performance budgets, which informed the early design explorations and decisions.</li>
-								<li>Using a mobile-first design approach, we made key features, like location search, more prominent on mobile devices.</li>
+								<li>With a significant number of Ferrellgas&rsquo; customers in rural areas, we wanted to ensure the website was fast, in addition to being easy to use. We agreed on performance budgets, which informed early design explorations and decisions.</li>
+								<li>Using a mobile-first design approach, we made features like location search more prominent on mobile devices.</li>
 								<li>During development, we used Pattern Lab and Atomic Design principles. This allowed everyone to experience the website on a range of devices and make better informed design decisions.</li>
 							</ul>
 							</p>
 						</div>
 					</div>
-					<div class="span7">
+					<div class="span7" data-aos="fade-left" data-aos-delay="200">
 						<div class="inner">
 							<div id="slider-one" class="flexslider">
 								<ul class="slides">
