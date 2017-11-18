@@ -1,7 +1,4 @@
 <!-- Fun with JavaScript - - - - - - - - - - -->
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="//flow14.com/js/jquery.js">\x3C/script>')</script>
-    <script src="//kylewjohnston.com/js/jquery.flexslider-min.js"></script>
 	<script src="//kylewjohnston.com/js/aos.js"></script>
     <script>
       AOS.init({
@@ -9,6 +6,9 @@
         easing: 'ease-in-out-back'
       });
     </script>
+    <!-- <script async src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
+    <script>window.jQuery || document.write('<script src="//flow14.com/js/jquery.js">\x3C/script>')</script>
+    <script async src="//kylewjohnston.com/js/jquery.flexslider-min.js"></script>
 
 <!-- Analytics - - - - - - - - - - -->
 <!-- hotjar -->	
