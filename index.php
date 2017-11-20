@@ -38,39 +38,19 @@
 		<h1>Portfolio</h1>
 		<div class="row">
 			<div class="span6 item" data-aos="fade-up">
-				<a href="ferrellgas/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="370" height="185" alt="Ferrellgas Website Redesign"></a>
+				<a href="ferrellgas-brand-website/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="370" height="185" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
-					<h2><a href="ferrellgas/">Ferrellgas Website Redesign</a></h2>
-					<p>Responsive redesign and rebrand</p>
-					<p><a href="ferrellgas/">See the work &#187;</a></p>
+					<h2><a href="ferrellgas-brand-website">Ferrellgas Brand Evolution &amp; Website Redesign</a></h2>
+					<p>Using design thinking to fuel a brand evolution and responsive website design</p>
+					<p><a href="ferrellgas-brand-website">Get cozy with the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
 				<a href="waddell-reed/"><img src="img/samples/waddell/thumbnail.2x.jpg" width="370" height="185" alt="Waddell and Reed Website Redesign"></a>
 				<div class="inner">
-					<h2><a href="waddell-reed/">Waddell &amp; Reed Website Redesign</a></h2>
-					<p>Responsive redesign and simplification of a complex web experience</p>
-					<p><a href="waddell-reed/">See the work &#187;</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="container items">
-		<div class="row">
-			<div class="span6 item" data-aos="fade-up">
-				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" width="370" height="185" alt="Garmin.com Mobile Website"></a>
-				<div class="inner">
-					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
-					<p>Wireframing, design, &amp; development of a mobile-optimized Garmin.com</p>
-					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
-				</div>
-			</div>
-			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
-				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="370" height="185" alt="Idea Bucket Website"></a>
-				<div class="inner">
-					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
-					<p>Design &amp; development of an internal idea-sharing website</p>
-					<p><a href="idea-bucket/">Explore the work &#187;</a></p>
+					<h2><a href="waddell-reed">Waddell &amp; Reed Website Redesign</a></h2>
+					<p>Investing in a responsive user experience</p>
+					<p><a href="waddell-reed">See how the work paid off &#187;</a></p>
 				</div>
 			</div>
 		</div>
@@ -91,6 +71,26 @@
 					<h2><a href="youtube/">YouTube Pre-Roll</a></h2>
 					<p>Pre-roll ads for the launch of Garmin's YouTube channel.<br><strong>Winner:</strong> Gold ADDY Award</p>
 					<p><a href="youtube/">Roll the video &#187;</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container items">
+		<div class="row">
+			<div class="span6 item" data-aos="fade-up">
+				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" width="370" height="185" alt="Garmin.com Mobile Website"></a>
+				<div class="inner">
+					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
+					<p>Wireframing, design, &amp; development of a mobile-optimized Garmin.com</p>
+					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
+				</div>
+			</div>
+			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
+				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="370" height="185" alt="Idea Bucket Website"></a>
+				<div class="inner">
+					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
+					<p>Design &amp; development of an internal idea-sharing website</p>
+					<p><a href="idea-bucket/">Explore the work &#187;</a></p>
 				</div>
 			</div>
 		</div>
