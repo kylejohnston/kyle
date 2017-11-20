@@ -9,7 +9,7 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.kylewjohnston.com/ferrellgas-brand-website" rel="canonical" />
-	<?php include('//www.kylewjohnston.com/includes/head.php'); ?>
+	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
@@ -43,7 +43,7 @@
 						<div class="inner">
 							<h2>Design Thinking Workshop</h2>
 							<p>Informed by a quantitative customer survey conducted by DEG&rsquo;s Analytics &amp; Insights team, we organized a design thinking workshop to help Ferrellgas better understand their customers&rsquo; diverse experiences and develop strategies to connect with them as a trusted, hometown partner.</p>
-							<p>Using exercises like empathy maps and as-is scenarios, we helped the Ferrellgas team uncover insights that improved their brand positioning and voice. This foundational work informed subsequent projects, including the website redesign, their corporate intranet, paid media campaigns, and more.</p>
+							<p>Using exercises like empathy maps and as-is scenarios, we helped the Ferrellgas team uncover insights that improved their brand positioning and voice. This foundational work informed subsequent projects, including the website redesign, improvements to their corporate intranet content, paid media campaigns, and more.</p>
 						</div>
 					</div>
 					<div class="span7">
@@ -63,35 +63,35 @@
 					</div>
 				</div>
 				<div class="row clear">
-					<div class="span4 caption"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-001.600.jpg" alt="Sample workshop slide 1"><p>What is design thinking?</p></div></div>
-					<div class="span4 caption"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-002.600.jpg" alt="Sample workshop slide 2"><p>Design thinking questions</p></div></div>
-					<div class="span4 caption"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-003.600.jpg" alt="Sample workshop slide 3"><p>Exercise 1 &#8211; Empathy maps</p></div></div>
+					<div class="span4 caption" data-aos="fade-up"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-001.600.jpg" alt="Sample workshop slide 1"><p>What is design thinking?</p></div></div>
+					<div class="span4 caption" data-aos="fade-up" data-aos-delay="200"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-002.600.jpg" alt="Sample workshop slide 2"><p>Design thinking questions</p></div></div>
+					<div class="span4 caption" data-aos="fade-up" data-aos-delay="400"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-003.600.jpg" alt="Sample workshop slide 3"><p>Exercise 1 &#8211; Empathy maps</p></div></div>
 				</div>
 				<div class="row clear">
-					<div class="span4 caption"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-004.600.jpg" alt="Sample workshop slide 4"><p>Empathy maps results</p></div></div>
-					<div class="span4 caption"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-005.600.jpg" alt="Sample workshop slide 5"><p>Exercise 2 &#8211; As-is scenarios</p></div></div>
-					<div class="span4 caption"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-006.600.jpg" alt="Sample workshop slide 6"><p>As-is scenario results</p></div></div>
+					<div class="span4 caption" data-aos="fade-up"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-004.600.jpg" alt="Sample workshop slide 4"><p>Empathy maps results</p></div></div>
+					<div class="span4 caption" data-aos="fade-up" data-aos-delay="200"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-005.600.jpg" alt="Sample workshop slide 5"><p>Exercise 2 &#8211; As-is scenarios</p></div></div>
+					<div class="span4 caption" data-aos="fade-up" data-aos-delay="400"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-006.600.jpg" alt="Sample workshop slide 6"><p>As-is scenario results</p></div></div>
 				</div>
 			</div>
 		</div>
 		<div class="featurette">
 			<div class="container nudge-bottom--lg">
 				<div class="row clear">
-					<div class="span5">
+					<div class="span5" data-aos="fade-right">
 						<div class="inner">
 							<h2>Website Redesign</h2>
 							<p>Equipped with insights from our design thinking workshop along with brand guidelines we developed with assets provided by the Ferrellgas team, we set out to redesign the website.</p>
 							<p>Using a simple color palette along with custom photography and iconography, we brought the brand to life online, creating a consistent customer experience across all of Ferrellgas&rsquo; channels.</p>
 							<p>From the beginning of the project, my design team worked closely with the front end developers to develop a thoughtful experience for Ferrellgas customers:
 							<ul>
-								<li>With a significant number of Ferrellgas&rsquo; customers in rural areas, we wanted to ensure the website was fast, in addition to being easy to use. We agreed on performance budgets, which informed the early design explorations and decisions.</li>
+								<li>With a significant number of Ferrellgas&rsquo; customers in rural areas, we wanted to ensure the website was fast, in addition to being easy to use. We agreed on performance budgets, which informed early design explorations and decisions.</li>
 								<li>Using a mobile-first design approach, we made features like location search more prominent on mobile devices.</li>
 								<li>During development, we used Pattern Lab and Atomic Design principles. This allowed everyone to experience the website on a range of devices and make better informed design decisions.</li>
 							</ul>
 							</p>
 						</div>
 					</div>
-					<div class="span7">
+					<div class="span7" data-aos="fade-left" data-aos-delay="200">
 						<div class="inner">
 							<div id="slider-one" class="flexslider">
 								<ul class="slides">
@@ -149,7 +149,7 @@
 					<div class="span8">
 						<div class="inner">
 							<h2>The Results</h2>
-							<p>Based on the strength of the teams efforts with these and other foundational projects, Ferrellgas&rsquo; named DEG its agency of record in 2017, expanding the agency&rsquo;s responsibilities to include local and direct mail marketing, traditional media, and local listings along with expanded digital efforts in the form of paid social strategy and video production.</p>
+							<p>Based on the strength of the teams efforts with these and other foundational projects, Ferrellgas named DEG its agency of record in 2017, expanding the agency&rsquo;s responsibilities to include local and direct mail marketing, traditional media, and local listings along with expanded digital efforts in the form of paid social strategy and video production.</p>
 						</div>
 					</div>
 					<div class="span2"></div>
@@ -159,7 +159,7 @@
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
-	<?php include('//www.kylewjohnston.com/includes/foot.php'); ?>
+	<?php include('includes/foot.php'); ?>
 	<script type="text/javascript">
 	$(window).load(function(){
 		$('#slider-one').flexslider({
