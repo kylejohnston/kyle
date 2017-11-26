@@ -9,7 +9,7 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.kylewjohnston.com/amc" rel="canonical" />
-	<?php include('//www.kylewjohnston.com/includes/head.php'); ?>
+	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
@@ -147,6 +147,6 @@
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
-	<?php include('//www.kylewjohnston.com/includes/foot.php'); ?>
+	<?php include('includes/foot.php'); ?>
 </body>
 </html>
