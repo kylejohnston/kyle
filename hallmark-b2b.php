@@ -41,12 +41,12 @@
 					<div class="span7" data-aos="fade-right">
 						<div class="inner" data-aos-delay="200">
 							<h2>From Simple Beginnings</h2>
-							<p>With a tight timeline and even tighter budget, I stepped in to work on the UX and visual design for this project, freeing my team to focus on other critical initiatives.</p>
+							<p>With a tight budget and even tighter timeline &#8211; we kicked off in mid-November and planned to launch the website in mid-January &#8211; I stepped in to work on the UX and visual design for this project, freeing my team to focus on other critical initiatives.</p>
 							<p>The team at Hallmark had a simple vision for the website:</p>
 							<ul>
 								<li>Attract new business leads</li>
-								<li>Provide information on Hallmark&rsquo;s card lines</li>
-								<li>Funnel leads to a contact form, powered by Salesforce CRM</li>
+								<li>Build awareness of Hallmark&rsquo; card lines</li>
+								<li>Funnel leads to a Salesforce-powered contact form</li>
 							</ul> 
 							<p>The team at Hallmark provided the visual assets &#8211; videos, photos, and graphics &#8211; and I worked with DEG&rsquo;s UI Team Lead to deliver a clean, responsive website.</p>
 						</div>
@@ -149,7 +149,7 @@
 					<div class="span8">
 						<div class="inner">
 							<h2>A Speedy Delivery</h2>
-							<p>Once the wireframes were approved, the UI lead built the website using <a href="http://patternlab.io">Pattern Lab</a>. With my layouts and content from the Hallmark team, we were able to collaboratively develop a working website to get the signoffs we needed, then deliver frontend code to the Salesforce developers and launch the site in record time.</p>
+							<p>Once the wireframes were approved, the UI lead built the website using <a href="http://patternlab.io">Pattern Lab</a>. With my layouts and content from the Hallmark team, we were able to collaboratively develop a working website to get the signoffs we needed, then deliver frontend code to the Salesforce developers and launch the site right on schedule.</p>
 						</div>
 					</div>
 					<div class="span2"></div>
@@ -159,7 +159,7 @@
 						<div class="inner">
 							<div class="caption--top" data-aos="fade-up">
 								<p>Homepage</p>
-								<img class="shadow" src="../img/samples/hmk-greetings/home.920.jpg" alt="Wireframes" width="1240">
+								<img class="shadow" src="../img/samples/hmk-greetings/home.920.jpg" alt="Homepage" width="1240">
 							</div>
 						</div>
 					</div>
@@ -167,7 +167,7 @@
 						<div class="inner">
 							<div class="caption--top" data-aos="fade-up" data-aos-delay="200">
 								<p>Card Line Page</p>
-								<img class="shadow" src="../img/samples/hmk-greetings/card-line.920.jpg" alt="Wireframes" width="1240">
+								<img class="shadow" src="../img/samples/hmk-greetings/card-line.920.jpg" alt="Card Line Page" width="1240">
 							</div>
 						</div>
 					</div>
@@ -178,7 +178,7 @@
 						<div class="inner">
 							<div class="caption--top" data-aos="fade-up">
 								<p>Contact Page</p>
-								<img class="shadow" src="../img/samples/hmk-greetings/contact.920.jpg" alt="Wireframes" width="1240">
+								<img class="shadow" src="../img/samples/hmk-greetings/contact.920.jpg" alt="Contact Page" width="1240">
 							</div>
 						</div>
 					</div>
