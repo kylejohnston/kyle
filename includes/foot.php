@@ -1,6 +1,6 @@
 <!-- Fun with JavaScript - - - - - - - - - - -->
 	<script src="//kylewjohnston.com/js/aos.js"></script>
-    <script>
+    <script type="text/javascript">
       AOS.init({
         duration: 700,
         easing: 'ease-in-out-back'
