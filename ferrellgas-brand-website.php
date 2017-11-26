@@ -65,12 +65,12 @@
 				<div class="row clear">
 					<div class="span4 caption" data-aos="fade-up"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-001.600.jpg" alt="Sample workshop slide 1"><p>What is design thinking?</p></div></div>
 					<div class="span4 caption" data-aos="fade-up" data-aos-delay="200"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-002.600.jpg" alt="Sample workshop slide 2"><p>Design thinking questions</p></div></div>
-					<div class="span4 caption" data-aos="fade-up" data-aos-delay="400"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-003.600.jpg" alt="Sample workshop slide 3"><p>Exercise 1 &#8211; Empathy maps</p></div></div>
+					<div class="span4 caption" data-aos="fade-up" data-aos-delay="500"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-003.600.jpg" alt="Sample workshop slide 3"><p>Exercise 1 &#8211; Empathy maps</p></div></div>
 				</div>
 				<div class="row clear">
-					<div class="span4 caption" data-aos="fade-up"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-004.600.jpg" alt="Sample workshop slide 4"><p>Empathy maps results</p></div></div>
-					<div class="span4 caption" data-aos="fade-up" data-aos-delay="200"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-005.600.jpg" alt="Sample workshop slide 5"><p>Exercise 2 &#8211; As-is scenarios</p></div></div>
-					<div class="span4 caption" data-aos="fade-up" data-aos-delay="400"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-006.600.jpg" alt="Sample workshop slide 6"><p>As-is scenario results</p></div></div>
+					<div class="span4 caption" data-aos="fade-up" data-aos-delay="200"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-004.600.jpg" alt="Sample workshop slide 4"><p>Empathy maps results</p></div></div>
+					<div class="span4 caption" data-aos="fade-up" data-aos-delay="500"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-005.600.jpg" alt="Sample workshop slide 5"><p>Exercise 2 &#8211; As-is scenarios</p></div></div>
+					<div class="span4 caption" data-aos="fade-up" data-aos-delay="800"><div class="inner"><img class="frame" src="//www.kylewjohnston.com/img/samples/ferrellgas/design-thinking-workshop-006.600.jpg" alt="Sample workshop slide 6"><p>As-is scenario results</p></div></div>
 				</div>
 			</div>
 		</div>
