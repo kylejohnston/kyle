@@ -225,10 +225,17 @@ img.frame {
 	margin-bottom: 1.5em;
 	text-align: center;
 }
-.caption img {
-	margin: .5em auto;
+.caption--top {
+	margin-top: 1.5em;
+	text-align: center;
 }
-.caption p {
+.caption img {
+	margin: 0 auto .5em auto;
+}
+.caption--top img {
+	margin: 0 auto .5em auto;
+}
+.caption p, .caption--top p {
 	margin: 0;
 	color: #777777;
 	font-style: italic;
@@ -290,7 +297,7 @@ img.frame {
 .introduction h1,
 .introduction p {
 	width: 50%;
-	/*text-align:left;*/
+	text-align: left;
 	color: #111;
 }
 .dark .introduction h1,
@@ -524,7 +531,7 @@ p.flex-caption {
 }
 @media (max-width: 767px) {
 	.introduction {
-		margin-top: .5em;
+		margin: .5em .5em 1.5em .5em;
 		text-align: left;
 	}
 	/*.epithet { display: block; font-weight: 300; color: #fff; }
