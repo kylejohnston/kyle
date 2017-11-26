@@ -38,15 +38,15 @@
 		<h1>Portfolio</h1>
 		<div class="row">
 			<div class="span6 item" data-aos="fade-up">
-				<a href="ferrellgas-brand-website/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="370" height="185" alt="Ferrellgas Website Redesign"></a>
+				<a href="ferrellgas-brand-website/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="740" height="370" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="ferrellgas-brand-website">Ferrellgas Brand Evolution &amp; Website Redesign</a></h2>
 					<p>Using design thinking to fuel a brand evolution and responsive website design</p>
 					<p><a href="ferrellgas-brand-website">Get cozy with the work &#187;</a></p>
 				</div>
 			</div>
-			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
-				<a href="waddell-reed/"><img src="img/samples/waddell/thumbnail.2x.jpg" width="370" height="185" alt="Waddell and Reed Website Redesign"></a>
+			<div class="span6 item" data-aos="fade-up" data-aos-delay="300">
+				<a href="waddell-reed/"><img src="img/samples/waddell/thumbnail.2x.jpg" width="740" height="370" alt="Waddell and Reed Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="waddell-reed">Waddell &amp; Reed Website Redesign</a></h2>
 					<p>Investing in a responsive user experience</p>
@@ -58,15 +58,35 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span6 item" data-aos="fade-up">
-				<a href="lee-jeans/"><img src="img/samples/lee-jeans/thumbnail.2x.jpg" width="370" height="185" alt="Lee Product Videos"></a>
+				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" width="740" height="370" alt="Garmin.com Mobile Website"></a>
+				<div class="inner">
+					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
+					<p>Wireframing, design, &amp; development of a mobile-optimized Garmin.com</p>
+					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
+				</div>
+			</div>
+			<div class="span6 item" data-aos="fade-up" data-aos-delay="300">
+				<a href="hallmark-b2b/"><img src="img/samples/hmk-greetings/thumbnail.2x.jpg" width="740" height="370" alt="Hallmark B2B Microsite"></a>
+				<div class="inner">
+					<h2><a href="hallmark-b2b/">Hallmark Microsite</a></h2>
+					<p>Wireframing &amp; design of a B2B microsite</p>
+					<p><a href="hallmark-b2b/">See how we delivered &#187;</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container items">
+		<div class="row">
+			<div class="span6 item" data-aos="fade-up">
+				<a href="lee-jeans/"><img src="img/samples/lee-jeans/thumbnail.2x.jpg" width="740" height="370" alt="Lee Product Videos"></a>
 				<div class="inner">
 					<h2><a href="lee-jeans/">Lee Product Videos</a></h2>
 					<p>Product introduction videos for an iconic brand.</p>
 					<p><a href="lee-jeans/">See the moving work &#187;</a></p>
 				</div>
 			</div>
-			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
-				<a href="youtube/"><img src="img/samples/youtube/thumbnail.2x.jpg" width="370" height="185" alt="Garmin YouTube Pre-Roll Ads"></a>
+			<div class="span6 item" data-aos="fade-up" data-aos-delay="300">
+				<a href="youtube/"><img src="img/samples/youtube/thumbnail.2x.jpg" width="740" height="370" alt="Garmin YouTube Pre-Roll Ads"></a>
 				<div class="inner">
 					<h2><a href="youtube/">YouTube Pre-Roll</a></h2>
 					<p>Pre-roll ads for the launch of Garmin's YouTube channel.<br><strong>Winner:</strong> Gold ADDY Award</p>
@@ -77,48 +97,28 @@
 	</div>
 	<div class="container items">
 		<div class="row">
-			<div class="span6 item" data-aos="fade-up">
-				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" width="370" height="185" alt="Garmin.com Mobile Website"></a>
-				<div class="inner">
-					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
-					<p>Wireframing, design, &amp; development of a mobile-optimized Garmin.com</p>
-					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
-				</div>
-			</div>
-			<div class="span6 item" data-aos="fade-up" data-aos-delay="200">
-				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="370" height="185" alt="Idea Bucket Website"></a>
-				<div class="inner">
-					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
-					<p>Design &amp; development of an internal idea-sharing website</p>
-					<p><a href="idea-bucket/">Explore the work &#187;</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="container items">
-		<div class="row">
 			<div class="span4 item" data-aos="fade-up">
-				<a href="vivofit/"><img src="img/samples/vivofit/thumbnail.2x.jpg" width="300" height="150" alt="vivofit campaign"></a>
+				<a href="vivofit/"><img src="img/samples/vivofit/thumbnail.2x.jpg" width="370" height="185" alt="vivofit campaign"></a>
 				<div class="inner">
 					<h2><a href="vivofit/">v&iacute;vofit</a></h2>
 					<p>Product launch campaign and broadcast advertising for Garmin's top-selling activity tracker</p>
 					<p><a href="vivofit/">Step this way to view the work &#187;</a></p>
 				</div>
 			</div>
-			<div class="span4 item" data-aos="fade-up" data-aos-delay="200">
-				<a href="holiday/"><img src="img/samples/holiday/thumbnail.2x.jpg" width="300" height="150" alt="Give-a-Garmin Holiday Campaigns"></a>
+			<div class="span4 item" data-aos="fade-up" data-aos-delay="300">
+				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="740" height="370" alt="Idea Bucket Website"></a>
+				<div class="inner">
+					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
+					<p>Design &amp; development of an internal idea-sharing website</p>
+					<p><a href="idea-bucket/">Explore the work &#187;</a></p>
+				</div>
+			</div>
+			<div class="span4 item" data-aos="fade-up" data-aos-delay="700">
+				<a href="holiday/"><img src="img/samples/holiday/thumbnail.2x.jpg" width="370" height="185" alt="Give-a-Garmin Holiday Campaigns"></a>
 				<div class="inner">
 					<h2><a href="holiday/">Holiday Campaigns</a></h2>
 					<p>&#x266B; Give-a, Give-a, Give-a, Give-a-Garmin &#x266B;</p>
 					<p><a href="holiday/">View the work of Christmas past &#187;</a></p>
-				</div>
-			</div>
-			<div class="span4 item" data-aos="fade-up" data-aos-delay="400">
-				<a href="nuvifone/"><img src="img/samples/nuvifone/thumbnail_alt.2x.jpg" width="300" height="150" alt="Garmin n&uuml;vifone Campaign"></a>
-				<div class="inner">
-					<h2><a href="nuvifone/">n&uuml;vifone</a></h2>
-					<p>Brand development &amp; launch materials</p>
-					<p><a href="nuvifone/">Call up the work samples &#187;</a></p>
 				</div>
 			</div>
 		</div>
@@ -126,15 +126,15 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item" data-aos="fade-up">
-				<a href="http://www.flow14.com/"><img src="img/samples/flow14/thumbnail.2x.png" width="300" height="150" alt="flow14 - Freelance Projects"></a>
+				<a href="http://www.flow14.com/"><img src="img/samples/flow14/thumbnail.2x.png" width="370" height="185" alt="flow14 - Freelance Projects"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/">flow14 - Freelance Projects</a></h2>
 					<p>Logo design, website design, and more</p>
 					<p><a href="http://www.flow14.com/">Lots to see here &#187;</a></p>
 				</div>
 			</div>
-			<div class="span4 item" data-aos="fade-up" data-aos-delay="200">
-				<a href="iphone-365-project/"><img src="img/samples/iphone-365/thumb-2016.2x.jpg" alt="iPhone 365 Project"></a>
+			<div class="span4 item" data-aos="fade-up" data-aos-delay="300">
+				<a href="iphone-365-project/"><img src="img/samples/iphone-365/thumb-2016.2x.jpg" width="370" height="185" alt="iPhone 365 Project"></a>
 				<div class="inner">
 					<h2><a href="iphone-365-project/">Personal Work: 365 Project</a></h2>
 					<p>A photo a day. Every day. Since 2009.
