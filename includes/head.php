@@ -1,7 +1,7 @@
 	<!-- Le styles -->
 	<link href='//www.kylewjohnston.com/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
 	<!-- <link href='//www.kylewjohnston.com/css/custom.css?20171124_0000' rel='stylesheet' type='text/css'> -->
-	<link href='/css/custom.css?20171125_0000' rel='stylesheet' type='text/css'>
+	<link href='/css/custom.css?20171130_0000' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400' rel='stylesheet' type='text/css'>
 	<link href='//www.kylewjohnston.com/css/aos.css' rel='stylesheet' type='text/css'>
 
