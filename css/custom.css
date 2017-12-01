@@ -292,7 +292,7 @@ img.frame {
 }
 .introduction {
 	margin: 1em auto 2em auto;
-	text-align: center;
+	text-align: left;
 }
 .introduction h1,
 .introduction p {
@@ -323,7 +323,7 @@ img.frame {
 	padding-top: 2em; /* Vertically center images part 1: add padding above and below text. */
 	padding-bottom: 2em; /* Vertically center images part 1: add padding above and below text. */
 	background-color: rgba(255,255,255,0.95);
-	text-align: center;
+	text-align: left;
 	border-bottom: 1px solid #efefef;
 }
 .featurette h2,
