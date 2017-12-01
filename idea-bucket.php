@@ -15,7 +15,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2 { color: #70992e; }
+		 .featurette h1,.featurette h2,.featurette h2 { color: #70992e; }
 		.intro { background-color: #70992e; }
 	</style>
 </head>
@@ -24,18 +24,24 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>Idea Bucket Website</h1>
-					<p>In 2011, I was invited to collaborate with a newly-formed innovation team to design and develop an internal idea-sharing website. The goal of the project was to allow anyone in the company share ideas for new products, features, and services.</p>
-					<p>The website is still in use today and many ideas have advanced to real-world applications.</p>
-					<p><strong>My role:</strong> Website Design, Front End Development</p>
+	</div>
+	<div class="container marketing">
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span2"></div>
+					<div class="span8">
+						<div class="inner">
+							<h1>Idea Bucket Website</h1>
+							<p>In 2011, I was invited to collaborate with a newly-formed innovation team to design and develop an internal idea-sharing website. The goal of the project was to allow anyone in the company share ideas for new products, features, and services.</p>
+							<p>The website is still in use today and many ideas have advanced to real-world applications.</p>
+							<p><strong>My role:</strong> Website Design, Front End Development</p>
+						</div>
+					</div>
+					<div class="span2"></div>
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="container marketing">
 		<div class="featurette">
 			<div class="container">
 				<div class="row">

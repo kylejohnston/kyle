@@ -9,37 +9,21 @@
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.kylewjohnston.com/amc-coke" rel="canonical" />
-	<?php include('//www.kylewjohnston.com/includes/head.php'); ?>
+	<?php include('includes/head.php'); ?>
 	<style type="text/css">
 		 header h1 span a:link, 
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2,.featurette h3 { color: #D4353E; }
+		 .featurette h1,.featurette h2,.featurette h3 { color: #D4353E; }
 		.intro { background-color: #D4353E; }
-		.nudge-bottom--sm { margin-bottom: 10px; }
-		.nudge-bottom--md { margin-bottom: 20px; }
-		.nudge-bottom--lg { margin-bottom: 30px; }
-		.nudge-top--sm { margin-top: 10px; }
-		.nudge-top--md { margin-top: 20px; }
-		.nudge-top--lg { margin-top: 30px; }
-/*		.shadow { border: 1px solid rgba(204,204,204,.35); }
-*/	</style>
+	</style>
 </head>
 
 <body>
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>AMC &amp; Coke</h1>
-					<p>After winning <a href="/amc/">AMC&rsquo;s Email Marketing</a> duties, they invited us to pitch ideas for a quarterly cross-channel campaign. We served them fresh ideas that returned record-breaking results.</p>
-					<p><strong>My role:</strong> Creative Director &#64; DEG, 2016</p>
-				</div>
-			</div>
-		</div>
 	</div>
 	<div class="container marketing">
 		<div class="featurette">
@@ -48,20 +32,25 @@
 					<div class="span2"></div>
 					<div class="span8">
 						<div class="inner">
-							<h2>The Challenge</h2>
-							<p>Coke and AMC ran a quarterly digital and in-theatre campaign to encourage teens to purchase Coke and popcorn. However, their last few attempts fell short of their goals.</p>
-							<p>During the implementation of AMC&rsquo;s email marketing program, AMC asked the team at DEG to develop a new approach for their upcoming campaign.</p>
+							<h1>AMC &amp; Coke</h1>
+							<p>After winning <a href="/amc/">AMC&rsquo;s Email Marketing</a> duties, they invited us to pitch ideas for a quarterly cross-channel campaign. We served them fresh ideas that returned record-breaking results.</p>
+							<p><strong>My role:</strong> Creative Director &#64; DEG, 2016</p>
 						</div>
 					</div>
 					<div class="span2"></div>
 				</div>
 			</div>
 		</div>
+	</div>
+	<div class="container marketing">
 		<div class="featurette">
 			<div class="container">
 				<div class="row clear">
 					<div class="span6">
 						<div class="inner">
+							<h2>The Challenge</h2>
+							<p>Coke and AMC ran a quarterly digital and in-theatre campaign to encourage teens to purchase Coke and popcorn. However, their last few attempts fell short of their goals.</p>
+							<p>During the implementation of AMC&rsquo;s email marketing program, AMC asked the team at DEG to develop a new approach for their upcoming campaign.</p>
 							<h2>The Approach</h2>
 							<p>After studying earlier campaigns and scanning social platforms for reactions to those efforts, we came back to AMC with two key suggestions:
 							<ol>
@@ -125,6 +114,6 @@
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
-	<?php include('//www.kylewjohnston.com/includes/foot.php'); ?>
+	<?php include('includes/foot.php'); ?>
 </body>
 </html>

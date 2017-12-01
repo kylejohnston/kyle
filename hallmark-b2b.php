@@ -15,7 +15,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2,.featurette h3 { color: #5A3C8B; }
+		 .featurette h1,.featurette h2,.featurette h3 { color: #5A3C8B; }
 		.intro { background-color: #5A3C8B; }
 	</style>
 </head>
@@ -24,22 +24,28 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>Hallmark B2B Microsite</h1>
-					<p>In 2016, a B2B division of Hallmark asked the team at DEG to quickly deliver a new website to help them generate new business leads.</p>
-					<p><strong>My role:</strong> UX Designer, Creative Director</p>
-				</div>
-			</div>
-		</div>
 	</div>
 	<div class="container marketing">
 		<div class="featurette">
 			<div class="container">
 				<div class="row">
+					<div class="span2"></div>
+					<div class="span8">
+						<div class="inner">
+							<h1>Hallmark B2B Microsite</h1>
+							<p>In 2016, a B2B division of Hallmark asked the team at DEG to quickly deliver a new website to help them generate new business leads.</p>
+							<p><strong>My role:</strong> UX Designer, Creative Director</p>
+						</div>
+					</div>
+					<div class="span2"></div>
+				</div>
+			</div>
+		</div>
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
 					<div class="span7" data-aos="fade-right">
-						<div class="inner" data-aos-delay="200">
+						<div class="inner">
 							<h2>From Simple Beginnings</h2>
 							<p>With a tight budget and even tighter timeline &#8211; we kicked off in mid-November and planned to launch the website in mid-January &#8211; I stepped in to work on the UX and visual design for this project, freeing my team to focus on other critical initiatives.</p>
 							<p>The team at Hallmark had a simple vision for the website:</p>
@@ -51,9 +57,9 @@
 							<p>The team at Hallmark provided the visual assets &#8211; videos, photos, and graphics &#8211; and I worked with DEG&rsquo;s UI Team Lead to deliver a clean, responsive website.</p>
 						</div>
 					</div>
-					<div class="span5" data-aos="fade-left">
+					<div class="span5" data-aos="fade-left" data-aos-delay="500">
 						<div class="inner">
-							<div class="caption" data-aos-delay="500">
+							<div class="caption">
 								<img src="../img/samples/hmk-greetings/user-flow.full.jpg" alt="User Flow" width="444" height="418">
 								<p>The world's simplest user flow</p>
 							</div>

@@ -15,7 +15,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2, .featurette h3 { color: #005a9b; }
+		 .featurette h1,.featurette h2, .featurette h3 { color: #005a9b; }
 		.intro { background-color: #005a9b; }
 		.flexslider { border: none; }
 	</style>
@@ -28,14 +28,26 @@
 		<div class="container">
 			<div class="row">
 				<div class="introduction">
-					<h1>Fueling a Brand Evolution</h1>
-					<p>While leading the creative team at DEG, my team and I worked with <a href="https://www.ferrellgas.com">Ferrellgas</a> &#8212; one of the nation&rsquo;s largest propane providers &#8212; to rethink their brand and voice, redesign their website, and more.</p>
-					<p><strong>My role:</strong> Creative Director &#64; DEG, 2016</p>
-				</div>
+						</div>
 			</div>
 		</div>
 	</div>
 	<div class="container marketing">
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span2"></div>
+					<div class="span8">
+						<div class="inner">
+							<h1>Fueling a Brand Evolution</h1>
+							<p>While leading the creative team at DEG, my team and I worked with <a href="https://www.ferrellgas.com">Ferrellgas</a> &#8212; one of the nation&rsquo;s largest propane providers &#8212; to rethink their brand and voice, redesign their website, and more.</p>
+							<p><strong>My role:</strong> Creative Director &#64; DEG, 2016</p>
+						</div>
+					</div>
+					<div class="span2"></div>
+				</div>
+			</div>
+		</div>
 		<div class="featurette">
 			<div class="container">
 				<div class="row">

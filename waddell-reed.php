@@ -15,7 +15,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2 { color: #007e4b; }
+		 .featurette h1,.featurette h2,.featurette h3 { color: #007e4b; }
 		.intro { background-color: #007e4b; }
 	</style>
 </head>
@@ -24,17 +24,23 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>Investing in Better UX</h1>
-					<p><strong>The Challenge:</strong> <a href="https://www.waddell.com">Waddell &amp; Reed</a> &#8212; an asset management and financial planning company &#8212; had an outdated, disorganized, and difficult to manage web experience that was confusing for both customers and employees.</p>
-					<p class="credit""><strong>My role:</strong> Creative Director &#64; DEG, 2016</p>
+	</div>
+	<div class="container marketing">
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span2"></div>
+					<div class="span8">
+						<div class="inner">
+							<h1>Investing in Better UX</h1>
+							<p><strong>The Challenge:</strong> <a href="https://www.waddell.com">Waddell &amp; Reed</a> &#8212; an asset management and financial planning company &#8212; had an outdated, disorganized, and difficult to manage web experience that was confusing for both customers and employees.</p>
+							<p class="credit""><strong>My role:</strong> Creative Director &#64; DEG, 2016</p>
+						</div>
+					</div>
+					<div class="span2"></div>
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="container marketing">
 		<div class="featurette">
 			<div class="container">
 				<div class="row">

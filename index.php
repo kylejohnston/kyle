@@ -40,9 +40,9 @@
 			<div class="span6 item" data-aos="fade-up">
 				<a href="ferrellgas-brand-website/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="740" height="370" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
-					<h2><a href="ferrellgas-brand-website">Ferrellgas Brand Evolution &amp; Website Redesign</a></h2>
+					<h2><a href="ferrellgas-brand-website/">Ferrellgas Brand Evolution &amp; Website Redesign</a></h2>
 					<p>Using design thinking to fuel a brand evolution and responsive website design</p>
-					<p><a href="ferrellgas-brand-website">Get cozy with the work &#187;</a></p>
+					<p><a href="ferrellgas-brand-website/">Get cozy with the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="span6 item" data-aos="fade-up" data-aos-delay="300">

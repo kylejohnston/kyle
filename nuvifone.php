@@ -15,8 +15,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2 
-		 									{ color: #e17237; }
+		 .featurette h1,.featurette h2,.featurette h3 { color: #e17237; }
 		.intro { background-color: #e17237; }
 	</style>
 </head>
@@ -25,17 +24,23 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark" style="background-color: #e17237;">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>n&uuml;vifone</h1>
-					<p>In 2008, Garmin partnered with Asus to develop the n&uuml;vifone, the only 3G phone to fully integrate the worlds best-selling GPS navigator with voice, data and mobile web. For co-branded devices, we collaboratively developed a new brand, including a logo, packaging, website, collateral materials and more.</p>
-					<p><strong>My role:</strong> Co-Creative Director</p>
+	</div>
+	<div class="container marketing">
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span2"></div>
+					<div class="span8">
+						<div class="inner">
+							<h1>n&uuml;vifone</h1>
+							<p>In 2008, Garmin partnered with Asus to develop the n&uuml;vifone, the only 3G phone to fully integrate the worlds best-selling GPS navigator with voice, data and mobile web. For co-branded devices, we collaboratively developed a new brand, including a logo, packaging, website, collateral materials and more.</p>
+							<p><strong>My role:</strong> Co-Creative Director</p>
+						</div>
+					</div>
+					<div class="span2"></div>
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="container marketing">
 		<div class="featurette">
 			<div class="container">
 				<div class="row">

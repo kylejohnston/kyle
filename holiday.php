@@ -15,7 +15,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2 { color: #137ec2; }
+		 .featurette h1,.featurette h2,.featurette h3 { color: #137ec2; }
 		.intro { background-color: #137ec2; }
 	</style>
 </head>
@@ -24,18 +24,24 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>Holiday Campaigns</h1>
-					<p>Each Holiday season, we developed a retail-focused campaign spanning in-store merchandising, an online gift guide, email marketing, and broadcast and online advertising, all centered around the catchy &ldquo;Give-a-Garmin&rdquo; theme.</p>
-					<p>Customers have told us they know the holidays have arrived when they hear the &ldquo;Give-a-Garmin&rdquo; jingle.</p>
-					<p><strong>My role:</strong> Creative Director</p>
+	</div>
+	<div class="container marketing">
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span2"></div>
+					<div class="span8">
+						<div class="inner">
+							<h1>Holiday Campaigns</h1>
+							<p>Each Holiday season, we developed a retail-focused campaign spanning in-store merchandising, an online gift guide, email marketing, and broadcast and online advertising, all centered around the catchy &ldquo;Give-a-Garmin&rdquo; theme.</p>
+							<p>Customers have told us they know the holidays have arrived when they hear the &ldquo;Give-a-Garmin&rdquo; jingle.</p>
+							<p><strong>My role:</strong> Creative Director</p>
+						</div>
+					</div>
+					<div class="span2"></div>
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="container marketing">
 		<div class="featurette">
 			<div class="container">
 				<div class="row">

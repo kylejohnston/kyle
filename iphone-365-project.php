@@ -10,24 +10,39 @@
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
 	<link href="http://www.flow14.com/iphone-365-project" rel="canonical" />
 	<?php include('includes/head.php'); ?>
+	<style type="text/css">
+		 header h1 span a:link, 
+		 header h1 span a:hover, 
+		 header h1 span a:active, 
+		 header h1 span a:visited,
+		 .featurette h1,.featurette h2,.featurette h3 { color: #365365; }
+		.intro { background-color: #365365; }
+	</style>
 </head>
 
 <body>
-	<div class="intro dark" style="background-color:#000;">
+	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
+	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>iPhone 365 Project</h1>
-					<p><strong>The Story.</strong> Since 2009, I’ve participated in <a href="http://www.flickr.com/groups/iphone365/">iPhone 365</a>, a project created by a couple of friends who challenged themselves to take a photo a day, every day. At the end of each year, I’ve compiled my photos into a short video, set to the song I listened to the most during the year.</p>
-					<p><strong>Stats.</strong>2,684 photos since 2009. Year-by-year: 2009: 212 photos, 2010: 280 photos, 2011: 365 photos, 2012: 366 photos (leap year), 2013: 365 photos, 2014: 365 photos, 2015: 365 photos, 2016: 365 photos</p>
-				</div>
-			</div>
-		</div>
 	</div>
 
 	<div class="container marketing">
 		<!-- 2016 -->
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span2"></div>
+					<div class="span8">
+						<div class="inner">
+							<h1>iPhone 365 Project</h1>
+							<p><strong>The Story.</strong> Since 2009, I’ve participated in <a href="http://www.flickr.com/groups/iphone365/">iPhone 365</a>, a project created by a couple of friends who challenged themselves to take a photo a day, every day. At the end of each year, I’ve compiled my photos into a short video, set to the song I listened to the most during the year.</p>
+							<p><strong>Stats.</strong> 2,684 photos since 2009. Year-by-year: 2009: 212 photos, 2010: 280 photos, 2011: 365 photos, 2012: 366 photos (leap year), 2013: 365 photos, 2014: 365 photos, 2015: 365 photos, 2016: 365 photos</p>
+						</div>
+					</div>
+					<div class="span2"></div>
+				</div>
+			</div>
+		</div>
 		<div class="featurette">
 			<div class="container">
 				<div class="row">

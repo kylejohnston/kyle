@@ -15,7 +15,7 @@
 		 header h1 span a:hover, 
 		 header h1 span a:active, 
 		 header h1 span a:visited,
-		 .featurette h2,.featurette h3 { color: #D4353E; }
+		 .featurette h1, .featurette h2,.featurette h3 { color: #D4353E; }
 		.intro { background-color: #D4353E; }
 /*		.shadow { border: 1px solid rgba(204,204,204,.35); }
 */	</style>
@@ -25,12 +25,20 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-					<h1>AMC New Business Pitch</h1>
-					<p>While at DEG In 2016, I joined forces with our senior sales director, senior email strategist, and other key team members to pitch, and eventually win, email marketing services for AMC Theatres. We won the business &#8211; one of the largest such accounts in the history of the agency &#8211; by showcasing our capabilities and ingenuity, with a healthy dose of hospitality.</p>
-					<p><strong>My role:</strong> Creative Director</p>
+	</div>
+	<div class="container marketing">
+		<div class="featurette">
+			<div class="container">
+				<div class="row">
+					<div class="span2"></div>
+					<div class="span8">
+						<div class="inner">
+							<h1>AMC New Business Pitch</h1>
+							<p>While at DEG In 2016, I joined forces with our senior sales director, senior email strategist, and other key team members to pitch, and eventually win, email marketing services for AMC Theatres. We won the business &#8211; one of the largest such accounts in the history of the agency &#8211; by showcasing our capabilities and ingenuity, with a healthy dose of hospitality.</p>
+							<p><strong>My role:</strong> Creative Director</p>
+						</div>
+					</div>
+					<div class="span2"></div>
 				</div>
 			</div>
 		</div>
