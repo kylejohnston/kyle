@@ -90,6 +90,6 @@
 		<?php include('includes/footer.php'); ?>
 	</div><!-- /.container -->
 
-	<?php include('//www.kylewjohnston.com/includes/foot.php'); ?>
+	<?php include('includes/foot.php'); ?>
 </body>
 </html>
