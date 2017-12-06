@@ -12,7 +12,7 @@
 					<div class="span4">
 						<div class="inner">
 							<p><strong>Contact</strong><br>
-							<span>913 707-7442</span><br><a href="/contact/" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Email']);"><strong>Email</strong></a></p>
+							<span>913 707-7442</span> / <a href="/contact/" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Email']);">Email</a> / <a href="https://linkedin.com/in/kylejohnston/">LinkedIn</a></p>
 						</div>
 					</div>
 					<div class="span2">
