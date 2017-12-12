@@ -11,12 +11,8 @@
 	<link href="http://www.kylewjohnston.com/about-kyle-johnston" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
-		 header h1 span a:link, 
-		 header h1 span a:hover, 
-		 header h1 span a:active, 
-		 header h1 span a:visited, 
-		 h1, h2 { color: #e14526; }
-		.intro { background-color: #e14526; }
+		 h1, h2 { color: #282828; }
+		.intro { background-color: #282828; }
 		section { margin: 1em 0; }
 	</style>
 </head>

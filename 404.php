@@ -8,13 +8,8 @@
 	<meta name="description" content="Oops. I couldn't find the page you were looking for.">
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
-		 header h1 span a:link, 
-		 header h1 span a:hover, 
-		 header h1 span a:active, 
-		 header h1 span a:visited, 
-		 h1, h2 
-		 									{ color: #e14526; }
-		.intro { background-color: #e14526; }
+		 h1, h2 { color: #282828; }
+		.intro { background-color: #282828; }
 	</style>
 </head>
 
