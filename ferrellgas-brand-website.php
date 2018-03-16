@@ -25,12 +25,6 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-				<div class="introduction">
-						</div>
-			</div>
-		</div>
 	</div>
 	<div class="container marketing">
 		<div class="featurette">
