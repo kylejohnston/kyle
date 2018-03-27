@@ -31,7 +31,7 @@
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
 	<div class="container items">
-		<h1>Portfolio</h1>
+		<h1 class="nudge-top--md">Portfolio</h1>
 		<div class="row">
 			<div class="span6 item" data-aos="fade-up">
 				<a href="career-path/"><img src="img/samples/career-path/thumbnail.2x.jpg" width="740" height="370" alt="Career Path Framework"></a>
@@ -54,11 +54,11 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span6 item" data-aos="fade-up">
-				<a href="amc/"><img src="//www.kylewjohnston.com/img/samples/amc/thumbnail01.2x.jpg" width="740" height="370" alt="TK"></a>
+				<a href="amc/"><img src="//www.kylewjohnston.com/img/samples/amc/thumbnail01.2x.jpg" width="740" height="370" alt="New business pitch for AMC Theatres"></a>
 				<div class="inner">
 					<h2><a href="amc/">AMC New Business Pitch</a></h2>
 					<p>Teamwork made the dream work</p>
-					<p><a href="amc/">See behind the scenes &#187;</a></p>
+					<p><a href="amc/">Peek behind the curtain &#187;</a></p>
 				</div>
 			</div>
 			<div class="span6 item" data-aos="fade-up" data-aos-delay="300">
@@ -86,7 +86,7 @@
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/">flow14 - Independent Projects</a></h2>
 					<p>Logo design, website design, and more</p>
-					<p><a href="http://www.flow14.com/">Lots to see here &#187;</a></p>
+					<p><a href="http://www.flow14.com/">See the design works &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item" data-aos="fade-up" data-aos-delay="600">
@@ -98,6 +98,7 @@
 				</div>
 			</div>
 		</div>
+		<p class="nudge-top--lg"><a href="all-projects/"><strong>&horbar;View all projects</strong></a></p>
 	</div><!-- Row 1 -->
 	<div class="container items">
 		<div class="row">
