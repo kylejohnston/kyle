@@ -80,7 +80,7 @@
 				<a href="/lee-jeans/"><img src="//www.kylewjohnston.com/img/samples/lee-jeans/thumbnail.2x.jpg" width="740" height="370" alt="Lee Product Videos"></a>
 				<div class="inner">
 					<h2><a href="/lee-jeans/">Lee Product Videos</a></h2>
-					<p>Product introduction videos for an iconic brand.</p>
+					<p>Product introduction videos for an iconic brand</p>
 					<p><a href="/lee-jeans/">See the moving work &#187;</a></p>
 				</div>
 			</div>
@@ -111,7 +111,7 @@
 				<a href="/youtube/"><img src="//www.kylewjohnston.com/img/samples/youtube/thumbnail.2x.jpg" width="740" height="370" alt="YouTube Pre-Roll"></a>
 				<div class="inner">
 					<h2><a href="/youtube/">You-Tube Pre-Roll</a></h2>
-					<p>Pre-roll ads for the launch of Garmin's YouTube channel.<br><strong>Winner:</strong> Gold ADDY Award</p>
+					<p>Pre-roll ads for the launch of Garmin's YouTube channel<br><strong>Winner:</strong> Gold ADDY Award</p>
 					<p><a href="/youtube/">Roll the video &#187;</a></p>
 				</div>
 			</div>
@@ -143,7 +143,7 @@
 				<a href="/idea-bucket/"><img src="//www.kylewjohnston.com/img/samples/idea-bucket/thumbnail.2x.jpg" width="740" height="370" alt="Idea Bucket Website"></a>
 				<div class="inner">
 					<h2><a href="/idea-bucket/">Idea Bucket Website</a></h2>
-					<p>Design &amp; development of an internal innovation website</p>
+					<p>Design &amp; development of an innovation website</p>
 					<p><a href="/idea-bucket/">Explore the work &#187;</a></p>
 				</div>
 			</div>
