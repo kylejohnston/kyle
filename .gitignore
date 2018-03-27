@@ -1,4 +1,9 @@
 includes/email.php
+/subdomains/
+includes/processform.php
+includes/footer.hc.php
+css/test-20171103.css
+
 
 # OS generated files #
 ######################
