@@ -30,7 +30,7 @@
 				<div class="about-me"><img src="//www.kylewjohnston.com/img/kyle-johnston.jpg" alt="Kyle Johnston"></div>
 				<h1>About Me</h1>
 				<p>I’m a passionate and unflappable designer and creative leader with twenty years of broad-ranging experience, including a rich background in practicing and leading design, creative strategy, and operational leadership and development. I’ve utilized my passion for communication design, user-centered design, and team leadership to successfully build, manage, and mentor diverse teams in both in-house and agency environments.</p>
-				<p>Currently, I’m the owner and principal designer at flow14, an independent branding and design studio that specializes in helping clients connect with their audiences through thoughtfully designed communications, including websites, branding, and more.</p>
+				<p>Currently, I’m the owner and principal designer at <a href="http://www.flow14.com">flow14</a>, an independent branding and design studio that specializes in helping clients connect with their audiences through thoughtfully designed communications, including websites, branding, and more.</p>
 				<p>Prior to flow14, my experience includes:
 				<ul>
 					<li>Director of Creative Services at <a href="https://vistaoutdoor.com">Vista Outdoor</a>, a leader in the outdoor sports and recreation markets</li>
