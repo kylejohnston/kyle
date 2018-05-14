@@ -171,6 +171,14 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item">
+				<a href="rounding-up-undies/"><img src="//www.kylewjohnston.com/img/samples/rounding-up-undies/thumbnail.jpg" width="740" height="370" alt="Rounding Up Undies Logo"></a>
+				<div class="inner">
+					<h2><a href="rounding-up-undies/">Rounding Up Undies Logo</a></h2>
+					<p>A distinctive logo design for a growing nonprofit.</p>
+					<p><a href="rounding-up-undies/">Read the round up &#187;</a></p>
+				</div>
+			</div>
+			<div class="span4 item">
 				<a href="http://www.flow14.com/"><img src="//www.kylewjohnston.com/img/samples/flow14/thumbnail.2x.png" width="370" height="185" alt="flow14 - Independent Projects"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/">flow14 - Independent Projects</a></h2>
@@ -186,7 +194,6 @@
 					<p><a href="/iphone-365-project/">Watch the Videos &#187;</a></p>
 				</div>
 			</div>
-			<div class="span4">&nbsp;</div>
 		</div>
 	</div><!-- Row 1 -->
 	<div class="container items">

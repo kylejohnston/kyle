@@ -13,8 +13,15 @@
 	<?php include('includes/head.php'); ?>
 
 	<style type="text/css">
-		 h1 { color: #282828; }
-		.intro { background-color: #282828; }
+		header h1 span a:link, 
+		header h1 span a:hover, 
+		header h1 span a:active, 
+		header h1 span a:visited { color: #94bd00; }
+		.intro { background-color: #94bd00; }
+		.welcome h1, .welcome h3 { line-height: 1.6;  }
+		.welcome h3 { color: #4E4E4E; }
+		span#hello,
+		h1 span.oomph { border-bottom: 4px solid #94bd00; color: #282828; }
 	</style>
 </head>
 <body>
@@ -27,12 +34,19 @@
 		</div>
 	</div>
 
-
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
-	<div class="container items">
-		<h1 class="nudge-top--md">Portfolio</h1>
-		<div class="row">
+	<div class="container">
+		<div class="row nudge-top--lg">
+			<div class="span9 welcome">
+				<div class="inner">
+					<h1><span class="oomph"><span id="hello">Hello</span>!</span></h1>
+					<h3>I’m a designer and creative director. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
+				</div>
+			</div>
+			<div class="span3 hidden-phone"></div>
+		</div>
+		<div class="row nudge-top--lg">
 			<div class="span6 item" data-aos="fade-up">
 				<a href="career-path/"><img src="img/samples/career-path/thumbnail.2x.jpg" width="740" height="370" alt="Career Path Framework"></a>
 				<div class="inner">
@@ -74,11 +88,11 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item" data-aos="fade-up">
-				<a href="idea-bucket/"><img src="img/samples/idea-bucket/thumbnail.2x.jpg" width="740" height="370" alt="Idea Bucket Website"></a>
+				<a href="rounding-up-undies/"><img src="img/samples/rounding-up-undies/thumbnail.jpg" width="740" height="370" alt="Rounding Up Undies Logo"></a>
 				<div class="inner">
-					<h2><a href="idea-bucket/">Idea Bucket Website</a></h2>
-					<p>Design &amp; development of an internal innovation website</p>
-					<p><a href="idea-bucket/">Explore the work &#187;</a></p>
+					<h2><a href="rounding-up-undies/">Rounding Up Undies Logo</a></h2>
+					<p>A distinctive logo design for a growing nonprofit.</p>
+					<p><a href="rounding-up-undies/">Read the round up &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item" data-aos="fade-up" data-aos-delay="300">
@@ -112,6 +126,20 @@
 	</div>
 
 	<?php include('includes/foot.php'); ?>
-
+	<script type="text/javascript">
+	(function() {
+		var quotes = [
+			{ text: "Hello" },
+			{ text: "Howdy" },
+			{ text: "Aloha" },
+			{ text: "Hiya" },
+			{ text: "Namaste" },
+			{ text: "Konnichi Wa" },
+			{ text: "Bonjour" }
+		];
+		var quote = quotes[Math.floor(Math.random() * quotes.length)];
+		document.getElementById("hello").innerHTML = quote.text;
+	})();
+	</script>
 </body>
 </html>
