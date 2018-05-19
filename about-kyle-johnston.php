@@ -11,8 +11,12 @@
 	<link href="http://www.kylewjohnston.com/about-kyle-johnston" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
+		header h1 span a:link, 
+		header h1 span a:hover, 
+		header h1 span a:active, 
+		header h1 span a:visited { color: #1b598c; }
+		.intro { background-color: #1b598c; }
 		 h1, h2 { color: #282828; }
-		.intro { background-color: #282828; }
 		section { margin: 1em 0; }
 	</style>
 </head>
@@ -83,11 +87,11 @@
 					</div>
 					<div class="span5">
 						<h3>Recent Writing</h3>
+						<p><strong><a href="https://blog.prototypr.io/the-best-design-tool-ive-used-b25cd8fcd5c4">The best design tool I’ve used</a></strong></p>
 						<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-day-30-4501d84a5dbb">30 Days to App, Day 30</a></strong></p>
 						<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-week-4-e7cda94089bd">30 Days to App, Week 4</a></strong></p>
 						<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-week-3-33f85306b800">30 Days to App, Week 3</a></strong></p>
-						<p><strong><a href="https://medium.com/@kylejohnston/thirty-days-to-app-week-2-4a91f3bac6ce">30 Days to App, Week 2</a></strong></p>
-						<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-deec90cfb4de">30 Days to App</a></strong></p>
+						<p><a href="https://medium.com/@kylejohnston/">More writing on Medium.com</a></p>
 					</div>
 				</div>
 			<div class="span2"></div>
