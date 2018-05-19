@@ -12,8 +12,12 @@
 	<link href="http://www.kylewjohnston.com/contact" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
+		header h1 span a:link, 
+		header h1 span a:hover, 
+		header h1 span a:active, 
+		header h1 span a:visited { color: #94bd00; }
+		.intro { background-color: #94bd00; }
 		 h1, h2 { color: #282828; }
-		.intro { background-color: #282828; }
 	</style>
 </head>
 
@@ -71,9 +75,7 @@
 				<a class="twitter" href="https://twitter.com/kylejohnston">Twitter</a><br>
 				<a class="github" href="https://github.com/kylejohnston">GitHub</a><br>
 				<a class="dribbble" href="https://dribbble.com/kylejohnston">dribbble</a><br>
-				<a class="behance" href="https://www.behance.net/KyleJohnston">Behance</a><br>
 				<a class="unsplash" href="https://unsplash.com/@kylejohnston">Unsplash</a><br>
-				<a class="vsco" href="http://kylejohnston.vsco.co/">VSCO</a><br>
 				</p>
 			</div>
 		</div>
