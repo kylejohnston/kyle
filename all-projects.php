@@ -171,11 +171,11 @@
 	<div class="container items">
 		<div class="row">
 			<div class="span4 item">
-				<a href="rounding-up-undies/"><img src="//www.kylewjohnston.com/img/samples/rounding-up-undies/thumbnail.jpg" width="740" height="370" alt="Rounding Up Undies Logo"></a>
+				<a href="/rounding-up-undies/"><img src="//www.kylewjohnston.com/img/samples/rounding-up-undies/thumbnail.jpg" width="740" height="370" alt="Rounding Up Undies Logo"></a>
 				<div class="inner">
-					<h2><a href="rounding-up-undies/">Rounding Up Undies Logo</a></h2>
+					<h2><a href="/rounding-up-undies/">Rounding Up Undies Logo</a></h2>
 					<p>A distinctive logo design for a growing nonprofit.</p>
-					<p><a href="rounding-up-undies/">Read the round up &#187;</a></p>
+					<p><a href="/rounding-up-undies/">Read the round up &#187;</a></p>
 				</div>
 			</div>
 			<div class="span4 item">
