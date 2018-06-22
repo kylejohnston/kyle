@@ -32,7 +32,30 @@
 	<a name="portfolio"></a>
 	<div class="container items">
 		<h1 class="nudge-top--md">Portfolio: All Projects</h1>
-		<h2 class="nudge-top--lg">&horbar; Agency: DEG</h2>
+		<h2 class="nudge-top--lg">&horbar; Agency: flow14</h2>
+	</div>
+	<div class="container items">
+		<div class="row">
+			<div class="span6 item">
+				<a href="/hnc-living-foundation/"><img src="/img/samples/hnc-living/thumb-alt.jpg" width="740" height="370" alt="HNC Living Website Redesign"></a>
+				<div class="inner">
+					<h2><a href="/hnc-living-foundation/">HNC Living Website Redesign</a></h2>
+					<p>Rehabilitating a website for a life-changing nonprofit</p>
+					<p><a href="/hnc-living-foundation/">See the transformation &#187;</a></p>
+				</div>
+			</div>
+			<div class="span6 item">
+				<a href="/rounding-up-undies/"><img src="//www.kylewjohnston.com/img/samples/rounding-up-undies/thumbnail.jpg" width="740" height="370" alt="Rounding Up Undies Logo"></a>
+				<div class="inner">
+					<h2><a href="/rounding-up-undies/">Rounding Up Undies Logo</a></h2>
+					<p>A distinctive logo design for a growing nonprofit.</p>
+					<p><a href="/rounding-up-undies/">Read the round up &#187;</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container items">
+		<h2 class="nudge-top--md">&horbar; Agency: DEG</h2>
 	</div>
 	<div class="container items">
 		<div class="row">
@@ -170,15 +193,7 @@
 	</div>
 	<div class="container items">
 		<div class="row">
-			<div class="span4 item">
-				<a href="/rounding-up-undies/"><img src="//www.kylewjohnston.com/img/samples/rounding-up-undies/thumbnail.jpg" width="740" height="370" alt="Rounding Up Undies Logo"></a>
-				<div class="inner">
-					<h2><a href="/rounding-up-undies/">Rounding Up Undies Logo</a></h2>
-					<p>A distinctive logo design for a growing nonprofit.</p>
-					<p><a href="/rounding-up-undies/">Read the round up &#187;</a></p>
-				</div>
-			</div>
-			<div class="span4 item">
+			<div class="span6 item">
 				<a href="http://www.flow14.com/"><img src="//www.kylewjohnston.com/img/samples/flow14/thumbnail.2x.png" width="370" height="185" alt="flow14 - Independent Projects"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/">flow14 - Independent Projects</a></h2>
@@ -186,7 +201,7 @@
 					<p><a href="http://www.flow14.com/">See the design works &#187;</a></p>
 				</div>
 			</div>
-			<div class="span4 item">
+			<div class="span6 item">
 				<a href="/iphone-365-project/"><img src="//www.kylewjohnston.com/img/samples/iphone-365/thumb-2017.2x.jpg" width="370" height="185" alt="iPhone 365 Project"></a>
 				<div class="inner">
 					<h2><a href="/iphone-365-project/">Personal Work: 365 Project</a></h2>

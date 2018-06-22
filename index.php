@@ -48,11 +48,11 @@
 		</div>
 		<div class="row nudge-top--lg">
 			<div class="span6 item" data-aos="fade-up">
-				<a href="career-path/"><img src="img/samples/career-path/thumbnail.2x.jpg" width="740" height="370" alt="Career Path Framework"></a>
+				<a href="hnc-living-foundation/"><img src="img/samples/hnc-living/thumb-alt.jpg" width="740" height="370" alt="HNC Living Website Redesign"></a>
 				<div class="inner">
-					<h2><a href="career-path/">Career Path Framework</a></h2>
-					<p>Designing a creative career path</p>
-					<p><a href="career-path/">Explore the path &#187;</a></p>
+					<h2><a href="hnc-living-foundation/">HNC Living Website Redesign</a></h2>
+					<p>Rehabilitating a website for a life-changing nonprofit</p>
+					<p><a href="hnc-living-foundation/">See the transformation &#187;</a></p>
 				</div>
 			</div>
 			<div class="span6 item" data-aos="fade-up" data-aos-delay="300">
