@@ -18,7 +18,7 @@
 		header h1 span a:active, 
 		header h1 span a:visited { color: #94bd00; }
 		.intro { background-color: #94bd00; }
-		.welcome h1, .welcome h3 { line-height: 1.6;  }
+		.welcome h1, .welcome h3 { line-height: 1.5; }
 		.welcome h3 { color: #4E4E4E; }
 		span#hello,
 		h1 span.oomph { border-bottom: 4px solid #94bd00; color: #282828; }
@@ -28,35 +28,32 @@
 	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
 	<div class="intro dark">
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-			</div>
-		</div>
 	</div>
 
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
-	<div class="container">
-		<div class="row nudge-top--lg">
-			<div class="span9 welcome">
-				<div class="inner">
-					<h1><span class="oomph"><span id="hello">Hello</span>!</span></h1>
-					<h3>I’m a designer and creative director. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
-				</div>
+	<div class="block">
+		<div class="col-9 welcome">
+			<div class="inner">
+				<h1><span class="oomph"><span id="hello">Hello</span>!</span></h1>
+				<h3>I’m a designer and creative director. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
 			</div>
-			<div class="span3 hidden-phone"></div>
 		</div>
-		<div class="row nudge-top--lg">
-			<div class="span6 item" data-aos="fade-up">
-				<a href="hnc-living-foundation/"><img src="img/samples/hnc-living/thumb-alt.jpg" width="740" height="370" alt="HNC Living Website Redesign"></a>
+	</div>
+	<div class="block">
+		<div class="col-6">
+			<div class="card">
+				<a href="hnc-living-foundation/"><img src="img/samples/hnc-living/thumb-alt.jpg" alt="HNC Living Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="hnc-living-foundation/">HNC Living Website Redesign</a></h2>
 					<p>Rehabilitating a website for a life-changing nonprofit</p>
 					<p><a href="hnc-living-foundation/">See the transformation &#187;</a></p>
 				</div>
 			</div>
-			<div class="span6 item" data-aos="fade-up" data-aos-delay="300">
-				<a href="ferrellgas-brand-website/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" width="740" height="370" alt="Ferrellgas Website Redesign"></a>
+		</div>
+		<div class="col-6">
+			<div class="card">
+				<a href="ferrellgas-brand-website/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="ferrellgas-brand-website/">Ferrellgas Brand Evolution &amp; Website Redesign</a></h2>
 					<p>Using design thinking to fuel a brand evolution and responsive website design</p>
@@ -64,19 +61,20 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="container items">
-		<div class="row">
-			<div class="span6 item" data-aos="fade-up">
-				<a href="amc/"><img src="//www.kylewjohnston.com/img/samples/amc/thumbnail01.2x.jpg" width="740" height="370" alt="New business pitch for AMC Theatres"></a>
+
+		<div class="col-6">
+			<div class="card">
+				<a href="amc/"><img src="/img/samples/amc/thumbnail01.2x.jpg" alt="New business pitch for AMC Theatres"></a>
 				<div class="inner">
 					<h2><a href="amc/">AMC New Business Pitch</a></h2>
 					<p>Teamwork made the dream work</p>
 					<p><a href="amc/">Peek behind the curtain &#187;</a></p>
 				</div>
 			</div>
-			<div class="span6 item" data-aos="fade-up" data-aos-delay="300">
-				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" width="740" height="370" alt="Garmin.com Mobile Website"></a>
+		</div>
+		<div class="col-6">
+			<div class="card">
+				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
 					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
 					<p>Wireframing, design, &amp; development of a mobile-optimized Garmin.com</p>
@@ -84,27 +82,20 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="container items">
-		<div class="row">
-			<div class="span4 item" data-aos="fade-up">
-				<a href="rounding-up-undies/"><img src="img/samples/rounding-up-undies/thumbnail.jpg" width="740" height="370" alt="Rounding Up Undies Logo"></a>
+
+		<div class="col-4">
+			<div class="card">
+				<a href="rounding-up-undies/"><img src="img/samples/rounding-up-undies/thumbnail.jpg" alt="Rounding Up Undies Logo"></a>
 				<div class="inner">
 					<h2><a href="rounding-up-undies/">Rounding Up Undies Logo</a></h2>
 					<p>A distinctive logo design for a growing nonprofit.</p>
 					<p><a href="rounding-up-undies/">Read the round up &#187;</a></p>
 				</div>
 			</div>
-			<div class="span4 item" data-aos="fade-up" data-aos-delay="300">
-				<a href="http://www.flow14.com/"><img src="img/samples/flow14/thumbnail.2x.png" width="370" height="185" alt="flow14 - Freelance Projects"></a>
-				<div class="inner">
-					<h2><a href="http://www.flow14.com/">flow14 - Independent Projects</a></h2>
-					<p>Logo design, website design, and more</p>
-					<p><a href="http://www.flow14.com/">See the design works &#187;</a></p>
-				</div>
-			</div>
-			<div class="span4 item" data-aos="fade-up" data-aos-delay="600">
-				<a href="iphone-365-project/"><img src="img/samples/iphone-365/thumb-2017.2x.jpg" width="370" height="185" alt="iPhone 365 Project"></a>
+		</div>
+		<div class="col-4">
+			<div class="card">
+				<a href="iphone-365-project/"><img src="img/samples/iphone-365/thumb-2017.2x.jpg" alt="iPhone 365 Project"></a>
 				<div class="inner">
 					<h2><a href="iphone-365-project/">Personal Work: 365 Project</a></h2>
 					<p>A photo a day. Every day. Since 2009.
@@ -112,18 +103,20 @@
 				</div>
 			</div>
 		</div>
-		<p class="nudge-top--lg"><a href="all-projects/"><strong>&horbar;View all projects</strong></a></p>
-	</div><!-- Row 1 -->
-	<div class="container items">
-		<div class="row">
-			
-			
-			<div class="span4">&nbsp;</div>
+		<div class="col-4">
+			<div class="card">
+				<a href="http://www.flow14.com/"><img src="img/samples/flow14/thumbnail.2x.png" alt="flow14 - Freelance Projects"></a>
+				<div class="inner">
+					<h2><a href="http://www.flow14.com/">flow14 - Independent Projects</a></h2>
+					<p>Logo design, website design, and more</p>
+					<p><a href="http://www.flow14.com/">See the design works &#187;</a></p>
+				</div>
+			</div>
 		</div>
-	</div><!-- Row 3 -->
-	<div class="container marketing">
-		<?php include('includes/footer.php'); ?>
-	</div>
+		<p class="col-12"><a href="all-projects/"><strong>&horbar;View all projects</strong></a></p>
+	</div><!-- /block -->
+
+	<?php include('includes/footer.php'); ?>
 
 	<?php include('includes/foot.php'); ?>
 	<script type="text/javascript">

@@ -1,11 +1,11 @@
 /* BASIC/GLOBAL STYLES
 ------------------------------------------ */
-* { box-sizing: border-box; }
+/** { box-sizing: border-box; }*/
 html {
 	font-size: 100%;
 }
 body {
-	background: #f8f8f8;
+	background: #ccc;
 	color: #333333;
 	font-size: 1.2em;
 	font-family: 'Source Sans Pro', sans-serif;
@@ -15,14 +15,13 @@ body {
 .yolo { background-color: yellow; }
 
 h1 {
-	margin-bottom: .3em;
+	margin-bottom: 16px;
 	font-weight: 200;
 	font-size: 56px;
 	font-size: 3.5rem;
-	line-height: 1.1;
 }
 .intro h1 {
-	margin-bottom: .2em;
+	margin-bottom: 8px;
 	font-size: 48px;
 	font-size: 3rem;
 }
@@ -31,20 +30,20 @@ h1 {
 	font-size: 2.2rem;
 }
 h2 {
-	margin: 0 0 .5em 0;
+	margin: 0 0 24px; 0;
 	font-weight: 300;
 	font-size: 35px;
 	font-size: 2.2rem;
 	line-height: 1.1;
 }
-.item h2 {
-	margin: .5em 0 .25em 0;
+.card h2 {
+	margin: 0 0 8px 0;
 	font-weight: 400;
 	font-size: 24px;
 	font-size: 1.5rem;
 }
 h3 {
-	margin-bottom: .5em;
+	margin-bottom: 16px;
 	font-weight: 300;
 	font-size: 27px
 	font-size: 1.7rem;
@@ -52,19 +51,19 @@ h3 {
 }
 h1,h2,h3,h4,h5,h6 { font-family: CooperHewitt, Helvetica, Arial, sans-serif; }
 p {
-	margin: 0 0 1em 0;
+	margin: 0 0 16px 0;
 	font-weight: 300;
 }
-ul { margin-bottom:1.4em; }
+ul { margin-bottom:24px; }
 li {
-	margin: 0 0 .4em 0;
+	margin: 0 0 16px 0;
 	font-weight: 300;
 	line-height: 1.5;
 	text-align: left;
 }
 h1 strong,
 p strong { font-weight: 400; }
-.item p {
+.card p {
 	font-size: 19px;
 	font-size: 1rem;
 }
@@ -136,13 +135,11 @@ label {
 .epithet,
 .epithet span { color: #fff; font-weight: 300; }
 
-header.top-nav { padding-top: 10px; }
 header h1 {
 	margin: 13px 0;
-	padding: 0;
 }
 	header h1 span {
-		padding: 15px 10px 7px;
+		padding: 15px 12px 8px;
 		color: #fff;
 		background-color: rgba(14,0,14,.6);
 		border-bottom-left-radius: 3px;
@@ -173,13 +170,15 @@ header h1 {
 	margin-top: 1rem;
 	margin-bottom: 2rem;
 }
-.item {
+.card {
 	border-radius: 5px;
 	background: #ffffff;
+	margin-bottom: 8px;
+	padding-bottom: 8px;
 }
-.item img {
-	margin-bottom: .5em;
-	min-width: 100%;
+.card img {
+	margin-bottom: 16px;
+	width: 100%;
 }
 
 .video-container iframe,
@@ -287,9 +286,10 @@ img.frame {
 }
 
 /* Marketing Content */
-.marketing {
+/*.marketing {
 	min-width: 100%;
 }
+*/
 .introduction {
 	margin: 1em auto 2em auto;
 	text-align: left;
@@ -360,11 +360,12 @@ img.frame {
 .flexslider-50 { width: 50%; }
 .flexslider-40 { width: 40%; }
 
-.inner {
+/*.inner {
 	margin: 0 auto;
 	width: 100%;
 }
 .item .inner { width: 90%; }
+*/
 .overflow { overflow: hidden; width: 100%; }
 .overflow img { margin: -55px 40px; }
 #contactform input.text { padding: 15px 5px; width: 90%; }
@@ -453,7 +454,7 @@ p.flex-caption {
 
 /* Direction Nav */
 .flex-direction-nav {*height: 0;}
-.flex-direction-nav a { position: absolute; top: 50%; z-index: 10; display: block; margin: -20px 0 0;width: 30px; height: 30px; background: url('//flow14.com/img/bg_direction_nav.png') no-repeat 0 0; text-indent: -9999px; opacity: 0; cursor: pointer; -webkit-transition: all .3s ease;}
+.flex-direction-nav a { position: absolute; top: 50%; z-index: 10; display: block; margin: -20px 0 0;width: 30px; height: 30px; background: url('//kylewjohnston.com/img/bg_direction_nav.png') no-repeat 0 0; text-indent: -9999px; opacity: 0; cursor: pointer; -webkit-transition: all .3s ease;}
 .flex-direction-nav .flex-next { right: -36px;background-position: 100% 0; }
 .flex-direction-nav .flex-prev {left: -36px;}
 .flexslider:hover .flex-next { right: 5px;opacity: 0.8;}
@@ -477,11 +478,11 @@ p.flex-caption {
 /* RESPONSIVE CSS
 ------------------------------------------ */
 @media (max-width: 979px) {
-	.item {
+	/*.item {
 		margin-bottom: 1.5em;
 		padding-bottom: .1em;
-	}
-	.items {
+	}*/
+	/*.items {
 		margin-top: 0;
 		margin-bottom: 0;
 	}
@@ -518,9 +519,9 @@ p.flex-caption {
 		margin: .5em 0 0 0;
 		width: 96%;
 		text-align: center;
-	}
+	}*/
 }
-@media screen and (max-width: 860px) {
+/*@media screen and (max-width: 860px) {
   .flex-direction-nav .flex-prev { left: 0;opacity: 1;}
   .flex-direction-nav .flex-next { right: 0;opacity: 1;}
 	.overflow { overflow: visible; height: auto; }
@@ -528,18 +529,15 @@ p.flex-caption {
 	.video-container {
 		margin-bottom: 1em;
 	}
-}
-@media (max-width: 767px) {
+}*/
+/*@media (max-width: 767px) {
 	.introduction {
 		margin: .5em .5em 1.5em .5em;
 		text-align: left;
 	}
-	/*.epithet { display: block; font-weight: 300; color: #fff; }
-		.epithet span { display: none; }*/
 	h1,
 	.intro h1 { font-size: 2rem; }
 	h2,
-	.item h2 { font-size: 1.3rem; }
 	#fresh {
 		margin: -20px -20px 1em;
 		padding: 2em 20px 1em;
@@ -583,25 +581,10 @@ p.flex-caption {
 		margin: 0 0 1em 0;
 		width: 100%;
 	}
-	.featurette .inner img,
-	.featurette .inner .video-container {
-		margin: 1em 0;
-	}
 	.marketing .span4 + .span4 { margin-top: 40px; }
-	footer .inner { width: 280px; }
 	p.flex-caption {
 		margin: .5em 0 0 0;
 		width: 96%;
 	}
 	.overflow img { margin: 0 auto 0 auto; }
-	.inner {
-		margin: 0 auto;
-		width: 90%;
-	}
-}
-
-/* TO DO ITEMS
------------------------------------------- */
-/*
-- Mobile-optimized image loading (see L4K code)
-*/
+}*/
