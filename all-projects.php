@@ -11,30 +11,24 @@
 	<link href="http://www.kylewjohnston.com/all-projects/" rel="canonical" />
 
 	<?php include('includes/head.php'); ?>
-
-	<style type="text/css">
-		 h1 { color: #282828; }
-		.intro { background-color: #282828; }
-	</style>
 </head>
 <body>
-	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
-	<div class="intro dark">
+	<header>
 		<?php include('includes/header-nav.php'); ?>
-		<div class="container">
-			<div class="row">
-			</div>
-		</div>
-	</div>
-
+	</header>
 
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
+	<article class="content">
+	<section class="block">
+		<div class="col-12">
+			<div class="inner">
+				<h1>Portfolio: All Projects</h1>
+				<h2 class="spacer-top-6 spacer-bottom-0">&horbar; Agency: flow14</h2>
+			</div>
+	</section>
 
 	<div class="block">
-		<h1 class="col-12">Portfolio: All Projects</h1>
-		<h2 class="col-12 spacer-bottom-0">&horbar; Agency: flow14</h2>
-
 		<div class="col-6">
 			<div class="card">
 				<a href="/hnc-living-foundation/"><img src="/img/samples/hnc-living/thumb-alt.jpg" alt="HNC Living Website Redesign"></a>
@@ -56,7 +50,11 @@
 			</div>
 		</div>
 
-		<h2 class="col-12 spacer-top-5 spacer-bottom-0">&horbar; Agency: DEG</h2>
+		<div class="col-12">
+			<div class="inner">
+				<h2 class="spacer-top-5 spacer-bottom-0">&horbar; Agency: DEG</h2>
+			</div>
+		</div>
 		<div class="col-6">
 			<div class="card">
 				<a href="/ferrellgas-brand-website/"><img src="/img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
@@ -118,7 +116,11 @@
 			</div>
 		</div>
 
-		<h2 class="col-12 spacer-top-5 spacer-bottom-0">&horbar; In-house: Garmin</h2>
+		<div class="col-12">
+			<div class="inner">
+				<h2 class="spacer-top-5 spacer-bottom-0">&horbar; In-house: Garmin</h2>
+			</div>
+		</div>
 		<div class="col-6">
 			<div class="card">
 				<a href="/career-path/"><img src="/img/samples/career-path/thumbnail.2x.jpg" alt="Career Path Framework"></a>
@@ -190,7 +192,11 @@
 			</div>
 		</div>
 
-		<h2 class="col-12 spacer-top-5 spacer-bottom-0">&horbar; Etc.</h2>
+		<div class="col-12">
+			<div class="inner">
+				<h2 class="spacer-top-5 spacer-bottom-0">&horbar; Etc.</h2>
+			</div>
+		</div>
 		<div class="col-6">
 			<div class="card">
 				<a href="http://www.flow14.com/"><img src="/img/samples/flow14/thumbnail.2x.png" alt="flow14 - Independent Projects"></a>
@@ -212,6 +218,7 @@
 			</div>
 		</div>
 	</div><!-- /block -->
+	</article>
 
 
 

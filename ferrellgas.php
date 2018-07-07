@@ -65,11 +65,11 @@
 								<ul class="slides">
 									<li style="text-align:center;">
 										<p class="flex-caption">Old Homepage</p>
-										<img  src="//www.kylewjohnston.com/img/samples/ferrellgas/old-homepage.570.jpg" alt="The old Ferrellgas homepage">
+										<img  src="/img/samples/ferrellgas/old-homepage.570.jpg" alt="The old Ferrellgas homepage">
 									</li>
 									<li style="text-align:center;">
 										<p class="flex-caption">New Homepage</p>
-										<img src="//www.kylewjohnston.com/img/samples/ferrellgas/ferrellgas-home.jpg" alt="The new Ferrellgas homepage">
+										<img src="/img/samples/ferrellgas/ferrellgas-home.jpg" alt="The new Ferrellgas homepage">
 									</li>
 								</ul>
 							</div>
@@ -85,16 +85,16 @@
 								<ul class="slides">
 									<li style="text-align:center;">
 										<p class="flex-caption">Old Residential page</p>
-										<img  src="//www.kylewjohnston.com/img/samples/ferrellgas/old-residential.570.jpg" alt="The old Ferrellgas homepage">
+										<img  src="/img/samples/ferrellgas/old-residential.570.jpg" alt="The old Ferrellgas homepage">
 									</li>
 									<li style="text-align:center;">
 										<p class="flex-caption">New Residential page</p>
-										<img src="//www.kylewjohnston.com/img/samples/ferrellgas/ferrellgas-residential.jpg" alt="The new Ferrellgas homepage">
+										<img src="/img/samples/ferrellgas/ferrellgas-residential.jpg" alt="The new Ferrellgas homepage">
 									</li>
 								</ul>
 							</div>
 							<div class="caption">
-								<img class="shadow" src="//www.kylewjohnston.com/img/samples/ferrellgas/ferrellgas-locations.jpg" alt="Ferrellgas homepage">
+								<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-locations.jpg" alt="Ferrellgas homepage">
 								<p>Page: Locations</p>
 							</div>
 						</div>
@@ -102,7 +102,7 @@
 					<div class="span5">
 						<div class="inner">
 							<div class="caption">
-								<img class="shadow" src="//www.kylewjohnston.com/img/samples/ferrellgas/ferrellgas-home-mobile.jpg" alt="Ferrellgas homepage, mobile">
+								<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-home-mobile.jpg" alt="Ferrellgas homepage, mobile">
 								<p>Homepage, mobile view</p>
 							</div>
 						</div>

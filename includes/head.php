@@ -1,9 +1,9 @@
 	<!-- Le styles -->
-	<link href='//www.kylewjohnston.com/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
-	<!-- <link href='//www.kylewjohnston.com/css/custom.css?20171124_0000' rel='stylesheet' type='text/css'> -->
-	<link href='/css/custom.css?20171130_0000' rel='stylesheet' type='text/css'>
+	<link href='/css/normalize.css' rel='stylesheet' type='text/css'>
+	<link href='/css/gridkit.css?20180707_0003' rel='stylesheet' type='text/css'>
+	<link href='/css/custom.css?20180626_0000' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400' rel='stylesheet' type='text/css'>
-	<link href='//www.kylewjohnston.com/css/aos.css' rel='stylesheet' type='text/css'>
+	<link href='/css/aos.css' rel='stylesheet' type='text/css'>
 
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
@@ -19,5 +19,4 @@
 
 		ga('create', 'UA-92556-26', 'auto');
 		ga('send', 'pageview');
-
 	</script>

@@ -25,21 +25,21 @@
 	</style>
 </head>
 <body>
-	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
-	<div class="intro dark">
+	<header>
 		<?php include('includes/header-nav.php'); ?>
-	</div>
+	</header>
 
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
-	<div class="block">
-		<div class="col-9 welcome">
+	<article class="content">
+	<section class="block">
+		<div class="col-9 welcome spacer-4--bottom">
 			<div class="inner">
 				<h1><span class="oomph"><span id="hello">Hello</span>!</span></h1>
 				<h3>I’m a designer and creative director. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
 			</div>
 		</div>
-	</div>
+	</section>
 	<div class="block">
 		<div class="col-6">
 			<div class="card">
@@ -115,6 +115,7 @@
 		</div>
 		<p class="col-12"><a href="all-projects/"><strong>&horbar;View all projects</strong></a></p>
 	</div><!-- /block -->
+	</article>
 
 	<?php include('includes/footer.php'); ?>
 
