@@ -4,6 +4,11 @@ includes/processform.php
 includes/footer.hc.php
 css/test-20171103.css
 
+js/picturefill.js
+js/picturefill.min.js
+js/simpleParallax.min.js
+logos.php
+robots.txt
 
 # OS generated files #
 ######################
