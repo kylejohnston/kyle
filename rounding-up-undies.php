@@ -52,8 +52,10 @@
 
 		<section class="block block--wide">
 			<div class="pattern__3-6-3">
-				<h2>Design Exploration</h2>
-				<p>Based on my research and initial sketches, I explored a variety of visual directions and type treatments. At this stage, I started to incorporate hand-drawn shapes and patterns. I also realized that when the underwear shape was 'folded', it resembled the shape of Africa, so it became a key element in my design recommendations.</p>
+				<div class="inner">
+					<h2>Design Exploration</h2>
+					<p>Based on my research and initial sketches, I explored a variety of visual directions and type treatments. At this stage, I started to incorporate hand-drawn shapes and patterns. I also realized that when the underwear shape was 'folded', it resembled the shape of Africa, so it became a key element in my design recommendations.</p>
+				</div>
 			</div>
 			<div class="col-12">
 				<img src="/img/samples/rounding-up-undies/design-exploration.png" width="100%" alt="Logo Design Exploration">
