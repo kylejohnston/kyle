@@ -8,27 +8,28 @@
 	<meta name="description" content="Oops. I couldn't find the page you were looking for.">
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
-		 h1, h2 { color: #282828; }
-		.intro { background-color: #282828; }
+		 h1, h2 { color: #94bd00; }
+		.intro { background-color: #94bd00; }
 	</style>
 </head>
 
 <body>
-	<div class="bold-border" id="border-top"></div><div class="bold-border" id="border-right"></div><div class="bold-border" id="border-left"></div><div class="bold-border" id="border-bottom"></div>
-	<div class="intro dark">
+	<header>
 		<?php include('includes/header-nav.php'); ?>
-	</div>
-	<div class="container items" style="margin-top:2em;">
-		<div class="row">
-			<div class="span12">
-				<h1>Oops.</h1>
-				<p>I couldn't find the page you were looking for. Perhaps you should look at <a href="//kylewjohnston.com/#portfolio">my portfolio</a> or <a href="/about-kyle-johnston/">learn more about me</a>.</p>
+	</header>
+
+	<article class="content" style="min-height: 500px;">
+		<section class="block">
+			<div class="pattern__2-8-2">
+				<div class="inner">
+					<h1>Oops.</h1>
+					<p>I couldn't find the page you were looking for. Perhaps you should look at <a href="//kylewjohnston.com/#portfolio">my portfolio</a> or <a href="/about-kyle-johnston/">learn more about me</a>.</p>
+				</div>
 			</div>
-		</div>
-	</div>
-	<div class="container marketing">
-		<?php include('includes/footer.php'); ?>
-	</div>
+		</section>
+	</article>
+	
+	<?php include('includes/footer.php'); ?>
 
 	<?php include('includes/foot.php'); ?>
 </body>
