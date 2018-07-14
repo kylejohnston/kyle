@@ -24,7 +24,7 @@
 		<div class="col-12">
 			<div class="inner">
 				<h1>Portfolio: All Projects</h1>
-				<h2 class="spacer-top-6 spacer-bottom-0">&horbar; Agency: flow14</h2>
+				<h2 class="spacer-6--top spacer-0--bottom">&horbar; Agency: flow14</h2>
 			</div>
 	</section>
 
@@ -52,7 +52,7 @@
 
 		<div class="col-12">
 			<div class="inner">
-				<h2 class="spacer-top-5 spacer-bottom-0">&horbar; Agency: DEG</h2>
+				<h2 class="spacer-5--top spacer-0--bottom">&horbar; Agency: DEG</h2>
 			</div>
 		</div>
 		<div class="col-6">
@@ -118,7 +118,7 @@
 
 		<div class="col-12">
 			<div class="inner">
-				<h2 class="spacer-top-5 spacer-bottom-0">&horbar; In-house: Garmin</h2>
+				<h2 class="spacer-5--top spacer-0--bottom">&horbar; In-house: Garmin</h2>
 			</div>
 		</div>
 		<div class="col-6">
@@ -194,7 +194,7 @@
 
 		<div class="col-12">
 			<div class="inner">
-				<h2 class="spacer-top-5 spacer-bottom-0">&horbar; Etc.</h2>
+				<h2 class="spacer-5--top spacer-0--bottom">&horbar; Etc.</h2>
 			</div>
 		</div>
 		<div class="col-6">
