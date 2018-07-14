@@ -30,6 +30,8 @@ body {
 	margin: 0 12px;
 }
 
+html,html a{-webkit-font-smoothing:antialiased;text-shadow:1px 1px 1px rgba(0,0,0,.004)}
+
 .yolo { background-color: yellow; }
 .rounders { border-radius: 4px; }
 .inner {
