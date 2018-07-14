@@ -1,7 +1,6 @@
 	<!-- Le styles -->
-	<link href='/css/normalize.css' rel='stylesheet' type='text/css'>
-	<link href='/css/gridkit.css?20180707_0003' rel='stylesheet' type='text/css'>
-	<link href='/css/custom.css?20180626_0000' rel='stylesheet' type='text/css'>
+	<link href='/css/gridkit.min.css?20180714_0000' rel='stylesheet' type='text/css'>
+	<link href='/css/custom.min.css?20180714_0000' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400' rel='stylesheet' type='text/css'>
 	<link href='/css/aos.css' rel='stylesheet' type='text/css'>
 
