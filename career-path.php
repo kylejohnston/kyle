@@ -21,6 +21,8 @@
 		 header h1 span a:active, 
 		 header h1 span a:visited,
 		 h1, h2, h3 { color: #556099; }
+		 .callout { padding: 16px 0; border-top: 1px solid #55619b; border-bottom: 1px solid #55619b; }
+		 .callout strong { color:#55619b; }
 	</style>
 </head>
 
@@ -34,6 +36,7 @@
 			<div class="pattern__2-8-2">
 				<h1>Career Path Framework</h1>
 				<p>While serving as creative director at Garmin in 2016, I undertook a project to develop comprehensive career paths for my team of 50, which included designers, copywriters, UX specialists, videographers, and more.</p>
+				<p class="callout"><strong>NOTE:</strong> I’ve developed a consulting program to help other in-house and agency creative teams implement career path programs. <a href="/contact/">Get in touch</a> if you’re interested in getting on the path.</p>
 				<p><strong>My role:</strong> Creator</p>
 			</div>
 			<div class="pattern__2-8-2">
@@ -82,7 +85,7 @@
 			<div class="pattern__2-8-2">
 				<h2>What&rsquo;s Next</h2>
 				<p>In addition to introducing this framework at Garmin, I implemented a similar program in my next role at DEG.</p>
-				<p>Based on what I&rsquo;ve learned, I&rsquo;ve developed a consulting program to help other in-house and agency creative teams implement similar career path programs.</p>
+				<p>Based on what I&rsquo;ve learned, I&rsquo;ve developed a consulting program to help other in-house and agency creative teams implement career path programs.<br>
 				<p><strong><a href="/contact/">Get in touch</a> if you&rsquo;re interested in getting on the path.</strong></p>
 			</div>
 		</section>
