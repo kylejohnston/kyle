@@ -11,7 +11,7 @@
 /* 1. BASE STYLES */
 body,li{line-height:1.5}
 html{font-size:100%;background:#94BD00;background:linear-gradient(180deg,#93bc00 0,#83a800 35%);border-top:8px solid rgba(14,0,14,.57)}
-body{color:#333;font-size:1.2em;font-family:'Source Sans Pro',sans-serif;margin:0 12px}
+body{color:#333;font-size:1.2em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',Helvetica,Arial,sans-serif;margin:0 12px}
 html,html a{-webkit-font-smoothing:antialiased;text-shadow:1px 1px 1px rgba(0,0,0,.004)}
 .rounders{border-radius:4px}
 .inner{margin:0 auto;padding:0 16px}
@@ -27,17 +27,18 @@ h2{font-weight:300;font-size:21px;font-size:1.3rem}
 h3,li,p{margin:0 0 16px}
 h3,label,li,p{font-weight:300}
 h3{font-size:27px font-size: 1.7rem;line-height:1.1}
-p{font-size:1.2rem}
-p.navigation{font-size:19px;font-size:1.2rem}
-.card p{font-size:19px;font-size:1rem}
+p{font-size:1.1rem}
+p.navigation{font-size:17px;font-size:1.1rem}
+b,strong{font-weight:600}
+.card p{font-size:17px;font-size:0.9rem}
 ol,ul{margin:0 0 16px 21px;padding:0}
 li{text-align:left}
-label{font-size:19px;font-size:1.2rem}
+label{font-size:17px;font-size:1.1rem}
 /* 2. HEADER */
 header,header a:active,header a:hover,header a:link,header a:visited{color:#fff}
 header{padding-bottom:16px}
 .navigation{padding-left:16px}
-.navigation a{font-weight:400}
+.navigation a{font-weight:600}
 .epithet,.epithet span{color:#fff;font-weight:300}
 header h1 span{padding:16px 16px 8px;background-color:rgba(14,0,14,.6);border-bottom-left-radius:4px;border-bottom-right-radius:4px}
 header h1 span a:active,header h1 span a:hover,header h1 span a:link,header h1 span a:visited{color:#94bd00}
@@ -55,7 +56,7 @@ img.frame{border:1px solid #D9D9D9}
 .caption{margin-bottom:24px;text-align:center}
 .caption--top{margin-top:24px;text-align:center}
 .caption img,.caption--top img{margin:0 auto 8px}
-.caption p,.caption--top p{margin:0;color:#777;font-style:italic;font-size:16px;font-size:1rem;text-align:center!important}
+.caption p,.caption--top p{margin:0;color:#777;font-style:italic;font-size:14px;font-size:0.8rem;text-align:center!important}
 #contactform input.text{padding:15px 5px;width:90%;border:1px solid #CACFD3;border-radius:4px}
 #contactform textarea{width:91%;border:1px solid #CACFD3;border-radius:4px}
 #contactform input.btn{margin:0;padding:16px;color:#759600;border:2px solid #94BD00;background:#fff;border-radius:4px}
@@ -102,7 +103,7 @@ p.flex-caption{position:relative;bottom:0;left:0;margin:0;padding:8px 0;backgrou
 .flex-control-thumbs .flex-active{opacity:1;cursor:default}
 /* 4. FOOTER */
 footer,footer a:link,footer a:visited{color:#FFF}
-footer{margin:0 auto;padding:40px 0;font-size:15px;font-size:.95rem}
+footer{margin:0 auto;padding:40px 0;font-size:13px;font-size:.75rem}
 footer .me,footer span{color:#FFF;font-weight:400}
 /* 5. BREAKPOINTS (544, 786, 1012, 1280) */
 @media (min-width: 1012px) {
@@ -112,5 +113,5 @@ footer .me,footer span{color:#FFF;font-weight:400}
 	h1{font-size:56px;font-size:3.5rem}
 	header h1{font-size:48px;font-size:3rem;line-height:1.5}
 	h2{font-size:35px;font-size:2.2rem}
-	p.navigation{font-size:1.2rem}
+	p.navigation{font-size:1.1rem}
 }
