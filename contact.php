@@ -23,6 +23,7 @@
 			<div class="col-6 spacer-5--bottom">
 				<a name="contact"></a>
 				<h3>Email Me:</h3>
+				<p>Get in touch via <a href="mailto:hello@flow14.com">hello@flow14.com</a> or use this form:</p>
 				<div id="contactWrapper" class="contact-form-wrapper" role="form">
 					<!-- if the msg variable is set, then it is going to print out the message
 					from the process.php file to  the user -->
