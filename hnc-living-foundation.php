@@ -147,7 +147,7 @@
 			</div>
 		</section>
 		<section class="block">
-			<div class="pattern__3-6-3">
+			<div class="pattern__3-6-3 stats">
 				<h2>Results</h2>
 				<p>In the first full month after launching the website, <a href="https://www.hncliving.org">HNCLiving.org</a> saw a:</p>
 				<h1 class="spacer-0--bottom">194%</h1>
