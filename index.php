@@ -56,7 +56,7 @@
 				<a href="ferrellgas-brand-website/"><img src="img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="ferrellgas-brand-website/">Ferrellgas Brand Evolution &amp; Website Redesign</a></h2>
-					<p>Using design thinking to fuel a brand evolution and responsive website design</p>
+					<p>Design thinking fueled a brand evolution and website design</p>
 					<p><a href="ferrellgas-brand-website/">Get cozy with the work &#187;</a></p>
 				</div>
 			</div>
@@ -77,7 +77,7 @@
 				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
 					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
-					<p>Wireframing, design, &amp; development of a mobile-optimized Garmin.com</p>
+					<p>Fast-moving wireframing, design, and development</p>
 					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
 			</div>
@@ -88,7 +88,7 @@
 				<a href="rounding-up-undies/"><img src="img/samples/rounding-up-undies/thumbnail.jpg" alt="Rounding Up Undies Logo"></a>
 				<div class="inner">
 					<h2><a href="rounding-up-undies/">Rounding Up Undies Logo</a></h2>
-					<p>A distinctive logo design for a growing nonprofit.</p>
+					<p>A distinctive logo design for a unique nonprofit.</p>
 					<p><a href="rounding-up-undies/">Read the round up &#187;</a></p>
 				</div>
 			</div>

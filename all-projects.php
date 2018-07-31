@@ -60,7 +60,7 @@
 				<a href="/ferrellgas-brand-website/"><img src="/img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
 				<div class="inner">
 					<h2><a href="/ferrellgas-brand-website/">Ferrellgas Brand Evolution &amp; Website Redesign</a></h2>
-					<p>Using design thinking to fuel a brand evolution and responsive website design</p>
+					<p>Design thinking fueled a brand evolution and website design</p>
 					<p><a href="/ferrellgas-brand-website/">Get cozy with the work &#187;</a></p>
 				</div>
 			</div>
@@ -90,7 +90,7 @@
 				<a href="/amc-coke/"><img src="/img/samples/amc/thumbnail03.2x.jpg" alt="Social campaign for AMC Theatres and Coke"></a>
 				<div class="inner">
 					<h2><a href="/amc-coke/">AMC &amp; Coke Campaign</a></h2>
-					<p>How to talk to your teens about Coke &amp; popcorn</p>
+					<p>How to talk to your teens about Coke and popcorn</p>
 					<p><a href="/amc-coke/">See the refreshing ideas &#187;</a></p>
 				</div>
 			</div>
@@ -110,7 +110,7 @@
 				<a href="/hallmark-b2b/"><img src="/img/samples/hmk-greetings/thumbnail.2x.jpg" alt="Hallmark B2B Microsite"></a>
 				<div class="inner">
 					<h2><a href="/hallmark-b2b/">Hallmark Microsite</a></h2>
-					<p>Wireframing &amp; design of a B2B microsite</p>
+					<p>Wireframing and design of a B2B microsite</p>
 					<p><a href="/hallmark-b2b/">See how we delivered &#187;</a></p>
 				</div>
 			</div>
@@ -146,7 +146,7 @@
 				<a href="/garmin-mobile/"><img src="/img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
 					<h2><a href="/garmin-mobile/">Garmin.com Mobile Website</a></h2>
-					<p>Wireframing, design, &amp; development of a mobile-optimized Garmin.com</p>
+					<p>Fast-moving wireframing, design, and development</p>
 					<p><a href="/garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
 			</div>
@@ -156,7 +156,7 @@
 				<a href="/vivofit/"><img src="/img/samples/vivofit/thumbnail.2x.jpg" alt="vivofit campaign"></a>
 				<div class="inner">
 					<h2><a href="/vivofit/">v&iacute;vofit</a></h2>
-					<p>Launch campaign &amp; broadcast advertising for Garmin's activity tracker</p>
+					<p>Launch campaign for Garmin's activity tracker</p>
 					<p><a href="/vivofit/">Step this way to view the work &#187;</a></p>
 				</div>
 			</div>
@@ -166,7 +166,7 @@
 				<a href="/idea-bucket/"><img src="/img/samples/idea-bucket/thumbnail.2x.jpg" alt="Idea Bucket Website"></a>
 				<div class="inner">
 					<h2><a href="/idea-bucket/">Idea Bucket Website</a></h2>
-					<p>Design &amp; development of an innovation website</p>
+					<p>Design and development of an innovation website</p>
 					<p><a href="/idea-bucket/">Explore the work &#187;</a></p>
 				</div>
 			</div>
@@ -186,7 +186,7 @@
 				<a href="/nuvifone/"><img src="/img/samples/nuvifone/thumbnail_alt.2x.jpg" alt="nuvifone launch campaign"></a>
 				<div class="inner">
 					<h2><a href="/nuvifone/">n&uuml;vifone</a></h2>
-					<p>Brand development &amp; launch materials</p>
+					<p>Brand development and launch materials</p>
 					<p><a href="/nuvifone/">Call up the work samples &#187;</a></p>
 				</div>
 			</div>
