@@ -51,7 +51,7 @@
 			</div>
 			<div class="col-7 caption">
 				<div class="">
-					<img class="shadow" src="/img/samples/waddell/waddell-old-sites.920.png" alt="Waddell & Reed Homepage" width="100%">
+					<img class="frame" src="/img/samples/waddell/waddell-old-sites.920.png" alt="Waddell & Reed Homepage" width="100%">
 					<p>The disarray of old websites</p>
 				</div>
 			</div>
@@ -64,11 +64,11 @@
 				<p>This highly collaborative process ensured all stakeholders had a clear understanding of how the desktop experience translated to mobile and helped avoid late-stage changes that could have derailed the aggressive timeline.</p>
 			</div>
 			<div class="col-5 caption" data-aos="fade-up">
-				<img class="shadow" src="/img/samples/waddell/pattern-lab-atoms.920.jpg" alt="Waddell & Reed Homepage" width="100%">
+				<img class="frame" src="/img/samples/waddell/pattern-lab-atoms.920.jpg" alt="Waddell & Reed Homepage" width="100%">
 				<p>Pattern Lab - atoms</p>
 			</div>
 			<div class="col-7 caption" data-aos="fade-up" data-aos-delay="400">
-				<img class="shadow" src="/img/samples/waddell/pattern-lab-fund-desktop_clip.920.jpg" alt="Waddell & Reed Homepage" width="100%">
+				<img class="frame" src="/img/samples/waddell/pattern-lab-fund-desktop_clip.920.jpg" alt="Waddell & Reed Homepage" width="100%">
 				<p>Pattern Lab - fund page template</p>
 			</div>
 		</section>

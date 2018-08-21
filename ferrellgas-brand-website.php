@@ -83,56 +83,43 @@
 		</section>
 
 		<section class="block">
-			<div class="col-5">
+			<div class="pattern__3-6-3">
 				<h2>Website Redesign</h2>
 				<p>Equipped with insights from our design thinking workshop along with brand guidelines we developed with assets provided by the Ferrellgas team, we set out to redesign the website.</p>
+			</div>
+			<div class="col-6 caption--top" data-aos="fade-right">
+				<h3>Old Homepage</h3>
+				<img class="frame" src="/img/samples/ferrellgas/old-homepage.570.jpg" alt="The old Ferrellgas homepage">
+			</div>
+			<div class="col-6 caption--top" data-aos="fade-left" data-aos-delay="200">
+				<h3>New Homepage</h3>
+				<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-home.jpg" alt="The new Ferrellgas homepage">
+			</div>
+			<div class="col-4 caption order-2" data-aos="fade-up">
+				<img src="/img/samples/ferrellgas/ferrellgas-home-mobile--mockup.jpg" alt="Ferrellgas homepage, mobile">
+			</div>
+			<div class="col-1 shim"></div>
+			<div class="col-6 order-1 spacer-3--top" data-aos="fade-up" data-aos-delay="200">
 				<p>Using a simple color palette along with custom photography and iconography, we brought the brand to life online, creating a consistent customer experience across all of Ferrellgas&rsquo; channels.</p>
 				<p>From the beginning of the project, my design team worked closely with the front end developers to develop a thoughtful experience for Ferrellgas customers:
-				<ul>
-					<li>With a significant number of Ferrellgas&rsquo; customers in rural areas, we wanted to ensure the website was fast, in addition to being easy to use. We agreed on performance budgets, which informed early design explorations and decisions.</li>
-					<li>Using a mobile-first design approach, we made features like location search more prominent on mobile devices.</li>
-					<li>During development, we used Pattern Lab and Atomic Design principles. This allowed everyone to experience the website on a range of devices and make better informed design decisions.</li>
-				</ul>
+					<ul>
+						<li>With a significant number of Ferrellgas&rsquo; customers in rural areas, we wanted to ensure the website was fast, in addition to being easy to use. We agreed on performance budgets, which informed early design explorations and decisions.</li>
+						<li>Using a mobile-first design approach, we made features like location search more prominent on mobile devices.</li>
+						<li>During development, we used Pattern Lab and Atomic Design principles. This allowed everyone to experience the website on a range of devices and make better informed design decisions.</li>
+					</ul>
 				</p>
 			</div>
-			<div class="col-7">
-				<div id="slider-one" class="flexslider">
-					<ul class="slides">
-						<li style="text-align:center;">
-							<p class="flex-caption">Old Homepage</p>
-							<img  src="/img/samples/ferrellgas/old-homepage.570.jpg" alt="The old Ferrellgas homepage">
-						</li>
-						<li style="text-align:center;">
-							<p class="flex-caption">New Homepage</p>
-							<img src="/img/samples/ferrellgas/ferrellgas-home.jpg" alt="The new Ferrellgas homepage">
-						</li>
-					</ul>
-				</div>
-			</div>
+			<div class="col-1 shim"></div>
 		</section>
 
 		<section class="block">
-			<div class="col-7">
-				<div id="slider-two" class="flexslider">
-					<ul class="slides">
-						<li style="text-align:center;">
-							<p class="flex-caption">Old Residential page</p>
-							<img  src="/img/samples/ferrellgas/old-residential.570.jpg" alt="The old Ferrellgas homepage">
-						</li>
-						<li style="text-align:center;">
-							<p class="flex-caption">New Residential page</p>
-							<img src="/img/samples/ferrellgas/ferrellgas-residential.jpg" alt="The new Ferrellgas homepage">
-						</li>
-					</ul>
-				</div>
-				<div class="caption">
-					<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-locations.jpg" alt="Ferrellgas homepage">
-					<p>Page: Locations</p>
-				</div>
+			<div class="col-6 caption--top" data-aos="fade-right">
+				<h3>Residential Page: Old</h3>
+				<img class="frame" src="/img/samples/ferrellgas/old-residential.570.jpg" alt="The old Ferrellgas homepage">
 			</div>
-			<div class="col-5 caption">
-				<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-home-mobile.jpg" alt="Ferrellgas homepage, mobile">
-				<p>Homepage, mobile view</p>
+			<div class="col-6 caption--top" data-aos="fade-left" data-aos-delay="200">
+				<h3>Residential Page: New</h3>
+				<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-residential.jpg" alt="The new Ferrellgas homepage">
 			</div>
 		</section>
 
@@ -150,28 +137,5 @@
 	<?php include('includes/footer.php'); ?>
 
 	<?php include('includes/foot.php'); ?>
-	<script type="text/javascript">
-	$(window).load(function(){
-		$('#slider-one').flexslider({
-			animation: "slide",
-			controlsContainer: '.flex-container',
-			animationLoop: false,
-			smoothHeight: true,
-			touch: true,
-			start: function(slider){
-				$('body').removeClass('loading');
-			}
-		});		$('#slider-two').flexslider({
-			animation: "slide",
-			controlsContainer: '.flex-container',
-			animationLoop: false,
-			smoothHeight: true,
-			touch: true,
-			start: function(slider){
-				$('body').removeClass('loading');
-			}
-		});
-	});
-	</script>
 </body>
 </html>
