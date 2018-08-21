@@ -36,7 +36,7 @@
 		<div class="col-9 welcome spacer-4--bottom">
 			<div class="inner">
 				<h1><span class="oomph"><span id="hello">Hello</span>!</span></h1>
-				<h3>I’m a designer and creative director. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
+				<h3>I’m a designer and creative director. I focus on brand and interactive design. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
 			</div>
 		</div>
 	</section>
@@ -76,7 +76,7 @@
 			<div class="card">
 				<a href="garmin-mobile/"><img src="img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
-					<h2><a href="garmin-mobile/">Garmin.com Mobile Website</a></h2>
+					<h2><a href="garmin-mobile/">Garmin.com Mobile Shop</a></h2>
 					<p>Fast-moving wireframing, design, and development</p>
 					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
