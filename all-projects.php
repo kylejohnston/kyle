@@ -145,7 +145,7 @@
 			<div class="card">
 				<a href="/garmin-mobile/"><img src="/img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
 				<div class="inner">
-					<h2><a href="/garmin-mobile/">Garmin.com Mobile Website</a></h2>
+					<h2><a href="/garmin-mobile/">Garmin.com Mobile Shop</a></h2>
 					<p>Fast-moving wireframing, design, and development</p>
 					<p><a href="/garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
