@@ -105,7 +105,7 @@
 		</div>
 		<div class="col-4">
 			<div class="card">
-				<a href="http://www.flow14.com/"><img src="img/samples/flow14/thumbnail.2x.png" alt="flow14 - Freelance Projects"></a>
+				<a href="http://www.flow14.com/"><img src="img/samples/flow14/thumbnail.png" alt="flow14 - Freelance Projects"></a>
 				<div class="inner">
 					<h2><a href="http://www.flow14.com/">flow14 - Independent Projects</a></h2>
 					<p>Logo design, website design, and more</p>
