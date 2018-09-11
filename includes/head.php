@@ -1,3 +1,16 @@
+	<meta property="og:title" content="Kyle Johnston - Portfolio" />
+	<meta property="og:url" content="https://www.kylewjohnston.com" />
+	<meta property="og:image" content="https://www.kylewjohnston.com/img/opengraph.png" />
+	<meta property="og:image:width" content="500" />
+	<meta property="og:image:height" content="250" />
+	<meta property="og:description" content="Designer and creative leader focusing on interactive design and branding" />
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@kylejohnston">
+	<meta name="twitter:title" content="Kyle Johnston - Portfolio">
+	<meta name="twitter:description" content="Designer and creative leader focusing on interactive design and branding">
+	<meta name="twitter:image" content="https://www.kylewjohnston.com/img/opengraph.png">
+
 	<!-- Le styles -->
 	<link href='/css/gridkit.min.css?20180714_0000' rel='stylesheet' type='text/css'>
 	<link href='/css/custom.min.css?20180731_0000' rel='stylesheet' type='text/css'>
