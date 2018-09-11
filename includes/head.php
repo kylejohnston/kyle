@@ -2,7 +2,7 @@
 	<link href='/css/gridkit.min.css?20180714_0000' rel='stylesheet' type='text/css'>
 	<link href='/css/custom.min.css?20180731_0000' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400' rel='stylesheet' type='text/css'>
-	<link href='/css/aos.css' rel='stylesheet' type='text/css'>
+	<link href='//kylewjohnston.com/css/aos.css' rel='stylesheet' type='text/css'>
 
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
