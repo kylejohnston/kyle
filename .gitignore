@@ -1,7 +1,7 @@
 includes/email.php
 /subdomains/
-/hashicorp/
-/fathomanddraft/
+/hashicorp/*
+/fathomanddraft/*
 includes/processform.php
 
 
