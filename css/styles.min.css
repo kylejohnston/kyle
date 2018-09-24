@@ -1,0 +1,152 @@
+/*
+= = = = = =
+	Contents:
+	1. Base Styles
+	2. Header
+	3. Body
+	4. Footer
+	5. Breakpoints
+= = = = = =
+*/
+/* 1. BASE STYLES */
+body,li{line-height:1.5}
+html{font-size:100%;background:#94BD00;margin:0;padding:0;/*background:linear-gradient(180deg,#93bc00 0,#83a800 35%);border-top:8px solid rgba(14,0,14,.57)*/	}
+body{color:#343434;font-size:1.2em;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',Helvetica,Arial,sans-serif;margin:0 0 0 0}
+html,html a{-webkit-font-smoothing:antialiased;text-shadow:1px 1px 1px rgba(0,0,0,.004)}
+.rounders{border-radius:4px}
+.inner{margin:0 auto;padding:0 16px}
+a:link,a:visited{color:#5B8800;text-decoration:none}
+a:active,a:hover{text-decoration:underline}
+@font-face {
+    font-display: swap;
+    font-family: "Objectivity Medium";
+    font-style: normal;
+    font-weight: 500;
+    src: url("/fonts/objectivity/Objectivity-Medium.woff2") format("woff2")
+}
+@font-face {
+    font-display: swap;
+    font-family: "Objectivity Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/objectivity/Objectivity-Bold.woff2") format("woff2")
+}
+h1,h2{margin:0 0 16px;line-height:1.1}
+h1,h2,h3,h4,h5,h6{font-family:"Objectivity Bold",Helvetica,Arial,sans-serif}
+h1{padding:4px 0;font-weight:200;font-size:32px;font-size:2rem}
+header h1{font-size:32px;font-size:2rem;line-height:1.8;margin:0 0 8px}
+h2{font-weight:300;font-size:21px;font-size:1.3rem}
+.card h2{margin:0 0 8px;font-weight:400;font-size:24px;font-size:1.5rem}
+h3,li,p{margin:0 0 16px}
+h3,label,li,p{font-weight:400}
+h3{font-size:27px font-size: 1.7rem;line-height:1.1}
+li,p{font-size:1.1rem}
+p.navigation{font-size:16px;font-size:1rem;text-align:right;}
+p small {letter-spacing:.3em;text-transform:uppercase;}
+b,strong{font-weight:600}
+/*.card p{font-size:17px;font-size:1.0rem}*/
+ol,ul{margin:0 0 16px 21px;padding:0}
+li{text-align:left}
+label{font-size:17px;font-size:1.1rem}
+.scale-95{transform:scale(.95);}
+.scale-90{transform:scale(.90);}
+.scale-85{transform:scale(.85);}
+.scale-80{transform:scale(.80);}
+.scale-75{transform:scale(.75);}
+.scale-70{transform:scale(.70);}
+.scale-65{transform:scale(.65);}
+.rule:before{content:'';display:block;margin:40px auto;width:96%;height:2px;background:#E5F5AB;border-radius:2px;}
+/* 2. HEADER */
+header,header a:active,header a:hover,header a:link,header a:visited{color:#fff;font-weight:bold;}
+header{padding-top:24px}
+.monoline {margin-left:24px;transform:scale(.75);}
+/* .navigation{padding-left:16px} */
+.navigation a{font-weight:600}
+.epithet,.epithet span{color:#fff;font-weight:300}
+header h1 span{padding:16px 16px 8px;background-color:rgba(14,0,14,.6);border-bottom-left-radius:4px;border-bottom-right-radius:4px}
+header h1 span a:active,header h1 span a:hover,header h1 span a:link,header h1 span a:visited{color:#94bd00}
+/* 3. BODY */
+.card img,section img{width:100%}
+article.content {
+	background:white url('/img/angle.svg') left -1px no-repeat;
+	background-size:101%;
+	border-radius:4px;
+	border-top-left-radius:0;
+	border-top-right-radius:0;
+	padding:16px 0;
+}
+
+section.block{padding-top:8px;padding-bottom:16px}
+img.shadow{-webkit-box-shadow:0 16px 40px hsla(0,0%,40%,.25);-moz-box-shadow:0 16px 40px hsla(0,0%,40%,.25);box-shadow:0 16px 40px hsla(0,0%,40%,.25)}
+.thumb{border-radius:3px;}
+img.frame{border:1px solid #D9D9D9}
+.card{border-radius:5px;background:#fff;margin-bottom:8px;padding-bottom:8px;-webkit-box-shadow:0 8px 16px hsla(0,0%,48%,.1);-moz-box-shadow:0 8px 16px hsla(0,0%,48%,.1);box-shadow:0 8px 16px hsla(0,0%,48%,.1)}
+.card img{margin-bottom:24px}
+.card .inner{padding:0 24px}
+.video-container embed,.video-container iframe,.video-container object{position:absolute;top:0;left:0;width:100%;height:100%}
+.video-container{margin:0 auto 24px;position:relative;padding-bottom:56.25%;padding-top:0;height:0;overflow:hidden}
+.caption{margin-bottom:24px;text-align:center}
+.caption--top{margin-top:24px;text-align:center}
+.caption img,.caption--top img{margin:0 auto 8px}
+.caption p,.caption--top p{margin:0;color:#777;font-style:italic;font-size:14px;font-size:0.8rem;text-align:center!important}
+.stats h1,.stats p{margin:0;padding:0;line-height:1}
+.stats p{margin-bottom:40px}
+#contactform input.text{padding:15px 5px;width:90%;border:1px solid #CACFD3;border-radius:4px}
+#contactform textarea{width:91%;border:1px solid #CACFD3;border-radius:4px}
+#contactform input.btn{margin:0;padding:16px;color:#759600;border:2px solid #94BD00;background:#fff;border-radius:4px}
+#contactform input.btn:hover{color:#fff;border:2px solid #94BD00;background:#94BD00}
+#contactform .error{color:#94BD00}
+/* JQUERY FLEXSLIDER V2.0 */
+/* BROWSER RESETS */
+.flex-container a:active,.flex-container a:focus,.flexslider a:active,.flexslider a:focus{outline:0}
+.flex-control-nav,.flex-direction-nav,.slides{margin:0;padding:0;list-style:none}
+/* FLEXSLIDER NECESSARY STYLES */
+.flexslider{margin:0 auto 100px;padding:0;border:1px solid #efefef;border-radius:3px}
+.flexslider .slides>li{display:none;-webkit-backface-visibility:hidden}
+/* HIDE THE SLIDES BEFORE THE JS IS LOADED. AVOIDS IMAGE JUMPING */
+.flexslider .slides img{display:block;width:100%}
+.flex-pauseplay span{text-transform:capitalize}
+/* CLEARFIX FOR THE .SLIDES ELEMENT */
+.slides:after{display:block;visibility:hidden;clear:both;height:0;content:".";line-height:0}
+html[xmlns] .slides{display:block}
+* html .slides{height:1%}
+/* NO JAVASCRIPT FALLBACK */
+.no-js .slides>li:first-child{display:block}
+/* FLEXSLIDER DEFAULT THEME */
+.flexslider{position:relative;background:rgba(255,255,255,.8)}
+.flex-viewport{max-height:2000px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;transition:all 1s ease}
+.loading .flex-viewport{max-height:300px}
+.flexslider .slides{zoom:1}
+p.flex-caption{position:relative;bottom:0;left:0;margin:0;padding:8px 0;background:#fff;color:#333;text-align:center;text-shadow:0 -1px 0 rgba(0,0,0,.3)}
+.flex-direction-nav a{position:absolute;top:50%;z-index:10;display:block;margin:-20px 0 0;width:30px;height:30px;background:url(//kylewjohnston.com/img/bg_direction_nav.png) no-repeat;text-indent:-9999px;opacity:0;cursor:pointer;-webkit-transition:all .3s ease}
+.flex-direction-nav .flex-next{right:-36px;background-position:100% 0}
+.flex-direction-nav .flex-prev{left:-36px}
+.flexslider:hover .flex-next{right:5px;opacity:.8}
+.flexslider:hover .flex-prev{left:5px;opacity:.8}
+.flexslider:hover .flex-next:hover,.flexslider:hover .flex-prev:hover{opacity:1}
+.flex-direction-nav .flex-disabled{opacity:.3!important;filter:alpha(opacity=30);cursor:default}
+.flex-control-nav{position:absolute;bottom:-40px;width:100%;text-align:center}
+.flex-control-nav li{display:inline-block;margin:0 6px;zoom:1}
+.flex-control-paging li a{display:block;width:11px;height:11px;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;background:#666;background:rgba(0,0,0,.5);box-shadow:inset 0 0 3px rgba(0,0,0,.3);text-indent:-9999px;cursor:pointer;-o-border-radius:20px}
+.flex-control-paging li a:hover{background:#333;background:rgba(0,0,0,.7)}
+.flex-control-paging li a.flex-active{background:#000;background:rgba(0,0,0,.9);cursor:default}
+.flex-control-thumbs{position:static;overflow:hidden;margin:5px 0 0}
+.flex-control-thumbs li{float:left;margin:0;width:25%}
+.flex-control-thumbs img{display:block;width:100%;opacity:.7;cursor:pointer}
+.flex-control-thumbs img:hover{opacity:1}
+.flex-control-thumbs .flex-active{opacity:1;cursor:default}
+/* 4. FOOTER */
+footer,footer a:link,footer a:visited{color:#FFF}
+footer{margin:0 auto;padding:40px 0;}
+footer p{font-size:1px;font-size:.95rem}
+footer .me,footer span{color:#FFF;font-weight:400}
+/* 5. BREAKPOINTS (544, 786, 1012, 1280) */
+@media (min-width: 1012px) {
+	body{margin:0 40px 0 0}
+	/* article.content{background-color:#fff;border-radius:4px;padding:16px 0 0} */
+	section.block{padding-top:40px;padding-bottom:32px}
+	h1{font-size:56px;font-size:3.5rem}
+	header h1{font-size:48px;font-size:3rem;line-height:1.5}
+	h2{font-size:35px;font-size:2.2rem}
+	p.navigation{font-size:1rem}
+}
