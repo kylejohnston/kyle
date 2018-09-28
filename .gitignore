@@ -3,6 +3,9 @@ includes/email.php
 /hashicorp/*
 /fathomanddraft/*
 includes/processform.php
+css/bespoke.min.css
+css/hashicorp.min.css
+css/fathomanddraft.css
 
 
 js/picturefill.js
