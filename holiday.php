@@ -11,16 +11,10 @@
 	<link href="http://www.kylewjohnston.com/holiday" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
-		html {
-			background: hsl(203, 82%, 42%);
-			background: linear-gradient(180deg, hsl(203, 82%, 42%) 0%, hsl(203, 82%, 38%) 35%);
-		}
-
-		 header h1 span a:link, 
-		 header h1 span a:hover, 
-		 header h1 span a:active, 
-		 header h1 span a:visited,
-		 h1, h2, h3 { color: #137ec2; }
+		html {background:#137EC2}
+		h1,h2,h3{color:#137EC2}
+		article.content{background:white url('/img/angle--garmin.svg') left -1px no-repeat;
+background-size:101%}
 	</style>
 </head>
 
@@ -28,28 +22,37 @@
 	<header>
 		<?php include('includes/header-nav.php'); ?>
 	</header>
-	<article class="content">
-		<section class="block">
-			<div class="pattern__2-8-2">
-				<h1>Holiday Campaigns</h1>
+
+	<section class="block">
+		<div class="col-1 shim"></div>
+		<div class="col-6 spacer-6 intro">
+			<div class="inner">
+				<h1>Garmin</h1>
+				<h2>Holiday Campaigns</h2>
 				<p>Each Holiday season, we developed a retail-focused campaign spanning in-store merchandising, an online gift guide, email marketing, and broadcast and online advertising, all centered around the catchy &ldquo;Give-a-Garmin&rdquo; theme.</p>
 				<p>Customers have told us they know the holidays have arrived when they hear the &ldquo;Give-a-Garmin&rdquo; jingle.</p>
-				<p><strong>My role:</strong> Creative Director</p>
+				<p><strong>Contributions:</strong> Creative Direction</p>
 			</div>
-		</section>
+		</div>
+		<div class="col-5 shim"></div>
+	</section>
 
-		<section class="block">
-			<div class="col-4 align__center">
-				<h2>Holiday Theme Design</h2>
-				<p>2011, 2012, 2014</p>
+	<article class="content">
+		<section class="block spacer-9--top">
+			<div class="col-1 shim"></div>
+			<div class="col-3 align__center">
+				<div class="inner">
+					<h2>Theme Design</h2>
+					<p>2011, 2012, 2014</p>
+				</div>
 			</div>
 			<div class="col-8">
 				<img src="../img/samples/holiday/holiday-themes.png" alt="Garmin Holiday Campaign Themes">
 			</div>
 		</section>
 
-		<section class="block text__center">
-			<div class="pattern__3-6-3"><h2>Broadcast Advertising</h2></div>
+		<section class="block text__center spacer-6">
+			<div class="pattern__3-6-3"><h2 class="inner">Broadcast Advertising</h2></div>
 			<div class="col-6">
 				<p>2011 - &ldquo;Give-a-Give-a-Give-a-Garmin&rdquo;</p>
 				<div class="video-container">
@@ -76,15 +79,19 @@
 				</div>
 			</div>
 			<div class="col-7 order-1 align__center">
-				<h2>Merchandising Catalog Pages</h2>
-				<p>2011, 2012, 2014</p>
+				<div class="inner">
+					<h2>Merchandising Catalog Pages</h2>
+					<p>2011, 2012, 2014</p>
+				</div>
 			</div>
 		</section>
 
 		<section class="block">
 			<div class="col-3 align__center">
-				<h2>Digital Advertising</h2>
-				<p>2011, 2014</p>
+				<div class="inner">
+					<h2>Digital Advertising</h2>
+					<p>2011, 2014</p>
+				</div>
 			</div>
 			<div class="col-9">
 				<img src="../img/samples/holiday/digital-ads.jpg" alt="Garmin.com Holiday Web Banners">

@@ -11,16 +11,10 @@
 	<link href="http://www.kylewjohnston.com/nuvifone" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
-		html {
-			background: hsl(21, 74%, 55%);
-			background: linear-gradient(180deg, hsl(21, 74%, 55%) 0%, hsl(21, 74%, 51%) 35%);
-		}
-
-		 header h1 span a:link, 
-		 header h1 span a:hover, 
-		 header h1 span a:active, 
-		 header h1 span a:visited,
-		 h1, h2, h3 { color: #e17237; }
+		html {background:#137EC2}
+		h1,h2,h3{color:#137EC2}
+		article.content{background:white url('/img/angle--garmin.svg') left -1px no-repeat;
+background-size:101%}
 	</style>
 </head>
 
@@ -28,17 +22,24 @@
 	<header>
 		<?php include('includes/header-nav.php'); ?>
 	</header>
-	<article class="content">
-		<section class="block">
-			<div class="pattern__2-8-2">
-				<h1>n&uuml;vifone</h1>
-				<p>In 2008, Garmin partnered with Asus to develop the n&uuml;vifone, the only 3G phone to fully integrate the worlds best-selling GPS navigator with voice, data and mobile web. For co-branded devices, we collaboratively developed a new brand, including a logo, packaging, website, collateral materials and more.</p>
-				<p><strong>My role:</strong> Co-Creative Director</p>
-			</div>
-		</section>
 
-		<section class="block">
-			<div class="col-5 align__center">
+	<section class="block">
+		<div class="col-1 shim"></div>
+		<div class="col-6 spacer-6 intro">
+			<div class="inner">
+				<h1>n&uuml;vifone</h1>
+				<h2>Brand development &amp; product launch</h2>
+				<p>In 2008, Garmin partnered with Asus to develop the n&uuml;vifone, the only 3G phone to fully integrate the worlds best-selling GPS navigator with voice, data and mobile web. For co-branded devices, we collaboratively developed a new brand, including a logo, packaging, website, collateral materials and more.</p>
+				<p><strong>Contributions:</strong> Co-Creative Direction</p>
+			</div>
+		</div>
+		<div class="col-5 shim"></div>
+	</section>
+
+<article class="content">
+		<section class="block spacer-9--top">
+			<div class="col-1 shim"></div>
+			<div class="col-4 align__center">
 				<h2>Brand Development</h2>
 				<p>Co-branded logo developed for the Garmin-Asus partnership and the n&uuml;vifone product wordmark</p>
 			</div>
@@ -48,7 +49,7 @@
 		</section>
 
 		<section class="block">
-			<div class="col-12 text__center"><h2>Launch Campaign - Broadcast Advertising</h2></div>
+			<div class="col-12 text__center"><h2 class="inner">Launch Campaign - Broadcast Advertising</h2></div>
 			<div class="col-6">
 				<div class="video-container">
 					<iframe src="http://player.vimeo.com/video/41776435?byline=0&amp;portrait=0&amp;color=a4c7fd" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -66,13 +67,13 @@
 				<img src="../img/samples/nuvifone/print-ads.jpg" alt="Garmin nuvifone print ads">
 			</div>
 			<div class="col-3 order-1 align__center">
-				<h2>Print ads</h2>
+				<h2 class="inner">Print ads</h2>
 			</div>
 		</section>
 
 		<section class="block">
 			<div class="col-5 align__center">
-				<h2>Product Brochure</h2>
+				<h2 class="inner">Product Brochure</h2>
 			</div>
 			<div class="col-7">
 				<img src="../img/samples/nuvifone/brochure.jpg" alt="Garmin nuvifone product brochure">

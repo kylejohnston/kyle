@@ -20,212 +20,150 @@
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
 	<article class="content">
-	<section class="block">
-		<div class="col-12">
-			<div class="inner">
-				<h1>Portfolio: All Projects</h1>
-				<h2 class="spacer-6--top spacer-0--bottom">&horbar; Agency: flow14</h2>
+		<section class="block spacer-9--top">
+			<div class="col-12">
+				<div class="inner">
+					<h1>Portfolio: All Projects</h1>
+				</div>
 			</div>
-	</section>
+		</section>
 
-	<div class="block">
-		<div class="col-6">
-			<div class="card">
-				<a href="/hnc-living-foundation/"><img src="/img/samples/hnc-living/thumb-alt.jpg" alt="HNC Living Website Redesign"></a>
+		<section class="block spacer-6 projects">
+			<h2 class="col-12"><div class="inner">&horbar; Agency: flow14</div></h2>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/hnc-living-foundation/">HNC Living Website Redesign</a></h2>
-					<p>Rehabilitating a website for a life-changing nonprofit</p>
-					<p><a href="/hnc-living-foundation/">See the transformation &#187;</a></p>
+					<a href="/hnc-living-foundation/"><img class="thumb spacer-2--bottom" src="/img/samples/hnc-living/thumb-alt.jpg" alt="HNC Living Website Redesign"></a>
+					<h3>HNC Living Foundation</h3>
+					<p><a href="/hnc-living-foundation/">Website redesign</a></p>
 				</div>
 			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/rounding-up-undies/"><img src="/img/samples/rounding-up-undies/thumbnail.jpg" alt="Rounding Up Undies Logo"></a>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/rounding-up-undies/">Rounding Up Undies Logo</a></h2>
-					<p>A distinctive logo design for a growing nonprofit.</p>
-					<p><a href="/rounding-up-undies/">Read the round up &#187;</a></p>
+					<a href="/rounding-up-undies/"><img class="thumb spacer-2--bottom" src="/img/samples/rounding-up-undies/thumbnail.jpg" alt="Rounding Up Undies Logo"></a>
+					<h3>Rounding Up Undies</h3>
+					<p><a href="/rounding-up-undies/">Logo design</a></p>
 				</div>
 			</div>
-		</div>
+			<div class="col-4 shim"></div>
+		</section>
 
-		<div class="col-12">
-			<div class="inner">
-				<h2 class="spacer-5--top spacer-0--bottom">&horbar; Agency: DEG</h2>
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/ferrellgas-brand-website/"><img src="/img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
+<?php /* DEG */ ?>
+		<section class="block spacer-6 projects">
+			<h2 class="col-12"><div class="inner">&horbar; Agency: DEG</div></h2>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/ferrellgas-brand-website/">Ferrellgas Brand Evolution &amp; Website Redesign</a></h2>
-					<p>Design thinking fueled a brand evolution and website design</p>
-					<p><a href="/ferrellgas-brand-website/">Get cozy with the work &#187;</a></p>
+					<a href="/ferrellgas-brand-website/"><img class="thumb spacer-2--bottom" src="/img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
+					<h3>Ferrellgas</h3>
+					<p><a href="/ferrellgas-brand-website/">Brand evolution &amp; website redesign</a></p>
 				</div>
 			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/waddell-reed/"><img src="/img/samples/waddell/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/waddell-reed/">Waddell &amp; Reed Website Redesign</a></h2>
-					<p>Investing in a better user experience</p>
-					<p><a href="/waddell-reed/">See how the work paid off &#187;</a></p>
+					<a href="/waddell-reed/"><img class="thumb spacer-2--bottom" src="/img/samples/waddell/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
+					<h3>Waddell &amp; Reed</h3>
+					<p><a href="/waddell-reed/">Website redesign</a></p>
 				</div>
 			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/amc/"><img src="/img/samples/amc/thumbnail01.2x.jpg" alt="New business pitch for AMC Theatres"></a>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/amc/">AMC New Business Pitch</a></h2>
-					<p>Teamwork made the dream work</p>
-					<p><a href="/amc/">Peek behind the curtain &#187;</a></p>
+					<a href="/amc/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail01.2x.jpg" alt="New business pitch for AMC Theatres"></a>
+					<h3>AMC Theatres</h3>
+					<p><a href="/amc/">New business pitch</a></p>
 				</div>
 			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/amc-coke/"><img src="/img/samples/amc/thumbnail03.2x.jpg" alt="Social campaign for AMC Theatres and Coke"></a>
-				<div class="inner">
-					<h2><a href="/amc-coke/">AMC &amp; Coke Campaign</a></h2>
-					<p>How to talk to your teens about Coke and popcorn</p>
-					<p><a href="/amc-coke/">See the refreshing ideas &#187;</a></p>
-				</div>
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/lee-jeans/"><img src="/img/samples/lee-jeans/thumbnail.2x.jpg" alt="Lee Product Videos"></a>
-				<div class="inner">
-					<h2><a href="/lee-jeans/">Lee Product Videos</a></h2>
-					<p>Product introduction videos for an iconic brand</p>
-					<p><a href="/lee-jeans/">See the moving work &#187;</a></p>
-				</div>
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/hallmark-b2b/"><img src="/img/samples/hmk-greetings/thumbnail.2x.jpg" alt="Hallmark B2B Microsite"></a>
-				<div class="inner">
-					<h2><a href="/hallmark-b2b/">Hallmark Microsite</a></h2>
-					<p>Wireframing and design of a B2B microsite</p>
-					<p><a href="/hallmark-b2b/">See how we delivered &#187;</a></p>
-				</div>
-			</div>
-		</div>
 
-		<div class="col-12">
-			<div class="inner">
-				<h2 class="spacer-5--top spacer-0--bottom">&horbar; In-house: Garmin</h2>
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/career-path/"><img src="/img/samples/career-path/thumbnail.2x.jpg" alt="Career Path Framework"></a>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/career-path/">Career Path Framework</a></h2>
-					<p>Designing a creative career path</p>
-					<p><a href="/career-path/">Explore the path &#187;</a></p>
+					<a href="/amc-coke/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail03.2x.jpg" alt="Social campaign for AMC Theatres and Coke"></a>
+					<h3>AMC &amp; Coke</h3>
+					<p><a href="/amc-coke/">Cross-channel campaign</a></p>
 				</div>
 			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/youtube/"><img src="/img/samples/youtube/thumbnail.2x.jpg" alt="YouTube Pre-Roll"></a>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/youtube/">You-Tube Pre-Roll</a></h2>
-					<p>Pre-roll ads for the launch of Garmin's YouTube channel<br><strong>Winner:</strong> Gold ADDY Award</p>
-					<p><a href="/youtube/">Roll the video &#187;</a></p>
+					<a href="/lee-jeans/"><img class="thumb spacer-2--bottom" src="/img/samples/lee-jeans/thumbnail.2x.jpg" alt="Lee Product Videos"></a>
+					<h3>Lee Jeans</h3>
+					<p><a href="/lee-jeans/">Product videos</a></p>
 				</div>
 			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/garmin-mobile/"><img src="/img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/garmin-mobile/">Garmin.com Mobile Shop</a></h2>
-					<p>Fast-moving wireframing, design, and development</p>
-					<p><a href="/garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
+					<a href="/hallmark-b2b/"><img class="thumb spacer-2--bottom" src="/img/samples/hmk-greetings/thumbnail.2x.jpg" alt="Hallmark B2B Microsite"></a>
+					<h3>Hallmark</h3>
+					<p><a href="/hallmark-b2b/">B2B microsite</a></p>
 				</div>
 			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/vivofit/"><img src="/img/samples/vivofit/thumbnail.2x.jpg" alt="vivofit campaign"></a>
-				<div class="inner">
-					<h2><a href="/vivofit/">v&iacute;vofit</a></h2>
-					<p>Launch campaign for Garmin's activity tracker</p>
-					<p><a href="/vivofit/">Step this way to view the work &#187;</a></p>
-				</div>
-			</div>
-		</div>
-		<div class="col-4">
-			<div class="card">
-				<a href="/idea-bucket/"><img src="/img/samples/idea-bucket/thumbnail.2x.jpg" alt="Idea Bucket Website"></a>
-				<div class="inner">
-					<h2><a href="/idea-bucket/">Idea Bucket Website</a></h2>
-					<p>Design and development of an innovation website</p>
-					<p><a href="/idea-bucket/">Explore the work &#187;</a></p>
-				</div>
-			</div>
-		</div>
-		<div class="col-4">
-			<div class="card">
-				<a href="/holiday/"><img src="/img/samples/holiday/thumbnail.2x.jpg" alt="Give-a-Garmin Holiday Campaigns"></a>
-				<div class="inner">
-					<h2><a href="/holiday/">Holiday Campaigns</a></h2>
-					<p>&#x266B; Give-a, Give-a, Give-a, Give-a-Garmin &#x266B;</p>
-					<p><a href="/holiday/">View the work of Christmas past &#187;</a></p>
-				</div>
-			</div>
-		</div>
-		<div class="col-4">
-			<div class="card">
-				<a href="/nuvifone/"><img src="/img/samples/nuvifone/thumbnail_alt.2x.jpg" alt="nuvifone launch campaign"></a>
-				<div class="inner">
-					<h2><a href="/nuvifone/">n&uuml;vifone</a></h2>
-					<p>Brand development and launch materials</p>
-					<p><a href="/nuvifone/">Call up the work samples &#187;</a></p>
-				</div>
-			</div>
-		</div>
+		</section>
 
-		<div class="col-12">
-			<div class="inner">
-				<h2 class="spacer-5--top spacer-0--bottom">&horbar; Etc.</h2>
-			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="http://www.flow14.com/"><img src="/img/samples/flow14/thumbnail.png" alt="flow14 - Independent Projects"></a>
+<?php /* GARMIN */ ?>
+		<section class="block spacer-6 projects">
+			<h2 class="col-12"><div class="inner">&horbar; In-house: Garmin</div></h2>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="http://www.flow14.com/">flow14 - Independent Projects</a></h2>
-					<p>Logo design, website design, and more</p>
-					<p><a href="http://www.flow14.com/">See the design works &#187;</a></p>
+					<a href="/career-path/"><img class="thumb spacer-2--bottom" src="/img/samples/career-path/thumbnail.2x.jpg" alt="Career Path Framework"></a>
+					<h3>Career Paths</h3>
+					<p><a href="/career-path/">Planning &amp; design</a></p>
 				</div>
 			</div>
-		</div>
-		<div class="col-6">
-			<div class="card">
-				<a href="/iphone-365-project/"><img src="/img/samples/iphone-365/thumb-2017.2x.jpg" alt="iPhone 365 Project"></a>
+			<div class="col-4">
 				<div class="inner">
-					<h2><a href="/iphone-365-project/">Personal Work: 365 Project</a></h2>
-					<p>A photo a day. Every day. Since 2009.</p>
-					<p><a href="/iphone-365-project/">Watch the Videos &#187;</a></p>
+					<a href="/youtube/"><img class="thumb spacer-2--bottom" src="/img/samples/youtube/thumbnail.2x.jpg" alt="YouTube Pre-Roll"></a>
+					<h3>You-Tube Spots</h3>
+					<p><a href="/youtube/">Pre-roll ads</a></p>
 				</div>
 			</div>
-		</div>
-	</div><!-- /block -->
+			<div class="col-4">
+				<div class="inner">
+					<a href="/garmin-mobile/"><img class="thumb spacer-2--bottom"  src="/img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
+					<h3>Garmin.com</h3>
+					<p><a href="/garmin-mobile/">Mobile-Optimized ecommerce design</a></p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="inner">
+					<a href="/vivofit/"><img class="thumb spacer-2--bottom" src="/img/samples/vivofit/thumbnail.2x.jpg" alt="vivofit campaign"></a>
+					<h3>v&iacute;vofit</h3>
+					<p><a href="/vivofit/">Product launch campaign</a></p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="inner">
+					<a href="/idea-bucket/"><img class="thumb spacer-2--bottom" src="/img/samples/idea-bucket/thumbnail.2x.jpg" alt="Idea Bucket Website"></a>
+					<h3>Idea Bucket</h3>
+					<p><a href="/idea-bucket/">Company innovation website design &amp; development</a></p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="inner">
+					<a href="/holiday/"><img class="thumb spacer-2--bottom" src="/img/samples/holiday/thumbnail.2x.jpg" alt="Give-a-Garmin Holiday Campaigns"></a>
+					<h3>Holiday Campaigns</h3>
+					<p><a href="/holiday/">&#x266B; Give-a, Give-a, Give-a, Give-a-Garmin &#x266B;</a></p>
+				</div>
+			</div>
+
+			<div class="col-4">
+				<div class="inner">
+					<a href="/nuvifone/"><img class="thumb spacer-2--bottom" src="/img/samples/nuvifone/thumbnail_alt.2x.jpg" alt="nuvifone launch campaign"></a>
+					<h3>n&uuml;vifone</h3>
+					<p><a href="/nuvifone/">Brand development &amp; product launch</a></p>
+				</div>
+			</div>
+		</section>
+
+<?php /* PERSONAL WORK */ ?>
+		<section class="block spacer-6 projects">
+			<h2 class="col-12"><div class="inner">&horbar; Personal Work</div></h2>
+			<div class="col-4">
+				<div class="inner">
+					<a href="/iphone-365-project/"><img class="thumb spacer-2--bottom" src="/img/samples/iphone-365/thumb-2017.2x.jpg" alt="iPhone 365 Project"></a>
+					<h3>365 Project</h3>
+					<p><a href="/iphone-365-project/">A photo a day. Every day. Since 2009.</a></p>
+				</div>
+			</div>
+			<div class="col-8 shim"></div>
+		</section>
+		
 	</article>
-
-
-
-	
-	
-	
-	
 	
 	<?php include('includes/footer.php'); ?>
 

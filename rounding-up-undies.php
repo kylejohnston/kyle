@@ -11,16 +11,14 @@
 	<link href="http://www.flow14.com/rounding-up-undies" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
-		html {
-			background: hsl(39, 100%, 50%);
-			background: linear-gradient(180deg, hsl(39, 100%, 50%) 0%, hsl(39, 100%, 46%) 35%);
-		}
-
-		 header h1 span a:link, 
-		 header h1 span a:hover, 
-		 header h1 span a:active, 
-		 header h1 span a:visited,
-		 h1, h2, h3 { color: #ffa400; }
+		html {background:#FFA400}
+		header h1 span a:link, 
+		header h1 span a:hover, 
+		header h1 span a:active, 
+		header h1 span a:visited,
+		h1,h2,h3{color:#FFA400}
+		article.content{background:white url('/img/angle--ruu.svg') left -1px no-repeat;
+background-size:101%}
 	</style>
 </head>
 
@@ -28,24 +26,31 @@
 	<header>
 		<?php include('includes/header-nav.php'); ?>
 	</header>
+	<section class="block">
+		<div class="col-1 shim"></div>
+		<div class="col-6 spacer-6 intro">
+			<div class="inner">
+				<h1>Rounding Up Undies</h1>
+				<h2>Logo design</h2>
+				<p>Rounding Up Undies is a charity that provides hygiene kits to young women in Uganda and Mali. The team at Rounding Up Undies approached me about designing a logo that could be used for their hygiene kit packaging, promotional materials and social presence.</p>
+				<p><strong>Contributions:</strong> Designer</p>
+			</div>
+		</div>
+		<div class="col-5 shim"></div>
+	</section>
 
 	<article class="content">
-		<section class="block">
-			<div class="pattern__2-8-2">
-				<h1>Rounding Up Undies</h1>
-				<p>Rounding Up Undies is a charity that provides hygiene kits to young women in Uganda and Mali. The team at Rounding Up Undies approached me about designing a logo that could be used for their hygiene kit packaging, promotional materials and social presence.</p>
-				<p><strong>My role:</strong> Designer</p>
+		<section class="block block--wide spacer-9--top">
+			<div class="pattern__3-6-3">
+				<div class="inner">
+					<h2>Research &amp; Sketches</h2>
+					<p>I started by researching Ugandan art and textiles to gain an understanding of dominant colors and patterns present in the culture. At the same time, I began sketching ideas for shapes and type treatments.</p>
+				</div>
 			</div>
-		</section>
-		<section class="block">
-			<div class="col-3">
-				<h2>Research &amp; Sketches</h2>
-				<p>I started by researching Ugandan art and textiles to gain an understanding of dominant colors and patterns present in the culture. At the same time, I began sketching ideas for shapes and type treatments.</p>
-			</div>
-			<div class="col-6">
+			<div class="col-8">
 				<img src="/img/samples/rounding-up-undies/research.jpg" width="100%" alt="Brand Research">
 			</div>
-			<div class="col-3">
+			<div class="col-4">
 				<img src="/img/samples/rounding-up-undies/sketches.jpg" width="100%" alt="Initial Logo Sketches">
 			</div>
 		</section>
@@ -63,8 +68,10 @@
 		</section>
 		<section class="block">
 			<div class="col-4">
-				<h2>Logo Design Options</h2>
-				<p>After exploring many design ideas, I selected three options and presented them to the Rounding Up Undies team. They quickly gravitated to one design. After a round of refinements, we had a design that everyone loved.</p>
+				<div class="inner">
+					<h2>Logo Design Options</h2>
+					<p>After exploring many design ideas, I selected three options and presented them to the Rounding Up Undies team. They quickly gravitated to one design. After a round of refinements, we had a design that everyone loved.</p>
+				</div>
 			</div>
 			<div class="col-4">
 				<div class="caption--top">
@@ -82,10 +89,12 @@
 
 		<section class="block">
 			<div class="col-4">
-				<h2>Final Logo Design</h2>
-				<p>After a few additional finishing touches (details matter) &#8212; I delivered the final logo along with brand guidelines that ensure the logo will look great as it's used to support and promote the important mission of Rounding Up Undies.</p>
-				<h3>Impact</h3>
-				<p>Within the first 6 hours of promoting Rounding Up Undies using the new logo, they raised $1,000 – and continue to help women in need to this day.</p>
+				<div class="inner">
+					<h2>Final Logo Design</h2>
+					<p>After a few additional finishing touches (details matter) &#8212; I delivered the final logo along with brand guidelines that ensure the logo will look great as it's used to support and promote the important mission of Rounding Up Undies.</p>
+					<h3>Impact</h3>
+					<p>Within the first 6 hours of promoting Rounding Up Undies using the new logo, they raised $1,000 – and continue to help women in need to this day.</p>
+				</div>
 			</div>
 			<div class="col-4">
 				<img src="/img/samples/rounding-up-undies/final-logo.jpg" alt="Final Logo Design" width="100%">

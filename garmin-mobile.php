@@ -11,16 +11,10 @@
 	<link href="http://www.kylewjohnston.com/garmin-mobile" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
-		html {
-			background: hsl(203, 82%, 42%);
-			background: linear-gradient(180deg, hsl(203, 82%, 42%) 0%, hsl(203, 82%, 38%) 35%);
-		}
-
-		 header h1 span a:link, 
-		 header h1 span a:hover, 
-		 header h1 span a:active, 
-		 header h1 span a:visited,
-		 h1, h2, h3 { color: #137ec2; }
+		html {background:#137ec2}
+		h1,h2,h3{color:#137ec2}
+		article.content{background:white url('/img/angle--garmin.svg') left -1px no-repeat;
+background-size:101%}
 	</style>
 </head>
 
@@ -28,18 +22,28 @@
 	<header>
 		<?php include('includes/header-nav.php'); ?>
 	</header>
-	<article class="content">
-		<section class="block">
-			<div class="pattern__2-8-2">
-				<h1>Garmin.com Mobile Shop</h1>
+
+	<section class="block">
+		<div class="col-1 shim"></div>
+		<div class="col-6 spacer-6 intro">
+			<div class="inner">
+				<h1>Garmin.com</h1>
+				<h2>Mobile-Optimized Ecommerce</h2>
 				<p>In 2012, my team spotted a trend in Garmin's website traffic – mobile devices were driving more and more traffic and revenue, in spite of the fact that the Garmin.com store was difficult to use on tablets and smartphones. I championed the project with executives, then led the effort to design, develop, and launch the mobile-friendly version of Garmin’s eCommerce platform.</p>
-				<p><strong>My role:</strong> Project Sponsor, Creative Director</p>
+				<p><strong>Contributions:</strong> Project Sponsorship, Creative Direction, Wireframing</p>
 			</div>
-		</section>
-		<section class="block">
-			<div class="col-6">
-				<h2>Speed to Market</h2>
-				<p>After weighing the pros and cons of building the site in-house, we chose <a href="http://www.mobify.com">Mobify</a> as technical partner &#8211; giving us the greatest speed to market with minimal impact on our in-house resources, who were focused on a major upgrade and redesign of our e-commerce platform.</p>
+		</div>
+		<div class="col-5 shim"></div>
+	</section>
+
+	<article class="content">
+		<section class="block spacer-9--top">
+			<div class="col-1 shim"></div>
+			<div class="col-5">
+				<div class="inner">
+					<h2>Speed to Market</h2>
+					<p>After weighing the pros and cons of building the site in-house, we chose <a href="http://www.mobify.com">Mobify</a> as technical partner &#8211; giving us the greatest speed to market with minimal impact on our in-house resources, who were focused on a major upgrade and redesign of our e-commerce platform.</p>
+				</div>
 			</div>
 			<div class="col-6 caption">
 				<img src="/img/samples/garmin-mobile/wireframes-product-checkout.jpg" alt="Garmin.com Mobile Wireframes">
@@ -58,19 +62,21 @@
 				<p class="flex-caption">Product Page &amp; Shopping Cart</p>
 			</div>
 			<div class="col-6 stats">
-				<h2 class="spacer-4--bottom" style="border-bottom:1px solid #1380c3;"><div class="inner">Results</div></h2>
-				<div class="block">
-					<div class="col-6 stats">
-						<h1 class="spacer-0--bottom">258%</h1>
-						<p>Sales increase (YoY)</p>
-						<h1 class="spacer-0--bottom">141%</h1>
-						<p>Average order value increase</p>
-					</div>
-					<div class="col-6 stats">
-						<h1 class="spacer-0--bottom">61%</h1>
-						<p>Conversion rate increase</p>
-						<h1 class="spacer-0--bottom">14</h1>
-						<p>Project timeline (weeks)</p>
+				<div class="inner">
+					<h2 class="spacer-4" style="border-bottom:1px solid #1380c3;">Results</h2>
+					<div class="block">
+						<div class="col-6 stats">
+							<h1 class="spacer-0--bottom">258%</h1>
+							<p>Sales increase (YoY)</p>
+							<h1 class="spacer-0--bottom">141%</h1>
+							<p>Average order value increase</p>
+						</div>
+						<div class="col-6 stats">
+							<h1 class="spacer-0--bottom">61%</h1>
+							<p>Conversion rate increase</p>
+							<h1 class="spacer-0--bottom">14</h1>
+							<p>Project timeline (weeks)</p>
+						</div>
 					</div>
 				</div>
 			</div>
