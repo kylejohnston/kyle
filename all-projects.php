@@ -44,7 +44,13 @@
 					<p><a href="/rounding-up-undies/">Logo design</a></p>
 				</div>
 			</div>
-			<div class="col-4 shim"></div>
+			<div class="col-4">
+				<div class="inner">
+					<a href="/infographics/"><img class="thumb spacer-2--bottom" src="/img/samples/infographics/thumbnail.jpg" alt="Infographics"></a>
+					<h3>Infographics</h3>
+					<p><a href="/infographics/">Visualizing data</a></p>
+				</div>
+			</div>
 		</section>
 
 <?php /* DEG */ ?>
