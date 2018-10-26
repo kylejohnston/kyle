@@ -72,7 +72,7 @@
 			</div>
 			<div class="col-4">
 				<div class="inner">
-					<a href="/amc/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail01.2x.jpg" alt="New business pitch for AMC Theatres"></a>
+					<a href="/amc/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail-alt.jpg" alt="New business pitch for AMC Theatres"></a>
 					<h3>AMC Theatres</h3>
 					<p><a href="/amc/">New business pitch</a></p>
 				</div>
@@ -104,6 +104,13 @@
 <?php /* GARMIN */ ?>
 		<section class="block spacer-6 projects">
 			<h2 class="col-12"><div class="inner">&horbar; In-house: Garmin</div></h2>
+			<div class="col-4">
+				<div class="inner">
+					<a href="/connect/"><img class="thumb spacer-2--bottom" src="/img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
+					<h3>Connect Redesign</h3>
+					<p><a href="/connect/">UX, UI, Style Guide, Branding</a></p>
+				</div>
+			</div>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/career-path/"><img class="thumb spacer-2--bottom" src="/img/samples/career-path/thumbnail.2x.jpg" alt="Career Path Framework"></a>
