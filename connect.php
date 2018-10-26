@@ -41,7 +41,7 @@ background-size:101%}
 				<h2>UX and UI</h2>
 				<p>A key challenge of this project was figuring out how to support wide of devices and activities without overwhelming customers. After much research, many prototypes, and countless meetings, we launched with a card-based approach that addressed several important use cases:
 					<ul>
-						<li><strong>New customers</strong> could be onboarded quickly and easily find their activities, set goals, and manage their devices.</li>
+						<li><strong>New customers</strong> could be onboarded quickly and easily find  activities, set goals, and manage devices.</li>
 						<li><strong>Power-users</strong> had easy access to advanced data and activity analysis</li>
 						<li><strong>Connect</strong> could easily support future devices, features, and data</li>
 					</ul>
