@@ -28,7 +28,7 @@ background-size:101%}
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
 				<h1>Garmin YouTube Channel</h1>
-				<h2>Pre-roll ads</h2>
+				<h2>Pre-roll Ads</h2>
 				<p>In 2014, we created a series of pre-roll ads to promote the new Garmin brand channel on YouTube.</p>
 				<p>The concept, <em>&ldquo;There&rsquo;s life, and then there&rsquo;s living&rdquo;</em>, playfully reinforces the fact that Garmin is an active brand that encourages people to get out there, live life to the fullest, and have fun.</p>
 				<p><strong>Awards:</strong> Gold ADDY Award</p>
@@ -39,7 +39,7 @@ background-size:101%}
 	</section>
 
 	<article class="content">
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-6">
 				<div class="inner">
 					<h2>Hamster / Roll</h2>
@@ -57,7 +57,7 @@ background-size:101%}
 				</div>
 			</div>
 		</section>
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-6">
 				<div class="inner">
 					<h2>Scooter / Ride</h2>

@@ -28,7 +28,7 @@ background-size:101%}
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
 				<h1>n&uuml;vifone</h1>
-				<h2>Brand development &amp; product launch</h2>
+				<h2>Brand Development &amp; Product Launch</h2>
 				<p>In 2008, Garmin partnered with Asus to develop the n&uuml;vifone, the only 3G phone to fully integrate the worlds best-selling GPS navigator with voice, data and mobile web. For co-branded devices, we collaboratively developed a new brand, including a logo, packaging, website, collateral materials and more.</p>
 				<p><strong>Contributions:</strong> Co-Creative Direction</p>
 			</div>
@@ -37,7 +37,7 @@ background-size:101%}
 	</section>
 
 <article class="content">
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-1 shim"></div>
 			<div class="col-4 align__center">
 				<h2>Brand Development</h2>
@@ -48,7 +48,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-12 text__center"><h2 class="inner">Launch Campaign - Broadcast Advertising</h2></div>
 			<div class="col-6">
 				<div class="video-container">
@@ -62,7 +62,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-9 order-2">
 				<img src="../img/samples/nuvifone/print-ads.jpg" alt="Garmin nuvifone print ads">
 			</div>
@@ -71,7 +71,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-5 align__center">
 				<h2 class="inner">Product Brochure</h2>
 			</div>

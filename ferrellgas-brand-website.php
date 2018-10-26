@@ -28,7 +28,7 @@ background-size:101%}
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
 				<h1>Ferrellgas</h1>
-				<h2>Brand evolution &amp; website redesign</h2>
+				<h2>Brand Evolution &amp; Website Redesign</h2>
 				<p>While leading the creative team at DEG, my team and I worked with <a href="https://www.ferrellgas.com">Ferrellgas</a> &#8212; one of the nation&rsquo;s largest propane providers &#8212; to rethink their brand and voice, redesign their website, and more.</p>
 				<p><strong>Contributions:</strong> Creative Direction, Design Thinking Workshop Co-Facilitation, Brand Development</p>
 			</div>
@@ -37,7 +37,7 @@ background-size:101%}
 	</section>
 
 	<article class="content">
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-1 shim"></div>
 			<div class="col-5">
 				<div class="inner">
@@ -54,8 +54,8 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
-			<div class="col-12"><div class="inner"><h3>A few slides from our workshop…</h3></div></div>
+		<section class="block block--narrow">
+			<h3 class="col-12">A few slides from our workshop…</h3>
 			<div class="col-4 caption">
 				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-001.600.jpg" alt="Sample workshop slide 1" width="100%">
 				<p>What is design thinking?</p>
@@ -82,7 +82,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Website Redesign</h2>
@@ -116,7 +116,7 @@ background-size:101%}
 			<div class="col-1 shim"></div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-6 caption--top">
 				<div class="inner"><h3>Old Page Layout</h3></div>
 				<img class="frame" src="/img/samples/ferrellgas/old-residential.570.jpg" alt="The old Ferrellgas homepage">
@@ -127,7 +127,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>The Results</h2>

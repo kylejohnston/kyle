@@ -29,7 +29,7 @@ background-size:101%}
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
 				<h1>v&iacute;vofit</h1>
-				<h2>Product launch campaign</h2>
+				<h2>Product Launch Campaign</h2>
 				<p>In 2013, Garmin launched the v&iacute;vofit activity tracker. For the initial product launch at CES, we created a launch video, product landing page, in-store merchandising displays and print and digital advertising. In Autumn 2014, we created two broadcast spots to raise awareness and sales of the v&iacute;vofit leading into the holiday season.</p>
 				<p><strong>Contributions:</strong> Creative Direction</p>
 			</div>
@@ -38,7 +38,7 @@ background-size:101%}
 	</section>
 	
 	<article class="content">
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-1 shim"></div>
 			<div class="col-5 align__center">
 				<h2 class="inner">Product Wordmark</h2>
@@ -49,7 +49,7 @@ background-size:101%}
 			<div class="col-1 shim"></div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-5 order-2">
 				<img src="../img/samples/vivofit/packaging.jpg" alt="Garmin vivofit packaging" width="100%">
@@ -60,7 +60,7 @@ background-size:101%}
 			<div class="col-1 shim"></div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-3 align__center">
 				<div class="inner">
@@ -73,7 +73,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="col-8 order-2">
 				<img src="../img/samples/vivofit/landing-page.jpg" alt="Garmin vivofit landing page" width="100%">
 			</div>
@@ -86,7 +86,7 @@ background-size:101%}
 			<div class="col-1 shim"></div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-5 align__center">
 				<h2 class="inner">Product Launch Video</h2>
@@ -98,7 +98,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="col-8 order-2">
 				<img src="../img/samples/vivofit/print-ads.jpg" alt="Garmin vivofit print ads" width="100%">
 			</div>
@@ -111,7 +111,7 @@ background-size:101%}
 			<div class="col-1 shim"></div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-3 align__center">
 				<div class="inner">
@@ -124,7 +124,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="pattern__3-6-3"><h2 class="inner">Q3/Q4 Broadcast Advertising</h2></div>
 			<div class="col-6">
 				<div class="video-container">

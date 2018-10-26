@@ -31,7 +31,7 @@ background-size:101%}
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
 				<h1>Rounding Up Undies</h1>
-				<h2>Logo design</h2>
+				<h2>Logo Design</h2>
 				<p>Rounding Up Undies is a charity that provides hygiene kits to young women in Uganda and Mali. The team at Rounding Up Undies approached me about designing a logo that could be used for their hygiene kit packaging, promotional materials and social presence.</p>
 				<p><strong>Contributions:</strong> Designer</p>
 			</div>
@@ -66,7 +66,7 @@ background-size:101%}
 				<img src="/img/samples/rounding-up-undies/design-exploration.png" width="100%" alt="Logo Design Exploration">
 			</div>
 		</section>
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-4">
 				<div class="inner">
 					<h2>Logo Design Options</h2>
@@ -87,7 +87,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-4">
 				<div class="inner">
 					<h2>Final Logo Design</h2>

@@ -38,7 +38,7 @@ background-size:101%}
 	</section>
 
 	<article class="content">
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-1 shim"></div>
 			<div class="col-3 align__center">
 				<div class="inner">
@@ -51,7 +51,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block text__center spacer-6">
+		<section class="block block--narrow text__center spacer-6">
 			<div class="pattern__3-6-3"><h2 class="inner">Broadcast Advertising</h2></div>
 			<div class="col-6">
 				<p>2011 - &ldquo;Give-a-Give-a-Give-a-Garmin&rdquo;</p>
@@ -67,7 +67,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-1 shim"></div>
 			<div class="col-4 order-2">
 				<div id="main-slider" class="flexslider">
@@ -86,7 +86,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-3 align__center">
 				<div class="inner">
 					<h2>Digital Advertising</h2>

@@ -28,7 +28,7 @@ background-size:101%}
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
 				<h1>AMC &amp; Coke</h1>
-				<h2>Cross-channel campaign</h2>
+				<h2>Cross-Channel Campaign</h2>
 				<p>After winning <a href="/amc/">AMC&rsquo;s Email Marketing</a> duties, they invited us to pitch ideas for a quarterly cross-channel campaign. We served them fresh ideas that returned record-breaking results.</p>
 				<p><strong>Contributions:</strong> Creative Direction, Creative Strategy</p>
 			</div>
@@ -37,7 +37,7 @@ background-size:101%}
 	</section>
 
 	<article class="content">
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-1 shim"></div>
 			<div class="col-5">
 				<div class="inner">
@@ -61,7 +61,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-9 caption">
 				<img class="shadow rounders" src="/img/samples/amc/coke-recapture-idea.920.jpg" alt="AMC pitch description" width="100%">
 				<p>Mockups illustrating the voice and visuals</p>
@@ -71,7 +71,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-2 shim"></div>
 			<div class="col-6">
 				<div class="inner">

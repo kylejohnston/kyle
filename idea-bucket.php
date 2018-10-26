@@ -27,8 +27,8 @@ background-size:101%}
 		<div class="col-1 shim"></div>
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
-				<h1>Garmin</h1>
-				<h2>Idea Bucket Innovation Website</h2>
+				<h1>Idea Bucket</h1>
+				<h2>Internal Idea-Sharing Platform</h2>
 				<p>In 2011, I was invited to collaborate with a newly-formed innovation team to design and develop an internal idea-sharing website. The goal of the project was to allow anyone in the company share ideas for new products, features, and services.</p>
 				<p>The website is still in use today and many ideas have advanced to real-world applications.</p>
 				<p><strong>Contributions:</strong> Design, Front End Development</p>
@@ -38,7 +38,7 @@ background-size:101%}
 	</section>
 
 	<article class="content">
-		<section class="block spacer-9--top"">
+		<section class="block block--narrow spacer-9--top"">
 			<div class="col-1 shim"></div>
 			<div class="col-5">
 				<div class="inner">
@@ -60,7 +60,7 @@ background-size:101%}
 				<img class="shadow" src="/img/samples/idea-bucket/homepage.jpg" alt="Idea Bucket Homepage" class="img-border">
 			</div>
 		</section>
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-6 order-2">
 				<img class="shadow" src="/img/samples/idea-bucket/idea-detail.jpg" alt="Idea Bucket - Idea Detail Page" class="img-border">
 			</div>

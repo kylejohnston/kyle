@@ -42,7 +42,7 @@ background-size:101%}
 				<img class="" src="/img/samples/amc/amc-customer-journey.full.png" alt="AMC Customer Journey" width="100%">
 			</div>
 		</section>
-		<section class="block block--wide section-6">
+		<section class="block block--narrow spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-4">
 				<div class="inner">
@@ -51,13 +51,13 @@ background-size:101%}
 				</div>
 			</div>
 			<div class="col-7 caption">
-				<img class="shadow rounders" src="/img/samples/amc/amc-journey-presentation.920.jpg" alt="AMC Customer Journey" width="100%">
+				<img class="shadow thumb" src="/img/samples/amc/amc-journey-presentation.920.jpg" alt="AMC Customer Journey" width="100%">
 				<p>Ginormous journey map</p>
 			</div>
 		</section>
-		<section class="block spacer-6">
-			<div class="col-1 shim"></div>
-			<div class="col-5">
+		<section class="block block--narrow spacer-6">
+			<!-- <div class="col-1 shim"></div> -->
+			<div class="col-6">
 				<div class="inner">
 					<h2>A Peek at the Pitch</h2>
 					<p>For the next stage of the pitch, I partnered with an email strategist to illustrate an on-boarding process for two types of AMC guests. This format allowed us to rely on a storytelling approach, supported with visuals that illustrated how the campaigns could be tailored to different types of movie fans.</p>
@@ -85,7 +85,7 @@ background-size:101%}
 			<div class="col-6">
 				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-005.920.jpg" alt="Onboarding step example" width="100%">
 			</div>
-			<div class="col-1 shim"></div>
+			<!-- <div class="col-1 shim"></div> -->
 			<div class="col-5">
 				<div class="inner">
 					<h3>Just Enough Research</h3>
@@ -93,12 +93,12 @@ background-size:101%}
 					<img class="shadow spacer-6" src="/img/samples/amc/pitch-deck-sample-006.920.jpg" alt="Research results" width="100%">
 				</div>
 			</div>
-			<div class="col-6">
+			<div class="col-7">
 				<img src="/img/samples/amc/pitch-deck-sample-007.920.jpg" alt="Component examples" width="100%">
 				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-008.920.jpg" alt="Newsletter matrix" width="100%">
 			</div>
 		</section>
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="pattern__3-6-3 spacer-6">
 				<div class="inner">
 					<h2>Winning the Business.</h2><p>In addition to the custom work described above, we hand-delivered custom-made meeting invitations to AMC executives, then literally rolled out a red carpet in our office, where we served popcorn and custom-made, movie-themed cookies. These thoughtful touches, combined with strong, data-driven creative work, led AMC to award their email marketing program to DEG in 2016, one of the largest such accounts in DEG&rsquo;s history.</p>

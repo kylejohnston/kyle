@@ -48,7 +48,7 @@ background-size:101%}
 				</div>
 			</div>
 		</section>
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-1 shim"></div>
 			<div class="col-5">
 				<div class="inner">
@@ -79,7 +79,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Rollout</h2>
@@ -94,7 +94,7 @@ background-size:101%}
 			<div class="col-4 shim"></div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>What&rsquo;s Next</h2>

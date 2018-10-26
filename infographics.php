@@ -22,7 +22,7 @@
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
 				<h1>Infographics</h1>
-				<h2>Visualizing data</h2>
+				<h2>Visualizing Data</h2>
 			</div>
 		</div>
 		<div class="col-5 shim"></div>

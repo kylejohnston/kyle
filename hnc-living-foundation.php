@@ -28,7 +28,7 @@ background-size:101%}
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
 				<h1>HNC Living Foundation</h1>
-				<h2>Website redesign</h2>
+				<h2>Website Redesign</h2>
 				<p>What do you do when your nonprofit has successfully helped more than 1,200 head and neck cancer patients with their treatment and recovery, but you’re ready to expand beyond your local roots?</p>
 				<p>For <a href="https://www.hncliving.org">HNC Living Foundation</a>&#8212;a nonprofit who partners with healthcare providers to fund grants that help head and neck cancer patients&#8212;the answer was a modern website designed to attract more donors and find new partners.</p>
 				<p><strong>Contributions:</strong> Research, Design, Copywriting, SEO</p>
@@ -70,7 +70,7 @@ background-size:101%}
 			</div>
 		</section><!-- /.block .block-wide -->
 	<!-- RESEARCH -->
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Research &amp; Auditing</h2>
@@ -121,7 +121,7 @@ background-size:101%}
 		</section><!-- /.block .block-wide -->
 
 	<!-- HOMEPAGE -->
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>The New Homepage</h2>
@@ -147,7 +147,7 @@ background-size:101%}
 		</section>
 
 	<!-- MANUAL -->
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-5">
 				<div class="inner">

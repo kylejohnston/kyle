@@ -37,7 +37,7 @@ background-size:101%}
 	</section>
 
 	<article class="content">
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-1 shim"></div>	
 			<div class="col-4">
 				<div class="inner">
@@ -59,7 +59,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Sharing Progress</h2>
@@ -77,7 +77,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block spacer-6">
+		<section class="block block--narrow spacer-6">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>The Results</h2>

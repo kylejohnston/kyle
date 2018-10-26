@@ -59,7 +59,7 @@ background-size:101%}
 			<div class="col-1 shim"></div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Wireframes</h2>
@@ -101,7 +101,7 @@ background-size:101%}
 			</div>
 		</section>
 
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>A Speedy Delivery</h2>

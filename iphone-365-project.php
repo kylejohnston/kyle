@@ -38,7 +38,7 @@ background-size:101%}
 
 	<article class="content">
 <!-- 2016 -->
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-1 shim"></div>
 			<div class="col-5">
 				<div class="inner">
@@ -59,7 +59,7 @@ background-size:101%}
 		</section>
 
 <!-- 2015 -->
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-6 order-2">
 				<div class="video-container">
 					<iframe width="600" height="450" src="https://www.youtube.com/embed/Q9bN0umbgK8?rel=0"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -80,7 +80,7 @@ background-size:101%}
 		</section>
 
 <!-- 2014 -->
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-1 shim"></div>
 			<div class="col-5">
 				<div class="inner">
@@ -101,7 +101,7 @@ background-size:101%}
 		</section>
 
 <!-- 2013 -->
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-6 order-2">
 				<div class="video-container">
 					<iframe src="http://player.vimeo.com/video/83177011?byline=0&amp;portrait=0&amp;color=c9ff23" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -122,7 +122,7 @@ background-size:101%}
 		</section>
 
 <!-- 2012 and 2011 -->
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-6 text__center">
 				<div class="inner">
 					<h2>2012, Year 4</h2>
@@ -142,7 +142,7 @@ background-size:101%}
 		</section>
 
 <!-- 2010 and 2009 -->
-		<section class="block">
+		<section class="block block--narrow">
 			<div class="col-6 text__center">
 				<div class="inner">
 					<h2>2010, Year 2</h2>
