@@ -12,7 +12,7 @@
 	<meta name="twitter:image" content="https://www.kylewjohnston.com/img/opengraph.png">
 
 	<!-- Le styles -->
-	<link href='/css/gridkit.min.css?20180922_0000' rel='stylesheet' type='text/css'>
+	<link href='/css/gridkit.min.css?20181025_0000' rel='stylesheet' type='text/css'>
 	<link href='/css/styles.min.css?20180922_0001' rel='stylesheet' type='text/css'>
 	<link href='//kylewjohnston.com/css/aos.css' rel='stylesheet' type='text/css'>
 
