@@ -49,17 +49,17 @@ background-size:101%}
 			</div>
 			<div class="pattern__2-8-2">
 				<h3>Dashboard</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-home.jpg" alt="">
+				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-home.jpg" alt="Dashboard">
 			</div>
 		</section>
 		<section class="block block--narrow">
 			<div class="col-6">
 				<h3>Activities</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-activities_full.jpg" alt=""></div>
+				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-activities_full.jpg" alt="Activities"></div>
 			</div>
 			<div class="col-6">
 				<h3>Activity Detail</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-activity-detail_full.jpg" alt="">
+				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-activity-detail_full.jpg" alt="Activity Detail">
 			</div>
 		</section>
 		<section class="block block--narrow spacer-6">
@@ -71,23 +71,23 @@ background-size:101%}
 					</div>
 					<div class="col-6">
 						<h3>Color</h3>
-						<img class="shadow thumb" src="/img/samples/connect/ui-guide_color_1000.jpg" alt="">
+						<img class="shadow thumb" src="/img/samples/connect/ui-guide_color_1000.jpg" alt="Style Guide - Color">
 					</div>
 					<div class="col-6">
 						<h3>Buttons</h3>
-						<img class="shadow thumb" src="/img/samples/connect/ui-guide_buttons_1000.jpg" alt="">
+						<img class="shadow thumb" src="/img/samples/connect/ui-guide_buttons_1000.jpg" alt="Style Guide - Buttons">
 					</div>
 					<div class="col-12">
 						<h3>Widgets</h2>
-						<img class="shadow thumb" src="/img/samples/connect/ui-widgets_2000.jpg" alt="">
+						<img class="shadow thumb" src="/img/samples/connect/ui-widgets_2000.jpg" alt="Style Guide - Widgets">
 					</div>
 					<div class="col-6">
 						<h3>Navigation</h3>
-						<div class="inside"><img class="shadow" src="/img/samples/connect/ui-guide_navigation_1000.jpg" alt=""></div>
+						<div class="inside"><img class="shadow" src="/img/samples/connect/ui-guide_navigation_1000.jpg" alt="Style Guide - Navigation"></div>
 					</div>
 					<div class="col-6">
 						<h3>Menus</h3>
-						<div class="inside"><img class="shadow" src="/img/samples/connect/ui-guide_navigation-menu_1000.jpg" alt=""></div>
+						<div class="inside"><img class="shadow" src="/img/samples/connect/ui-guide_navigation-menu_1000.jpg" alt="Style Guide - Menus"></div>
 					</div>
 				</div>
 			</div>
@@ -103,33 +103,33 @@ background-size:101%}
 					</div>
 					<div class="pattern__2-8-2">
 							<h3>Before</h3>
-							<img src="/img/samples/connect/connect_no-logo.png" alt="">
+							<img src="/img/samples/connect/connect_no-logo.png" alt="Logo - Before">
 					</div>
 					<h3 class="pattern__2-8-2 spacer-6--top">Concepts</h3>
 					<div class="col-4">
-						<img src="/img/samples/connect/logo-concept-01.jpg" alt="">
+						<img src="/img/samples/connect/logo-concept-01.jpg" alt="Logo Concept">
 					</div>
 					<div class="col-4">
-						<img src="/img/samples/connect/logo-concept-02.jpg" alt="">
+						<img src="/img/samples/connect/logo-concept-02.jpg" alt="Logo Concept">
 					</div>
 					<div class="col-4">
-						<img src="/img/samples/connect/logo-concept-03.jpg" alt="">
+						<img src="/img/samples/connect/logo-concept-03.jpg" alt="Logo Concept">
 					</div>
 
 					<h3 class="pattern__2-8-2 spacer-6--top">Final Logo</h3>
 					<div class="col-4">
-						<img class="shadow thumb" src="/img/samples/connect/logo-full-color.jpg" alt="">
+						<img class="shadow thumb" src="/img/samples/connect/logo-full-color.jpg" alt="Logo - Full Color">
 					</div>
 					<div class="col-4">
-						<img class="shadow thumb" src="/img/samples/connect/logo-1-color.jpg" alt="">
+						<img class="shadow thumb" src="/img/samples/connect/logo-1-color.jpg" alt="Logo - 1-Color">
 					</div>
 					<div class="col-4">
-						<img class="shadow thumb" src="/img/samples/connect/logo-app-icon.jpg" alt="">
+						<img class="shadow thumb" src="/img/samples/connect/logo-app-icon.jpg" alt="App Icon">
 					</div>
 
 					<h3 class="pattern__2-8-2 spacer-6--top">Branded Elements</h3>
-					<div class="col-6"><img src="/img/samples/connect/logo-brand-elements-01.jpg" alt=""></div>
-					<div class="col-6"><img src="/img/samples/connect/logo-brand-elements-02.jpg" alt=""></div>
+					<div class="col-6"><img src="/img/samples/connect/logo-brand-elements-01.jpg" alt="Branded Elements - Apparel"></div>
+					<div class="col-6"><img src="/img/samples/connect/logo-brand-elements-02.jpg" alt="Branded Elements - Packaging and Events"></div>
 				</div>
 			</div>
 		</section>
@@ -140,10 +140,10 @@ background-size:101%}
 			</div>
 			<div class="pattern__2-8-2">
 				<h3>Homepage</h3>	
-				<img class="shadow thumb" src="/img/samples/connect/connect-site-home.jpg" width="100%" height="auto" alt=""></div>
+				<img class="shadow thumb" src="/img/samples/connect/connect-site-home.jpg" width="100%" height="auto" alt="Marketing Site - Homepage"></div>
 			<div class="pattern__2-8-2">
 				<h3>Features</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-site-features.jpg" width="100%" height="auto" alt=""></div>
+				<img class="shadow thumb" src="/img/samples/connect/connect-site-features.jpg" width="100%" height="auto" alt="Marketing Site - Features"></div>
 		</div>
 	</article>
 
