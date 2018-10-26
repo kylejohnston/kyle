@@ -64,14 +64,14 @@
 			<div class="col-4 order-2">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="ferrellgas-brand-website/">Ferrellgas</a></h2>
+					<h2><a href="connect/">Connect</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Using design thinking to fuel a brand evolution and website design</p>
-					<p><a href="ferrellgas-brand-website/">Get cozy with the work &#187;</a></p>
+					<p>Strengthening a platform with a new UX, UI, branding and marketing to drive growth</p>
+					<p><a href="connect/">Check the results &#187;</a></p>
 				</div>
 			</div>
 			<div class="col-6 order-1">
-				<a href="ferrellgas-brand-website/"><img class="thumb shadow" src="img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign"></a>
+				<a href="connect/"><img class="thumb shadow" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
 			</div>
 			<div class="col-1 shim"></div>
 		</section>
@@ -79,7 +79,7 @@
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="amc/"><img class="shadow thumb" src="/img/samples/amc/thumbnail01.2x.jpg" alt="New business pitch for AMC Theatres"></a>
+				<a href="amc/"><img class="shadow thumb" src="/img/samples/amc/thumbnail-alt.jpg" alt="New business pitch for AMC Theatres"></a>
 			</div>
 			<div class="col-5">
 				<div class="inner">
@@ -99,7 +99,7 @@
 					<p class="spacer-2"><small>Client</small></p>
 					<h2><a href="garmin-mobile/">Garmin.com</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Making a better mobile experience to drive sales.</p>
+					<p>Designing a better mobile experience to drive sales</p>
 					<!-- <p>Fast-moving wireframing, design, and development</p> -->
 					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
 				</div>
