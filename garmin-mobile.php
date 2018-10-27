@@ -38,11 +38,28 @@ background-size:101%}
 
 	<article class="content">
 		<section class="block block--narrow spacer-9--top">
-			<div class="col-1 shim"></div>
-			<div class="col-5">
+			<!-- <div class="col-1 shim"></div> -->
+			<div class="col-6">
 				<div class="inner">
 					<h2>Speed to Market</h2>
 					<p>After weighing the pros and cons of building the site in-house, we chose <a href="http://www.mobify.com">Mobify</a> as technical partner &#8211; giving us the greatest speed to market with minimal impact on our in-house resources, who were focused on a major upgrade and redesign of our e-commerce platform.</p>
+				</div>
+				<div class="inner stats">
+					<h2 class="spacer-6">Results</h2>
+					<div class="block block--mobile">
+						<div class="col-6 stats">
+							<h1 class="spacer-0--bottom">258%</h1>
+							<p>Sales increase (YoY)</p>
+							<h1 class="spacer-0--bottom">141%</h1>
+							<p>Average order value increase</p>
+						</div>
+						<div class="col-6 stats">
+							<h1 class="spacer-0--bottom">61%</h1>
+							<p>Conversion rate increase</p>
+							<h1 class="spacer-0--bottom">14</h1>
+							<p>Project timeline (weeks)</p>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="col-6 caption">
@@ -60,25 +77,6 @@ background-size:101%}
 			<div class="col-6 caption">
 				<img src="/img/samples/garmin-mobile/product-page-and-cart.jpg" alt="Garmin.com Mobile Product Page and Shopping Cart">
 				<p class="flex-caption">Product Page &amp; Shopping Cart</p>
-			</div>
-			<div class="col-6 stats">
-				<div class="inner">
-					<h2 class="spacer-4" style="border-bottom:1px solid #1380c3;">Results</h2>
-					<div class="block">
-						<div class="col-6 stats">
-							<h1 class="spacer-0--bottom">258%</h1>
-							<p>Sales increase (YoY)</p>
-							<h1 class="spacer-0--bottom">141%</h1>
-							<p>Average order value increase</p>
-						</div>
-						<div class="col-6 stats">
-							<h1 class="spacer-0--bottom">61%</h1>
-							<p>Conversion rate increase</p>
-							<h1 class="spacer-0--bottom">14</h1>
-							<p>Project timeline (weeks)</p>
-						</div>
-					</div>
-				</div>
 			</div>
 		</section>
 	</article>
