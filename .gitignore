@@ -2,6 +2,7 @@ includes/email.php
 /subdomains/
 /hashicorp/*
 /fathomanddraft/*
+/givelify/*
 includes/processform.php
 css/bespoke.min.css
 css/hashicorp.min.css
