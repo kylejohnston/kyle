@@ -113,7 +113,7 @@
 			</div>
 			<div class="col-4">
 				<div class="inner">
-					<a href="/career-path/"><img class="thumb spacer-2--bottom" src="/img/samples/career-path/thumbnail.2x.jpg" alt="Career Path Framework"></a>
+					<a href="/career-path/"><img class="thumb spacer-2--bottom" src="/img/samples/career-path/thumbnail.jpg" alt="Career Path Framework"></a>
 					<h3>Career Paths</h3>
 					<p><a href="/career-path/">Planning &amp; design</a></p>
 				</div>
