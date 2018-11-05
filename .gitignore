@@ -1,17 +1,20 @@
-includes/email.php
-/subdomains/
-/hashicorp/*
 /fathomanddraft/*
 /givelify/*
+/hashicorp/*
+/subdomains/*
 /zaarly/*
-includes/processform.php
+
 css/bespoke.min.css
 css/hashicorp.min.css
 css/fathomanddraft.css
 
+includes/email.php
+includes/processform.php
+
 js/picturefill.js
 js/picturefill.min.js
 js/simpleParallax.min.js
+
 logos.php
 robots.txt
 
