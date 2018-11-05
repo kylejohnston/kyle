@@ -3,6 +3,7 @@ includes/email.php
 /hashicorp/*
 /fathomanddraft/*
 /givelify/*
+/zaarly/*
 includes/processform.php
 css/bespoke.min.css
 css/hashicorp.min.css
