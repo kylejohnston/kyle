@@ -96,10 +96,9 @@
 			<div class="col-5">
 				<div class="inner">
 					<h3>Recent Writing</h3>
+					<p><strong><a href="https://medium.com/@kylejohnston/sketching-with-code-behind-the-scenes-d92a26e34aac">Sketching with Code: Behind the Scenes</a></strong></p>
 					<p><strong><a href="https://blog.prototypr.io/the-best-design-tool-ive-used-b25cd8fcd5c4">The best design tool I’ve used</a></strong></p>
-					<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-day-30-4501d84a5dbb">30 Days to App, Day 30</a></strong></p>
-					<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-week-4-e7cda94089bd">30 Days to App, Week 4</a></strong></p>
-					<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-week-3-33f85306b800">30 Days to App, Week 3</a></strong></p>
+					<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-deec90cfb4de">30 Days to App</a></strong></p>
 					<p><a href="https://medium.com/@kylejohnston/">More writing on Medium.com</a></p>
 				</div>
 			</div>
