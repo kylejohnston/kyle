@@ -27,9 +27,6 @@
 	</header>
 
 		<section class="block spacer-6">
-			<!-- <div class="col-4 text__center" style="position:relative;">
-				<h1><span class="oomph"><span id="hello">Hello</span>!</span></h1>
-			</div> -->
 			<div class="col-1 shim"></div>
 			<div class="col-6 welcome">
 				<div class="inner hello">
@@ -43,12 +40,12 @@
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
 	<article class="content">
-		<section class="block spacer-9--top spacer-6--bottom">
+		<section class="block spacer-9--top pull-9">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
 				<a href="hnc-living-foundation/"><img class="thumb shadow" src="img/samples/hnc-living/thumb-alt.jpg" alt="HNC Living Website Redesign"></a>
 			</div>
-			<div class="col-5">
+			<div class="col-5 push-8">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
 					<h2><a href="hnc-living-foundation/">HNC Living Foundation</a></h2>

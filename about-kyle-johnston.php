@@ -23,7 +23,7 @@
 		<?php include('includes/header-nav.php'); ?>
 	</header>
 	<article class="content">
-		<section class="block block--wide spacer-9--top">
+		<section class="block block--wide pull-7">
 			<div class="col-10">
 				<img src="/img/kyle-johnston.jpg" alt="Kyle Johnston">
 			</div>
