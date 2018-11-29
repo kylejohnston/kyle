@@ -1,23 +1,8 @@
-/crema/*
-/fathomanddraft/*
-/givelify/*
-/hashicorp/*
-/subdomains/*
-/zaarly/*
-
-css/bespoke.min.css
-css/hashicorp.min.css
-css/fathomanddraft.css
-
-includes/email.php
-includes/processform.php
+# Moved some items to the exclude file
 
 js/picturefill.js
 js/picturefill.min.js
 js/simpleParallax.min.js
-
-logos.php
-robots.txt
 
 # OS generated files #
 ######################
@@ -28,4 +13,3 @@ robots.txt
 .Trashes
 ehthumbs.db
 Thumbs.db
-My current htaccess file….txt
