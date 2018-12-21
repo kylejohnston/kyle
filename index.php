@@ -43,7 +43,7 @@
 		<section class="block spacer-9--top pull-9">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="hnc-living-foundation/"><img class="thumb shadow" src="img/samples/hnc-living/thumb-alt.jpg" alt="HNC Living Website Redesign"></a>
+				<a href="hnc-living-foundation/"><img class="thumb shadow" src="img/samples/hnc-living/thumbnail__720.jpg" alt="HNC Living Website Redesign"></a>
 			</div>
 			<div class="col-5 push-8">
 				<div class="inner">
