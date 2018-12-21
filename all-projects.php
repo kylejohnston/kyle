@@ -32,7 +32,14 @@
 			<h2 class="col-12"><div class="inner">&horbar; Agency: flow14</div></h2>
 			<div class="col-4">
 				<div class="inner">
-					<a href="/hnc-living-foundation/"><img class="thumb spacer-2--bottom" src="/img/samples/hnc-living/thumb-alt.jpg" alt="HNC Living Website Redesign"></a>
+					<a href="/hnc-living-logo-redesign/"><img class="thumb spacer-2--bottom" src="/img/samples/hnc-living/logo-redesign/thumbnail.jpg" alt="HNC Living Website Redesign"></a>
+					<h3>HNC Living Foundation</h3>
+					<p><a href="/hnc-living-logo-redesign/">Logo Redesign</a></p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="inner">
+					<a href="/hnc-living-foundation/"><img class="thumb frame spacer-2--bottom" src="/img/samples/hnc-living/thumbnail.jpg" alt="HNC Living Website Redesign"></a>
 					<h3>HNC Living Foundation</h3>
 					<p><a href="/hnc-living-foundation/">Website redesign</a></p>
 				</div>
@@ -46,7 +53,7 @@
 			</div>
 			<div class="col-4">
 				<div class="inner">
-					<a href="/infographics/"><img class="thumb spacer-2--bottom" src="/img/samples/infographics/thumbnail.jpg" alt="Infographics"></a>
+					<a href="/infographics/"><img class="thumb frame spacer-2--bottom" src="/img/samples/infographics/thumbnail-alt.jpg" alt="Infographics"></a>
 					<h3>Infographics</h3>
 					<p><a href="/infographics/">Visualizing data</a></p>
 				</div>
