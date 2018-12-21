@@ -55,28 +55,20 @@
 
 		<section class="block">
 			<div class="col-1 shim"></div>
-			<h2 class="col-11"><div class="inner">Key Skills</div></h2>
+			<h2 class="col-11"><div class="inner">Key Skills &amp; Tools</div></h2>
 			<div class="col-1 shim"></div>
 			<div class="col-5">
 				<div class="inner">
-					<h3>8&mdash;15 years of experience</h3>
-					<ul>
-						<li>Creating responsive websites with HTML,  CSS and JavaScript</li>
-						<li>Web and UX team management, including design, research, frontend, and content roles</li>
-						<li>Educating clients on the benefits of  user-centered design and UX principles</li>
-						<li>Leading client concept pitch meetings, brainstorm sessions, and creative workshops</li>
-					</ul>
+					<h3>Skills</h3>
+					<p><strong>Design</strong><br>Web and Print Design, Branding, User Experience (UX), UI, Wireframing and Prototyping, Design Strategy, Campaign and Content Development</p>
+					<p><strong>Development</strong><br>HTML, CSS, JavaScript, PHP, Processing</p>
+					<p><strong>Leadership</strong><br>Creative Direction, Hiring and Team Building, Career Path Development</p>
 				</div>
 			</div>
 			<div class="col-5">
 				<div class="inner">
-					<h3>15&#43; years of experience</h3>
-					<ul>
-						<li>Creative team recruiting, hiring, management, and leadership in both in-house and agency environments</li>
-						<li>Team mentoring, coaching, and career path development</li>
-						<li>Branding and visual identity development</li>
-						<li>Adobe Creative Suite, including Photoshop, Illustrator, and InDesign</li>
-					</ul>
+					<h3>Tools</h3>
+					<p>Adobe Creative Suite (Illustrator, Photoshop, InDesign), Keynote, Sketch, Figma, InVision, GitHub, WordPress</p>
 				</div>
 			</div>
 			<div class="col-1 shim"></div>
