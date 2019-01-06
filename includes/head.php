@@ -13,8 +13,8 @@
 
 	<!-- Le styles -->
 	<link href='/css/gridkit.min.css?20181025_0000' rel='stylesheet' type='text/css'>
-	<link href='/css/styles.min.css?20180922_0001' rel='stylesheet' type='text/css'>
-	<link href='//kylewjohnston.com/css/aos.css' rel='stylesheet' type='text/css'>
+	<link href='/css/main.min.css?20190106_003' rel='stylesheet' type='text/css'>
+	<!-- <link href='//kylewjohnston.com/css/aos.css' rel='stylesheet' type='text/css'> -->
 
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
