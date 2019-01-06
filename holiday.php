@@ -13,8 +13,7 @@
 	<style type="text/css">
 		html {background:#137EC2}
 		h1,h2,h3{color:#137EC2}
-		article.content{background:white url('/img/angle--garmin.svg') left -1px no-repeat;
-background-size:101%}
+		article.content::before {background:url('../img/polygons/p--garmin.svg') no-repeat;}
 	</style>
 </head>
 

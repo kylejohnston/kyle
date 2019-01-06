@@ -13,8 +13,7 @@
 	<style type="text/css">
 		html {background:#005a9b}
 		h1,h2,h3{color:#005a9b}
-		article.content{background:white url('/img/angle--ferrellgas.svg') left -1px no-repeat;
-background-size:101%}
+		article.content::before {background:url('../img/polygons/p--ferrellgas.svg') no-repeat;}
 	</style>
 </head>
 
@@ -38,15 +37,14 @@ background-size:101%}
 
 	<article class="content">
 		<section class="block block--narrow spacer-9--top">
-			<div class="col-1 shim"></div>
-			<div class="col-5">
+			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Design Thinking Workshop</h2>
 					<p>Informed by a quantitative customer survey conducted by DEG&rsquo;s Analytics &amp; Insights team, we organized a design thinking workshop to help Ferrellgas better understand their customers&rsquo; diverse experiences and develop strategies to connect with them as a trusted, hometown partner.</p>
 					<p>Using exercises like empathy maps and as-is scenarios, we helped the Ferrellgas team uncover insights that improved their brand positioning and voice. This foundational work informed subsequent projects, including the website redesign, improvements to their corporate intranet content, paid media campaigns, and more.</p>
 				</div>
 			</div>
-			<div class="col-6">
+			<div class="pattern__2-8-2">
 				<div class="caption">
 					<img class="rounders" src="/img/samples/ferrellgas/brainstorm.920.jpg" width="100%" alt="Scene from a brainstorm">
 					<p>The setting for our workshop</p>

@@ -14,8 +14,7 @@
 	<style type="text/css">
 		html {background:#8952A0}
 		h1,h2,h3{color:#8952A0}
-		article.content{background:white url('/img/angle--vivo.svg') left -1px no-repeat;
-background-size:101%}
+		article.content::before {background:url('../img/polygons/p--vivo.svg') no-repeat;}
 	</style>
 </head>
 

@@ -13,8 +13,7 @@
 	<style type="text/css">
 		html {background:#556099}
 		h1,h2,h3{color:#556099}
-		article.content{background:white url('/img/angle--career.svg') left -1px no-repeat;
-background-size:101%}
+		article.content::before {background:url('../img/polygons/p--career.svg') no-repeat;}
 		.callout { padding: 16px 0; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; }
 		.callout strong { color:#FFFFFF; }
 	</style>

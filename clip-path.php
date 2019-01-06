@@ -11,9 +11,16 @@
 	<link href="http://www.kylewjohnston.com/connect/" rel="canonical" />
 	<?php include('includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#137ec2}
-		h1,h2,h3{color:#137ec2}
-		article.content::before {background:url('../img/polygons/p--garmin.svg') no-repeat;}
+		html {background:#137EC2}
+		h1,h2,h3{color:#137EC2}
+		/* article.content{border-radius:0 8px 8px 0} */
+		/* .angle {
+			background-color:#ff3300;
+			-webkit-clip-path: polygon(100% 0, 0 0, 100% 40px);
+			shape-outside: polygon(0 0, 100% 0, 100% 20%);
+			border-radius:0 8px 0 0;
+			height:40px;
+		} */
 	</style>
 </head>
 
@@ -26,7 +33,7 @@
 		<div class="col-1 shim"></div>
 		<div class="col-6 spacer-6 intro">
 			<div class="inner">
-				<h1>Connect</h1>
+				<h1>Clip Path Test</h1>
 				<h2>UX, UI, Style Guide, Branding</h2>
 				<p>In 2014, we relaunched Connect, Garmin's activity tracking and analysis platform. Every aspect of the platform was rethought – from the UX and UI to branding and marketing.</p>
 				<p><strong>Contributions:</strong> Creative Direction, Design, Brand Development</p>
@@ -35,7 +42,10 @@
 		<div class="col-5 shim"></div>
 	</section>
 	<article class="content">
-		<section class="block block--narrow spacer-9--top">
+		<svg height="40" width="100%"><polygon points="200,10 250,190 160,210" style="fill:lime;stroke:purple;stroke-width:1"></svg>
+
+		<!-- <div class="angle"></div> -->
+		<section class="block block--narrow spacer-6--top">
 			<div class="pattern__3-6-3">
 				<h2>UX and UI</h2>
 				<p>A key challenge of this project was figuring out how to support wide of devices and activities without overwhelming customers. After much research, many prototypes, and countless meetings, we launched with a card-based approach that addressed several important use cases:

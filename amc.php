@@ -13,8 +13,7 @@
 	<style type="text/css">
 		html {background:#D4353E}
 		h1,h2,h3{color:#D4353E}
-		article.content{background:white url('/img/angle--amc.svg') left -1px no-repeat;
-background-size:101%}
+		article.content::before {background:url('../img/polygons/p--amc.svg') no-repeat;}
 	</style>
 </head>
 

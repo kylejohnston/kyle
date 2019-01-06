@@ -19,6 +19,7 @@
 		/* span#hello{color:#141414;} */
 		.hello h3 {font-family:"Objectivity Medium";font-weight:500;}
 		.hello h1,.hello h3{color:white;}
+		}
 	</style>
 </head>
 <body>
