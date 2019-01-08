@@ -55,9 +55,9 @@
 					<div class="col-6">
 						<div class="inner caption">
 							<picture>
-								<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/logo-redesign/original-logo.png">
-								<source media="(min-width: 544px)" srcset="img/samples/hnc-living/logo-redesign/original-logo.png">
-								<img  src="img/samples/hnc-living/logo-redesign/original-logo.png"  alt="The old HNC Living Foundation logo">
+								<source media="(min-width: 1012px)" srcset="/img/samples/hnc-living/logo-redesign/original-logo.png">
+								<source media="(min-width: 544px)" srcset="/img/samples/hnc-living/logo-redesign/original-logo.png">
+								<img src="/img/samples/hnc-living/logo-redesign/original-logo.png"  alt="The old HNC Living Foundation logo">
 							</picture>
 							<p class="mono">The old logo</p>
 						</div>
@@ -65,9 +65,9 @@
 					<div class="col-6">
 						<div class="inner caption">
 							<picture>
-								<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/logo-redesign/new-logo.png">
-								<source media="(min-width: 544px)" srcset="img/samples/hnc-living/logo-redesign/new-logo.png">
-								<img  src="img/samples/hnc-living/logo-redesign/new-logo.png"  alt="The new HNC Living Foundation logo">
+								<source media="(min-width: 1012px)" srcset="/img/samples/hnc-living/logo-redesign/new-logo.png">
+								<source media="(min-width: 544px)" srcset="/img/samples/hnc-living/logo-redesign/new-logo.png">
+								<img src="/img/samples/hnc-living/logo-redesign/new-logo.png"  alt="The new HNC Living Foundation logo">
 							</picture>
 							<p class="mono">The new logo</p>
 						</div>
@@ -92,9 +92,9 @@
 			<div class="col-10">
                 <div class="inner caption">
 					<picture>
-						<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/logo-redesign/exploration--r01_wide.png">
-						<source media="(min-width: 544px)" srcset="img/samples/hnc-living/logo-redesign/exploration--r01_4c.png">
-						<img  src="img/samples/hnc-living/logo-redesign/exploration--r01_4c.png"  alt="HNC Living Foundation logo design explorations">
+						<source media="(min-width: 1012px)" srcset="/img/samples/hnc-living/logo-redesign/exploration--r01_wide.png">
+						<source media="(min-width: 544px)" srcset="/img/samples/hnc-living/logo-redesign/exploration--r01_4c.png">
+						<img  src="/img/samples/hnc-living/logo-redesign/exploration--r01_4c.png"  alt="HNC Living Foundation logo design explorations">
 					</picture>
 					<p class="mono">A sampling of early design explorations</p>
                 </div>
@@ -115,9 +115,9 @@
 			<div class="col-12">
                 <div class="inner">
 					<picture>
-						<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/logo-redesign/presentation--01.png">
-						<source media="(min-width: 544px)" srcset="img/samples/hnc-living/logo-redesign/presentation--01_2c.png">
-						<img class="shadow" src="img/samples/hnc-living/logo-redesign/presentation--01_1c.png"  alt="Logo redesign presentation">
+						<source media="(min-width: 1012px)" srcset="/img/samples/hnc-living/logo-redesign/presentation--01.png">
+						<source media="(min-width: 544px)" srcset="/img/samples/hnc-living/logo-redesign/presentation--01_2c.png">
+						<img class="shadow" src="/img/samples/hnc-living/logo-redesign/presentation--01_1c.png"  alt="Logo redesign presentation">
 					</picture>
                 </div>
             </div>
@@ -134,9 +134,9 @@
 			<div class="col-5">
 				<div class="inner">
 					<picture>
-						<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/logo-redesign/presentation--02_2c.png">
-						<source media="(min-width: 544px)" srcset="img/samples/hnc-living/logo-redesign/presentation--02_2c.png">
-						<img  src="img/samples/hnc-living/logo-redesign/presentation--02_2c.png"  alt="Logo redesign presentation, round 2">
+						<source media="(min-width: 1012px)" srcset="/img/samples/hnc-living/logo-redesign/presentation--02_2c.png">
+						<source media="(min-width: 544px)" srcset="/img/samples/hnc-living/logo-redesign/presentation--02_2c.png">
+						<img  src="/img/samples/hnc-living/logo-redesign/presentation--02_2c.png"  alt="Logo redesign presentation, round 2">
 					</picture>
 				</div>
 			</div>
@@ -154,9 +154,9 @@
 				<div class="inner">
 					<h3><a href="https://www.hncliving.org/" title="HNCLiving.org">HNCLiving.org</a></h3>
 					<picture>
-						<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/logo-redesign/homepage__700.jpg">
-						<source media="(min-width: 544px)" srcset="img/samples/hnc-living/logo-redesign/website_sm.jpg">
-						<img class="shadow" src="img/samples/hnc-living/logo-redesign/website_xsm.jpg"  alt="HNCLiving.org">
+						<source media="(min-width: 1012px)" srcset="/img/samples/hnc-living/logo-redesign/homepage__700.jpg">
+						<source media="(min-width: 544px)" srcset="/img/samples/hnc-living/logo-redesign/website_sm.jpg">
+						<img class="shadow" src="/img/samples/hnc-living/logo-redesign/website_xsm.jpg"  alt="HNCLiving.org">
 					</picture>
 				</div>
 			</div>
@@ -164,9 +164,9 @@
 				<div class="inner">
 					<h3>Ad Layout</h3>
 					<picture>
-						<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/logo-redesign/hnc-living-fall-2018-ad.jpg">
-						<source media="(min-width: 544px)" srcset="img/samples/hnc-living/logo-redesign/hnc-living-fall-2018-ad_sm.jpg">
-						<img class="shadow" src="img/samples/hnc-living/logo-redesign/hnc-living-fall-2018-ad_xsm.jpg"  alt="HNC Living ad layout">
+						<source media="(min-width: 1012px)" srcset="/img/samples/hnc-living/logo-redesign/hnc-living-fall-2018-ad.jpg">
+						<source media="(min-width: 544px)" srcset="/img/samples/hnc-living/logo-redesign/hnc-living-fall-2018-ad_sm.jpg">
+						<img class="shadow" src="/img/samples/hnc-living/logo-redesign/hnc-living-fall-2018-ad_xsm.jpg"  alt="HNC Living ad layout">
 					</picture>
 				</div>
 			</div>
@@ -174,9 +174,9 @@
 				<div class="inner">
 					<h3>Logo Guidelines</h3>
 					<picture>
-						<source media="(min-width: 1012px)" srcset="img/samples/hnc-living/logo-redesign/hnc-living--logo-guidelines.jpg">
-						<source media="(min-width: 544px)" srcset="img/samples/hnc-living/logo-redesign/hnc-living--logo-guidelines_sm.jpg">
-						<img class="shadow" src="img/samples/hnc-living/logo-redesign/hnc-living--logo-guidelines_xsm.jpg"  alt="HNC Living logo guidelines">
+						<source media="(min-width: 1012px)" srcset="/img/samples/hnc-living/logo-redesign/hnc-living--logo-guidelines.jpg">
+						<source media="(min-width: 544px)" srcset="/img/samples/hnc-living/logo-redesign/hnc-living--logo-guidelines_sm.jpg">
+						<img class="shadow" src="/img/samples/hnc-living/logo-redesign/hnc-living--logo-guidelines_xsm.jpg"  alt="HNC Living logo guidelines">
 					</picture>
 				</div>
 			</div>
