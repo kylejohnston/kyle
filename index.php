@@ -77,15 +77,15 @@
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="amc/"><img class="shadow thumb" src="/img/samples/amc/thumbnail-alt.jpg" alt="New business pitch for AMC Theatres"></a>
+				<a href="grocery-buddy/"><img class="shadow thumb" src="/img/samples/grocery-buddy/thumbnail.jpg" alt="Grocery Buddy App Concept Design and Branding"></a>
 			</div>
 			<div class="col-5">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="amc/">AMC Theatres</a></h2>
+					<h2><a href="grocery-buddy/">Grocery Buddy</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Showcasing a team's capabilities to win new business</p>
-					<p><a href="amc/">Peek behind the curtain &#187;</a></p>
+					<p>Designing the simplest way for smart shoppers to save.</p>
+					<p><a href="grocery-buddy/">Check it out &#187;</a></p>
 				</div>
 			</div>
 		</section>
