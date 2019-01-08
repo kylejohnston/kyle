@@ -32,6 +32,13 @@
 			<h2 class="col-12"><div class="inner">&horbar; Agency: flow14</div></h2>
 			<div class="col-4">
 				<div class="inner">
+					<a href="/grocery-buddy/"><img class="thumb spacer-2--bottom" src="/img/samples/grocery-buddy/thumbnail.jpg" alt="Grocery Buddy App Concept Design and Branding"></a>
+					<h3>Grocery Buddy</h3>
+					<p><a href="/grocery-buddy/">Concept Design &amp; Branding</a></p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="inner">
 					<a href="/hnc-living-logo-redesign/"><img class="thumb spacer-2--bottom" src="/img/samples/hnc-living/logo-redesign/thumbnail.jpg" alt="HNC Living Website Redesign"></a>
 					<h3>HNC Living Foundation</h3>
 					<p><a href="/hnc-living-logo-redesign/">Logo Redesign</a></p>
