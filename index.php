@@ -44,15 +44,15 @@
 		<section class="block spacer-9--top pull-9">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="hnc-living-foundation/"><img class="thumb shadow" src="img/samples/hnc-living/thumbnail__720.jpg" alt="HNC Living Website Redesign"></a>
+				<a href="connect/"><img class="thumb shadow" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
 			</div>
 			<div class="col-5 push-8">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="hnc-living-foundation/">HNC Living Foundation</a></h2>
+					<h2><a href="connect/">Connect</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Rehabilitating a website for a life-changing nonprofit</p>
-					<p><a href="hnc-living-foundation/">See the transformation &#187;</a></p>
+					<p>Strengthening a platform with a new UX, UI, branding and marketing to drive growth</p>
+					<p><a href="connect/">Check the results &#187;</a></p>
 				</div>
 			</div>
 		</section>
@@ -62,14 +62,20 @@
 			<div class="col-4 order-2">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="connect/">Connect</a></h2>
+					<h2><a href="grocery-buddy/">Grocery Buddy</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Strengthening a platform with a new UX, UI, branding and marketing to drive growth</p>
-					<p><a href="connect/">Check the results &#187;</a></p>
+					<p>Designing the simplest way for smart shoppers to save.</p>
+					<p><a href="grocery-buddy/">Check it out &#187;</a></p>
 				</div>
 			</div>
 			<div class="col-6 order-1">
-				<a href="connect/"><img class="thumb shadow" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
+				<a href="grocery-buddy/">
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.jpg">
+						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.jpg">
+						<img class="shadow thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.jpg"  alt="Grocery Buddy App Concept Design and Branding">
+					</picture>
+				</a>
 			</div>
 			<div class="col-1 shim"></div>
 		</section>
@@ -77,15 +83,15 @@
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="grocery-buddy/"><img class="shadow thumb" src="/img/samples/grocery-buddy/thumbnail.jpg" alt="Grocery Buddy App Concept Design and Branding"></a>
+				<a href="hnc-living-foundation/"><img class="thumb shadow" src="img/samples/hnc-living/thumbnail__720.jpg" alt="HNC Living Website Redesign"></a>
 			</div>
 			<div class="col-5">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="grocery-buddy/">Grocery Buddy</a></h2>
+					<h2><a href="hnc-living-foundation/">HNC Living Foundation</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing the simplest way for smart shoppers to save.</p>
-					<p><a href="grocery-buddy/">Check it out &#187;</a></p>
+					<p>Rehabilitating a website for a life-changing nonprofit</p>
+					<p><a href="hnc-living-foundation/">See the transformation &#187;</a></p>
 				</div>
 			</div>
 		</section>
