@@ -40,6 +40,7 @@ h4{font-size:20px;font-size:1.25rem}
 .card h2{margin:0 0 8px;font-weight:400;font-size:24px;font-size:1.5rem}
 h3,li,p{margin:0 0 16px}
 h3,label,li,p{font-weight:400}
+.hn{display:block;padding:0;font-size:72%;color:#AFB3B5}
 li,p{font-size:1.1rem}
 p.navigation{font-size:16px;font-size:1rem;text-align:center}
 p small {letter-spacing:.3em;text-transform:uppercase}
