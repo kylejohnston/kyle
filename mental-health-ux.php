@@ -55,7 +55,7 @@
 					<h2><span class="hnote spacer-2--bottom">Mobile Web</span>Wireframes</h2>
 					<p>Based on existing user personas, storymaps, and other inputs, I created wireframes that demonstrated how users might interact with the mobile web portal. Throughout the process, I looked for opportunities to refine the steps and messaging and create new interactions and content to improve the overall experience.</p>
 					<p><strong>User Experience Flows:</strong> Onboarding, Portal Homepage, Chats, Calls, Scheduling, Groups</p>
-					<p><em>Note: Some text is obscurred for client confidentiality.</em></p>
+					<p><em>Note: Some text is obscured for client confidentiality.</em></p>
 				</div>
 			</div>
 			<div class="col-12">
