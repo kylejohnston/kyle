@@ -51,8 +51,31 @@
 				</div>
 			</div>
 			<div class="col-1 shim"></div>
-			
+			<div class="pattern__3-6-3 spacer-6--top">
+				<div class="inner">
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/screens_960.jpg">
+						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/screens_640.jpg">
+						<img class="" src="/img/samples/grocery-buddy/screens_960.jpg" alt="Grocery Buddy App Screens">
+					</picture>
+				</div>
+			</div>
 		</section>
+		<section class="block block--narrow spacer-6">
+			<div class="pattern__2-8-2">
+				<div class="inner">
+					<h2>User Flow</h2>
+				</div>
+			</div>
+			<div class="col-12">
+				<picture>
+					<source media="(min-width: 920px)" srcset="/img/samples/grocery-buddy/user-flow_lg.jpg">
+					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/user-flow_sm.jpg">
+					<img class="" src="/img/samples/grocery-buddy/user-flow_sm.jpg" alt="Grocery Buddy App User Flow">
+				</picture>
+			</div>
+		</section>
+
 		<section class="block block--narrow spacer-6">
 			<div class="pattern__2-8-2">
 				<div class="inner"><h2>Concept Sketches</h2></div>
@@ -78,22 +101,8 @@
 					<img class="frame roundy" src="/img/samples/grocery-buddy/sketches-03.jpg"  alt="Grocery Buddy App Concept Sketches">
 				</picture>
 			</div>
-		</section>
-		<section class="block block--narrow spacer-6">
-			<div class="pattern__2-8-2">
-				<div class="inner">
-					<h2>User Flow</h2>
-				</div>
-			</div>
-			<div class="col-12">
-				<picture>
-					<source media="(min-width: 920px)" srcset="/img/samples/grocery-buddy/user-flow_lg.jpg">
-					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/user-flow_sm.jpg">
-					<img class="" src="/img/samples/grocery-buddy/user-flow_sm.jpg" alt="Grocery Buddy App User Flow">
-				</picture>
-			</div>
-		</section>
-		
+		</section>	
+			
 		<section class="block block--narrow spacer-6">
 			<div class="pattern__2-8-2">
 				<div class="inner">
