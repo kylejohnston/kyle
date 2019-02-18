@@ -28,7 +28,7 @@
 			<div class="inner">
 				<h1>HNC Living Foundation</h1>
 				<h2>Logo Redesign</h2>
-				<p><strong>The Ask: </strong>After the successful redesign of the new <a href="hnc-living-foundation" title="HNC Living Website Redesign Case Study">HNC Living website</a>, the HNC Living team asked me to redesign their logo.</p>
+				<p><strong>The Ask: </strong>After the successful redesign of the new <a href="/hnc-living-foundation" title="HNC Living Website Redesign Case Study">HNC Living website</a>, the HNC Living team asked me to redesign their logo.</p>
 				<p><strong>Contributions:</strong> Design</p>
 			</div>
 		</div>
