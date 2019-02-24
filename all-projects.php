@@ -32,11 +32,24 @@
 			<h2 class="col-12"><div class="inner">&horbar; Agency: flow14</div></h2>
 			<div class="col-4">
 				<div class="inner">
+					<a href="/mental-health-ux/">
+						<picture>
+							<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/thumbnail.2x.png">
+							<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/thumbnail.png">
+							<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png"  alt="UX and Visual Design">
+						</picture>
+					</a>
+					<h3>Mental Health Platform</h3>
+					<p><a href="/mental-health-ux/">UX &amp; Visual Design</a></p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="inner">
 					<a href="/grocery-buddy/">
 						<picture>
-							<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.jpg">
-							<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.jpg">
-							<img class="thumb frame spacer-2--bottom" src="/img/samples/grocery-buddy/thumbnail-alt.2x.jpg"  alt="Grocery Buddy App Concept Design and Branding">
+							<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
+							<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
+							<img class="thumb spacer-2--bottom" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
 						</picture>
 					</a>
 					<h3>Grocery Buddy</h3>

@@ -44,7 +44,7 @@
 		<section class="block spacer-9--top pull-9">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="connect/"><img class="thumb shadow" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
+				<a href="connect/"><img class="thumb" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
 			</div>
 			<div class="col-5 push-8">
 				<div class="inner">
@@ -71,9 +71,9 @@
 			<div class="col-6 order-1">
 				<a href="grocery-buddy/">
 					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.jpg">
-						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.jpg">
-						<img class="shadow thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.jpg"  alt="Grocery Buddy App Concept Design and Branding">
+						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
+						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
+						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
 					</picture>
 				</a>
 			</div>
