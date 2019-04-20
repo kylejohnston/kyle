@@ -69,13 +69,7 @@
 		<section class="block block--narrow">
 			<div class="col-1 shim"></div>
 			<div class="col-4 order-2">
-				<div id="main-slider" class="flexslider">
-					<ul class="slides">
-						<li><img src="../img/samples/holiday/catalog-page-2011.jpg" alt="Garmin.com 2011 Holiday Merchandising Catalog"></li>
-						<li style="text-align:center;"><img src="../img/samples/holiday/catalog-page-2012.jpg" alt="Garmin.com 2012 Holiday Merchandising Catalog"></li>
-						<li><img src="../img/samples/holiday/catalog-page-2014.jpg" alt="Garmin.com 2014 Holiday Merchandising Catalog"></li>
-					</ul>
-				</div>
+				<img src="../img/samples/holiday/catalog-page-2011.jpg" alt="Garmin.com 2011 Holiday Merchandising Catalog">
 			</div>
 			<div class="col-7 order-1 align__center">
 				<div class="inner">
@@ -100,16 +94,5 @@
 
 	<?php include('includes/footer.php'); ?>
 	<?php include('includes/foot.php'); ?>
-	<script type="text/javascript">
-	$(window).load(function(){
-		$('#main-slider').flexslider({
-			animation: "slide",
-			controlsContainer: '.flex-container',
-			start: function(slider){
-				$('body').removeClass('loading');
-			}
-		});
-	});
-	</script>
 </body>
 </html>
