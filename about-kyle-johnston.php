@@ -25,7 +25,7 @@
 	<article class="content">
 		<section class="block block--wide pull-7">
 			<div class="col-10">
-				<img src="/img/kyle-johnston.jpg" alt="Kyle Johnston">
+				<img src="img/kyle-johnston.jpg" alt="Kyle Johnston">
 			</div>
 			<div class="col-2 shim"></div>
 		</section>
@@ -61,7 +61,7 @@
 				<div class="inner">
 					<h3>Skills</h3>
 					<p><strong>Design</strong><br>Web and Print Design, Branding, User Experience (UX), UI, Wireframing and Prototyping, Design Strategy, Campaign and Content Development</p>
-					<p><strong>Development</strong><br>HTML, CSS, JavaScript, PHP, Processing</p>
+					<p><strong>Development</strong><br>HTML, CSS, JavaScript, PHP, Processing, React, TypeScript</p>
 					<p><strong>Leadership</strong><br>Creative Direction, Hiring and Team Building, Career Path Development</p>
 				</div>
 			</div>
