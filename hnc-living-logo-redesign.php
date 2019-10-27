@@ -78,6 +78,11 @@
 		</section>
 
 <!-- EXPLORATION -->
+<section class="block">
+	<div class="pattern_2-8-2">
+	
+	</div>
+</section>
 	<section class="block item">
             <div class="col-3 shim"></div>
             <div class="col-6">
