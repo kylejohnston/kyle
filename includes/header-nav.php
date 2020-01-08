@@ -4,8 +4,8 @@
 	</div>
 	<div class="col-6">
 			<p class="navigation">
-				I&rsquo;m <a href="/" title="home">Kyle Johnston</a>, a designer &amp; creative director.<br class="shim">
-				This is <a href="/" title="my portfolio">my portfolio</a>, <a href="/about-kyle-johnston/" title="my story">my story</a>, and <a href="/contact/" title="contact info">contact info</a>.
+				I&rsquo;m <a href="/" title="home">Kyle Johnston</a>, a designer &amp; creative director<br class="shim">
+				This is <a href="/" title="my portfolio">my portfolio</a>, <a href="/about-kyle-johnston/" title="my story">my story</a>, and <a href="/contact/" title="contact info">contact info</a>
 			</p>
 	</div>
 </div>
