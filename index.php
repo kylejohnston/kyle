@@ -7,10 +7,10 @@
 	<meta name="description" content="The portfolio of Kyle W Johnston, a Creative Director & Designer based in Kansas City." />
 	<meta name="keywords" content="creative director, designer, advertising, web design, logo design, kansas city, garmin, flow14" />
 	<meta name="author" content="Kyle Johnston" />
-	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.kylewjohnston.com/" rel="canonical" />
+	<link href="/work/https://plus.google.com/103758963959064535451" rel="publisher" />
+	<link href="/work/http://www.kylewjohnston.com/" rel="canonical" />
 
-	<?php include('includes/head.php'); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 
 	<style type="text/css">
 		.welcome h1 {margin:0}
@@ -19,19 +19,25 @@
 		/* span#hello{color:#141414;} */
 		.hello h3 {font-family:"Objectivity Medium";font-weight:500;}
 		.hello h1,.hello h3{color:white;}
-		}
+		/* .clipText {
+			color: red;
+			-webkit-text-fill-color: transparent;
+			background: -webkit-linear-gradient(bottom, red, yellow);
+			-webkit-background-clip: text;
+		} */
+
 	</style>
 </head>
 <body>
 	<header>
-		<?php include('includes/header-nav.php'); ?>
+		<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/header-nav.php'); ?>
 	</header>
 
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-6 welcome">
 				<div class="inner hello">
-					<h1><span id="hello">Hello</span>!</h1>
+					<h1 class="clipText"><span id="hello">Hello</span>!</h1>
 					<h3>I’m Kyle Johnston &#8211; a designer &amp; creative director based in Kansas City. I focus on brand and interactive design. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
 				</div>
 			</div>
@@ -41,18 +47,51 @@
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
 	<article class="content">
-		<section class="block spacer-9--top pull-9">
+	<section class="block spacer-9--top pull-9">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="connect/"><img class="thumb" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
+				<a href="/work/connect/"><img class="thumb" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
 			</div>
-			<div class="col-5 push-8">
+			<div class="col-4 push-8">
 				<div class="inner">
-					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="connect/">Connect</a></h2>
+				<h2><a href="/work/connect/">Connect</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
 					<p>Strengthening a platform with a new UX, UI, branding and marketing to drive growth</p>
-					<p><a href="connect/">Check the results &#187;</a></p>
+					<p><a href="/work/connect/">Check the results &#187;</a></p>
+				</div>
+			</div>
+			<div class="col-1 shim"></div>
+		</section>
+
+		<section class="block spacer-6">
+			<div class="col-1 shim"></div>
+			<div class="col-4 order-2">
+				<div class="inner">
+					<p class="spacer-2"><small>Client</small></p>
+					<h2><a href="/work/mental-health-ux/">Confidential</a></h2>
+					<p class="spacer-2"><small>Project</small></p>
+					<p>Reimagining mental health services for the modern world</p>
+					<p><a href="/work/mental-health-ux/">View the work &#187;</a></p>
+				</div>
+			</div>
+			<div class="col-6 order-1">
+				<a href="/work/mental-health-ux/"><img class="thumb" src="/img/samples/mental-health-ux/thumbnail.png" alt="UX and visual design for a mental health platform"></a>
+			</div>
+			<div class="col-1 shim"></div>
+		</section>
+
+		<section class="block spacer-6">
+			<div class="col-1 shim"></div>
+			<div class="col-6">
+				<a href="/work/stay-alfred-website/"><img class="thumb shadow" src="img/samples/stay-alfred/thumb-website.png" alt="Stay Alfred frontend design and development"></a>
+			</div>
+			<div class="col-4">
+				<div class="inner">
+					<p class="spacer-2"><small>Client</small></p>
+					<h2><a href="/work/stay-alfred-website/">Stay Alfred</a></h2>
+					<p class="spacer-2"><small>Project</small></p>
+					<p>Designing a smarter partnership page and a new-and-improved company page.</p>
+					<p><a href="/work/stay-alfred-website/">See the what’s new &#187;</a></p>
 				</div>
 			</div>
 		</section>
@@ -62,14 +101,14 @@
 			<div class="col-4 order-2">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="grocery-buddy/">Grocery Buddy</a></h2>
+					<h2 class="clipText"><a href="/work/grocery-buddy/">Grocery Buddy</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
 					<p>Designing the simplest way for smart shoppers to save.</p>
-					<p><a href="grocery-buddy/">Check it out &#187;</a></p>
+					<p><a href="/work/grocery-buddy/">Check it out &#187;</a></p>
 				</div>
 			</div>
 			<div class="col-6 order-1">
-				<a href="grocery-buddy/">
+				<a href="/work/grocery-buddy/">
 					<picture>
 						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
 						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
@@ -79,56 +118,22 @@
 			</div>
 			<div class="col-1 shim"></div>
 		</section>
-		
-		<section class="block spacer-6">
-			<div class="col-1 shim"></div>
-			<div class="col-6">
-				<a href="hnc-living-foundation/"><img class="thumb shadow" src="img/samples/hnc-living/thumbnail__720.jpg" alt="HNC Living Website Redesign"></a>
-			</div>
-			<div class="col-5">
-				<div class="inner">
-					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="hnc-living-foundation/">HNC Living Foundation</a></h2>
-					<p class="spacer-2"><small>Project</small></p>
-					<p>Rehabilitating a website for a life-changing nonprofit</p>
-					<p><a href="hnc-living-foundation/">See the transformation &#187;</a></p>
-				</div>
-			</div>
-		</section>
-
-		<section class="block spacer-6">
-			<div class="col-1 shim"></div>
-			<div class="col-4 order-2">
-				<div class="inner">
-					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="garmin-mobile/">Garmin.com</a></h2>
-					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing a better mobile experience to drive sales</p>
-					<!-- <p>Fast-moving wireframing, design, and development</p> -->
-					<p><a href="garmin-mobile/">You won&rsquo;t believe the results &#187;</a></p>
-				</div>
-			</div>
-			<div class="col-6 order-1">
-				<a href="garmin-mobile/"><img class="thumb shadow" src="img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website"></a>
-			</div>
-			<div class="col-1 shim"></div>
-		</section>
 
 		<section class="block spacer-6">
 			<div class="col-12 text__center">
 				<div class="rule"></div>
-				<div class="spacer-4--bottom scale-80"><a href="all-projects/">
-				<svg width="208" height="32" viewBox="0 0 208 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 2C0 0.895431 0.895431 0 2 0H62C63.1046 0 64 0.895431 64 2V30C64 31.1046 63.1046 32 62 32H2C0.895431 32 0 31.1046 0 30V2Z" fill="#E5F5AB"/><path d="M72 2C72 0.895431 72.8954 0 74 0H134C135.105 0 136 0.895431 136 2V30C136 31.1046 135.105 32 134 32H74C72.8954 32 72 31.1046 72 30V2Z" fill="#E5F5AB"/><path d="M144 2C144 0.895431 144.895 0 146 0H206C207.105 0 208 0.895431 208 2V30C208 31.1046 207.105 32 206 32H146C144.895 32 144 31.1046 144 30V2Z" fill="#E5F5AB"/></svg>
+				<div class="spacer-4--bottom scale-80"><a href="/work/">
+				<svg aria-labelledby="title" width="208" height="32" viewBox="0 0 208 32" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="title" lang="en">View all projects</title><path d="M0 2C0 0.895431 0.895431 0 2 0H62C63.1046 0 64 0.895431 64 2V30C64 31.1046 63.1046 32 62 32H2C0.895431 32 0 31.1046 0 30V2Z" fill="#E5F5AB"/><path d="M72 2C72 0.895431 72.8954 0 74 0H134C135.105 0 136 0.895431 136 2V30C136 31.1046 135.105 32 134 32H74C72.8954 32 72 31.1046 72 30V2Z" fill="#E5F5AB"/><path d="M144 2C144 0.895431 144.895 0 146 0H206C207.105 0 208 0.895431 208 2V30C208 31.1046 207.105 32 206 32H146C144.895 32 144 31.1046 144 30V2Z" fill="#E5F5AB"/></svg>
 				</a></div>
-				<h3><a href="all-projects/"><strong>View all projects</strong></a></h3>
+				<h3><a href="/work/"><strong>View all projects</strong></a></h3>
 				<div class="rule"></div>
 			</div>
 		</section><!-- /block -->
 	</article>
 
-	<?php include('includes/footer.php'); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php'); ?>
 
-	<?php include('includes/foot.php'); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/foot.php'); ?>
 	<script type="text/javascript">
 	(function() {
 		var quotes = [
