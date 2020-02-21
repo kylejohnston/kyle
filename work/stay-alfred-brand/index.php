@@ -96,6 +96,18 @@
 				</div>
 			</div>
 		</section>
+		<section class="block spacer-6">
+			<div class="pattern__2-8-2">
+				<div class="inner">
+					<h3 class="text-center">In Use</h3>
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/coasters-green-suitcase-society.jpg">
+						<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/coasters-green-suitcase-society--sm.jpg">
+						<img class="" src="/img/samples/stay-alfred/coasters-green-suitcase-society.jpg" alt="Green Suitcase Society Coasters" loading="lazy">
+					</picture>
+				</div>
+			</div>
+		</section>
 	</article>
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/footer.php'); ?>
