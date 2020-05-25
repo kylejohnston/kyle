@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/waddell-reed" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#007E4B}
+		html,article.content::before {background:#007E4B}
 		h1,h2,h3{color:#007E4B}
-		article.content::before {background:url('/img/polygons/p--waddell.svg') no-repeat;}
 	</style>
 </head>
 

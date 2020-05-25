@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/holiday" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#137EC2}
+		html,article.content::before {background:#137EC2}
 		h1,h2,h3{color:#137EC2}
-		article.content::before {background:url('/img/polygons/p--garmin.svg') no-repeat;}
 	</style>
 </head>
 
@@ -46,7 +45,7 @@
 				</div>
 			</div>
 			<div class="col-8">
-				<img src="../img/samples/holiday/holiday-themes.png" alt="Garmin Holiday Campaign Themes">
+				<img src="/img/samples/holiday/holiday-themes.png" alt="Garmin Holiday Campaign Themes">
 			</div>
 		</section>
 
@@ -69,7 +68,7 @@
 		<section class="block block--narrow">
 			<div class="col-1 shim"></div>
 			<div class="col-4 order-2">
-				<img src="../img/samples/holiday/catalog-page-2011.jpg" alt="Garmin.com 2011 Holiday Merchandising Catalog">
+				<img src="/img/samples/holiday/catalog-page-2011.jpg" alt="Garmin.com 2011 Holiday Merchandising Catalog">
 			</div>
 			<div class="col-7 order-1 align__center">
 				<div class="inner">
@@ -87,7 +86,7 @@
 				</div>
 			</div>
 			<div class="col-9">
-				<img src="../img/samples/holiday/digital-ads.jpg" alt="Garmin.com Holiday Web Banners">
+				<img src="/img/samples/holiday/digital-ads.jpg" alt="Garmin.com Holiday Web Banners">
 			</div>
 		</section>
 	</article>

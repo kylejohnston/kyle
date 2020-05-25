@@ -11,9 +11,8 @@
 	<link href="http://www.flow14.com/iphone-365-project" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#365365}
+		html,article.content::before {background:#365365}
 		h1,h2,h3{color:#365365}
-		article.content::before {background:url('/img/polygons/p--365.svg') no-repeat;}
 	</style>
 </head>
 

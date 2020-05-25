@@ -11,13 +11,8 @@
 	<link href="http://www.flow14.com/rounding-up-undies" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#222944}
-		header h1 span a:link,
-		header h1 span a:hover,
-		header h1 span a:active,
-		header h1 span a:visited,
+		html,article.content::before {background:#222944}
 		h1,h2,h3{color:#222944}
-		article.content::before {background:url('/img/polygons/p--ruu.svg') no-repeat;}
 	</style>
 </head>
 

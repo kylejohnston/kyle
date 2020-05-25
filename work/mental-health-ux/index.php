@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/mental-health-ux/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#3B4042}
+		html,article.content::before {background:#3B4042}
 		h1,h2,h3{color:#3B4042}
-		article.content::before {background:url('/img/polygons/p--platform.svg') no-repeat;}
 		.roundy{border-radius:28px}
 		.hnote{display:block;padding:0;font-size:72%;color:#AFB3B5}
 	</style>

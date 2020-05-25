@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/ferrellgas-brand-website" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#005a9b}
+		html,article.content::before {background:#005a9b}
 		h1,h2,h3{color:#005a9b}
-		article.content::before {background:url('/img/polygons/p--ferrellgas.svg') no-repeat;}
 	</style>
 </head>
 

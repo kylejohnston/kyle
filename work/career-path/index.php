@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/career-path" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#556099}
+		html,article.content::before {background:#556099}
 		h1,h2,h3{color:#556099}
-		article.content::before {background:url('/img/polygons/p--career.svg') no-repeat;}
 		.callout { padding: 16px 0; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; }
 		.callout strong { color:#FFFFFF; }
 	</style>

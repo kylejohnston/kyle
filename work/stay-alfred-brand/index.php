@@ -11,10 +11,9 @@
 	<link href="http://www.kylewjohnston.com/stay-alfred-brand/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background: #2C2A29;}
-		.intro h1, .intro h2, .intro p {color:#C4C627}
+		html,article.content::before {background: #2C2A29;}
+		.intro h1, .intro h2, .intro p {color:#fff}
 		h1,h2,h3{color:#2C2A29}
-		article.content::before {background:url('/img/polygons/p--stayalfred.svg') no-repeat;}
 	</style>
 </head>
 

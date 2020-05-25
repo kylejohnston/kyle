@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/hnc-living-logo-redesign" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#9E3223}
+		html,article.content::before {background:#9E3223}
 		h1,h2,h3{color:#9E3223}
-		article.content::before {background:url('/img/polygons/p--hnc.svg') no-repeat;}
 	</style>
 </head>
 

@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/lee-jeans" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#C99212}
+		html,article.content::before {background:#C99212}
 		h1,h2,h3{color:#C99212}
-		article.content::before {background:url('/img/polygons/p--lee.svg') no-repeat;}
 	</style>
 </head>
 

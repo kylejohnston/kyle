@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/garmin-mobile" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#137ec2}
+		html,article.content::before {background:#137ec2}
 		h1,h2,h3{color:#137ec2}
-		article.content::before {background:url('/img/polygons/p--garmin.svg') no-repeat;}
 	</style>
 </head>
 

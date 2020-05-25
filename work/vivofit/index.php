@@ -12,9 +12,8 @@
 	<link href="http://www.kylewjohnston.com/vivofit" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#8952A0}
+		html,article.content::before {background:#8952A0}
 		h1,h2,h3{color:#8952A0}
-		article.content::before {background:url('/img/polygons/p--vivo.svg') no-repeat;}
 	</style>
 </head>
 
@@ -43,7 +42,7 @@
 				<h2 class="inner">Product Wordmark</h2>
 			</div>
 			<div class="col-5">
-				<img src="../img/samples/vivofit/product-wordmark.png" width="100%" alt="Garmin vivofit product wordmark">
+				<img src="/img/samples/vivofit/product-wordmark.png" width="100%" alt="Garmin vivofit product wordmark">
 			</div>
 			<div class="col-1 shim"></div>
 		</section>
@@ -51,7 +50,7 @@
 		<section class="block block--narrow spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-5 order-2">
-				<img src="../img/samples/vivofit/packaging.jpg" alt="Garmin vivofit packaging" width="100%">
+				<img src="/img/samples/vivofit/packaging.jpg" alt="Garmin vivofit packaging" width="100%">
 			</div>
 			<div class="col-5 align__center order-1">
 				<h2 class="inner">Packaging</h2>
@@ -68,13 +67,13 @@
 				</div>
 			</div>
 			<div class="col-8">
-				<img src="../img/samples/vivofit/merchandising-elements.jpg" alt="Garmin vivofit merchandising elements" width="100%">
+				<img src="/img/samples/vivofit/merchandising-elements.jpg" alt="Garmin vivofit merchandising elements" width="100%">
 			</div>
 		</section>
 
 		<section class="block block--narrow spacer-6">
 			<div class="col-8 order-2">
-				<img src="../img/samples/vivofit/landing-page.jpg" alt="Garmin vivofit landing page" width="100%">
+				<img src="/img/samples/vivofit/landing-page.jpg" alt="Garmin vivofit landing page" width="100%">
 			</div>
 			<div class="col-3 order-1 align__center">
 				<div class="inner">
@@ -99,7 +98,7 @@
 
 		<section class="block block--narrow spacer-6">
 			<div class="col-8 order-2">
-				<img src="../img/samples/vivofit/print-ads.jpg" alt="Garmin vivofit print ads" width="100%">
+				<img src="/img/samples/vivofit/print-ads.jpg" alt="Garmin vivofit print ads" width="100%">
 			</div>
 			<div class="col-3  align__center order-1">
 				<div class="inner">
@@ -119,7 +118,7 @@
 				</div>
 			</div>
 			<div class="col-8">
-				<img src="../img/samples/vivofit/web-banners.jpg" alt="Garmin vivofit web and social banner ads" width="100%">
+				<img src="/img/samples/vivofit/web-banners.jpg" alt="Garmin vivofit web and social banner ads" width="100%">
 			</div>
 		</section>
 

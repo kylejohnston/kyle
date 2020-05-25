@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/amc" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#D4353E}
+		html,article.content::before {background:#D4353E}
 		h1,h2,h3{color:#D4353E}
-		article.content::before {background:url('/img/polygons/p--amc.svg') no-repeat;}
 	</style>
 </head>
 

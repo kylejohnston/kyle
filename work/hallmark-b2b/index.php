@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/hallmark-b2b" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#5A3C8B}
+		html,article.content::before {background:#5A3C8B}
 		h1,h2,h3{color:#5A3C8B}
-		article.content::before {background:url('/img/polygons/p--hallmark.svg') no-repeat;}
 	</style>
 </head>
 
@@ -52,7 +51,7 @@
 				</div>
 			</div>
 			<div class="col-5 caption">
-				<img src="../img/samples/hmk-greetings/user-flow.full.jpg" alt="User Flow" width="100%">
+				<img src="/img/samples/hmk-greetings/user-flow.full.jpg" alt="User Flow" width="100%">
 				<p>The world's simplest user flow</p>
 			</div>
 			<div class="col-1 shim"></div>
@@ -67,23 +66,23 @@
 			</div>
 			<div class="col-6 caption--top">
 				<p>Desktop View</p>
-				<img class="shadow" src="../img/samples/hmk-greetings/wf-home-desktop.920.jpg" alt="Homepage wireframe - desktop view" width="100%">
+				<img class="shadow" src="/img/samples/hmk-greetings/wf-home-desktop.920.jpg" alt="Homepage wireframe - desktop view" width="100%">
 			</div>
 			<div class="col-4 caption--top">
 				<p>Tablet View</p>
-				<img class="shadow" src="../img/samples/hmk-greetings/wf-home-tablet.full.jpg" alt="Homepage wireframe - tablet view" width="100%">
+				<img class="shadow" src="/img/samples/hmk-greetings/wf-home-tablet.full.jpg" alt="Homepage wireframe - tablet view" width="100%">
 			</div>
 			<div class="col-2 caption--top">
 				<p>Mobile View</p>
-				<img class="shadow" src="../img/samples/hmk-greetings/wf-home-mobile.full.jpg" alt="Homepage wireframe - mobile view" width="100%">
+				<img class="shadow" src="/img/samples/hmk-greetings/wf-home-mobile.full.jpg" alt="Homepage wireframe - mobile view" width="100%">
 			</div>
 			<div class="col-6 caption--top">
 				<p>Collections Page</p>
-				<img src="../img/samples/hmk-greetings/wf-product-desktop.920.jpg" alt="Wireframes" width="100%">
+				<img src="/img/samples/hmk-greetings/wf-product-desktop.920.jpg" alt="Wireframes" width="100%">
 			</div>
 			<div class="col-6 caption--top">
 				<p>Contact Page</p>
-				<img src="../img/samples/hmk-greetings/wf-contact-desktop.920.jpg" alt="Wireframes" width="100%">
+				<img src="/img/samples/hmk-greetings/wf-contact-desktop.920.jpg" alt="Wireframes" width="100%">
 			</div>
 
 			<div class="col-4 spacer-6--top">
@@ -93,10 +92,10 @@
 				</div>
 			</div>
 			<div class="col-4 caption--top">
-				<img src="../img/samples/hmk-greetings/wf-reject-01.600.jpg" alt="Wireframes" width="100%">
+				<img src="/img/samples/hmk-greetings/wf-reject-01.600.jpg" alt="Wireframes" width="100%">
 			</div>
 			<div class="col-4 caption--top">
-				<img src="../img/samples/hmk-greetings/wf-reject-02.600.jpg" alt="Wireframes" width="100%">
+				<img src="/img/samples/hmk-greetings/wf-reject-02.600.jpg" alt="Wireframes" width="100%">
 			</div>
 		</section>
 
@@ -108,14 +107,14 @@
 				</div>
 			</div>
 			<div class="col-6 caption--top">
-				<p>Homepage</p><img class="shadow" src="../img/samples/hmk-greetings/home.920.jpg" alt="Homepage" width="100%">
+				<p>Homepage</p><img class="shadow" src="/img/samples/hmk-greetings/home.920.jpg" alt="Homepage" width="100%">
 			</div>
 			<div class="col-6 caption--top">
-				<p>Card Line Page</p><img class="shadow" src="../img/samples/hmk-greetings/card-line.920.jpg" alt="Card Line Page" width="100%">
+				<p>Card Line Page</p><img class="shadow" src="/img/samples/hmk-greetings/card-line.920.jpg" alt="Card Line Page" width="100%">
 			</div>
 			<div class="pattern__3-6-3 caption--top">
 				<p>Contact Page</p>
-				<img class="shadow" src="../img/samples/hmk-greetings/contact.920.jpg" alt="Contact Page" width="100%">
+				<img class="shadow" src="/img/samples/hmk-greetings/contact.920.jpg" alt="Contact Page" width="100%">
 			</div>
 		</section>
 	</article>

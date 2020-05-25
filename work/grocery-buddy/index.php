@@ -11,9 +11,8 @@
 	<link href="http://www.kylewjohnston.com/grocery-buddy/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
-		html {background:#0F5555}
+		html,article.content::before {background:#0F5555}
 		h1,h2,h3{color:#0F5555}
-		article.content::before {background:url('/img/polygons/p--grocery.svg') no-repeat;}
 		.roundy{border-radius:28px}
 	</style>
 </head>
