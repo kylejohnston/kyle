@@ -19,13 +19,6 @@
 		/* span#hello{color:#141414;} */
 		.hello h3 {font-family:"Objectivity Medium";font-weight:500;}
 		.hello h1,.hello h3{color:white;}
-		/* .clipText {
-			color: red;
-			-webkit-text-fill-color: transparent;
-			background: -webkit-linear-gradient(bottom, red, yellow);
-			-webkit-background-clip: text;
-		} */
-
 	</style>
 </head>
 <body>
@@ -37,12 +30,12 @@
 			<div class="col-1 shim"></div>
 			<div class="col-6 welcome">
 				<div class="inner hello">
-					<h1 class="clipText"><span id="hello">Hello</span>!</h1>
+					<h1><span id="hello">Hello</span>!</h1>
 					<h3>I’m Kyle Johnston &#8211; a designer &amp; creative director based in Kansas City. I focus on brand and interactive design. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
 				</div>
 			</div>
 			<div class="col-5 shim"></div>
-		</section>
+	</section>
 
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
@@ -52,7 +45,7 @@
 			<div class="col-6">
 				<a href="/work/connect/"><img class="thumb" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
 			</div>
-			<div class="col-4 push-8">
+			<div class="col-4 push-9">
 				<div class="inner">
 				<h2><a href="/work/connect/">Connect</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
