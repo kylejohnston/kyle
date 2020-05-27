@@ -69,7 +69,7 @@ header h1 span a:active,header h1 span a:hover,header h1 span a:link,header h1 s
 .intro a {font-weight:bold}
 .card img,section img{width:100%}
 article.content {background:#FFFFFF;border-radius:4px;border-top-left-radius:0;border-top-right-radius:0;padding:16px 0;position:relative;z-index:1;margin-top:50px;}
-article.content::before {height:50px;width:100%;transform:skewY(2deg) translateY(-25px);content:'';background-color:#94BD00;position:absolute;top:0;left:0;z-index:-1;}
+article.content::before {height:120px;width:100%;transform:skewY(2deg) translateY(-60px);content:'';background-color:#94BD00;position:absolute;top:0;left:0;z-index:-1;}
 .projects h3 {margin:0 0 2px 0}
 section.block{padding-top:8px;padding-bottom:16px}
 img.shadow{-webkit-box-shadow:0 16px 40px hsla(0,0%,40%,.25);-moz-box-shadow:0 16px 40px hsla(0,0%,40%,.25);box-shadow:0 16px 40px hsla(0,0%,40%,.25)}
