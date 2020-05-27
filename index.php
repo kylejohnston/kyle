@@ -40,14 +40,15 @@
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
 	<article class="content">
-	<section class="block spacer-9--top pull-9">
+	<section class="block spacer-9--top pull-5">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
 				<a href="/work/connect/"><img class="thumb" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
 			</div>
 			<div class="col-4 push-9">
 				<div class="inner">
-				<h2><a href="/work/connect/">Connect</a></h2>
+					<p class="spacer-2"><small>Client</small></p>
+					<h2><a href="/work/connect/">Connect</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
 					<p>Strengthening a platform with a new UX, UI, branding and marketing to drive growth</p>
 					<p><a href="/work/connect/">Check the results &#187;</a></p>
@@ -61,14 +62,20 @@
 			<div class="col-4 order-2">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/mental-health-ux/">Confidential</a></h2>
+					<h2><a href="/work/vmc-group/">VMC Group</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Reimagining mental health services for the modern world</p>
-					<p><a href="/work/mental-health-ux/">View the work &#187;</a></p>
+					<p>Modernizing a website for an industry leader.</p>
+					<p><a href="/work/vmc-group/">View the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="col-6 order-1">
-				<a href="/work/mental-health-ux/"><img class="thumb" src="/img/samples/mental-health-ux/thumbnail.png" alt="UX and visual design for a mental health platform"></a>
+				<a href="/work/vmc-group/">
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/thumb.jpg">
+						<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/thumb-sm.jpg">
+						<img class="thumb" src="/img/samples/vmc-group/thumb.jpg"  alt="VMC Group Website Redesign" loading="lazy">
+					</picture>
+				</a>
 			</div>
 			<div class="col-1 shim"></div>
 		</section>
