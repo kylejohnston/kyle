@@ -38,25 +38,17 @@
 		<div class="col-5 shim"></div>
 	</section>
 	<article class="content">
-		<!-- <section class="block block--narrow spacer-9--top spacer-6--bottom">
-			<div class="pattern__3-6-3">
-				<div class="inner">
-					<h2>Homepage</h2>
-				</div>
-			</div>
-		</section> -->
-
 		<section class="block spacer-9--top">
 			<div class="col-1 shim"></div>
 			<div class="col-7">
 				<div class="inner">
-					<p><strong>Homepage, Desktop</strong></p>
+					<p><strong>Redesigned Homepage, Desktop</strong></p>
 					<div class="screen-demo rounders shadow-lg">
 						<div></div>
 						<picture>
-							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-homepage.jpg">
-							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-homepage-640.jpg">
-							<img class="" src="/img/samples/vmc-group/site-homepage.jpg" alt="VMC Group Homepage" loading="lazy">
+							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-home.jpg">
+							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-home-640.jpg">
+							<img class="" src="/img/samples/vmc-group/site-home.jpg" alt="VMC Group Homepage" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -67,9 +59,9 @@
 					<div class="screen-demo rounders shadow-lg">
 						<div></div>
 						<picture>
-							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-homepage-mobile.jpg">
-							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-homepage-mobile.jpg">
-							<img class="" src="/img/samples/vmc-group/site-homepage-mobile.jpg" alt="VMC Group Homepage, mobile" loading="lazy">
+							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-home-mobile.jpg">
+							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-home-mobile.jpg">
+							<img class="" src="/img/samples/vmc-group/site-home-mobile.jpg" alt="VMC Group Homepage, mobile" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -85,12 +77,21 @@
 					<h2>Process</h2>
 					<p>Working with the team at InQuest Marketing, I was responsible for the IA, UX, and design of the new website.</p>
 					<h3>Information Architecture</h3>
-					<p>Facing a tight deadline for presenting concepts to the CEO, I started by analyzing the information architecture, and developed a plan for the new IA.</p>
+					<p>Facing a tight deadline for presenting concepts to the CEO, I started by analyzing the information architecture of the existing website and developed a plan for the new IA.</p>
 				</div>
 			</div>
 			<div class="col-3 shim"></div>
-			<div class="col-1 shim"></div>
-			<div class="col-10">
+
+			<div class="col-6">
+				<h3 class="text-center">Homepage, Before</h3>
+				<picture>
+					<source media="(min-width: 1240px)" srcset="/img/samples/vmc-group/site-home-old-1440.jpg">
+					<source media="(min-width: 720px)" srcset="/img/samples/vmc-group/site-home-old-960.jpg">
+					<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-home-old-640.jpg">
+					<img class="spacer-7--bottom frame" src="/img/samples/vmc-group/site-home-old-2160.jpg" alt="VMC Group Homepage, Before" width="100%" height="auto" loading="lazy">
+				</picture>
+			</div>
+			<div class="col-6">
 				<h3 class="text-center">IA, Before</h3>
 				<picture>
 					<source media="(min-width: 1240px)" srcset="/img/samples/vmc-group/sitemap-1440.jpg">
@@ -98,6 +99,9 @@
 					<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/sitemap-640.jpg">
 					<img class="spacer-7--bottom frame" src="/img/samples/vmc-group/sitemap-2160.jpg" alt="Original IA" width="100%" height="auto" loading="lazy">
 				</picture>
+			</div>
+			<div class="col-1 shim"></div>
+			<div class="col-10">
 				<h3 class="text-center">IA, After</h3>
 				<picture>
 					<source media="(min-width: 1240px)" srcset="/img/samples/vmc-group/sitemap-new-1440.jpg">
