@@ -46,7 +46,7 @@
 									<li>Creative Director at <a href="http://www.degdigital.com">DEG</a>, one of the fastest-growing digital agencies in the country</li>
 									<li>Creative Director at <a href="http://garmin.com">Garmin</a>, the global leader in GPS navigation and wearable technology</li>
 								</ul>
-								<p><a href="/files/kyle-johnston-designer-2019.pdf">Download my complete resume</a> and learn more about my career.</p>
+								<p><a href="/files/kyle-johnston-designer-2020.pdf">Download my complete resume</a> and learn more about my career.</p>
 							</div>
 						</div>
 					</div>
