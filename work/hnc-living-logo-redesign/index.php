@@ -132,7 +132,7 @@
 			<div class="col-5">
 			<div class="inner">
 					<h3>Refining the design</h3>
-					<p>After chosing the new design, we explored additional variations that reintroduced &ldquo;Foundation&rdquo;</p>
+					<p>After choosing the new design, we explored additional variations that reintroduced &ldquo;Foundation&rdquo;</p>
 				</div>
 			</div>
 			<div class="col-5">
