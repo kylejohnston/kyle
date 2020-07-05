@@ -88,7 +88,7 @@
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Company Page Redesign</h2>
-					<p>The goal of this redesign was to create visually compelling, easily maintainable page. Prior to the redesign, the page content was hard-coded, making edits nearly impossible. Now, the page is easy to update via a headless CMS. The redesign also included accessibility improvements and better integration of key company information.</p>
+					<p>The goal of this redesign was to create a visually compelling, easily maintainable page. Prior to the redesign, the page content was hard-coded, making edits nearly impossible. Now, the page is easy to update via a headless CMS. The redesign also included accessibility improvements and better integration of key company information.</p>
 					<p><strong>Built with:</strong> Kentico (Headless CMS), React, TypeScript</p>
 				</div>
 			</div>

@@ -91,7 +91,7 @@
 					<h2><a href="/work/stay-alfred-website/">Stay Alfred</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
 					<p>Designing a smarter partnership page and a new-and-improved company page.</p>
-					<p><a href="/work/stay-alfred-website/">See the what’s new &#187;</a></p>
+					<p><a href="/work/stay-alfred-website/">See what’s new &#187;</a></p>
 				</div>
 			</div>
 		</section>

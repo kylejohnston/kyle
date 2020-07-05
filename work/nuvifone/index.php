@@ -27,7 +27,7 @@
 			<div class="inner">
 				<h1>n&uuml;vifone</h1>
 				<h2>Brand Development &amp; Product Launch</h2>
-				<p>In 2008, Garmin partnered with Asus to develop the n&uuml;vifone, the only 3G phone to fully integrate the worlds best-selling GPS navigator with voice, data and mobile web. For co-branded devices, we collaboratively developed a new brand, including a logo, packaging, website, collateral materials and more.</p>
+				<p>In 2008, Garmin partnered with Asus to develop the n&uuml;vifone, the only 3G phone to fully integrate the world's best-selling GPS navigator with voice, data, and mobile web. For co-branded devices, we collaboratively developed a new brand, including a logo, packaging, website, collateral materials, and more.</p>
 				<p><strong>Contributions:</strong> Co-Creative Direction</p>
 			</div>
 		</div>

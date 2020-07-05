@@ -37,7 +37,7 @@
 		<section class="block block--narrow spacer-9--top">
 			<div class="pattern__3-6-3">
 				<h2>UX and UI</h2>
-				<p>A key challenge of this project was figuring out how to support wide of devices and activities without overwhelming customers. After much research, many prototypes, and countless meetings, we launched with a card-based approach that addressed several important use cases:
+				<p>A key challenge of this project was figuring out how to support a wide range of devices and activities without overwhelming customers. After much research, many prototypes, and countless meetings, we launched with a card-based approach that addressed several important use cases:
 					<ul>
 						<li><strong>New customers</strong> could be onboarded quickly and easily find  activities, set goals, and manage devices.</li>
 						<li><strong>Power-users</strong> had easy access to advanced data and activity analysis</li>
@@ -97,7 +97,7 @@
 				<div class="block">
 					<div class="pattern__3-6-3">
 						<h2>Brand Development</h2>
-						<p>Prior to the relaunch, Connect lacked any kind of distinct visual brand. We created a clean and simple typographic identity that could both stand on its own and complement the Garmin logo when they appeared together on packgaging, and in advertising.</p>
+						<p>Before the relaunch, Connect lacked any kind of distinct visual brand. We created a clean and simple typographic identity that could both stand on its own and complement the Garmin logo when they appeared together on packaging, and in advertising.</p>
 					</div>
 					<div class="pattern__2-8-2">
 							<h3>Before</h3>

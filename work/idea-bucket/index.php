@@ -27,7 +27,7 @@
 			<div class="inner">
 				<h1>Idea Bucket</h1>
 				<h2>Internal Idea-Sharing Platform</h2>
-				<p>In 2011, I was invited to collaborate with a newly-formed innovation team to design and develop an internal idea-sharing website. The goal of the project was to allow anyone in the company share ideas for new products, features, and services.</p>
+				<p>In 2011, I was invited to collaborate with a newly-formed innovation team to design and develop an internal idea-sharing website. The goal of the project was to allow anyone in the company to share ideas for new products, features, and services.</p>
 				<p>The website is still in use today and many ideas have advanced to real-world applications.</p>
 				<p><strong>Contributions:</strong> Design, Front End Development</p>
 			</div>

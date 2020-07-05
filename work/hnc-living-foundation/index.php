@@ -73,7 +73,7 @@
 				<div class="inner">
 					<h2>Research &amp; Auditing</h2>
 					<p>I researched scores of nonprofits in cancer care and other areas to understand different models for site organization, content, and calls to action. This research, informed by HNC Living’s goals and audiences, led to a new navigation structure that directly addressed their key audiences: donors, healthcare providers, and patients.</p>
-					<p>Next, a SEO audit underscored the benefits of this approach, and informed a content strategy that spoke more clearly to their audiences and allowed for hyper-relevant calls to action.</p>
+					<p>Next, an SEO audit underscored the benefits of this approach and informed a content strategy that spoke more clearly to their audiences and allowed for hyper-relevant calls to action.</p>
 				</div>
 			</div>
 			<div class="col-6">

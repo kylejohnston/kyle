@@ -105,7 +105,7 @@
 						<ul>
 							<li>With a significant number of Ferrellgas&rsquo; customers in rural areas, we wanted to ensure the website was fast, in addition to being easy to use. We agreed on performance budgets, which informed early design explorations and decisions.</li>
 							<li>Using a mobile-first design approach, we made features like location search more prominent on mobile devices.</li>
-							<li>During development, we used Pattern Lab and Atomic Design principles. This allowed everyone to experience the website on a range of devices and make better informed design decisions.</li>
+							<li>During development, we used Pattern Lab and Atomic Design principles. This allowed everyone to experience the website on a range of devices and make better-informed design decisions.</li>
 						</ul>
 					</p>
 				</div>

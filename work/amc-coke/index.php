@@ -45,7 +45,7 @@
 					<h2>The Approach</h2>
 					<p>After studying earlier campaigns and scanning social platforms for reactions to those efforts, we came back to AMC with two key suggestions:
 					<ol>
-						<li><strong>Focus on the core audience.</strong> In previous campaigns, AMC sent the offer to <em>everyone</em>, but only teens could redeem the offer. We suggested they show the offer to teens and their parents, and leave everyone else out of the picture.</li>
+						<li><strong>Focus on the core audience.</strong> In previous campaigns, AMC sent the offer to <em>everyone</em>, but only teens could redeem the offer. We suggested they show the offer to teens and their parents and leave everyone else out of the picture.</li>
 						<li><strong>Speak to teens in an authentic voice.</strong> AMC&rsquo;s voice in previous campaigns read like uncool adults tying to speak with teens. We suggested they adopt a digital-centric voice, inspired by memes and GIFs with visuals influenced by popular social platforms.</li>
 					</ol>
 					</p>

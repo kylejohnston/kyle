@@ -68,7 +68,7 @@
 			<div class="pattern__3-6-3 spacer-6--top">
 				<div class="inner">
 					<h3>Refining initial concepts</h3>
-					<p>For the next round of concepts, I focused on two the favorite designs from the first round, exploring different combinations of colors, fonts, and other elements.</p>
+					<p>For the next round of concepts, I focused on two of the favorite designs from the first round, exploring different combinations of colors, fonts, and other elements.</p>
 				</div>
 			</div>
 			<div class="col-12">

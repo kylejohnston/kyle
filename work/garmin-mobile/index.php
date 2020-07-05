@@ -40,7 +40,7 @@
 			<div class="col-6">
 				<div class="inner">
 					<h2>Speed to Market</h2>
-					<p>After weighing the pros and cons of building the site in-house, we chose <a href="http://www.mobify.com">Mobify</a> as technical partner &#8211; giving us the greatest speed to market with minimal impact on our in-house resources, who were focused on a major upgrade and redesign of our e-commerce platform.</p>
+					<p>After weighing the pros and cons of building the site in-house, we chose <a href="http://www.mobify.com">Mobify</a> as a technical partner &#8211; giving us the greatest speed to market with minimal impact on our in-house resources, who were focused on a major upgrade and redesign of our e-commerce platform.</p>
 				</div>
 				<div class="inner stats">
 					<h2 class="spacer-6">Results</h2>

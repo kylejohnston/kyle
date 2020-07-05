@@ -45,7 +45,7 @@
 			<div class="col-4">
 				<div class="inner">
 					<h2>Illustrating the Customer Journey</h2>
-					<p>In the early stages of the pitch, we focused on helping AMC visualize and understand how their email program could influence their guests movie-going experience with a customer journey map. I created an AMC-branded design, and rather than relying on yet another PowerPoint slide, I printed it <em>really</em> big. This approach allowed our practice director to communicate our vision for the potential of AMC&rsquo;s program, avoid overwhelming the audience with details, and focus on sharing relevant stories and ideas.</p>
+					<p>In the early stages of the pitch, we focused on helping AMC visualize and understand how their email program could influence their guest's movie-going experience with a customer journey map. I created an AMC-branded design, and rather than relying on yet another PowerPoint slide, I printed it <em>really</em> big. This approach allowed our practice director to communicate our vision for the potential of AMC&rsquo;s program, avoid overwhelming the audience with details, and focus on sharing relevant stories and ideas.</p>
 				</div>
 			</div>
 			<div class="col-7 caption">
@@ -58,7 +58,7 @@
 			<div class="col-6">
 				<div class="inner">
 					<h2>A Peek at the Pitch</h2>
-					<p>For the next stage of the pitch, I partnered with an email strategist to illustrate an on-boarding process for two types of AMC guests. This format allowed us to rely on a storytelling approach, supported with visuals that illustrated how the campaigns could be tailored to different types of movie fans.</p>
+					<p>For the next stage of the pitch, I partnered with an email strategist to illustrate an onboarding process for two types of AMC guests. This format allowed us to rely on a storytelling approach, supported with visuals that illustrated how the campaigns could be tailored to different types of movie fans.</p>
 				</div>
 			</div>
 			<div class="col-6">
@@ -71,7 +71,7 @@
 			</div>
 			<div class="col-8 caption">
 				<img class="shadow " src="/img/samples/amc/pitch-deck-sample-004.920.jpg" alt="Onboarding flow example" width="100%">
-				<p>An overview of the on-boarding flow</p>
+				<p>An overview of the onboarding flow</p>
 			</div>
 			<div class="col-1 shim"></div>
 			<div class="col-5">
