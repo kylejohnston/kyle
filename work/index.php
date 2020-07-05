@@ -142,13 +142,6 @@
 			<h2 class="col-12"><div class="inner">&horbar; Agency: DEG</div></h2>
 			<div class="col-4">
 				<div class="inner">
-					<a href="/work/ferrellgas-brand-website/"><img class="thumb spacer-2--bottom" src="/img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign" loading="lazy"></a>
-					<h3>Ferrellgas</h3>
-					<p><a href="/work/ferrellgas-brand-website/">Brand evolution &amp; website redesign</a></p>
-				</div>
-			</div>
-			<div class="col-4">
-				<div class="inner">
 					<a href="/work/amc/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail-alt.jpg" alt="New business pitch for AMC Theatres" loading="lazy"></a>
 					<h3>AMC Theatres</h3>
 					<p><a href="/work/amc/">New business pitch</a></p>
@@ -161,7 +154,13 @@
 					<p><a href="/work/amc-coke/">Cross-channel campaign</a></p>
 				</div>
 			</div>
-
+			<div class="col-4">
+				<div class="inner">
+					<a href="/work/ferrellgas-brand-website/"><img class="thumb spacer-2--bottom" src="/img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign" loading="lazy"></a>
+					<h3>Ferrellgas</h3>
+					<p><a href="/work/ferrellgas-brand-website/">Brand evolution &amp; website redesign</a></p>
+				</div>
+			</div>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/lee-jeans/"><img class="thumb spacer-2--bottom" src="/img/samples/lee-jeans/thumbnail.2x.jpg" alt="Lee Product Videos" loading="lazy"></a>
@@ -190,23 +189,9 @@
 			</div>
 			<div class="col-4">
 				<div class="inner">
-					<a href="/work/youtube/"><img class="thumb spacer-2--bottom" src="/img/samples/youtube/thumbnail.2x.jpg" alt="YouTube Pre-Roll" loading="lazy"></a>
-					<h3>You-Tube Spots</h3>
-					<p><a href="/work/youtube/">Pre-roll ads</a></p>
-				</div>
-			</div>
-			<div class="col-4">
-				<div class="inner">
 					<a href="/work/garmin-mobile/"><img class="thumb spacer-2--bottom"  src="/img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website" loading="lazy"></a>
 					<h3>Garmin.com</h3>
 					<p><a href="/work/garmin-mobile/">Mobile-Optimized ecommerce design</a></p>
-				</div>
-			</div>
-			<div class="col-4">
-				<div class="inner">
-					<a href="/work/vivofit/"><img class="thumb spacer-2--bottom" src="/img/samples/vivofit/thumbnail.2x.jpg" alt="vivofit campaign" loading="lazy"></a>
-					<h3>v&iacute;vofit</h3>
-					<p><a href="/work/vivofit/">Product launch campaign</a></p>
 				</div>
 			</div>
 			<div class="col-4">
@@ -243,13 +228,13 @@
 					<p><a href="/work/iphone-365-project/">A photo a day. Every day. Since 2009.</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<!-- <div class="col-4">
 				<div class="inner">
 					<a href="/work/memex/"><img class="thumb spacer-2--bottom" src="/img/samples/thumbnail.png" alt="MEMEX" loading="lazy"></a>
 					<h3>MEMEX</h3>
 					<p><a href="/work/memex/">A collection of visual inspiration.</a></p>
 				</div>
-			</div>
+			</div> -->
 		</section>
 
 	</article>
