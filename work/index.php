@@ -29,6 +29,7 @@
 		</section>
 
 <?php /* FLOW14 */ ?>
+		<a name="flow14"></a>
 		<section class="block spacer-6 projects">
 			<h2 class="col-12"><div class="inner">&horbar; Agency: flow14</div></h2>
 			<!-- <div class="col-4">
@@ -94,6 +95,7 @@
 		</section>
 
 		<?php /* STAY ALFRED */ ?>
+		<a name="stayalfred"></a>
 		<section class="block spacer-6 projects">
 			<h2 class="col-12"><div class="inner">&horbar; In-House: Stay Alfred</div></h2>
 			<div class="col-4">
@@ -138,6 +140,7 @@
 		</section>
 
 <?php /* DEG */ ?>
+		<a name="deg"></a>
 		<section class="block spacer-6 projects">
 			<h2 class="col-12"><div class="inner">&horbar; Agency: DEG</div></h2>
 			<div class="col-4">
@@ -171,6 +174,7 @@
 		</section>
 
 <?php /* GARMIN */ ?>
+		<a name="garmin"></a>
 		<section class="block spacer-6 projects">
 			<h2 class="col-12"><div class="inner">&horbar; In-house: Garmin</div></h2>
 			<div class="col-4">
@@ -219,6 +223,7 @@
 		</section>
 
 <?php /* PERSONAL WORK */ ?>
+		<a name="personal"></a>
 		<section class="block spacer-6 projects">
 			<h2 class="col-12"><div class="inner">&horbar; Personal Work</div></h2>
 			<div class="col-4">
