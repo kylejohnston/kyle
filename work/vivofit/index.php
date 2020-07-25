@@ -9,7 +9,7 @@
 	<meta name="keywords" content="portfolio, kyle johnston, advertising, campaign, vivofit, garmin, activity tracker" />
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.kylewjohnston.com/vivofit" rel="canonical" />
+	<link href="http://www.kylewjohnston.com/work/vivofit/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
 		html,article.content::before {background:#8952A0}

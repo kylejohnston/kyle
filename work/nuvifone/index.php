@@ -8,7 +8,7 @@
 	<meta name="keywords" content="logo design, business card design, website design" />
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.kylewjohnston.com/nuvifone" rel="canonical" />
+	<link href="http://www.kylewjohnston.com/work/nuvifone/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
 		html,article.content::before {background:#137EC2}

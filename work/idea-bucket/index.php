@@ -8,7 +8,7 @@
 	<meta name="keywords" content="portfolio, kyle johnston, website, design, development" />
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.kylewjohnston.com/idea-bucket" rel="canonical" />
+	<link href="http://www.kylewjohnston.com/work/idea-bucket/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
 		html,article.content::before {background:#137EC2}

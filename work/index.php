@@ -8,7 +8,7 @@
 	<meta name="keywords" content="creative director, designer, advertising, web design, logo design, kansas city, garmin, flow14" />
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.kylewjohnston.com/all-projects/" rel="canonical" />
+	<link href="http://www.kylewjohnston.com/work/" rel="canonical" />
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 </head>

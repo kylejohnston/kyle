@@ -8,7 +8,7 @@
 	<meta name="keywords" content="iphone 365, 365 project, photography" />
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.flow14.com/iphone-365-project" rel="canonical" />
+	<link href="http://www.flow14.com/work/iphone-365-project/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
 		html,article.content::before {background:#365365}

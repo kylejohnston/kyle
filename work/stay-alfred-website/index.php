@@ -8,7 +8,7 @@
 	<meta name="keywords" content="portfolio, kyle johnston, logo design, app design, user experience" />
 	<meta name="author" content="Kyle Johnston" />
 	<link href="https://plus.google.com/103758963959064535451" rel="publisher" />
-	<link href="http://www.kylewjohnston.com/stay-alfred-website/" rel="canonical" />
+	<link href="http://www.kylewjohnston.com/work/stay-alfred-website/" rel="canonical" />
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head.php'); ?>
 	<style type="text/css">
 		html,article.content::before {background: #2C2A29;}
