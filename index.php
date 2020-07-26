@@ -83,15 +83,15 @@
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="/work/stay-alfred-website/"><img class="thumb shadow" src="img/samples/stay-alfred/thumb-website.png" alt="Stay Alfred frontend design and development"></a>
+				<a href="/work/right-triangle/"><img class="thumb" src="img/samples/right-triangle/thumb.jpg" alt="Right Triangle branding and design"></a>
 			</div>
 			<div class="col-4">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/stay-alfred-website/">Stay Alfred</a></h2>
+					<h2><a href="/work/right-triangle/">Right Triangle</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing a smarter partnership page and a new-and-improved company page.</p>
-					<p><a href="/work/stay-alfred-website/">See what’s new &#187;</a></p>
+					<p>Branding a data architecture consultancy.</p>
+					<p><a href="/work/right-triangle/">Right this way &#187;</a></p>
 				</div>
 			</div>
 		</section>
