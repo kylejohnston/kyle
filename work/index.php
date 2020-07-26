@@ -41,6 +41,32 @@
 			</div> -->
 			<div class="col-4">
 				<div class="inner">
+					<a href="/work/right-triangle/">
+						<picture>
+							<source media="(min-width: 600px)" srcset="/img/samples/right-triangle/thumb.jpg">
+							<source media="(min-width: 280px)" srcset="/img/samples/right-triangle/thumb-sm.jpg">
+							<img class="thumb spacer-2--bottom" src="/img/samples/right-triangle/thumb.jpg"  alt="Right Triangle Branding and Design" loading="lazy">
+						</picture>
+					</a>
+					<h3>Right Triangle</h3>
+					<p><a href="/work/right-triangle/">Branding and Design</a></p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="inner">
+					<a href="/work/qwally/">
+						<picture>
+							<source media="(min-width: 600px)" srcset="/img/samples/qwally/thumb.jpg">
+							<source media="(min-width: 280px)" srcset="/img/samples/qwally/thumb-sm.jpg">
+							<img class="thumb spacer-2--bottom" src="/img/samples/qwally/thumb.jpg"  alt="Qwally UX and Website Design" loading="lazy">
+						</picture>
+					</a>
+					<h3>Qwally</h3>
+					<p><a href="/work/qwally/">UX and Website Design</a></p>
+				</div>
+			</div>
+			<div class="col-4">
+				<div class="inner">
 					<a href="/work/vmc-group/">
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/thumb.jpg">
