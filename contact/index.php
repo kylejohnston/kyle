@@ -39,7 +39,7 @@
 
 			<div class="pattern__2-8-2">
 				<div class="inner">
-					<h1 class="spacer-6">Say &lsquo;Hi&rsquo;</h1>
+					<h1 class="spacer-6">Say &lsquo;Hi&rsquo; 👋</h1>
 					<div class="block">
 					<div class="col-6">
 						<h3>Email</h3>
