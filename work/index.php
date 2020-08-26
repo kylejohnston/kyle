@@ -31,14 +31,7 @@
 <?php /* FLOW14 */ ?>
 		<a name="flow14"></a>
 		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner">&horbar; Agency: flow14</div></h2>
-			<!-- <div class="col-4">
-				<div class="inner">
-					<a href="/work/right-triangle/"><img class="thumb spacer-2--bottom" src="/img/samples/thumbnail.png" alt="Right Triangle rebrand" loading="lazy"></a>
-					<h3>Right Triangle</h3>
-					<p><a href="/work/right-triangle/">Rebrand &amp; Website Redesign.</a></p>
-				</div>
-			</div> -->
+			<h2 class="col-12"><div class="inner"><span style="color:#94bd00;">Agency:</span> flow14</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/right-triangle/">
@@ -111,19 +104,12 @@
 					<p><a href="/work/hnc-living-foundation/">Website redesign</a></p>
 				</div>
 			</div>
-			<div class="col-4">
-				<div class="inner">
-					<a href="/work/rounding-up-undies/"><img class="thumb spacer-2--bottom" src="/img/samples/rounding-up-undies/thumbnail.jpg" alt="Rounding Up Undies Logo" loading="lazy"></a>
-					<h3>Rounding Up Undies</h3>
-					<p><a href="/work/rounding-up-undies/">Logo design</a></p>
-				</div>
-			</div>
 		</section>
 
 		<?php /* STAY ALFRED */ ?>
 		<a name="stayalfred"></a>
 		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner">&horbar; In-House: Stay Alfred</div></h2>
+			<h2 class="col-12"><div class="inner"><span style="color:#94bd00;">In-house:</span> Stay Alfred</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/stay-alfred-brand/">
@@ -168,7 +154,7 @@
 <?php /* DEG */ ?>
 		<a name="deg"></a>
 		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner">&horbar; Agency: DEG</div></h2>
+			<h2 class="col-12"><div class="inner"><span style="color:#94bd00;">Agency:</span> DEG</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/amc/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail-alt.jpg" alt="New business pitch for AMC Theatres" loading="lazy"></a>
@@ -190,19 +176,12 @@
 					<p><a href="/work/ferrellgas-brand-website/">Brand evolution &amp; website redesign</a></p>
 				</div>
 			</div>
-			<div class="col-4">
-				<div class="inner">
-					<a href="/work/lee-jeans/"><img class="thumb spacer-2--bottom" src="/img/samples/lee-jeans/thumbnail.2x.jpg" alt="Lee Product Videos" loading="lazy"></a>
-					<h3>Lee Jeans</h3>
-					<p><a href="/work/lee-jeans/">Product videos</a></p>
-				</div>
-			</div>
 		</section>
 
 <?php /* GARMIN */ ?>
 		<a name="garmin"></a>
 		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner">&horbar; In-house: Garmin</div></h2>
+			<h2 class="col-12"><div class="inner"><span style="color:#94bd00;">In-house:</span> Garmin</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/connect/"><img class="thumb spacer-2--bottom" src="/img/samples/connect/thumbnail.jpg" alt="Connect Redesign" loading="lazy"></a>
@@ -251,7 +230,7 @@
 <?php /* PERSONAL WORK */ ?>
 		<a name="personal"></a>
 		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner">&horbar; Personal Work</div></h2>
+			<h2 class="col-12"><div class="inner">Personal Work</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/iphone-365-project/"><img class="thumb spacer-2--bottom" src="/img/samples/iphone-365/thumb-2017.2x.jpg" alt="iPhone 365 Project" loading="lazy"></a>
