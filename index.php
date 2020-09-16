@@ -62,18 +62,18 @@
 			<div class="col-4 order-2">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/vmc-group/">VMC Group</a></h2>
+					<h2 class="clipText"><a href="/work/grocery-buddy/">Grocery Buddy</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Modernizing a website for an industry leader.</p>
-					<p><a href="/work/vmc-group/">View the work &#187;</a></p>
+					<p>Designing the simplest way for smart shoppers to save.</p>
+					<p><a href="/work/grocery-buddy/">Check it out &#187;</a></p>
 				</div>
 			</div>
 			<div class="col-6 order-1">
-				<a href="/work/vmc-group/">
+				<a href="/work/grocery-buddy/">
 					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/thumb.jpg">
-						<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/thumb-sm.jpg">
-						<img class="thumb" src="/img/samples/vmc-group/thumb.jpg"  alt="VMC Group Website Redesign" loading="lazy">
+						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
+						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
+						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
 					</picture>
 				</a>
 			</div>
@@ -101,18 +101,18 @@
 			<div class="col-4 order-2">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2 class="clipText"><a href="/work/grocery-buddy/">Grocery Buddy</a></h2>
+					<h2><a href="/work/vmc-group/">VMC Group</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing the simplest way for smart shoppers to save.</p>
-					<p><a href="/work/grocery-buddy/">Check it out &#187;</a></p>
+					<p>Modernizing a website for an industry leader.</p>
+					<p><a href="/work/vmc-group/">View the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="col-6 order-1">
-				<a href="/work/grocery-buddy/">
+				<a href="/work/vmc-group/">
 					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
-						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
-						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
+						<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/thumb.jpg">
+						<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/thumb-sm.jpg">
+						<img class="thumb" src="/img/samples/vmc-group/thumb.jpg"  alt="VMC Group Website Redesign" loading="lazy">
 					</picture>
 				</a>
 			</div>
