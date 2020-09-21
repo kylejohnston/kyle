@@ -62,18 +62,18 @@
 			<div class="col-4 order-2">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2 class="clipText"><a href="/work/grocery-buddy/">Grocery Buddy</a></h2>
+					<h2 class="clipText"><a href="/work/qwally/">Qwally</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing the simplest way for smart shoppers to save.</p>
-					<p><a href="/work/grocery-buddy/">Check it out &#187;</a></p>
+					<p>Designing a platform for more inclusive contracting.</p>
+					<p><a href="/work/qwally/">View the work &#187;</a></p>
 				</div>
 			</div>
 			<div class="col-6 order-1">
-				<a href="/work/grocery-buddy/">
+				<a href="/work/qwally/">
 					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
-						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
-						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
+						<source media="(min-width: 600px)" srcset="/img/samples/qwally/thumb.2x.jpg">
+						<source media="(min-width: 280px)" srcset="/img/samples/qwally/thumb.jpg">
+						<img class="thumb" src="/img/samples/qwally/thumb.2x.jpg"  alt="Qwally UX and Product Design">
 					</picture>
 				</a>
 			</div>
@@ -83,15 +83,21 @@
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="/work/right-triangle/"><img class="thumb" src="img/samples/right-triangle/thumb.jpg" alt="Right Triangle branding and design"></a>
+				<a href="/work/grocery-buddy/">
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
+						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
+						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
+					</picture>
+				</a>
 			</div>
 			<div class="col-4">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/right-triangle/">Right Triangle</a></h2>
+					<h2 class="clipText"><a href="/work/grocery-buddy/">Grocery Buddy</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Branding a data architecture consultancy.</p>
-					<p><a href="/work/right-triangle/">Right this way &#187;</a></p>
+					<p>Designing the simplest way for smart shoppers to save.</p>
+					<p><a href="/work/grocery-buddy/">Check it out &#187;</a></p>
 				</div>
 			</div>
 		</section>
@@ -117,6 +123,22 @@
 				</a>
 			</div>
 			<div class="col-1 shim"></div>
+		</section>
+
+		<section class="block spacer-6">
+			<div class="col-1 shim"></div>
+			<div class="col-6">
+				<a href="/work/right-triangle/"><img class="thumb" src="img/samples/right-triangle/thumb.jpg" alt="Right Triangle branding and design"></a>
+			</div>
+			<div class="col-4">
+				<div class="inner">
+					<p class="spacer-2"><small>Client</small></p>
+					<h2><a href="/work/right-triangle/">Right Triangle</a></h2>
+					<p class="spacer-2"><small>Project</small></p>
+					<p>Branding a data architecture consultancy.</p>
+					<p><a href="/work/right-triangle/">Right this way &#187;</a></p>
+				</div>
+			</div>
 		</section>
 
 		<section class="block spacer-6">
