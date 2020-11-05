@@ -59,39 +59,7 @@
 
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
-			<div class="col-4 order-2">
-				<div class="inner">
-					<p class="spacer-2"><small>Client</small></p>
-					<h2 class="clipText"><a href="/work/qwally/">Qwally</a></h2>
-					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing a platform for more inclusive contracting.</p>
-					<p><a href="/work/qwally/">View the work &#187;</a></p>
-				</div>
-			</div>
-			<div class="col-6 order-1">
-				<a href="/work/qwally/">
-					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/qwally/thumb.2x.jpg">
-						<source media="(min-width: 280px)" srcset="/img/samples/qwally/thumb.jpg">
-						<img class="thumb" src="/img/samples/qwally/thumb.2x.jpg"  alt="Qwally UX and Product Design">
-					</picture>
-				</a>
-			</div>
-			<div class="col-1 shim"></div>
-		</section>
-
-		<section class="block spacer-6">
-			<div class="col-1 shim"></div>
-			<div class="col-6">
-				<a href="/work/grocery-buddy/">
-					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
-						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
-						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
-					</picture>
-				</a>
-			</div>
-			<div class="col-4">
+			<div class="order-2 col-4">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
 					<h2 class="clipText"><a href="/work/grocery-buddy/">Grocery Buddy</a></h2>
@@ -100,25 +68,12 @@
 					<p><a href="/work/grocery-buddy/">Check it out &#187;</a></p>
 				</div>
 			</div>
-		</section>
-
-		<section class="block spacer-6">
-			<div class="col-1 shim"></div>
-			<div class="col-4 order-2">
-				<div class="inner">
-					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/vmc-group/">VMC Group</a></h2>
-					<p class="spacer-2"><small>Project</small></p>
-					<p>Modernizing a website for an industry leader.</p>
-					<p><a href="/work/vmc-group/">View the work &#187;</a></p>
-				</div>
-			</div>
-			<div class="col-6 order-1">
-				<a href="/work/vmc-group/">
+			<div class="order-1 col-6">
+				<a href="/work/grocery-buddy/">
 					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/thumb.jpg">
-						<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/thumb-sm.jpg">
-						<img class="thumb" src="/img/samples/vmc-group/thumb.jpg"  alt="VMC Group Website Redesign" loading="lazy">
+						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
+						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
+						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
 					</picture>
 				</a>
 			</div>
@@ -139,6 +94,29 @@
 					<p><a href="/work/right-triangle/">Right this way &#187;</a></p>
 				</div>
 			</div>
+		</section>
+
+		<section class="block spacer-6">
+			<div class="col-1 shim"></div>
+			<div class="order-2 col-4">
+				<div class="inner">
+					<p class="spacer-2"><small>Client</small></p>
+					<h2><a href="/work/vmc-group/">VMC Group</a></h2>
+					<p class="spacer-2"><small>Project</small></p>
+					<p>Modernizing a website for an industry leader.</p>
+					<p><a href="/work/vmc-group/">View the work &#187;</a></p>
+				</div>
+			</div>
+			<div class="order-1 col-6">
+				<a href="/work/vmc-group/">
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/thumb.jpg">
+						<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/thumb-sm.jpg">
+						<img class="thumb" src="/img/samples/vmc-group/thumb.jpg"  alt="VMC Group Website Redesign" loading="lazy">
+					</picture>
+				</a>
+			</div>
+			<div class="col-1 shim"></div>
 		</section>
 
 		<section class="block spacer-6">

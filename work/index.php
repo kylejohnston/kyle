@@ -20,7 +20,7 @@
 <!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
 	<a name="portfolio"></a>
 	<article class="content">
-		<section class="block spacer-9--top">
+		<section class="block block--narrow spacer-9--top">
 			<div class="col-12">
 				<div class="inner">
 					<h1>Portfolio: All Projects</h1>
@@ -30,8 +30,8 @@
 
 <?php /* FLOW14 */ ?>
 		<a name="flow14"></a>
-		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner"><span style="color:#94bd00;">Agency:</span> flow14</div></h2>
+		<section class="block block--narrow spacer-6 projects">
+			<h2 class="col-12"><div class="inner"><span style="color:#9A9A9A;">Agency:</span> flow14</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/right-triangle/">
@@ -108,8 +108,8 @@
 
 		<?php /* STAY ALFRED */ ?>
 		<a name="stayalfred"></a>
-		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner"><span style="color:#94bd00;">In-house:</span> Stay Alfred</div></h2>
+		<section class="block block--narrow spacer-6 projects">
+			<h2 class="col-12"><div class="inner"><span style="color:#9A9A9A;">In-house:</span> Stay Alfred</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/stay-alfred-brand/">
@@ -153,8 +153,8 @@
 
 <?php /* DEG */ ?>
 		<a name="deg"></a>
-		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner"><span style="color:#94bd00;">Agency:</span> DEG</div></h2>
+		<section class="block block--narrow spacer-6 projects">
+			<h2 class="col-12"><div class="inner"><span style="color:#9A9A9A;">Agency:</span> DEG</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/amc/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail-alt.jpg" alt="New business pitch for AMC Theatres" loading="lazy"></a>
@@ -180,8 +180,8 @@
 
 <?php /* GARMIN */ ?>
 		<a name="garmin"></a>
-		<section class="block spacer-6 projects">
-			<h2 class="col-12"><div class="inner"><span style="color:#94bd00;">In-house:</span> Garmin</div></h2>
+		<section class="block block--narrow spacer-6 projects">
+			<h2 class="col-12"><div class="inner"><span style="color:#9A9A9A;">In-house:</span> Garmin</div></h2>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/connect/"><img class="thumb spacer-2--bottom" src="/img/samples/connect/thumbnail.jpg" alt="Connect Redesign" loading="lazy"></a>
@@ -229,8 +229,15 @@
 
 <?php /* PERSONAL WORK */ ?>
 		<a name="personal"></a>
-		<section class="block spacer-6 projects">
+		<section class="block block--narrow spacer-6 projects">
 			<h2 class="col-12"><div class="inner">Personal Work</div></h2>
+			<div class="col-4">
+				<div class="inner">
+					<a href="https://memex.flow14.com/"><img class="thumb spacer-2--bottom" src="/img/samples/memex/thumbnail.jpg" alt="MEMEX" loading="lazy"></a>
+					<h3>MEMEX</h3>
+					<p><a href="https://memex.flow14.com/">A tool for collecting visual inspiration</a> ↗</p>
+				</div>
+			</div>
 			<div class="col-4">
 				<div class="inner">
 					<a href="/work/iphone-365-project/"><img class="thumb spacer-2--bottom" src="/img/samples/iphone-365/thumb-2017.2x.jpg" alt="iPhone 365 Project" loading="lazy"></a>
@@ -238,13 +245,6 @@
 					<p><a href="/work/iphone-365-project/">A photo a day. Every day. Since 2009.</a></p>
 				</div>
 			</div>
-			<!-- <div class="col-4">
-				<div class="inner">
-					<a href="/work/memex/"><img class="thumb spacer-2--bottom" src="/img/samples/thumbnail.png" alt="MEMEX" loading="lazy"></a>
-					<h3>MEMEX</h3>
-					<p><a href="/work/memex/">A collection of visual inspiration.</a></p>
-				</div>
-			</div> -->
 		</section>
 
 	</article>
