@@ -76,7 +76,7 @@
 			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>Social Promotions</h2>
-					<p>Animated videos created to promote Stay Alfred’s loyalty program and various giveaways. The videos were used for paid and organic posts on Facebook, Instagram, and other social channels.</p>
+					<p>Animated videos created to promote <a href="/work/stay-alfred-brand/">Stay Alfred’s loyalty program</a> and various giveaways. The videos were used for paid and organic posts on Facebook, Instagram, and other social channels.</p>
 				</div>
 			</div>
 			<div class="col-4">
