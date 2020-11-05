@@ -83,15 +83,21 @@
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="/work/right-triangle/"><img class="thumb" src="img/samples/right-triangle/thumb.jpg" alt="Right Triangle branding and design"></a>
+				<a href="/work/qwally/">
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/qwally/thumb.2x.jpg">
+						<source media="(min-width: 280px)" srcset="/img/samples/qwally/thumb.jpg">
+						<img class="thumb spacer-2--bottom" src="/img/samples/qwally/thumb.2x.jpg"  alt="Qwally UX and Website Design" loading="lazy">
+					</picture>
+				</a>
 			</div>
 			<div class="col-4">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/right-triangle/">Right Triangle</a></h2>
+					<h2><a href="/work/qwally/">Qwally</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Branding a data architecture consultancy.</p>
-					<p><a href="/work/right-triangle/">Right this way &#187;</a></p>
+					<p>Designing a better experience for cities and minority-owned businesses</p>
+					<p><a href="/work/qwally/">View the work &#187;</a></p>
 				</div>
 			</div>
 		</section>
@@ -121,12 +127,12 @@
 
 		<section class="block spacer-6">
 			<div class="col-12 text__center">
-				<div class="rule"></div>
+				<!-- <div class="rule"></div> -->
 				<div class="spacer-4--bottom scale-80"><a href="/work/">
-				<svg aria-labelledby="title" width="208" height="32" viewBox="0 0 208 32" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="title" lang="en">View all projects</title><path d="M0 2C0 0.895431 0.895431 0 2 0H62C63.1046 0 64 0.895431 64 2V30C64 31.1046 63.1046 32 62 32H2C0.895431 32 0 31.1046 0 30V2Z" fill="#E5F5AB"/><path d="M72 2C72 0.895431 72.8954 0 74 0H134C135.105 0 136 0.895431 136 2V30C136 31.1046 135.105 32 134 32H74C72.8954 32 72 31.1046 72 30V2Z" fill="#E5F5AB"/><path d="M144 2C144 0.895431 144.895 0 146 0H206C207.105 0 208 0.895431 208 2V30C208 31.1046 207.105 32 206 32H146C144.895 32 144 31.1046 144 30V2Z" fill="#E5F5AB"/></svg>
+				<svg aria-labelledby="title" width="208" height="32" viewBox="0 0 208 32" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="title" lang="en">View all projects</title><path d="M0 2C0 0.895431 0.895431 0 2 0H62C63.1046 0 64 0.895431 64 2V30C64 31.1046 63.1046 32 62 32H2C0.895431 32 0 31.1046 0 30V2Z" fill="#220783"/><path d="M72 2C72 0.895431 72.8954 0 74 0H134C135.105 0 136 0.895431 136 2V30C136 31.1046 135.105 32 134 32H74C72.8954 32 72 31.1046 72 30V2Z" fill="#220783"/><path d="M144 2C144 0.895431 144.895 0 146 0H206C207.105 0 208 0.895431 208 2V30C208 31.1046 207.105 32 206 32H146C144.895 32 144 31.1046 144 30V2Z" fill="#220783"/></svg>
 				</a></div>
 				<h3><a href="/work/"><strong>View all projects</strong></a></h3>
-				<div class="rule"></div>
+				<!-- <div class="rule"></div> -->
 			</div>
 		</section><!-- /block -->
 	</article>

@@ -17,22 +17,27 @@
 		<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/header-nav.php'); ?>
 	</header>
 
-<!-- Thumbnail computed size: 370x185, 2x: 740x370 -->
+	<section class="block block--narrow">
+		<div class="col-1 shim"></div>
+		<div class="col-6 spacer-6--top intro">
+			<div class="inner">
+				<h1 style="margin:0;">Portfolio &horbar;</h1>
+				<h2 style="margin:0;color:#EDF2D9">All Projects</h2>
+
+			</div>
+		</div>
+		<div class="col-5 shim"></div>
+	</section>
+
 	<a name="portfolio"></a>
 	<article class="content">
-		<section class="block block--narrow spacer-9--top">
-			<div class="col-12">
-				<div class="inner">
-					<h1>Portfolio: All Projects</h1>
-				</div>
-			</div>
-		</section>
+
 
 <?php /* FLOW14 */ ?>
 		<a name="flow14"></a>
-		<section class="block block--narrow spacer-6 projects">
-			<h2 class="col-12"><div class="inner"><span style="color:#9A9A9A;">Agency:</span> flow14</div></h2>
-			<div class="col-4">
+		<section class="block block--narrow projects" style="margin-top:112px;">
+			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center;">FLOW14 <span style="font-size:22px;color:#BCBCBC;">AGENCY</span></div></h2>
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/right-triangle/">
 						<picture>
@@ -45,7 +50,7 @@
 					<p><a href="/work/right-triangle/">Branding and Design</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/qwally/">
 						<picture>
@@ -58,7 +63,7 @@
 					<p><a href="/work/qwally/">UX and Website Design</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/vmc-group/">
 						<picture>
@@ -71,7 +76,7 @@
 					<p><a href="/work/vmc-group/">Website redesign</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/mental-health-ux/">
 						<picture>
@@ -84,7 +89,7 @@
 					<p><a href="/work/mental-health-ux/">UX &amp; Visual Design</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/grocery-buddy/">
 						<picture>
@@ -97,7 +102,7 @@
 					<p><a href="/work/grocery-buddy/">Concept Design &amp; Branding</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/hnc-living-foundation/"><img class="thumb frame spacer-2--bottom" src="/img/samples/hnc-living/thumbnail.jpg" alt="HNC Living Website Redesign" loading="lazy"></a>
 					<h3>HNC Living Foundation</h3>
@@ -109,8 +114,8 @@
 		<?php /* STAY ALFRED */ ?>
 		<a name="stayalfred"></a>
 		<section class="block block--narrow spacer-6 projects">
-			<h2 class="col-12"><div class="inner"><span style="color:#9A9A9A;">In-house:</span> Stay Alfred</div></h2>
-			<div class="col-4">
+			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center;">STAY ALFRED <span style="font-size:22px;color:#BCBCBC;">IN-HOUSE</span></div></h2>
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/stay-alfred-brand/">
 						<picture>
@@ -123,7 +128,7 @@
 					<p><a href="/work/stay-alfred-brand/">Art Direction &amp; Design</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/stay-alfred-marketing/">
 						<picture>
@@ -136,7 +141,7 @@
 					<p><a href="/work/stay-alfred-marketing/">Art Direction, Design, &amp; Frontend Development</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/stay-alfred-website/">
 						<picture>
@@ -154,22 +159,22 @@
 <?php /* DEG */ ?>
 		<a name="deg"></a>
 		<section class="block block--narrow spacer-6 projects">
-			<h2 class="col-12"><div class="inner"><span style="color:#9A9A9A;">Agency:</span> DEG</div></h2>
-			<div class="col-4">
+			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center;">DEG <span style="font-size:22px;color:#BCBCBC;">AGENCY</span></div></h2>
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/amc/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail-alt.jpg" alt="New business pitch for AMC Theatres" loading="lazy"></a>
 					<h3>AMC Theatres</h3>
 					<p><a href="/work/amc/">New business pitch</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/amc-coke/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail03.2x.jpg" alt="Social campaign for AMC Theatres and Coke" loading="lazy"></a>
 					<h3>AMC &amp; Coke</h3>
 					<p><a href="/work/amc-coke/">Cross-channel campaign</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/ferrellgas-brand-website/"><img class="thumb spacer-2--bottom" src="/img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign" loading="lazy"></a>
 					<h3>Ferrellgas</h3>
@@ -181,36 +186,36 @@
 <?php /* GARMIN */ ?>
 		<a name="garmin"></a>
 		<section class="block block--narrow spacer-6 projects">
-			<h2 class="col-12"><div class="inner"><span style="color:#9A9A9A;">In-house:</span> Garmin</div></h2>
-			<div class="col-4">
+			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center;">GARMIN <span style="font-size:22px;color:#BCBCBC;">IN-HOUSE</span></div></h2>
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/connect/"><img class="thumb spacer-2--bottom" src="/img/samples/connect/thumbnail.jpg" alt="Connect Redesign" loading="lazy"></a>
 					<h3>Connect Redesign</h3>
 					<p><a href="/work/connect/">UX, UI, Style Guide, Branding</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/career-path/"><img class="thumb spacer-2--bottom" src="/img/samples/career-path/thumbnail.alt.jpg" alt="Career Path Framework" loading="lazy"></a>
 					<h3>Career Paths</h3>
 					<p><a href="/work/career-path/">Planning &amp; design</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/garmin-mobile/"><img class="thumb spacer-2--bottom"  src="/img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website" loading="lazy"></a>
 					<h3>Garmin.com</h3>
 					<p><a href="/work/garmin-mobile/">Mobile-Optimized ecommerce design</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/idea-bucket/"><img class="thumb spacer-2--bottom" src="/img/samples/idea-bucket/thumbnail.2x.jpg" alt="Idea Bucket Website" loading="lazy"></a>
 					<h3>Idea Bucket</h3>
 					<p><a href="/work/idea-bucket/">Company innovation website design &amp; development</a></p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/holiday/"><img class="thumb spacer-2--bottom" src="/img/samples/holiday/thumbnail.2x.jpg" alt="Give-a-Garmin Holiday Campaigns" loading="lazy"></a>
 					<h3>Holiday Campaigns</h3>
@@ -218,7 +223,7 @@
 				</div>
 			</div>
 
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/nuvifone/"><img class="thumb spacer-2--bottom" src="/img/samples/nuvifone/thumbnail_alt.2x.jpg" alt="nuvifone launch campaign" loading="lazy"></a>
 					<h3>n&uuml;vifone</h3>
@@ -230,15 +235,15 @@
 <?php /* PERSONAL WORK */ ?>
 		<a name="personal"></a>
 		<section class="block block--narrow spacer-6 projects">
-			<h2 class="col-12"><div class="inner">Personal Work</div></h2>
-			<div class="col-4">
+			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center">PERSONAL WORK</div></h2>
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="https://memex.flow14.com/"><img class="thumb spacer-2--bottom" src="/img/samples/memex/thumbnail.jpg" alt="MEMEX" loading="lazy"></a>
 					<h3>MEMEX</h3>
 					<p><a href="https://memex.flow14.com/">A tool for collecting visual inspiration</a> ↗</p>
 				</div>
 			</div>
-			<div class="col-4">
+			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="/work/iphone-365-project/"><img class="thumb spacer-2--bottom" src="/img/samples/iphone-365/thumb-2017.2x.jpg" alt="iPhone 365 Project" loading="lazy"></a>
 					<h3>365 Project</h3>
