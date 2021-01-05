@@ -83,21 +83,21 @@
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="/work/qwally/">
+				<a href="/work/mental-health-ux/">
 					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/qwally/thumb.2x.jpg">
-						<source media="(min-width: 280px)" srcset="/img/samples/qwally/thumb.jpg">
-						<img class="thumb spacer-2--bottom" src="/img/samples/qwally/thumb.2x.jpg"  alt="Qwally UX and Website Design" loading="lazy">
+						<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/thumbnail.2x.png">
+						<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/thumbnail.png">
+						<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png"  alt="Mental Health Platform UX, App, and Website Design" loading="lazy">
 					</picture>
 				</a>
 			</div>
 			<div class="col-4">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/qwally/">Qwally</a></h2>
+					<h2><a href="/work/mental-health-ux/">Mental Health Platform</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing a better experience for cities and minority-owned businesses</p>
-					<p><a href="/work/qwally/">View the work &#187;</a></p>
+					<p>Designing a stress-free experience for patients seeking care</p>
+					<p><a href="/work/mental-health-ux/">View the work &#187;</a></p>
 				</div>
 			</div>
 		</section>

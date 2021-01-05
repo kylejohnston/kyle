@@ -85,7 +85,7 @@
 							<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png"  alt="Mental Health App UX design" loading="lazy">
 						</picture>
 					</a>
-					<h3>Mental Health App</h3>
+					<h3>Mental Health Platform</h3>
 					<p><a href="/work/mental-health-ux/">UX &amp; Visual Design</a></p>
 				</div>
 			</div>
