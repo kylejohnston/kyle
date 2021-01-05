@@ -101,8 +101,8 @@ img.frame{border:1px solid #D9D9D9}
 .stats p{margin-bottom:40px}
 #contactform input.text{padding:15px 5px;width:90%;border:1px solid #CACFD3;border-radius:4px}
 #contactform textarea{width:91%;border:1px solid #CACFD3;border-radius:4px}
-#contactform input.btn{margin:0;padding:16px;color:#759600;border:2px solid #94BD00;background:#fff;border-radius:4px}
-#contactform input.btn:hover{color:#fff;border:2px solid #94BD00;background:#94BD00}
+#contactform .btn{margin:0;padding:16px;color:#759600;border:2px solid #94BD00;background:#fff;border-radius:4px}
+#contactform .btn:hover{color:#fff;border:2px solid #94BD00;background:#94BD00}
 #contactform .error{color:#94BD00}
 /* JQUERY FLEXSLIDER V2.0 */
 /* BROWSER RESETS */

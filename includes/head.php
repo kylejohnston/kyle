@@ -14,7 +14,7 @@
 	<!-- Le styles -->
 	<link href="/css/gridkit.min.css?20200525_000" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700&display=swap" rel="stylesheet">
-	<link href="/css/main.min.css?20201105_000" rel="stylesheet" type="text/css">
+	<link href="/css/main.min.css?20201127_000" rel="stylesheet" type="text/css">
 	<!-- <link href='//kylewjohnston.com/css/aos.css' rel='stylesheet' type='text/css'> -->
 
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
