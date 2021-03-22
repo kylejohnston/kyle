@@ -25,12 +25,12 @@
 
 	<?php include($_SERVER['DOCUMENT_ROOT'] . '/includes/head-clean.php'); ?>
 	<style type="text/css">
+	.book-cover { box-shadow: 0 1px 2px rgba(0,0,0,0.07),0 2px 4px rgba(0,0,0,0.07),0 4px 8px rgba(0,0,0,0.07),0 8px 16px rgba(0,0,0,0.07),0 16px 32px rgba(0,0,0,0.07),0 32px 64px rgba(0,0,0,0.07); }
 	@media (min-width: 1012px) {
 		.book-cover {
 			height:420px;
 			width:100%;
 			margin-bottom:1rem;
-			box-shadow: 0 1px 2px rgba(0,0,0,0.07),0 2px 4px rgba(0,0,0,0.07),0 4px 8px rgba(0,0,0,0.07),0 8px 16px rgba(0,0,0,0.07),0 16px 32px rgba(0,0,0,0.07),0 32px 64px rgba(0,0,0,0.07);
 			}
 		.col-11 .block{margin:2rem auto;}
 	}
@@ -158,7 +158,7 @@
 								<p>Malcolm Gladwell</p>
 							</div>
 							<div class="col-3">
-								<a href="https://bookshop.org/books/ten-arguments-for-deleting-your-social-media-accounts-right-now/9781250239082"><img class="book-cover" src="/img/books-2020/deleting-your-social-media.jpg" alt="Ten Arguments for Deleting Your Social Media Accounts Right Now"></a>
+								<a href="https://bookshop.org/books/ten-arguments-for-deleting-your-social-media-accounts-right-now/9781250239082"><img class="book-cover" src="/img/books-2020/ten-arguments.jpg" alt="Ten Arguments for Deleting Your Social Media Accounts Right Now"></a>
 								<h4 class="spacer-2">Ten Arguments for Deleting Your Social Media Accounts Right Now</h4>
 								<p>Jaron Lanier</p>
 							</div>
