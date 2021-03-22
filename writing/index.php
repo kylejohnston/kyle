@@ -27,6 +27,7 @@
 						<div class="inner">
 							<h1>Writing</h1>
 							<h3>Recent Writing</h3>
+							<p><strong><a href="/writing/all-of-the-things-i-read-in-2020/">All of the Things I Read in 2020</a></strong></p>
 							<p><strong><a href="/writing/all-of-the-things-i-read-in-2019/">All of the Things I Read in 2019</a></strong></p>
 							<p><strong><a href="https://medium.com/@kylejohnston/sketching-with-code-behind-the-scenes-d92a26e34aac">Sketching with Code: Behind the Scenes</a></strong></p>
 							<p><strong><a href="https://blog.prototypr.io/the-best-design-tool-ive-used-b25cd8fcd5c4">The best design tool I’ve used</a></strong></p>
