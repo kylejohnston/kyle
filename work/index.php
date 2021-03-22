@@ -109,6 +109,13 @@
 					<p><a href="/work/hnc-living-foundation/">Website redesign</a></p>
 				</div>
 			</div>
+			<div class="col-4 spacer-8--bottom">
+				<div class="inner">
+					<a href="/work/infographics/"><img class="thumb frame spacer-2--bottom" src="/img/samples/infographics/thumbnail-alt.jpg" alt="Infographics" loading="lazy"></a>
+					<h3>Infographics</h3>
+					<p><a href="/work/infographics/">Visualizing data</a></p>
+				</div>
+			</div>
 		</section>
 
 		<?php /* STAY ALFRED */ ?>
