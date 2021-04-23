@@ -19,6 +19,8 @@
 		/* span#hello{color:#141414;} */
 		.hello h3 {font-family:"Objectivity Medium";font-weight:500;}
 		.hello h1,.hello h3{color:white;}
+		h2 { font-size: 4.8vh; line-height: 4.8vh; }
+		p { font-size: 2.5vh; }
 	</style>
 </head>
 <body>
@@ -55,6 +57,28 @@
 				</div>
 			</div>
 			<div class="col-1 shim"></div>
+		</section>
+
+		<section class="spacer-6" style="background:linear-gradient(90deg, #f4f8e6, #f4f8e611);padding:1.5em 0;">
+			<div class="block spacer-6" style="">
+				<div class="col-1 shim"></div>
+				<div class="col-4">
+					<div class="inner">
+						<h2>Work In Progress</h2>
+						<p class="spacer-2"><small>Currently working on…</small></p>
+					</div>
+				</div>
+				<div class="col-4">
+					<div class="inner">
+						<ul>
+							<li>Conducting a user experience audit and creating a UX strategy for a medical technology company</li>
+							<li>Product design and frontend development support to a GovTech startup</li>
+							<li>Designing digital and retail marketing materials for a Boston-based cannabis company</li>
+							<li>Redesigning a website for a national pilot training academy</li>
+						</ul>
+					</div>
+				</div>
+			</div>
 		</section>
 
 		<section class="block spacer-6">
