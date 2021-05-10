@@ -71,10 +71,9 @@
 				<div class="col-4">
 					<div class="inner">
 						<ul>
-							<li>Conducting a user experience audit and creating a UX strategy for a medical technology company</li>
-							<li>Product design and frontend development support to a GovTech startup</li>
+							<li>Reimagining the UX strategy and website design for a leading industrial vehicle manufacturer</li>
+							<li>Leading a user experience audit and UX strategy for a medical technology company</li>
 							<li>Designing digital and retail marketing materials for a Boston-based cannabis company</li>
-							<li>Redesigning a website for a national pilot training academy</li>
 						</ul>
 					</div>
 				</div>
