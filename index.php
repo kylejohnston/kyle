@@ -85,51 +85,6 @@
 			<div class="order-2 col-4">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2 class="clipText"><a href="/work/grocery-buddy/">Grocery Buddy</a></h2>
-					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing the simplest way for smart shoppers to save.</p>
-					<p><a href="/work/grocery-buddy/">Check it out &#187;</a></p>
-				</div>
-			</div>
-			<div class="order-1 col-6">
-				<a href="/work/grocery-buddy/">
-					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
-						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
-						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
-					</picture>
-				</a>
-			</div>
-			<div class="col-1 shim"></div>
-		</section>
-
-		<section class="block spacer-6">
-			<div class="col-1 shim"></div>
-			<div class="col-6">
-				<a href="/work/mental-health-ux/">
-					<picture>
-						<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/thumbnail.2x.png">
-						<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/thumbnail.png">
-						<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png"  alt="Mental Health Platform UX, App, and Website Design" loading="lazy">
-					</picture>
-				</a>
-			</div>
-			<div class="col-4">
-				<div class="inner">
-					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/mental-health-ux/">Mental Health Platform</a></h2>
-					<p class="spacer-2"><small>Project</small></p>
-					<p>Designing a stress-free experience for patients seeking care</p>
-					<p><a href="/work/mental-health-ux/">View the work &#187;</a></p>
-				</div>
-			</div>
-		</section>
-
-		<section class="block spacer-6">
-			<div class="col-1 shim"></div>
-			<div class="order-2 col-4">
-				<div class="inner">
-					<p class="spacer-2"><small>Client</small></p>
 					<h2><a href="/work/vmc-group/">VMC Group</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
 					<p>Modernizing a website for an industry leader.</p>
@@ -146,6 +101,51 @@
 				</a>
 			</div>
 			<div class="col-1 shim"></div>
+		</section>
+
+		<section class="block spacer-6">
+			<div class="col-1 shim"></div>
+			<div class="order-1 col-6">
+				<a href="/work/grocery-buddy/">
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
+						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
+						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
+					</picture>
+				</a>
+			</div>
+			<div class="order-2 col-4">
+				<div class="inner">
+					<p class="spacer-2"><small>Client</small></p>
+					<h2 class="clipText"><a href="/work/grocery-buddy/">Grocery Buddy</a></h2>
+					<p class="spacer-2"><small>Project</small></p>
+					<p>Designing the simplest way for smart shoppers to save.</p>
+					<p><a href="/work/grocery-buddy/">Check it out &#187;</a></p>
+				</div>
+			</div>
+			<div class="col-1 shim"></div>
+		</section>
+
+		<section class="block spacer-6">
+			<div class="col-1 shim"></div>
+			<div class="col-4 order-2">
+				<div class="inner">
+					<p class="spacer-2"><small>Client</small></p>
+					<h2><a href="/work/mental-health-ux/">Mental Health Platform</a></h2>
+					<p class="spacer-2"><small>Project</small></p>
+					<p>Designing a stress-free experience for patients seeking care</p>
+					<p><a href="/work/mental-health-ux/">View the work &#187;</a></p>
+				</div>
+			</div>
+			<div class="col-6 order-1">
+				<a href="/work/mental-health-ux/">
+					<picture>
+						<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/thumbnail.2x.png">
+						<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/thumbnail.png">
+						<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png"  alt="Mental Health Platform UX, App, and Website Design" loading="lazy">
+					</picture>
+				</a>
+			</div>
 		</section>
 
 		<section class="block spacer-6">
