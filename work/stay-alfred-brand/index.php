@@ -40,7 +40,7 @@
 				<picture>
 					<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/gss-final.png">
 					<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/gss-final.png">
-					<img class="" src="/img/samples/stay-alfred/gss-final.png" alt="Green Suitcase Society logo" loading="lazy">
+					<img class="" src="/img/samples/stay-alfred/gss-final.png" alt="Green Suitcase Society logo" width="640" height="500" loading="lazy">
 				</picture>
 			</div>
 			<div class="col-5 order-1">
@@ -62,7 +62,7 @@
 					<source media="(min-width: 1560px)" srcset="/img/samples/stay-alfred/gss-concepts-r1--1960.jpg">
 					<source media="(min-width: 920px)" srcset="/img/samples/stay-alfred/gss-concepts-r1--1280.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/gss-concepts-r1--640.jpg">
-					<img class="" src="/img/samples/stay-alfred/gss-concepts-r1--1280.jpg" alt="Initial logo concepts" width="100%" height="auto" loading="lazy">
+					<img class="" src="/img/samples/stay-alfred/gss-concepts-r1--1280.jpg" alt="Initial logo concepts" width="1280" height="768" loading="lazy">
 				</picture>
 			</div>
 			<div class="pattern__3-6-3 spacer-6--top">
@@ -76,7 +76,7 @@
 					<source media="(min-width: 1560px)" srcset="/img/samples/stay-alfred/gss-concepts-r2--1960.jpg">
 					<source media="(min-width: 920px)" srcset="/img/samples/stay-alfred/gss-concepts-r2--1280.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/gss-concepts-r2--640.jpg">
-					<img class="" src="/img/samples/stay-alfred/gss-concepts-r2--1280.jpg" alt="Refining initial logo concepts" width="100%" height="auto" loading="lazy">
+					<img class="" src="/img/samples/stay-alfred/gss-concepts-r2--1280.jpg" alt="Refining initial logo concepts" width="1280" height="768" loading="lazy">
 				</picture>
 			</div>
 			<div class="pattern__3-6-3 spacer-6--top">
@@ -90,7 +90,7 @@
 					<picture>
 						<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/gss-concepts-final.jpg">
 						<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/gss-concepts-final-sm.jpg">
-						<img class="shadow rounders" src="/img/samples/stay-alfred/gss-concepts-final.jpg" alt="Green Suitcase Society logo" loading="lazy">
+						<img class="shadow rounders" src="/img/samples/stay-alfred/gss-concepts-final.jpg" width="1280" height="750" alt="Green Suitcase Society logo" loading="lazy">
 					</picture>
 				</div>
 			</div>
@@ -102,7 +102,7 @@
 					<picture>
 						<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/coasters-green-suitcase-society.jpg">
 						<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/coasters-green-suitcase-society--sm.jpg">
-						<img class="" src="/img/samples/stay-alfred/coasters-green-suitcase-society.jpg" alt="Green Suitcase Society Coasters" loading="lazy">
+						<img class="" src="/img/samples/stay-alfred/coasters-green-suitcase-society.jpg" width="1080" height="1080" alt="Green Suitcase Society Coasters" loading="lazy">
 					</picture>
 				</div>
 			</div>

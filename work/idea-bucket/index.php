@@ -55,12 +55,12 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img class="shadow" src="/img/samples/idea-bucket/homepage.jpg" alt="Idea Bucket Homepage" class="img-border">
+				<img class="shadow" src="/img/samples/idea-bucket/homepage.jpg" width="960" height="1006" alt="Idea Bucket Homepage" class="img-border">
 			</div>
 		</section>
 		<section class="block block--narrow">
 			<div class="col-6 order-2">
-				<img class="shadow" src="/img/samples/idea-bucket/idea-detail.jpg" alt="Idea Bucket - Idea Detail Page" class="img-border">
+				<img class="shadow" src="/img/samples/idea-bucket/idea-detail.jpg" width="960" height="1006" alt="Idea Bucket - Idea Detail Page" class="img-border">
 			</div>
 			<div class="col-5 order-1">
 				<div class="inner">

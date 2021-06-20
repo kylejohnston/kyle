@@ -37,13 +37,13 @@
 		<div class="col-5 shim"></div>
 	</section>
 	<article class="content">
-		<section class="block block--narrow spacer-6">
+		<section class="block block--narrow spacer-9--top spacer-6--bottom">
 			<div class="pattern__2-8-2">
 				<div class="inner">
 					<h2>Area of Focus</h2>
-					<img src="/img/samples/mental-health-ux/area-of-focus.jpg" alt="Area of Focus" width="100%" height="auto">
+					<img src="/img/samples/mental-health-ux/area-of-focus.jpg" alt="Area of Focus" width="960" height="384">
 					<p>User Personas and Storymap</p>
-					<img class="frame" src="/img/samples/mental-health-ux/personas-storymap.jpg" alt="User Personas and Storymap" width="100%" height="auto">
+					<img class="frame" src="/img/samples/mental-health-ux/personas-storymap.jpg" alt="User Personas and Storymap" width="960" height="358">
 
 				</div>
 			</div>
@@ -64,7 +64,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/mental-health-ux/mobile-wires-1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/mobile-wires-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/mobile-wires-640.jpg">
-					<img class="" src="/img/samples/mental-health-ux/mobile-wires-1280.jpg" alt="Wireframes, Mobile Web" width="100%" height="auto">
+					<img class="" src="/img/samples/mental-health-ux/mobile-wires-1280.jpg" alt="Wireframes, Mobile Web" width="1280" height="794">
 				</picture>
 			</div>
 		</section>
@@ -83,7 +83,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/mental-health-ux/ia-mobile-web-1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/ia-mobile-web-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/ia-mobile-web-640.jpg">
-					<img class="" src="/img/samples/mental-health-ux/ia-mobile-web-1280.jpg" alt="Information Architecture, Mobile Web" width="100%" height="auto">
+					<img class="" src="/img/samples/mental-health-ux/ia-mobile-web-1280.jpg" alt="Information Architecture, Mobile Web" width="1280" height="710">
 				</picture>
 			</div>
 		</section>
@@ -103,7 +103,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/mental-health-ux/mobile-ui-alt-1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/mobile-ui-alt-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/mobile-ui-alt-640.jpg">
-					<img class="" src="/img/samples/mental-health-ux/mobile-ui-alt-1280.jpg" alt="Visual Design, Mobile Web" width="100%" height="auto">
+					<img class="" src="/img/samples/mental-health-ux/mobile-ui-alt-1280.jpg" alt="Visual Design, Mobile Web" width="1280" height="892">
 				</picture>
 			</div>
 		</section>
@@ -122,7 +122,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/mental-health-ux/desktop-wires-1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/desktop-wires-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/desktop-wires-640.jpg">
-					<img class="" src="/img/samples/mental-health-ux/desktop-wires-1280.jpg" alt="Wireframes, Desktop Web" width="100%" height="auto">
+					<img class="" src="/img/samples/mental-health-ux/desktop-wires-1280.jpg" alt="Wireframes, Desktop Web" width="1280" height="636">
 				</picture>
 			</div>
 		</section>
@@ -141,7 +141,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/mental-health-ux/ia-desktop-web-1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/ia-desktop-web-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/ia-desktop-web-640.jpg">
-					<img class="" src="/img/samples/mental-health-ux/ia-desktop-web-1280.jpg" alt="Information Architecture, Desktop Web" width="100%" height="auto">
+					<img class="" src="/img/samples/mental-health-ux/ia-desktop-web-1280.jpg" alt="Information Architecture, Desktop Web" width="1280" height="1434">
 				</picture>
 			</div>
 		</section>
@@ -161,7 +161,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/mental-health-ux/desktop-ui-alt-1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/desktop-ui-alt-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/desktop-ui-alt-640.jpg">
-					<img class="" src="/img/samples/mental-health-ux/desktop-ui-alt-1280.jpg" alt="Visual Design, Desktop Web" width="100%" height="auto">
+					<img class="" src="/img/samples/mental-health-ux/desktop-ui-alt-1280.jpg" alt="Visual Design, Desktop Web" width="1280" height="1932">
 				</picture>
 			</div>
 		</section>

@@ -37,7 +37,7 @@
 	<article class="content">
 		<section class="block block--wide spacer-9--top">
 			<div class="col-12">
-				<img class="" src="/img/samples/amc/amc-customer-journey.full.png" alt="AMC Customer Journey" width="100%">
+				<img class="" src="/img/samples/amc/amc-customer-journey.full.png" width="1400" height="525" alt="AMC Customer Journey" width="100%">
 			</div>
 		</section>
 		<section class="block block--narrow spacer-6">
@@ -49,7 +49,7 @@
 				</div>
 			</div>
 			<div class="col-7 caption">
-				<img class="shadow thumb" src="/img/samples/amc/amc-journey-presentation.920.jpg" alt="AMC Customer Journey" width="100%">
+				<img class="shadow thumb" src="/img/samples/amc/amc-journey-presentation.920.jpg" width="920" height="517" alt="AMC Customer Journey" width="100%">
 				<p>Ginormous journey map</p>
 			</div>
 		</section>
@@ -62,15 +62,15 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-001.920.jpg" alt="AMC pitch deck examples" width="100%">
+				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-001.920.jpg" width="920" height="518" alt="AMC pitch deck examples" width="100%">
 			</div>
 			<div class="col-4 caption">
-				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-002.600.jpg" alt="Persona example" width="100%">
-				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-003.600.jpg" alt="Persona example" width="100%">
+				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-002.600.jpg" width="600" height="338" alt="Persona example" width="100%">
+				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-003.600.jpg" width="600" height="338" alt="Persona example" width="100%">
 				<p>Customer personae</p>
 			</div>
 			<div class="col-8 caption">
-				<img class="shadow " src="/img/samples/amc/pitch-deck-sample-004.920.jpg" alt="Onboarding flow example" width="100%">
+				<img class="shadow " src="/img/samples/amc/pitch-deck-sample-004.920.jpg" width="920" height="518" alt="Onboarding flow example" width="100%">
 				<p>An overview of the onboarding flow</p>
 			</div>
 			<div class="col-1 shim"></div>
@@ -81,19 +81,19 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-005.920.jpg" alt="Onboarding step example" width="100%">
+				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-005.920.jpg" width="920" height="518" alt="Onboarding step example" width="100%">
 			</div>
 			<!-- <div class="col-1 shim"></div> -->
 			<div class="col-5">
 				<div class="inner">
 					<h3>Just Enough Research</h3>
 					<p>To support our approach, we conducted a survey of moviegoing habits. Using DEG&rsquo;s ~200 associates as a research group, we gained valuable insights into how and why people go to the movies. We then used those insights to further illustrate how AMC could make its email program more relevant to different types of guests. During our discussions, AMC confirmed our internal survey results closely mirrored their national survey data.</p>
-					<img class="shadow spacer-6" src="/img/samples/amc/pitch-deck-sample-006.920.jpg" alt="Research results" width="100%">
+					<img class="shadow spacer-6" src="/img/samples/amc/pitch-deck-sample-006.920.jpg" width="920" height="518" alt="Research results" width="100%">
 				</div>
 			</div>
 			<div class="col-7">
 				<img src="/img/samples/amc/pitch-deck-sample-007.920.jpg" alt="Component examples" width="100%">
-				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-008.920.jpg" alt="Newsletter matrix" width="100%">
+				<img class="shadow" src="/img/samples/amc/pitch-deck-sample-008.920.jpg" width="920" height="518" alt="Newsletter matrix" width="100%">
 			</div>
 		</section>
 		<section class="block block--narrow">

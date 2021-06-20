@@ -37,8 +37,7 @@
 
 	<article class="content">
 		<section class="block spacer-9--top">
-			<div class="col-1 shim"></div>
-			<div class="col-5">
+			<div class="pattern__3-6-3">
 				<div class="inner">
 					<h2>The Challenge</h2>
 					<p>HNC Living, a Kansas City-based nonprofit founded in 2015, has successfully helped more than 1,200 head and neck cancer patients live life fully by funding more than $555,000 in grants for treatment, therapy, and support services.</p>
@@ -46,13 +45,6 @@
 					<p>HNC Living asked flow14 to reimagine their website and give them an effective platform to increase donations, reach more partners and patients, and grow nationally.</p>
 				</div>
 			</div>
-			<div class="col-5">
-					<div class="caption">
-						<img class="frame" src="/img/samples/hnc-living/old-homepage__700.jpg" alt="old homepage" width="100%">
-						<p>The old website</p>
-					</div>
-			</div>
-			<div class="col-1 shim"></div>
 		</section>
 
 	<!-- VISION -->
@@ -64,7 +56,7 @@
 				</div>
 			</div>
 			<div class="col-12">
-				<img class="shadow" src="/img/samples/hnc-living/wireframes__1400.jpg" alt="wireframes" width="100%">
+				<img class="shadow" src="/img/samples/hnc-living/wireframes__1400.jpg" alt="wireframes" width="1400" height="453">
 			</div>
 		</section><!-- /.block .block-wide -->
 	<!-- RESEARCH -->
@@ -78,13 +70,13 @@
 			</div>
 			<div class="col-6">
 					<div class="caption">
-						<img src="/img/samples/hnc-living/research__700.jpg" alt="research" class="frame" width="100%">
+						<img src="/img/samples/hnc-living/research__700.jpg" alt="research" class="frame" width="700" height="305">
 						<p>Researching similar nonprofits</p>
 					</div>
 			</div>
 			<div class="col-6">
 				<div class="caption">
-					<img src="/img/samples/hnc-living/ia-audit__700.jpg" alt="seo and information architecture audit" class="frame" width="100%">
+					<img src="/img/samples/hnc-living/ia-audit__700.jpg" alt="seo and information architecture audit" class="frame" width="700" height="305">
 					<p>Information architecture audit</p>
 				</div>
 			</div>
@@ -99,7 +91,7 @@
 			</div>
 			<div class="col-6">
 					<div class="caption">
-						<img src="/img/samples/hnc-living/copywriting__700.jpg" alt="content and copywriting" class="frame" width="100%">
+						<img src="/img/samples/hnc-living/copywriting__700.jpg" alt="content and copywriting" class="frame" width="700" height="350">
 						<p>Collaborative copywriting</p>
 					</div>
 			</div>
@@ -114,7 +106,7 @@
 				</div>
 			</div>
 			<div class="col-12">
-				<img src="/img/samples/hnc-living/high-fidelity-page-comp__1400.jpg" alt="high fidelity page comps" class="shadow" width="100%">
+				<img src="/img/samples/hnc-living/high-fidelity-page-comp__1400.jpg" alt="high fidelity page comps" class="shadow" width="1400" height="800">
 			</div>
 		</section><!-- /.block .block-wide -->
 
@@ -127,7 +119,7 @@
 				</div>
 			</div>
 			<div class="pattern__3-6-3">
-				<img src="/img/samples/hnc-living/homepage__960.jpg" alt="new homepage design" class="shadow" width="100%">
+				<img src="/img/samples/hnc-living/homepage__960.jpg" alt="new homepage design" class="shadow" width="960" height="1739">
 			</div>
 	<!-- SUBPAGES -->
 			<div class="pattern__3-6-3 spacer-6--top">
@@ -137,10 +129,10 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img src="/img/samples/hnc-living/for-providers__700.jpg" alt="landing page: for healthcare providers" class="shadow" width="100%">
+				<img src="/img/samples/hnc-living/for-providers__700.jpg" alt="landing page: for healthcare providers" class="shadow" width="700" height="1262">
 			</div>
 			<div class="col-6">
-				<img src="/img/samples/hnc-living/for-patients__700.jpg" alt="landing page: for patients" class="shadow" width="100%">
+				<img src="/img/samples/hnc-living/for-patients__700.jpg" alt="landing page: for patients" class="shadow" width="700" height="1256">
 			</div>
 		</section>
 
@@ -154,7 +146,7 @@
 				</div>
 			</div>
 			<div class="col-6">
-				<img src="/img/samples/hnc-living/website-manual__700.jpg" alt="website manual" class="frame" width="100%">
+				<img src="/img/samples/hnc-living/website-manual__700.jpg" alt="website manual" class="frame" width="700" height="350">
 			</div>
 		</section>
 		<section class="block spacer-6">

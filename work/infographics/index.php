@@ -40,7 +40,7 @@
 			</div>
 			<div class="col-5">
 				<div class="inner">
-					<img class="shadow" src="/img/samples/infographics/hnc-living-fall-2018-ad.jpg" alt="HNC Living Infographic" width="100%">
+					<img class="shadow" src="/img/samples/infographics/hnc-living-fall-2018-ad.jpg" alt="HNC Living Infographic" width="1400" height="1903">
 				</div>
 			</div>
 			<div class="col-1 shim"></div>
@@ -61,14 +61,14 @@
 			</div>
 			<!-- <div class="col-1 shim"></div> -->
 			<div class="col-12 spacer-6">
-				<img class="" src="/img/samples/infographics/chord-diagram.jpg" alt="LISC Kansas City Infographic" width="100%">
+				<img class="" src="/img/samples/infographics/chord-diagram.jpg" alt="LISC Kansas City Infographic" width="1954" height="1100">
 			</div>
 			<!-- <div class="col-1 shim"></div> -->
 			<div class="col-6">
-				<img class="" src="/img/samples/infographics/kc-lisc-view.jpg" alt="LISC Kansas City Infographic" width="100%">
+				<img class="" src="/img/samples/infographics/kc-lisc-view.jpg" alt="LISC Kansas City Infographic" width="900" height="717">
 			</div>
 			<div class="col-6">
-				<img class="" src="/img/samples/infographics/service-view.jpg" alt="LISC Kansas City Infographic" width="100%">
+				<img class="" src="/img/samples/infographics/service-view.jpg" alt="LISC Kansas City Infographic" width="900" height="717">
 			</div>
 		</section>
 	</article>

@@ -51,7 +51,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/greensuit.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/greensuit-640.jpg">
-							<img class="" src="/img/samples/stay-alfred/greensuit.jpg" alt="Man in the Green Suit, Desktop Landing Page" loading="lazy">
+							<img class="" src="/img/samples/stay-alfred/greensuit.jpg" width="1100" height="1773" alt="Man in the Green Suit, Desktop Landing Page" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -64,7 +64,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/greensuit-mobile.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/greensuit-mobile.jpg">
-							<img class="" src="/img/samples/stay-alfred/greensuit-mobile.jpg" alt="Man in the Green Suit, Mobile Landing Page" loading="lazy">
+							<img class="" src="/img/samples/stay-alfred/greensuit-mobile.jpg" width="621" height="5438" alt="Man in the Green Suit, Mobile Landing Page" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -116,7 +116,7 @@
 						<picture>
 							<source media="(min-width: 920px)" srcset="/img/samples/stay-alfred/505-email.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/505-email.jpg">
-							<img class="" src="/img/samples/stay-alfred/505-email.jpg" alt="HubSpot RSVP Page" loading="lazy">
+							<img class="" src="/img/samples/stay-alfred/505-email.jpg" width="600" height="992" alt="HubSpot RSVP Page" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -129,7 +129,7 @@
 						<picture>
 							<source media="(min-width: 920px)" srcset="/img/samples/stay-alfred/505-landing-page.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/505-landing-page--640.jpg">
-							<img class="" src="/img/samples/stay-alfred/505-landing-page.jpg" alt="HubSpot RSVP Page" loading="lazy">
+							<img class="" src="/img/samples/stay-alfred/505-landing-page.jpg" width="1080" height="1454" alt="HubSpot RSVP Page" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -140,7 +140,7 @@
 					<picture>
 						<source media="(min-width: 920px)" srcset="/img/samples/stay-alfred/505-vip-badge-4x.jpg">
 						<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/505-vip-badge-3x.jpg">
-						<img class="" src="/img/samples/stay-alfred/505-vip-badge-4x.jpg" alt="VIP Badge" loading="lazy">
+						<img class="" src="/img/samples/stay-alfred/505-vip-badge-4x.jpg" width="864" height="1440" alt="VIP Badge" loading="lazy">
 					</picture>
 				</div>
 			</div>

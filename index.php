@@ -45,12 +45,12 @@
 	<section class="block spacer-9--top pull-5">
 			<div class="col-1 shim"></div>
 			<div class="col-6">
-				<a href="/work/connect/"><img class="thumb" src="img/samples/connect/thumbnail.jpg" alt="Connect Redesign"></a>
+				<a href="/work/connect/"><img class="thumb" src="img/samples/connect/thumbnail.jpg" width="740" height="370" alt="Connect Redesign"></a>
 			</div>
 			<div class="col-4 push-9">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
-					<h2><a href="/work/connect/">Connect</a></h2>
+					<h2><a href="/work/connect/" style="letter-spacing:-.05em;">Connect</a></h2>
 					<p class="spacer-2"><small>Project</small></p>
 					<p>Strengthening a platform with a new UX, UI, branding and marketing to drive growth</p>
 					<p><a href="/work/connect/">Check the results &#187;</a></p>
@@ -96,7 +96,7 @@
 					<picture>
 						<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/thumb.jpg">
 						<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/thumb-sm.jpg">
-						<img class="thumb" src="/img/samples/vmc-group/thumb.jpg"  alt="VMC Group Website Redesign" loading="lazy">
+						<img class="thumb" src="/img/samples/vmc-group/thumb.jpg"  alt="VMC Group Website Redesign" width="740" height="370" loading="lazy">
 					</picture>
 				</a>
 			</div>
@@ -110,7 +110,7 @@
 					<picture>
 						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
 						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
-						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png"  alt="Grocery Buddy App Concept Design and Branding">
+						<img class="thumb" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png" width="740" height="370" alt="Grocery Buddy App Concept Design and Branding">
 					</picture>
 				</a>
 			</div>
@@ -142,7 +142,7 @@
 					<picture>
 						<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/thumbnail.2x.png">
 						<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/thumbnail.png">
-						<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png"  alt="Mental Health Platform UX, App, and Website Design" loading="lazy">
+						<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png" alt="Mental Health Platform UX, App, and Website Design" loading="lazy" width="740" height="370">
 					</picture>
 				</a>
 			</div>

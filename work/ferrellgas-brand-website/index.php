@@ -45,7 +45,7 @@
 			</div>
 			<div class="pattern__2-8-2">
 				<div class="caption">
-					<img class="rounders" src="/img/samples/ferrellgas/brainstorm.920.jpg" width="100%" alt="Scene from a brainstorm">
+					<img class="rounders" src="/img/samples/ferrellgas/brainstorm.920.jpg" width="920" height="482" alt="Scene from a brainstorm">
 					<p>The setting for our workshop</p>
 				</div>
 			</div>
@@ -54,27 +54,27 @@
 		<section class="block block--narrow">
 			<h3 class="col-12">A few slides from our workshop…</h3>
 			<div class="col-4 caption">
-				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-001.600.jpg" alt="Sample workshop slide 1" width="100%">
+				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-001.600.jpg" alt="Sample workshop slide 1" width="600" height="338" >
 				<p>What is design thinking?</p>
 			</div>
 			<div class="col-4 caption">
-				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-002.600.jpg" alt="Sample workshop slide 2" width="100%">
+				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-002.600.jpg" alt="Sample workshop slide 2" width="600" height="338" >
 				<p>Design thinking questions</p>
 			</div>
 			<div class="col-4 caption">
-				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-003.600.jpg" alt="Sample workshop slide 3" width="100%">
+				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-003.600.jpg" alt="Sample workshop slide 3" width="600" height="338" >
 				<p>Exercise 1 &#8211; Empathy maps</p>
 			</div>
 			<div class="col-4 caption">
-				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-004.600.jpg" alt="Sample workshop slide 4" width="100%">
+				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-004.600.jpg" alt="Sample workshop slide 4" width="600" height="338" >
 				<p>Empathy maps results</p>
 			</div>
 			<div class="col-4 caption">
-				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-005.600.jpg" alt="Sample workshop slide 5" width="100%">
+				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-005.600.jpg" alt="Sample workshop slide 5" width="600" height="338" >
 				<p>Exercise 2 &#8211; As-is scenarios</p>
 			</div>
 			<div class="col-4 caption">
-				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-006.600.jpg" alt="Sample workshop slide 6" width="100%">
+				<img class="frame" src="/img/samples/ferrellgas/design-thinking-workshop-006.600.jpg" alt="Sample workshop slide 6" width="600" height="338" >
 				<p>As-is scenario results</p>
 			</div>
 		</section>
@@ -88,14 +88,14 @@
 			</div>
 			<div class="col-6 caption--top">
 				<h3>Old Homepage</h3>
-				<img class="frame" src="/img/samples/ferrellgas/old-homepage.570.jpg" alt="The old Ferrellgas homepage">
+				<img class="frame" src="/img/samples/ferrellgas/old-homepage.570.jpg" width="570" height="533" alt="The old Ferrellgas homepage">
 			</div>
 			<div class="col-6 caption--top">
 				<h3>New Homepage</h3>
-				<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-home.jpg" alt="The new Ferrellgas homepage">
+				<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-home.jpg" width="570" height="786" alt="The new Ferrellgas homepage">
 			</div>
 			<div class="col-4 caption order-2">
-				<img src="/img/samples/ferrellgas/ferrellgas-home-mobile--mockup.jpg" alt="Ferrellgas homepage, mobile">
+				<img src="/img/samples/ferrellgas/ferrellgas-home-mobile--mockup.jpg" width="800" height="1529" alt="Ferrellgas homepage, mobile">
 			</div>
 			<div class="col-1 shim"></div>
 			<div class="col-6 order-1 spacer-3--top">
@@ -116,11 +116,11 @@
 		<section class="block block--narrow">
 			<div class="col-6 caption--top">
 				<div class="inner"><h3>Old Page Layout</h3></div>
-				<img class="frame" src="/img/samples/ferrellgas/old-residential.570.jpg" alt="The old Ferrellgas homepage">
+				<img class="frame" src="/img/samples/ferrellgas/old-residential.570.jpg" width="570" height="533" alt="The old Ferrellgas homepage">
 			</div>
 			<div class="col-6 caption--top">
 				<div class="inner"><h3>New Page Layout</h3></div>
-				<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-residential.jpg" alt="The new Ferrellgas homepage">
+				<img class="shadow" src="/img/samples/ferrellgas/ferrellgas-residential.jpg" width="570" height="829" alt="The new Ferrellgas homepage">
 			</div>
 		</section>
 

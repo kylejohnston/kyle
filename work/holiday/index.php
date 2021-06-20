@@ -45,7 +45,7 @@
 				</div>
 			</div>
 			<div class="col-8">
-				<img src="/img/samples/holiday/holiday-themes.png" alt="Garmin Holiday Campaign Themes">
+				<img src="/img/samples/holiday/holiday-themes.png" width="1200" height="525" alt="Garmin Holiday Campaign Themes">
 			</div>
 		</section>
 
@@ -68,7 +68,7 @@
 		<section class="block block--narrow">
 			<div class="col-1 shim"></div>
 			<div class="col-4 order-2">
-				<img src="/img/samples/holiday/catalog-page-2011.jpg" alt="Garmin.com 2011 Holiday Merchandising Catalog">
+				<img src="/img/samples/holiday/catalog-page-2011.jpg" width="695" height="900" alt="Garmin.com 2011 Holiday Merchandising Catalog">
 			</div>
 			<div class="col-7 order-1 align__center">
 				<div class="inner">
@@ -86,7 +86,7 @@
 				</div>
 			</div>
 			<div class="col-9">
-				<img src="/img/samples/holiday/digital-ads.jpg" alt="Garmin.com Holiday Web Banners">
+				<img src="/img/samples/holiday/digital-ads.jpg" width="1124" height="440" alt="Garmin.com Holiday Web Banners">
 			</div>
 		</section>
 	</article>

@@ -55,7 +55,7 @@
 					<picture>
 						<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/screens_960.jpg">
 						<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/screens_640.jpg">
-						<img class="" src="/img/samples/grocery-buddy/screens_960.jpg" alt="Grocery Buddy App Screens">
+						<img class="" src="/img/samples/grocery-buddy/screens_960.jpg" width="960" height="656" lt="Grocery Buddy App Screens">
 					</picture>
 				</div>
 			</div>
@@ -70,7 +70,7 @@
 				<picture>
 					<source media="(min-width: 920px)" srcset="/img/samples/grocery-buddy/user-flow_lg.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/user-flow_sm.jpg">
-					<img class="" src="/img/samples/grocery-buddy/user-flow_sm.jpg" alt="Grocery Buddy App User Flow">
+					<img class="" src="/img/samples/grocery-buddy/user-flow_sm.jpg" width="1000" height="622" alt="Grocery Buddy App User Flow">
 				</picture>
 			</div>
 		</section>
@@ -83,21 +83,21 @@
 				<picture>
 					<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/sketches-01.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/sketches-01_sm.jpg">
-					<img class="frame roundy" src="/img/samples/grocery-buddy/sketches-01.jpg"  alt="Grocery Buddy App Concept Sketches">
+					<img class="frame roundy" src="/img/samples/grocery-buddy/sketches-01.jpg" width="1000" height="1250" alt="Grocery Buddy App Concept Sketches">
 				</picture>
 			</div>
 			<div class="col-4">
 				<picture>
 					<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/sketches-02.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/sketches-02_sm.jpg">
-					<img class="frame roundy" src="/img/samples/grocery-buddy/sketches-02.jpg"  alt="Grocery Buddy App Concept Sketches">
+					<img class="frame roundy" src="/img/samples/grocery-buddy/sketches-02.jpg" width="1000" height="1250" alt="Grocery Buddy App Concept Sketches">
 				</picture>
 			</div>
 			<div class="col-4">
 				<picture>
 					<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/sketches-03.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/sketches-03_sm.jpg">
-					<img class="frame roundy" src="/img/samples/grocery-buddy/sketches-03.jpg"  alt="Grocery Buddy App Concept Sketches">
+					<img class="frame roundy" src="/img/samples/grocery-buddy/sketches-03.jpg" width="1000" height="1286" alt="Grocery Buddy App Concept Sketches">
 				</picture>
 			</div>
 		</section>
@@ -115,7 +115,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/grocery-buddy/screens_1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/screens_960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/screens_640.jpg">
-					<img class="" src="/img/samples/grocery-buddy/screens_1280.jpg" alt="Grocery Buddy App Prototype - Wiring in Figma">
+					<img class="" src="/img/samples/grocery-buddy/screens_1280.jpg" width="1280" height="753" alt="Grocery Buddy App Prototype - Wiring in Figma">
 				</picture>
 			</div>
 		</section>
@@ -132,7 +132,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/grocery-buddy/prototype-wiring_1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/prototype-wiring_960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/prototype-wiring_640.jpg">
-					<img class="" src="/img/samples/grocery-buddy/prototype-wiring_1280.jpg" alt="Grocery Buddy App Prototype - Wiring in Figma">
+					<img class="" src="/img/samples/grocery-buddy/prototype-wiring_1280.jpg" width="1280" height="1119" alt="Grocery Buddy App Prototype - Wiring in Figma">
 				</picture>
 			</div>
 		</section>
@@ -149,7 +149,7 @@
 					<source media="(min-width: 920px)" srcset="/img/samples/grocery-buddy/icon-dev_1280.jpg">
 					<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/icon-dev_960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/icon-dev_640.jpg">
-					<img class="" src="/img/samples/grocery-buddy/icon-dev_1280.jpg" alt="Grocery Buddy Icon Development - Wiring in Figma">
+					<img class="" src="/img/samples/grocery-buddy/icon-dev_1280.jpg" width="1280" height="254" alt="Grocery Buddy Icon Development - Wiring in Figma">
 				</picture>
 			</div>
 		</section>

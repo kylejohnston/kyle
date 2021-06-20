@@ -61,7 +61,7 @@
           <source srcset="/img/samples/qwally/user-flow-story.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/user-flow-story.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/user-flow-story.sm.jpg">
-          <img class="frame" src="/img/samples/qwally/user-flow-story.jpg" width="100%" height="auto" alt="User story." loading="lazy">
+          <img class="frame" src="/img/samples/qwally/user-flow-story.jpg" width="960" height="528" alt="User story." loading="lazy">
         </picture>
 			</div>
 			<div class="col-5">
@@ -70,7 +70,7 @@
           <source srcset="/img/samples/qwally/user-journey-01.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/user-journey-01.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/user-journey-01.sm.jpg">
-          <img class="" src="/img/samples/qwally/user-journey-01.jpg" width="100%" height="auto" alt="User story and user flow diagram." loading="lazy">
+          <img class="" src="/img/samples/qwally/user-journey-01.jpg" width="960" height="528" alt="User story and user flow diagram." loading="lazy">
         </picture>
 			</div>
 			<div class="col-1 shim"></div>
@@ -81,7 +81,7 @@
           <source srcset="/img/samples/qwally/user-journey-02.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/user-journey-02.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/user-journey-02.sm.jpg">
-          <img class="" src="/img/samples/qwally/user-journey-02.jpg" width="100%" height="auto" alt="Qwally meeting with Mobile Alabama city officials." loading="lazy">
+          <img class="" src="/img/samples/qwally/user-journey-02.jpg" width="960" height="528" alt="Qwally meeting with Mobile Alabama city officials." loading="lazy">
         </picture>
 				<p class="caption">Qwally meeting with Mobile, AL City Officials</p>
 			</div>
@@ -101,7 +101,7 @@
           <source srcset="/img/samples/qwally/user-flow-01.jpg" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/user-flow-01.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/user-flow-01.sm.png">
-          <img class="frame" src="/img/samples/qwally/user-flow-01.png" width="100%" height="auto" alt="Sample user flow." loading="lazy">
+          <img class="frame" src="/img/samples/qwally/user-flow-01.png" width="960" height="540" alt="Sample user flow." loading="lazy">
         </picture>
 			</div>
 			<div class="col-6">
@@ -111,7 +111,7 @@
           <source srcset="/img/samples/qwally/user-flow-02.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/user-flow-02.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/user-flow-02.sm.png">
-          <img class="" src="/img/samples/qwally/user-flow-02.png" width="100%" height="auto" alt="Wireframe: referral dashboard." loading="lazy">
+          <img class="" src="/img/samples/qwally/user-flow-02.png" width="960" height="768" alt="Wireframe: referral dashboard." loading="lazy">
         </picture>
 				</div>
 			</div>
@@ -121,7 +121,7 @@
           <source srcset="/img/samples/qwally/user-flow-03.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/user-flow-03.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/user-flow-03.sm.png">
-          <img class="" src="/img/samples/qwally/user-flow-03.png" width="100%" height="auto" alt="Wireframes: referral emails" loading="lazy">
+          <img class="" src="/img/samples/qwally/user-flow-03.png" width="960" height="768" alt="Wireframes: referral emails" loading="lazy">
         </picture>
 			</div>
 		</section>
@@ -139,7 +139,7 @@
           <source srcset="/img/samples/qwally/wireframe-dashboard-01.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/wireframe-dashboard-01.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/wireframe-dashboard-01.sm.jpg">
-          <img class="frame" src="/img/samples/qwally/wireframe-dashboard-01.png" width="100%" height="auto" alt="Wireframe: dashboard concept 1." loading="lazy">
+          <img class="frame" src="/img/samples/qwally/wireframe-dashboard-01.png" width="960" height="640" alt="Wireframe: dashboard concept 1." loading="lazy">
         </picture>
 			</div>
 			<div class="col-6">
@@ -148,7 +148,7 @@
           <source srcset="/img/samples/qwally/wireframe-dashboard-02.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/wireframe-dashboard-02.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/wireframe-dashboard-02.sm.jpg">
-          <img class="frame" src="/img/samples/qwally/wireframe-dashboard-02.png" width="100%" height="auto" alt="Wireframe: dashboard concept 2." loading="lazy">
+          <img class="frame" src="/img/samples/qwally/wireframe-dashboard-02.png" width="960" height="640" alt="Wireframe: dashboard concept 2." loading="lazy">
         </picture>
 			</div>
 			<div class="col-6">
@@ -157,7 +157,7 @@
           <source srcset="/img/samples/qwally/wireframe-dashboard-03.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/wireframe-dashboard-03.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/wireframe-dashboard-03.sm.png">
-          <img class="frame" src="/img/samples/qwally/wireframe-dashboard-03.png" width="100%" height="auto" alt="Wireframe: dashboard concept 3." loading="lazy">
+          <img class="frame" src="/img/samples/qwally/wireframe-dashboard-03.png" width="960" height="640" alt="Wireframe: dashboard concept 3." loading="lazy">
         </picture>
 			</div>
 			<div class="col-6">
@@ -166,7 +166,7 @@
           <source srcset="/img/samples/qwally/wireframe-dashboard-04.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/wireframe-dashboard-04.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/wireframe-dashboard-04.sm.jpg">
-          <img class="frame" src="/img/samples/qwally/wireframe-dashboard-04.png" width="100%" height="auto" alt="Wireframe: dashboard concept 4." loading="lazy">
+          <img class="frame" src="/img/samples/qwally/wireframe-dashboard-04.png" width="960" height="640" alt="Wireframe: dashboard concept 4." loading="lazy">
         </picture>
 			</div>
 			<div class="col-3 shim"></div>
@@ -179,7 +179,7 @@
 					<source srcset="/img/samples/qwally/wireframe-page.png" media="(min-width: 63em)">
 					<source srcset="/img/samples/qwally/wireframe-page.sm.webp" type="image/webp">
 					<source srcset="/img/samples/qwally/wireframe-page.sm.png">
-					<img class="" src="/img/samples/qwally/wireframe-page.png" width="100%" height="auto" alt="Wireframe: public-facing webpage." loading="lazy" />
+					<img class="" src="/img/samples/qwally/wireframe-page.png" width="960" height="2149" alt="Wireframe: public-facing webpage." loading="lazy" />
 				</picture>
 			</div>
 			<div class="col-3 shim"></div>
@@ -200,7 +200,7 @@
           <source srcset="/img/samples/qwally/quick-start-wire-01.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/quick-start-wire-01.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/quick-start-wire-01.sm.png">
-          <img class="" src="/img/samples/qwally/quick-start-wire-01.png" width="100%" height="auto" alt="Wireframe: Quick Start Plan, screen 1." loading="lazy">
+          <img class="" src="/img/samples/qwally/quick-start-wire-01.png" width="960" height="618" alt="Wireframe: Quick Start Plan, screen 1." loading="lazy">
         </picture>
 			</div>
 			<div class="col-6">
@@ -209,7 +209,7 @@
           <source srcset="/img/samples/qwally/quick-start-wire-02.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/quick-start-wire-02.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/quick-start-wire-02.sm.png">
-          <img class="" src="/img/samples/qwally/quick-start-wire-02.png" width="100%" height="auto" alt="Wireframe: Quick Start Plan, screen 2." loading="lazy">
+          <img class="" src="/img/samples/qwally/quick-start-wire-02.png" width="960" height="618" alt="Wireframe: Quick Start Plan, screen 2." loading="lazy">
         </picture>
 			</div>
 			<div class="col-6">
@@ -218,7 +218,7 @@
           <source srcset="/img/samples/qwally/quick-start-01.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/quick-start-01.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/quick-start-01.sm.png">
-          <img class="shadow" src="/img/samples/qwally/quick-start-01.png" width="100%" height="auto" alt="Visual Design: Quick Start Plan welcome screen." loading="lazy">
+          <img class="shadow" src="/img/samples/qwally/quick-start-01.png" width="960" height="526" alt="Visual Design: Quick Start Plan welcome screen." loading="lazy">
         </picture>
 			</div>
 			<div class="col-6">
@@ -227,7 +227,7 @@
           <source srcset="/img/samples/qwally/quick-start-02.png" media="(min-width: 50em)">
           <source srcset="/img/samples/qwally/quick-start-02.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/quick-start-02.sm.png">
-          <img class="shadow" src="/img/samples/qwally/quick-start-02.png" width="100%" height="auto" alt="Visual Design: Quick Start Plan question screen." loading="lazy">
+          <img class="shadow" src="/img/samples/qwally/quick-start-02.png" width="960" height="526" alt="Visual Design: Quick Start Plan question screen." loading="lazy">
         </picture>
 			</div>
 		</section>
@@ -247,7 +247,7 @@
           <source srcset="/img/samples/qwally/portal.jpg" media="(min-width: 63em)">
           <source srcset="/img/samples/qwally/portal.sm.webp" type="image/webp">
           <source srcset="/img/samples/qwally/portal.sm.jpg">
-          <img class="shadow" src="/img/samples/qwally/portal.jpg" width="100%" height="auto" alt="Work with Mobile portal design." loading="lazy" />
+          <img class="shadow" src="/img/samples/qwally/portal.jpg" width="960" height="1341" alt="Work with Mobile portal design." loading="lazy" />
         </picture>
 			</div>
 		</section>

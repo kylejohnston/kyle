@@ -48,7 +48,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-home.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-home-640.jpg">
-							<img class="" src="/img/samples/vmc-group/site-home.jpg" alt="VMC Group Homepage" loading="lazy">
+							<img class="" src="/img/samples/vmc-group/site-home.jpg" width="960" height="3169" alt="VMC Group Homepage" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -61,7 +61,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-home-mobile.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-home-mobile.jpg">
-							<img class="" src="/img/samples/vmc-group/site-home-mobile.jpg" alt="VMC Group Homepage, mobile" loading="lazy">
+							<img class="" src="/img/samples/vmc-group/site-home-mobile.jpg" width="375" height="4195" alt="VMC Group Homepage, mobile" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -88,7 +88,7 @@
 					<source media="(min-width: 1240px)" srcset="/img/samples/vmc-group/site-home-old-1440.jpg">
 					<source media="(min-width: 720px)" srcset="/img/samples/vmc-group/site-home-old-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-home-old-640.jpg">
-					<img class="spacer-7--bottom frame" src="/img/samples/vmc-group/site-home-old-2160.jpg" alt="VMC Group Homepage, Before" width="100%" height="auto" loading="lazy">
+					<img class="spacer-7--bottom frame" src="/img/samples/vmc-group/site-home-old-960.jpg" width="960" height="813" alt="VMC Group Homepage, Before" width="100%" height="auto" loading="lazy">
 				</picture>
 			</div>
 			<div class="col-6">
@@ -97,7 +97,7 @@
 					<source media="(min-width: 1240px)" srcset="/img/samples/vmc-group/sitemap-1440.jpg">
 					<source media="(min-width: 720px)" srcset="/img/samples/vmc-group/sitemap-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/sitemap-640.jpg">
-					<img class="spacer-7--bottom frame" src="/img/samples/vmc-group/sitemap-2160.jpg" alt="Original IA" width="100%" height="auto" loading="lazy">
+					<img class="spacer-7--bottom frame" src="/img/samples/vmc-group/sitemap-960.jpg" alt="Original IA" width="960" height="436" loading="lazy">
 				</picture>
 			</div>
 			<div class="col-1 shim"></div>
@@ -107,7 +107,7 @@
 					<source media="(min-width: 1240px)" srcset="/img/samples/vmc-group/sitemap-new-1440.jpg">
 					<source media="(min-width: 720px)" srcset="/img/samples/vmc-group/sitemap-new-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/sitemap-new-640.jpg">
-					<img class="frame" src="/img/samples/vmc-group/sitemap-new-2160.jpg" alt="Original IA" width="100%" height="auto" loading="lazy">
+					<img class="frame" src="/img/samples/vmc-group/sitemap-new-1440.jpg" alt="New IA" width="1440" height="655" loading="lazy">
 				</picture>
 			</div>
 			<div class="col-1 shim"></div>
@@ -126,13 +126,13 @@
 					<source media="(min-width: 1240px)" srcset="/img/samples/vmc-group/mockups-1440.jpg">
 					<source media="(min-width: 720px)" srcset="/img/samples/vmc-group/mockups-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/mockups-640.jpg">
-					<img class="spacer-7--bottom" src="/img/samples/vmc-group/mockups-2160.jpg" alt="Page Concepts" width="100%" height="auto" loading="lazy">
+					<img class="spacer-7--bottom" src="/img/samples/vmc-group/mockups-1440.jpg" alt="Page Concepts" width="1440" height="900" loading="lazy">
 				</picture>
 				<picture>
 					<source media="(min-width: 1240px)" srcset="/img/samples/vmc-group/wires-1440.jpg">
 					<source media="(min-width: 720px)" srcset="/img/samples/vmc-group/wires-960.jpg">
 					<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/wires-640.jpg">
-					<img class="" src="/img/samples/vmc-group/wires-2160.jpg" alt="Wireframes" width="100%" height="auto" loading="lazy">
+					<img class="" src="/img/samples/vmc-group/wires-1440.jpg" alt="Wireframes" width="1440" height="908" loading="lazy">
 				</picture>
 			</div>
 		</section>
@@ -155,7 +155,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-product.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-product-640.jpg">
-							<img class="" src="/img/samples/vmc-group/site-product.jpg" alt="VMC Group Product Page" loading="lazy">
+							<img class="" src="/img/samples/vmc-group/site-product.jpg" width="960" height="1961" alt="VMC Group Product Page" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -168,7 +168,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-product-mobile.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-product-mobile.jpg">
-							<img class="" src="/img/samples/vmc-group/site-product-mobile.jpg" alt="VMC Group Product Page, mobile" loading="lazy">
+							<img class="" src="/img/samples/vmc-group/site-product-mobile.jpg" width="750" height="8272" alt="VMC Group Product Page, mobile" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -186,7 +186,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-services.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-services-640.jpg">
-							<img class="" src="/img/samples/vmc-group/site-services.jpg" alt="VMC Group Services Page" loading="lazy">
+							<img class="" src="/img/samples/vmc-group/site-services.jpg" width="960" height="2959" alt="VMC Group Services Page" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -199,7 +199,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-services-mobile.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-services-mobile.jpg">
-							<img class="" src="/img/samples/vmc-group/site-services-mobile.jpg" alt="VMC Group Services Page, mobile" loading="lazy">
+							<img class="" src="/img/samples/vmc-group/site-services-mobile.jpg" width="750" height="6876" alt="VMC Group Services Page, mobile" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -217,7 +217,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-company.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-company-640.jpg">
-							<img class="" src="/img/samples/vmc-group/site-company.jpg" alt="VMC Group Company Page" loading="lazy">
+							<img class="" src="/img/samples/vmc-group/site-company.jpg" width="960" height="4443" alt="VMC Group Company Page" loading="lazy">
 						</picture>
 					</div>
 				</div>
@@ -230,7 +230,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/site-company-mobile.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/site-company-mobile.jpg">
-							<img class="" src="/img/samples/vmc-group/site-company-mobile.jpg" alt="VMC Group Companyh Page, mobile" loading="lazy">
+							<img class="" src="/img/samples/vmc-group/site-company-mobile.jpg" width="750" height="16580" alt="VMC Group Companyh Page, mobile" loading="lazy">
 						</picture>
 					</div>
 				</div>

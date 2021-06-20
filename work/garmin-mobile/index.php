@@ -61,19 +61,19 @@
 				</div>
 			</div>
 			<div class="col-6 caption">
-				<img src="/img/samples/garmin-mobile/wireframes-product-checkout.jpg" alt="Garmin.com Mobile Wireframes">
+				<img src="/img/samples/garmin-mobile/wireframes-product-checkout.jpg" width="960" height="900" alt="Garmin.com Mobile Wireframes">
 				<p class="flex-caption">Wireframes: Product Page and Cart</p>
 			</div>
 			<div class="col-6 caption">
-				<img  src="/img/samples/garmin-mobile/wireframes-checkout-01.jpg" alt="Garmin.com Mobile Wireframes">
+				<img  src="/img/samples/garmin-mobile/wireframes-checkout-01.jpg" width="960" height="900" alt="Garmin.com Mobile Wireframes">
 				<p class="flex-caption">Wireframes: Checkout Flow</p>
 			</div>
 			<div class="col-6 caption">
-				<img  src="/img/samples/garmin-mobile/wireframes-checkout-02.jpg" alt="Garmin.com Mobile Wireframes">
+				<img  src="/img/samples/garmin-mobile/wireframes-checkout-02.jpg" width="960" height="900" alt="Garmin.com Mobile Wireframes">
 				<p class="flex-caption">Wireframes: Checkout Flow</p>
 			</div>
 			<div class="col-6 caption">
-				<img src="/img/samples/garmin-mobile/product-page-and-cart.jpg" alt="Garmin.com Mobile Product Page and Shopping Cart">
+				<img src="/img/samples/garmin-mobile/product-page-and-cart.jpg" width="960" height="900" alt="Garmin.com Mobile Product Page and Shopping Cart">
 				<p class="flex-caption">Product Page &amp; Shopping Cart</p>
 			</div>
 		</section>

@@ -25,7 +25,7 @@
 	<article class="content">
 		<section class="block block--wide pull-7">
 			<div class="col-10">
-				<img src="/img/kyle-johnston.jpg" alt="Kyle Johnston">
+				<img src="/img/kyle-johnston.jpg" width="1400" height="700" alt="Kyle Johnston">
 			</div>
 			<div class="col-2 shim"></div>
 		</section>

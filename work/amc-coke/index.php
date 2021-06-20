@@ -52,7 +52,7 @@
 				</div>
 			</div>
 			<div class="col-6 caption">
-				<img class="shadow rounders" src="/img/samples/amc/hdydfk.920.jpg" alt="How do you do, fellow kids?" width="100%">
+				<img class="shadow rounders" src="/img/samples/amc/hdydfk.920.jpg" width="920" height="613" alt="How do you do, fellow kids?" width="100%">
 				<div class="inner">
 					<p>Our advice: avoid this scenario.</p>
 				</div>
@@ -61,11 +61,11 @@
 
 		<section class="block block--narrow">
 			<div class="col-9 caption">
-				<img class="shadow rounders" src="/img/samples/amc/coke-recapture-idea.920.jpg" alt="AMC pitch description" width="100%">
+				<img class="shadow rounders" src="/img/samples/amc/coke-recapture-idea.920.jpg" width="920" height="518" alt="AMC pitch description" width="100%">
 				<p>Mockups illustrating the voice and visuals</p>
 			</div>
 			<div class="col-3 caption">
-				<img class="shadow rounders" src="/img/samples/amc/image21-47.gif" alt="AMC pitch description" width="100%">
+				<img class="shadow rounders" src="/img/samples/amc/image21-47.gif" width="1800" height="1800" alt="AMC pitch description" width="100%">
 			</div>
 		</section>
 
@@ -83,7 +83,7 @@
 				</div>
 			</div>
 			<div class="col-4">
-				<img class="shadow rounders" src="/img/samples/amc/image14-33.gif" alt="AMC pitch description" width="100%">
+				<img class="shadow rounders" src="/img/samples/amc/image14-33.gif" width="500" height="500" alt="AMC pitch description" width="100%">
 			</div>
 		</section>
 	</article>

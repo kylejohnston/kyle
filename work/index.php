@@ -43,7 +43,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/right-triangle/thumb.2x.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/right-triangle/thumb.jpg">
-							<img class="thumb spacer-2--bottom" src="/img/samples/right-triangle/thumb.2x.jpg"  alt="Right Triangle Branding and Design" loading="lazy">
+							<img class="thumb spacer-2--bottom" src="/img/samples/right-triangle/thumb.2x.jpg" width="740" height="370" alt="Right Triangle Branding and Design" loading="lazy">
 						</picture>
 					</a>
 					<h3>Right Triangle</h3>
@@ -56,7 +56,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/qwally/thumb.2x.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/qwally/thumb.jpg">
-							<img class="thumb spacer-2--bottom" src="/img/samples/qwally/thumb.2x.jpg"  alt="Qwally UX and Website Design" loading="lazy">
+							<img class="thumb spacer-2--bottom" src="/img/samples/qwally/thumb.2x.jpg" width="740" height="370" alt="Qwally UX and Website Design" loading="lazy">
 						</picture>
 					</a>
 					<h3>Qwally</h3>
@@ -69,7 +69,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/vmc-group/thumb.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/vmc-group/thumb-sm.jpg">
-							<img class="thumb spacer-2--bottom" src="/img/samples/vmc-group/thumb.jpg"  alt="VMC Group Website Redesign" loading="lazy">
+							<img class="thumb spacer-2--bottom" src="/img/samples/vmc-group/thumb.jpg" width="740" height="370" alt="VMC Group Website Redesign" loading="lazy">
 						</picture>
 					</a>
 					<h3>VMC Group</h3>
@@ -82,7 +82,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/thumbnail.2x.png">
 							<source media="(min-width: 280px)" srcset="/img/samples/mental-health-ux/thumbnail.png">
-							<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png"  alt="Mental Health App UX design" loading="lazy">
+							<img class="thumb spacer-2--bottom" src="/img/samples/mental-health-ux/thumbnail.2x.png" width="740" height="370" alt="Mental Health App UX design" loading="lazy">
 						</picture>
 					</a>
 					<h3>Mental Health Platform</h3>
@@ -95,7 +95,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.2x.png">
 							<source media="(min-width: 280px)" srcset="/img/samples/grocery-buddy/thumbnail-alt.png">
-							<img class="thumb spacer-2--bottom" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png" alt="Grocery Buddy App Concept Design and Branding" loading="lazy">
+							<img class="thumb spacer-2--bottom" src="/img/samples/grocery-buddy/thumbnail-alt.2x.png" width="740" height="370" alt="Grocery Buddy App Concept Design and Branding" loading="lazy">
 						</picture>
 					</a>
 					<h3>Grocery Buddy</h3>
@@ -104,14 +104,14 @@
 			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/hnc-living-foundation/"><img class="thumb frame spacer-2--bottom" src="/img/samples/hnc-living/thumbnail.jpg" alt="HNC Living Website Redesign" loading="lazy"></a>
+					<a href="/work/hnc-living-foundation/"><img class="thumb frame spacer-2--bottom" src="/img/samples/hnc-living/thumbnail.jpg" width="740" height="370" alt="HNC Living Website Redesign" loading="lazy"></a>
 					<h3>HNC Living Foundation</h3>
 					<p><a href="/work/hnc-living-foundation/">Website redesign</a></p>
 				</div>
 			</div>
 			<!-- <div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/infographics/"><img class="thumb frame spacer-2--bottom" src="/img/samples/infographics/thumbnail-alt.jpg" alt="Infographics" loading="lazy"></a>
+					<a href="/work/infographics/"><img class="thumb frame spacer-2--bottom" src="/img/samples/infographics/thumbnail-alt.jpg" width="740" height="370" alt="Infographics" loading="lazy"></a>
 					<h3>Infographics</h3>
 					<p><a href="/work/infographics/">Visualizing data</a></p>
 				</div>
@@ -128,7 +128,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/thumb-brand.png">
 							<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/thumb-brand-sm.png">
-							<img class="thumb frame spacer-2--bottom" src="/img/samples/stay-alfred/thumb-brand.png"  alt="Stay Alfred Brand Development" loading="lazy">
+							<img class="thumb frame spacer-2--bottom" src="/img/samples/stay-alfred/thumb-brand.png" width="740" height="370" alt="Stay Alfred Brand Development" loading="lazy">
 						</picture>
 					</a>
 					<h3>Brand Development</h3>
@@ -141,7 +141,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/thumb-marketing.png">
 							<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/thumb-marketing-sm.png">
-							<img class="thumb frame spacer-2--bottom" src="/img/samples/stay-alfred/thumb-marketing.png"  alt="Stay Alfred Marketing Promotions" loading="lazy">
+							<img class="thumb frame spacer-2--bottom" src="/img/samples/stay-alfred/thumb-marketing.png" width="740" height="370" alt="Stay Alfred Marketing Promotions" loading="lazy">
 						</picture>
 					</a>
 					<h3>Marketing Promotions</h3>
@@ -154,7 +154,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/stay-alfred/thumb-website.png">
 							<source media="(min-width: 280px)" srcset="/img/samples/stay-alfred/thumb-website-sm.png">
-							<img class="thumb frame spacer-2--bottom" src="/img/samples/stay-alfred/thumb-website.png"  alt="Stay Alfred website design and development" loading="lazy">
+							<img class="thumb frame spacer-2--bottom" src="/img/samples/stay-alfred/thumb-website.png" width="740" height="370" alt="Stay Alfred website design and development" loading="lazy">
 						</picture>
 					</a>
 					<h3>StayAlfred.com</h3>
@@ -176,14 +176,14 @@
 			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/amc-coke/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail03.2x.jpg" alt="Social campaign for AMC Theatres and Coke" loading="lazy"></a>
+					<a href="/work/amc-coke/"><img class="thumb spacer-2--bottom" src="/img/samples/amc/thumbnail03.2x.jpg" width="740" height="370" alt="Social campaign for AMC Theatres and Coke" loading="lazy"></a>
 					<h3>AMC &amp; Coke</h3>
 					<p><a href="/work/amc-coke/">Cross-channel campaign</a></p>
 				</div>
 			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/ferrellgas-brand-website/"><img class="thumb spacer-2--bottom" src="/img/samples/ferrellgas/thumbnail.2x.jpg" alt="Ferrellgas Website Redesign" loading="lazy"></a>
+					<a href="/work/ferrellgas-brand-website/"><img class="thumb spacer-2--bottom" src="/img/samples/ferrellgas/thumbnail.2x.jpg" width="740" height="370" alt="Ferrellgas Website Redesign" loading="lazy"></a>
 					<h3>Ferrellgas</h3>
 					<p><a href="/work/ferrellgas-brand-website/">Brand evolution &amp; website redesign</a></p>
 				</div>
@@ -196,35 +196,35 @@
 			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center;">GARMIN <span style="font-size:22px;color:#BCBCBC;">IN-HOUSE</span></div></h2>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/connect/"><img class="thumb spacer-2--bottom" src="/img/samples/connect/thumbnail.jpg" alt="Connect Redesign" loading="lazy"></a>
+					<a href="/work/connect/"><img class="thumb spacer-2--bottom" src="/img/samples/connect/thumbnail.jpg" width="740" height="370" alt="Connect Redesign" loading="lazy"></a>
 					<h3>Connect Redesign</h3>
 					<p><a href="/work/connect/">UX, UI, Style Guide, Branding</a></p>
 				</div>
 			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/career-path/"><img class="thumb spacer-2--bottom" src="/img/samples/career-path/thumbnail.alt.jpg" alt="Career Path Framework" loading="lazy"></a>
+					<a href="/work/career-path/"><img class="thumb spacer-2--bottom" src="/img/samples/career-path/thumbnail.alt.jpg" width="740" height="370" alt="Career Path Framework" loading="lazy"></a>
 					<h3>Career Paths</h3>
 					<p><a href="/work/career-path/">Planning &amp; design</a></p>
 				</div>
 			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/garmin-mobile/"><img class="thumb spacer-2--bottom"  src="/img/samples/garmin-mobile/thumbnail.2x.jpg" alt="Garmin.com Mobile Website" loading="lazy"></a>
+					<a href="/work/garmin-mobile/"><img class="thumb spacer-2--bottom" src="/img/samples/garmin-mobile/thumbnail.2x.jpg" width="740" height="370" alt="Garmin.com Mobile Website" loading="lazy"></a>
 					<h3>Garmin.com</h3>
 					<p><a href="/work/garmin-mobile/">Mobile-Optimized ecommerce design</a></p>
 				</div>
 			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/idea-bucket/"><img class="thumb spacer-2--bottom" src="/img/samples/idea-bucket/thumbnail.2x.jpg" alt="Idea Bucket Website" loading="lazy"></a>
+					<a href="/work/idea-bucket/"><img class="thumb spacer-2--bottom" src="/img/samples/idea-bucket/thumbnail.2x.jpg" width="740" height="370" alt="Idea Bucket Website" loading="lazy"></a>
 					<h3>Idea Bucket</h3>
 					<p><a href="/work/idea-bucket/">Company innovation website design &amp; development</a></p>
 				</div>
 			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/holiday/"><img class="thumb spacer-2--bottom" src="/img/samples/holiday/thumbnail.2x.jpg" alt="Give-a-Garmin Holiday Campaigns" loading="lazy"></a>
+					<a href="/work/holiday/"><img class="thumb spacer-2--bottom" src="/img/samples/holiday/thumbnail.2x.jpg" width="740" height="370" alt="Give-a-Garmin Holiday Campaigns" loading="lazy"></a>
 					<h3>Holiday Campaigns</h3>
 					<p><a href="/work/holiday/">&#x266B; Give-a, Give-a, Give-a, Give-a-Garmin &#x266B;</a></p>
 				</div>
@@ -232,7 +232,7 @@
 
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/nuvifone/"><img class="thumb spacer-2--bottom" src="/img/samples/nuvifone/thumbnail_alt.2x.jpg" alt="nuvifone launch campaign" loading="lazy"></a>
+					<a href="/work/nuvifone/"><img class="thumb spacer-2--bottom" src="/img/samples/nuvifone/thumbnail_alt.2x.jpg" width="740" height="370" alt="nuvifone launch campaign" loading="lazy"></a>
 					<h3>n&uuml;vifone</h3>
 					<p><a href="/work/nuvifone/">Brand development &amp; product launch</a></p>
 				</div>
@@ -245,14 +245,14 @@
 			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center">PERSONAL WORK</div></h2>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="https://memex.flow14.com/"><img class="thumb spacer-2--bottom" src="/img/samples/memex/thumbnail.jpg" alt="MEMEX" loading="lazy"></a>
+					<a href="https://memex.flow14.com/"><img class="thumb spacer-2--bottom" src="/img/samples/memex/thumbnail.jpg" width="740" height="370" alt="MEMEX" loading="lazy"></a>
 					<h3>MEMEX</h3>
 					<p><a href="https://memex.flow14.com/">A tool for collecting visual inspiration</a> ↗</p>
 				</div>
 			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/iphone-365-project/"><img class="thumb spacer-2--bottom" src="/img/samples/iphone-365/thumb-2017.2x.jpg" alt="iPhone 365 Project" loading="lazy"></a>
+					<a href="/work/iphone-365-project/"><img class="thumb spacer-2--bottom" src="/img/samples/iphone-365/thumb-2017.2x.jpg" width="740" height="370" alt="iPhone 365 Project" loading="lazy"></a>
 					<h3>365 Project</h3>
 					<p><a href="/work/iphone-365-project/">A photo a day. Every day. Since 2009.</a></p>
 				</div>

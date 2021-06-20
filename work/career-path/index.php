@@ -64,7 +64,7 @@
 				</div>
 			</div>
 			<div class="col-6 caption">
-				<img class="shadow" src="/img/samples/career-path/career-lattice.920.jpg" alt="Career Lattice" width="100%">
+				<img class="shadow" src="/img/samples/career-path/career-lattice.920.jpg" alt="Career Lattice" width="920" height="595">
 				<p>The Career Lattice</p>
 			</div>
 			<div class="pattern__3-6-3">
@@ -75,7 +75,7 @@
 			</div>
 			<div class="pattern__2-8-2">
 				<div class="caption">
-					<img class="shadow" src="/img/samples/career-path/maker-career-path-demo.920.jpg" alt="Career Path" width="100%">
+					<img class="shadow" src="/img/samples/career-path/maker-career-path-demo.920.jpg" alt="Career Path" width="920" height="551">
 					<p>&ldquo;Maker&rdquo; Career Path Guidelines</p>
 				</div>
 			</div>
@@ -88,11 +88,11 @@
 					<p>To roll out the program, I created a presentation and supporting materials to help team members understand the framework, their responsibility in the process, and answer questions.</p>
 				</div>
 			</div>
-			<div class="col-4"><img class="frame" src="/img/samples/career-path/01-key-what-it-is.600.jpg" alt="Career Path Overview" width="100%"></div>
-			<div class="col-4"><img class="frame" src="/img/samples/career-path/02-key-overview.600.jpg" alt="Career Path Overview" width="100%"></div>
-			<div class="col-4"><img class="frame" src="/img/samples/career-path/03-key-nomenclature.600.jpg" alt="Career Path Nomenclature" width="100%"></div>
-			<div class="col-4"><img class="frame" src="/img/samples/career-path/04-key-demonstration.600.jpg" alt="Demonstration of Skills" width="100%"></div>
-			<div class="col-4"><img class="frame" src="/img/samples/career-path/05-key-mastery.600.jpg" alt="Mastery of Skills" width="100%"></div>
+			<div class="col-4"><img class="frame" src="/img/samples/career-path/01-key-what-it-is.600.jpg" alt="Career Path Overview" width="600" height="375"></div>
+			<div class="col-4"><img class="frame" src="/img/samples/career-path/02-key-overview.600.jpg" alt="Career Path Overview" width="600" height="375"></div>
+			<div class="col-4"><img class="frame" src="/img/samples/career-path/03-key-nomenclature.600.jpg" alt="Career Path Nomenclature" width="600" height="375"></div>
+			<div class="col-4"><img class="frame" src="/img/samples/career-path/04-key-demonstration.600.jpg" alt="Demonstration of Skills" width="600" height="375"></div>
+			<div class="col-4"><img class="frame" src="/img/samples/career-path/05-key-mastery.600.jpg" alt="Mastery of Skills" width="600" height="375"></div>
 			<div class="col-4 shim"></div>
 		</section>
 

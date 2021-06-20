@@ -42,7 +42,7 @@
 				<p>Co-branded logo developed for the Garmin-Asus partnership and the n&uuml;vifone product wordmark</p>
 			</div>
 			<div class="col-7">
-				<img src="/img/samples/nuvifone/logo-and-wordmark.png" alt="Garmin-Asus logo and nuvifone wordmark">
+				<img src="/img/samples/nuvifone/logo-and-wordmark.png" width="940" height="420" alt="Garmin-Asus logo and nuvifone wordmark">
 			</div>
 		</section>
 
@@ -62,7 +62,7 @@
 
 		<section class="block block--narrow">
 			<div class="col-9 order-2">
-				<img src="/img/samples/nuvifone/print-ads.jpg" alt="Garmin nuvifone print ads">
+				<img src="/img/samples/nuvifone/print-ads.jpg" width="2027" height="900" alt="Garmin nuvifone print ads">
 			</div>
 			<div class="col-3 order-1 align__center">
 				<h2 class="inner">Print ads</h2>
@@ -74,7 +74,7 @@
 				<h2 class="inner">Product Brochure</h2>
 			</div>
 			<div class="col-7">
-				<img src="/img/samples/nuvifone/brochure.jpg" alt="Garmin nuvifone product brochure">
+				<img src="/img/samples/nuvifone/brochure.jpg" width="1061" height="900" alt="Garmin nuvifone product brochure">
 			</div>
 		</section>
 	</article>

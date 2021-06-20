@@ -47,17 +47,17 @@
 			</div>
 			<div class="pattern__2-8-2">
 				<h3>Dashboard</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-home.jpg" alt="Dashboard">
+				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-home.jpg" width="1000" height="1502" alt="Dashboard">
 			</div>
 		</section>
 		<section class="block block--narrow">
 			<div class="col-6">
 				<h3>Activities</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-activities_full.jpg" alt="Activities"></div>
+				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-activities_full.jpg" width="1480" height="900" alt="Activities"></div>
 			</div>
 			<div class="col-6">
 				<h3>Activity Detail</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-activity-detail_full.jpg" alt="Activity Detail">
+				<img class="shadow thumb" src="/img/samples/connect/connect-desktop-activity-detail_full.jpg" width="1480" height="900" alt="Activity Detail">
 			</div>
 		</section>
 		<section class="block block--narrow spacer-6">
@@ -69,23 +69,23 @@
 					</div>
 					<div class="col-6">
 						<h3>Color</h3>
-						<img class="shadow thumb" src="/img/samples/connect/ui-guide_color_1000.jpg" alt="Style Guide - Color">
+						<img class="shadow thumb" src="/img/samples/connect/ui-guide_color_1000.jpg" width="1000" height="773" alt="Style Guide - Color">
 					</div>
 					<div class="col-6">
 						<h3>Buttons</h3>
-						<img class="shadow thumb" src="/img/samples/connect/ui-guide_buttons_1000.jpg" alt="Style Guide - Buttons">
+						<img class="shadow thumb" src="/img/samples/connect/ui-guide_buttons_1000.jpg" width="1000" height="773" alt="Style Guide - Buttons">
 					</div>
 					<div class="col-12">
 						<h3>Widgets</h2>
-						<img class="shadow thumb" src="/img/samples/connect/ui-widgets_2000.jpg" alt="Style Guide - Widgets">
+						<img class="shadow thumb" src="/img/samples/connect/ui-widgets_2000.jpg" width="2000" height="1547" alt="Style Guide - Widgets">
 					</div>
 					<div class="col-6">
 						<h3>Navigation</h3>
-						<div class="inside"><img class="shadow" src="/img/samples/connect/ui-guide_navigation_1000.jpg" alt="Style Guide - Navigation"></div>
+						<div class="inside"><img class="shadow" src="/img/samples/connect/ui-guide_navigation_1000.jpg" width="1000" height="773" alt="Style Guide - Navigation"></div>
 					</div>
 					<div class="col-6">
 						<h3>Menus</h3>
-						<div class="inside"><img class="shadow" src="/img/samples/connect/ui-guide_navigation-menu_1000.jpg" alt="Style Guide - Menus"></div>
+						<div class="inside"><img class="shadow" src="/img/samples/connect/ui-guide_navigation-menu_1000.jpg" width="1000" height="773" alt="Style Guide - Menus"></div>
 					</div>
 				</div>
 			</div>
@@ -101,33 +101,33 @@
 					</div>
 					<div class="pattern__2-8-2">
 							<h3>Before</h3>
-							<img src="/img/samples/connect/connect_no-logo.png" alt="Logo - Before">
+							<img src="/img/samples/connect/connect_no-logo.png" width="734" height="837" alt="Logo - Before">
 					</div>
 					<h3 class="pattern__2-8-2 spacer-6--top">Concepts</h3>
 					<div class="col-4">
-						<img src="/img/samples/connect/logo-concept-01.jpg" alt="Logo Concept">
+						<img src="/img/samples/connect/logo-concept-01.jpg" width="624" height="312" alt="Logo Concept">
 					</div>
 					<div class="col-4">
-						<img src="/img/samples/connect/logo-concept-02.jpg" alt="Logo Concept">
+						<img src="/img/samples/connect/logo-concept-02.jpg" width="624" height="312" alt="Logo Concept">
 					</div>
 					<div class="col-4">
-						<img src="/img/samples/connect/logo-concept-03.jpg" alt="Logo Concept">
+						<img src="/img/samples/connect/logo-concept-03.jpg" width="624" height="312" alt="Logo Concept">
 					</div>
 
 					<h3 class="pattern__2-8-2 spacer-6--top">Final Logo</h3>
 					<div class="col-4">
-						<img class="shadow thumb" src="/img/samples/connect/logo-full-color.jpg" alt="Logo - Full Color">
+						<img class="shadow thumb" src="/img/samples/connect/logo-full-color.jpg" width="624" height="312" alt="Logo - Full Color">
 					</div>
 					<div class="col-4">
-						<img class="shadow thumb" src="/img/samples/connect/logo-1-color.jpg" alt="Logo - 1-Color">
+						<img class="shadow thumb" src="/img/samples/connect/logo-1-color.jpg" width="624" height="312" alt="Logo - 1-Color">
 					</div>
 					<div class="col-4">
-						<img class="shadow thumb" src="/img/samples/connect/logo-app-icon.jpg" alt="App Icon">
+						<img class="shadow thumb" src="/img/samples/connect/logo-app-icon.jpg" width="624" height="312" alt="App Icon">
 					</div>
 
 					<h3 class="pattern__2-8-2 spacer-6--top">Branded Elements</h3>
-					<div class="col-6"><img src="/img/samples/connect/logo-brand-elements-01.jpg" alt="Branded Elements - Apparel"></div>
-					<div class="col-6"><img src="/img/samples/connect/logo-brand-elements-02.jpg" alt="Branded Elements - Packaging and Events"></div>
+					<div class="col-6"><img src="/img/samples/connect/logo-brand-elements-01.jpg" width="1000" height="430" alt="Branded Elements - Apparel"></div>
+					<div class="col-6"><img src="/img/samples/connect/logo-brand-elements-02.jpg" width="1000" height="430" alt="Branded Elements - Packaging and Events"></div>
 				</div>
 			</div>
 		</section>
@@ -138,10 +138,10 @@
 			</div>
 			<div class="pattern__2-8-2">
 				<h3>Homepage</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-site-home.jpg" width="100%" height="auto" alt="Marketing Site - Homepage"></div>
+				<img class="shadow thumb" src="/img/samples/connect/connect-site-home.jpg" width="1200" height="2514" alt="Marketing Site - Homepage"></div>
 			<div class="pattern__2-8-2">
 				<h3>Features</h3>
-				<img class="shadow thumb" src="/img/samples/connect/connect-site-features.jpg" width="100%" height="auto" alt="Marketing Site - Features"></div>
+				<img class="shadow thumb" src="/img/samples/connect/connect-site-features.jpg" width="1200" height="1133" alt="Marketing Site - Features"></div>
 		</div>
 	</article>
 
