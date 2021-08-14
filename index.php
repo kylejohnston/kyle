@@ -71,8 +71,8 @@
 				<div class="col-4">
 					<div class="inner">
 						<ul>
-							<li>Reimagining the UX strategy and website design for a leading industrial vehicle manufacturer</li>
-							<li>Leading a user experience audit and UX strategy for a medical technology company</li>
+							<li>Product and user experience design for Etsy</li>
+							<li>Presenting a user experience audit and UX strategy for a medical technology company</li>
 							<li>Designing digital and retail marketing materials for a Boston-based cannabis company</li>
 						</ul>
 					</div>
@@ -128,7 +128,7 @@
 
 		<section class="block spacer-6">
 			<div class="col-1 shim"></div>
-			<div class="col-4 order-2">
+			<div class="order-2 col-4">
 				<div class="inner">
 					<p class="spacer-2"><small>Client</small></p>
 					<h2><a href="/work/mental-health-ux/">Mental Health Platform</a></h2>
@@ -137,7 +137,7 @@
 					<p><a href="/work/mental-health-ux/">View the work &#187;</a></p>
 				</div>
 			</div>
-			<div class="col-6 order-1">
+			<div class="order-1 col-6">
 				<a href="/work/mental-health-ux/">
 					<picture>
 						<source media="(min-width: 600px)" srcset="/img/samples/mental-health-ux/thumbnail.2x.png">
