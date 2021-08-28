@@ -72,7 +72,6 @@
 					<div class="inner">
 						<ul>
 							<li>Product and user experience design for Etsy</li>
-							<li>Presenting a user experience audit and UX strategy for a medical technology company</li>
 							<li>Designing digital and retail marketing materials for a Boston-based cannabis company</li>
 						</ul>
 					</div>
