@@ -245,7 +245,14 @@
 			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center">PERSONAL WORK</div></h2>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="https://memex.flow14.com/"><img class="thumb spacer-2--bottom" src="/img/samples/memex/thumbnail.jpg" width="740" height="370" alt="MEMEX" loading="lazy"></a>
+					<a href="https://bookshelf.kylewjohnston.com/"><img class="thumb spacer-2--bottom" src="/img/samples/bookshelf/thumbnail.jpg" width="740" height="370" alt="My Bookshelf" loading="lazy"></a>
+					<h3>Bookshelf</h3>
+					<p><a href="https://bookshelf.kylewjohnston.com/">A running list of the books I've read since I started tracking my reading in 2013</a> ↗</p>
+				</div>
+			</div>
+			<div class="col-4 spacer-8--bottom">
+				<div class="inner">
+					<a href="https://memex.flow14.com/"><img class="thumb frame spacer-2--bottom" src="/img/samples/memex/thumbnail.jpg" width="740" height="370" alt="MEMEX" loading="lazy"></a>
 					<h3>MEMEX</h3>
 					<p><a href="https://memex.flow14.com/">A tool for collecting visual inspiration</a> ↗</p>
 				</div>
