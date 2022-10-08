@@ -38,9 +38,10 @@
 							<div class="inner">
 								<h1>About Me</h1>
 								<p>I’m a passionate and unflappable designer and creative leader with twenty years of broad-ranging experience, including practicing and leading design, creative strategy, and operational leadership and team development. I’ve utilized my passion for communication design, user experience design, and team leadership to successfully build, manage, and mentor diverse teams in both in-house and agency environments.</p>
-								<p>Currently, I’m the owner and principal designer at <a href="http://www.flow14.com">flow14</a>, an independent branding and design studio that specializes in delivering results-driven design. We help clients stand out with outstanding work that moves audiences to act.</p>
-								<p>Before flow14, my experience includes:
+								<p>Currently, I’m a Staff Product Designer at <a href="https://www.etsy.com">Etsy,</a> where I collaborate with cross-functional product partners in engineering, research, analytics, and product management to define product strategy and priorities and run experiments that optimize buyer experiences across Etsy’s website and native apps.</p>
+								<p>Previous to Etsy, my experience includes:
 								<ul>
+									<li>Owner and principal designer at <a href="http://www.flow14.com">flow14</a>, an independent branding and design studio that specializes in delivering results-driven design. <!-- We help clients stand out with outstanding work that moves audiences to act.--></li>
 									<li>Senior Designer at <a href="https://www.stayalfred.com/">Stay Alfred</a>, offering upscale travel apartments in the best downtown neighborhoods</li>
 									<li>Director of Creative Services at <a href="https://vistaoutdoor.com">Vista Outdoor</a>, a leader in the outdoor sports and recreation markets</li>
 									<li>Creative Director at <a href="http://www.degdigital.com">DEG</a>, one of the fastest-growing digital agencies in the country</li>
