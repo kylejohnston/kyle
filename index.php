@@ -33,7 +33,7 @@
 			<div class="col-6 welcome">
 				<div class="inner hello">
 					<h1><span id="hello">Hello</span>!</h1>
-					<h3>I’m Kyle Johnston &#8211; a UX designer &amp; creative director based in Kansas City. I focus on interactive and brand design. I’m also a cat person, hobbyist photographer and coder. And these are a few of my favorite things…</h3>
+					<h3>I’m Kyle Johnston &#8211; a UX designer &amp; creative director based in Kansas City. I focus on interactive and brand design. I’m also a cat person, hobbyist photographer and frontend coder. And these are a few of my favorite things…</h3>
 				</div>
 			</div>
 			<div class="col-5 shim"></div>
