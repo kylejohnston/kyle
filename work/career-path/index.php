@@ -101,54 +101,7 @@
 				<div class="inner">
 					<h2>What&rsquo;s Next</h2>
 					<p>In addition to introducing this framework at Garmin, I implemented similar programs with other teams.</p>
-					<p>Based on what I&rsquo;ve learned, I&rsquo;ve developed a consulting program to help other in-house and agency creative teams implement career path programs.<br>
-
-
-<div id="mlb2-3093884" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-3093884 spacer-9">
-  <div class="ml-form-align-center">
-    <div class="ml-form-embedWrapper embedForm">
-      <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
-        <div class="ml-form-embedContent" style="">
-					<h2>Stay Informed</h2>
-					<p>Subscribe for career path resources and updates.</p>
-				</div>
-        <form id="contactform" class="ml-block-form" action="https://static.mailerlite.com/webforms/submit/o9i7x6" data-code="o9i7x6" method="post" target="_blank">
-          <div class="ml-form-formContent">
-            <div class="ml-form-fieldRow">
-              <div class="ml-field-group ml-field-name spacer-5">
-                <input type="text" class="form-control text" style="padding:16px" data-inputmask="" name="fields[name]" placeholder="Your Name" autocomplete="name">
-              </div>
-            </div>
-            <div class="ml-form-fieldRow ml-last-item spacer-5">
-              <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
-                <input type="email" class="form-control text" style="padding:16px" data-inputmask="" name="fields[email]" placeholder="Email" autocomplete="email">
-              </div>
-            </div>
-          </div>
-          <input type="hidden" name="ml-submit" value="1">
-          <div class="ml-form-embedSubmit spacer-5">
-            <button type="submit" class="primary btn">Subscribe Now</button>
-            <button disabled="disabled" style="display:none" type="button" class="loading"> <div class="ml-form-embedSubmitLoad"><div></div><div></div><div></div><div></div></div> </button>
-          </div>
-        </form>
-      </div>
-      <div class="ml-form-successBody row-success" style="display:none">
-        <div class="ml-form-successContent">
-          <h3>Thank you!</h3>
-          <p>You've successfully joined the subscriber list.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<script>
-  function ml_webform_success_3093884(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-3093884 .row-success").show(),r(".ml-subscribe-form-3093884 .row-form").hide()}
-</script>
-<img src="https://track.mailerlite.com/webforms/o/3093884/o9i7x6?v1606336429" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" alt="." border="0">
-<script src="https://static.mailerlite.com/js/w/webforms.min.js?v28bf44f740701752bfc6767bc7e171d4" type="text/javascript"></script>
-
-
-
+					<p>Based on what I&rsquo;ve learned, I&rsquo;ve developed a consulting program to help other in-house and agency creative teams implement career path programs.</p>
 				</div>
 			</div>
 		</section>
