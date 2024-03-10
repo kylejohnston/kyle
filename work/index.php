@@ -32,14 +32,54 @@
 	<a name="portfolio"></a>
 	<article class="content">
 
+	<?php /* ETSY */ ?>
+		<a name="etsy"></a>
+		<section class="block block--narrow projects" style="margin-top:112px;">
+			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center;">ETSY <span style="font-size:22px;color:#BCBCBC;">IN-HOUSE</span></div></h2>
+			<div class="col-4 spacer-8--bottom">
+				<div class="inner">
+						<picture>
+							<source media="(min-width: 600px)" srcset="/img/samples/etsy/collections-thumb.2x.jpg">
+							<source media="(min-width: 280px)" srcset="/img/samples/etsy/collections-thumb.jpg">
+							<img class="thumb spacer-2--bottom" src="/img/samples/etsy/collections-thumb.2x.jpg" width="740" height="370" alt="Etsy" loading="lazy">
+						</picture>
+					<h3>Collections</h3>
+					<p><a href="/contact/">Contact me for more information</a></p>
+				</div>
+			</div>
+			<div class="col-4 spacer-8--bottom">
+				<div class="inner">
+						<picture>
+							<source media="(min-width: 600px)" srcset="/img/samples/etsy/nav-thumb.2x.jpg">
+							<source media="(min-width: 280px)" srcset="/img/samples/etsy/nav-thumb.jpg">
+							<img class="thumb frame spacer-2--bottom" src="/img/samples/etsy/nav-thumb.2x.jpg" width="740" height="370" alt="Etsy" loading="lazy">
+						</picture>
+					<h3>Site Nav</h3>
+					<p><a href="/contact/">Contact me for more information</a></p>
+				</div>
+			</div>
+			<div class="col-4 spacer-8--bottom">
+				<div class="inner">
+						<picture>
+							<source media="(min-width: 600px)" srcset="/img/samples/etsy/faves-thumb.2x.jpg">
+							<source media="(min-width: 280px)" srcset="/img/samples/etsy/faves-thumb.jpg">
+							<img class="thumb spacer-2--bottom" src="/img/samples/etsy/faves-thumb.2x.jpg" width="740" height="370" alt="Etsy" loading="lazy">
+						</picture>
+					<h3>Favorites on iOS</h3>
+					<p><a href="/contact/">Contact me for more information</a></p>
+				</div>
+			</div>
+		</section>
+
+
 
 <?php /* FLOW14 */ ?>
 		<a name="flow14"></a>
-		<section class="block block--narrow projects" style="margin-top:112px;">
+		<section class="block block--narrow spacer-6 projects">
 			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center;">FLOW14 <span style="font-size:22px;color:#BCBCBC;">AGENCY</span></div></h2>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="/work/right-triangle/">
+					<a href="#">
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/right-triangle/thumb.2x.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/right-triangle/thumb.jpg">
@@ -118,7 +158,7 @@
 			</div> -->
 		</section>
 
-		<?php /* STAY ALFRED */ ?>
+<?php /* STAY ALFRED */ ?>
 		<a name="stayalfred"></a>
 		<section class="block block--narrow spacer-6 projects">
 			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center;">STAY ALFRED <span style="font-size:22px;color:#BCBCBC;">IN-HOUSE</span></div></h2>
@@ -245,9 +285,9 @@
 			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center">PERSONAL WORK</div></h2>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="https://bookshelf.kylewjohnston.com/"><img class="thumb spacer-2--bottom" src="/img/samples/bookshelf/thumbnail.jpg" width="740" height="370" alt="My Bookshelf" loading="lazy"></a>
+					<a href="https://books.kyle-io.com/"><img class="thumb spacer-2--bottom" src="/img/samples/bookshelf/thumbnail.jpg" width="740" height="370" alt="My Bookshelf" loading="lazy"></a>
 					<h3>Bookshelf</h3>
-					<p><a href="https://bookshelf.kylewjohnston.com/">A running list of the books I've read since I started tracking my reading in 2013</a> ↗</p>
+					<p><a href="https://books.kyle-io.com/">A running list of the books I've read</a> ↗</p>
 				</div>
 			</div>
 			<div class="col-4 spacer-8--bottom">
