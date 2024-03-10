@@ -33,7 +33,7 @@
 			<div class="col-6 welcome">
 				<div class="inner hello">
 					<h1><span id="hello">Hello</span>!</h1>
-					<h3>I’m Kyle Johnston &#8211; a UX designer &amp; creative director based in Kansas City. I focus on interactive and brand design. I’m also a cat person, hobbyist photographer and frontend coder. And these are a few of my favorite things…</h3>
+					<h3>I’m Kyle, a seasoned product designer with experience in UI/UX design, visual design, and branding. The thread running through my Swiss Army knife set of skills is a love for solving complex design challenges – keeping end-users at the center of every step in the journey.</h3>
 				</div>
 			</div>
 			<div class="col-5 shim"></div>
@@ -61,19 +61,11 @@
 
 		<section class="spacer-6" style="background:linear-gradient(90deg, #f4f8e6, #f4f8e611);padding:1.5em 0;">
 			<div class="block spacer-6" style="">
-				<div class="col-1 shim"></div>
-				<div class="col-4">
+				<div class="col-2 shim"></div>
+				<div class="col-5">
 					<div class="inner">
-						<h2>Work In Progress</h2>
-						<p class="spacer-2"><small>Currently working on…</small></p>
-					</div>
-				</div>
-				<div class="col-4">
-					<div class="inner">
-						<ul>
-							<li>Product and user experience design for Etsy</li>
-							<li>Designing digital and retail marketing materials for a Boston-based cannabis company</li>
-						</ul>
+						<h3>Current focus</h3>
+						<p>I’m a staff product designer at Etsy creating impactful consumer-facing experiences for our website and native apps.</p>
 					</div>
 				</div>
 			</div>
