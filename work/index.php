@@ -285,9 +285,9 @@
 			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center">PERSONAL WORK</div></h2>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
-					<a href="https://books.kyle-io.com/"><img class="thumb spacer-2--bottom" src="/img/samples/bookshelf/thumbnail.jpg" width="740" height="370" alt="My Bookshelf" loading="lazy"></a>
+					<a href="https://books.kyleio.com/"><img class="thumb spacer-2--bottom" src="/img/samples/bookshelf/thumbnail.jpg" width="740" height="370" alt="My Bookshelf" loading="lazy"></a>
 					<h3>Bookshelf</h3>
-					<p><a href="https://books.kyle-io.com/">A running list of the books I've read</a> ↗</p>
+					<p><a href="https://books.kyleio.com/">A running list of the books I've read</a> ↗</p>
 				</div>
 			</div>
 			<div class="col-4 spacer-8--bottom">
