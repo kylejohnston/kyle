@@ -63,14 +63,14 @@
 				<div class="inner">
 					<h3>Skills</h3>
 					<p><strong>Design</strong><br>Web and Print Design, Branding, User Experience (UX), UI, Wireframing and Prototyping, Design Strategy, Campaign and Content Development</p>
-					<p><strong>Development</strong><br>HTML, CSS, JavaScript, PHP, Processing, React, TypeScript</p>
+					<p><strong>Development</strong><br>HTML, CSS, JavaScript, PHP, Processing, React, etc.</p>
 					<p><strong>Leadership</strong><br>Creative Direction, Hiring and Team Building, Career Path Development</p>
 				</div>
 			</div>
 			<div class="col-5">
 				<div class="inner">
 					<h3>Tools</h3>
-					<p>Adobe Creative Suite (Illustrator, Photoshop, InDesign), Keynote, Sketch, Figma, InVision, GitHub, WordPress</p>
+					<p>Figma, Adobe Creative Suite (Illustrator, Photoshop, InDesign), Keynote, GitHub</p>
 				</div>
 			</div>
 			<div class="col-1 shim"></div>
@@ -89,13 +89,8 @@
 			</div>
 			<div class="col-5">
 				<div class="inner">
-					<h3>Recent Writing</h3>
-					<p><strong><a href="https://www.kylewjohnston.com/writing/all-of-the-things-i-read-in-2020/">All of the Things I Read in 2020</a></strong></p>
-					<p><strong><a href="https://www.kylewjohnston.com/writing/all-of-the-things-i-read-in-2019/">All of the Things I Read in 2019</a></strong></p>
-					<p><strong><a href="https://medium.com/@kylejohnston/sketching-with-code-behind-the-scenes-d92a26e34aac">Sketching with Code: Behind the Scenes</a></strong></p>
-					<p><strong><a href="https://blog.prototypr.io/the-best-design-tool-ive-used-b25cd8fcd5c4">The best design tool I’ve used</a></strong></p>
-					<p><strong><a href="https://medium.com/@kylejohnston/30-days-to-app-deec90cfb4de">30 Days to App</a></strong></p>
-					<p><a href="https://medium.com/@kylejohnston/">More writing on Medium.com</a></p>
+					<h3>Writing</h3>
+					<p><a href="https://kyleio.com">kyleio.com - creative journal</a></p>
 				</div>
 			</div>
 			<div class="col-1 shim"></div>
