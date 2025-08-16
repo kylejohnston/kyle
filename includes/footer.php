@@ -6,7 +6,7 @@
 							<span class="me">Kyle W. Johnston &#8211; a designer &amp; creative director</span><br>
 							<a href="/" title="home">Home</a> / <a href="/work/" title="view all projects">All Projects</a> / <a href="/about-kyle-johnston/" title="about me">About Me</a> / <a href="/contact/" title="contact">Contact</a> / <a href="/files/kyle-johnston-product-designer-2024.pdf" title="download my resume (PDF)">Resume</a> (PDF)
 						</p>
-						<p><strong>Elsewhere:</strong> <a href="https://www.linkedin.com/in/kylejohnston" title="linkedin">LinkedIn</a> / <a href="https://books.kyle-io.com" title="My Bookshelf">My Bookshelf</a> / <a href="https://github.com/kylejohnston" title="github">GitHub</a> / <a href="https://unsplash.com/@kylejohnston" title="unsplash">Unsplash</a></p>
+						<p><strong>Elsewhere:</strong> <a href="https://www.linkedin.com/in/kylejohnston" title="linkedin">LinkedIn</a> / <a href="https://kyleio.com">Creative journal</a> / <a href="https://books.kyleio.com" title="My Bookshelf">My Bookshelf</a> / <a href="https://github.com/kylejohnston" title="github">GitHub</a> / <a href="https://unsplash.com/@kylejohnston" title="unsplash">Unsplash</a></p>
 					</div>
 				</div>
 				<div class="col-5">

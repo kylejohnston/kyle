@@ -53,8 +53,9 @@
 					<h3 class="spacer-6--top">Elsewhere</h3>
 					<p>
 						<a class="linkedin" href="https://www.linkedin.com/in/kylejohnston">LinkedIn</a><br>
+						<a href="https://kyleio.com">Creative journal</a><br>
+						<a href="https://books.kyleio.com">My Bookshelf</a><br>
 						<a class="github" href="https://github.com/kylejohnston">GitHub</a><br>
-						<a href="https://bookshelf.kylewjohnston.com">My Bookshelf</a><br>
 						<a class="unsplash" href="https://unsplash.com/@kylejohnston">Unsplash</a><br>
 					</p>
 				</div>

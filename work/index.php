@@ -39,9 +39,20 @@
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 						<picture>
+							<source media="(min-width: 600px)" srcset="/img/samples/etsy/home-thumb.2x.jpg">
+							<source media="(min-width: 280px)" srcset="/img/samples/etsy/home-thumb.jpg">
+							<img class="thumb spacer-2--bottom" src="/img/samples/etsy/home-thumb.2x.jpg" width="740" height="370" alt="Etsy homepage" loading="lazy">
+						</picture>
+					<h3>Homepage</h3>
+					<p><a href="/contact/">Contact me for more information</a></p>
+				</div>
+			</div>
+			<div class="col-4 spacer-8--bottom">
+				<div class="inner">
+						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/etsy/collections-thumb.2x.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/etsy/collections-thumb.jpg">
-							<img class="thumb spacer-2--bottom" src="/img/samples/etsy/collections-thumb.2x.jpg" width="740" height="370" alt="Etsy" loading="lazy">
+							<img class="thumb spacer-2--bottom" src="/img/samples/etsy/collections-thumb.2x.jpg" width="740" height="370" alt="Etsy collections" loading="lazy">
 						</picture>
 					<h3>Collections</h3>
 					<p><a href="/contact/">Contact me for more information</a></p>
@@ -52,7 +63,7 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/etsy/nav-thumb.2x.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/etsy/nav-thumb.jpg">
-							<img class="thumb frame spacer-2--bottom" src="/img/samples/etsy/nav-thumb.2x.jpg" width="740" height="370" alt="Etsy" loading="lazy">
+							<img class="thumb frame spacer-2--bottom" src="/img/samples/etsy/nav-thumb.2x.jpg" width="740" height="370" alt="Etsy site navigation" loading="lazy">
 						</picture>
 					<h3>Site Nav</h3>
 					<p><a href="/contact/">Contact me for more information</a></p>
@@ -63,15 +74,13 @@
 						<picture>
 							<source media="(min-width: 600px)" srcset="/img/samples/etsy/faves-thumb.2x.jpg">
 							<source media="(min-width: 280px)" srcset="/img/samples/etsy/faves-thumb.jpg">
-							<img class="thumb spacer-2--bottom" src="/img/samples/etsy/faves-thumb.2x.jpg" width="740" height="370" alt="Etsy" loading="lazy">
+							<img class="thumb spacer-2--bottom" src="/img/samples/etsy/faves-thumb.2x.jpg" width="740" height="370" alt="Etsy favorites on iOS" loading="lazy">
 						</picture>
 					<h3>Favorites on iOS</h3>
 					<p><a href="/contact/">Contact me for more information</a></p>
 				</div>
 			</div>
 		</section>
-
-
 
 <?php /* FLOW14 */ ?>
 		<a name="flow14"></a>
@@ -283,6 +292,13 @@
 		<a name="personal"></a>
 		<section class="block block--narrow spacer-6 projects">
 			<h2 class="col-12 spacer-6--bottom"><div class="inner" style="text-align:center">PERSONAL WORK</div></h2>
+			<div class="col-4 spacer-8--bottom">
+				<div class="inner">
+					<a href="https://kyleio.com/"><img class="thumb spacer-2--bottom" src="/img/samples/creative-journal/thumbnail.jpg" width="740" height="370" alt="Creative journal" loading="lazy"></a>
+					<h3>Creative Journal</h3>
+					<p><a href="https://kyleio.com/">A collection of things I've made, written, and that spark my curiosity</a> ↗</p>
+				</div>
+			</div>
 			<div class="col-4 spacer-8--bottom">
 				<div class="inner">
 					<a href="https://books.kyleio.com/"><img class="thumb spacer-2--bottom" src="/img/samples/bookshelf/thumbnail.jpg" width="740" height="370" alt="My Bookshelf" loading="lazy"></a>
